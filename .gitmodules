@@ -1,0 +1,6 @@
+[submodule "data-extractor"]
+	path = data-extractor
+	url = https://github.com/ConsumeWise123/data-extractor.git
+[submodule "claims-frontend"]
+	path = claims-frontend
+	url = https://github.com/ConsumeWise123/claims-frontend.git
