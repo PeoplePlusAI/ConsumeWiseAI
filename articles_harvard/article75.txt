@@ -1,0 +1,16 @@
+Title: Vitamin D, Calcium and Health
+
+Clearing up confusion around the vitamin supplement findings from the Women’s Health Initiative Dietary Modification Trial
+
+Many people were surprised and confused by the report from the Women’s Health Initiative Dietary Modification Trial (WHI) that  vitamin D  supplements had no apparent benefit for hip fracture or colon cancer risks.( 1 ) In this study, over 36,000 women were randomly assigned to receive either a placebo or 400 IU of vitamin D plus 800 mg of calcium daily. During an average of seven years of follow-up, the women who received the supplements did not appear to gain protection against hip fractures or colon cancer. However, the study had serious limitations.
+First, women who were already taking vitamin D or calcium supplements were not excluded or discouraged from taking them during the trial; by the end of the study nearly 70% of both groups were taking calcium supplements and nearly 40% were taking vitamin D supplements on their own. Further, only about 60% of participants were taking their assigned treatments regularly. Thus, the difference in blood vitamin D levels during the trial between the treatment and placebo group was very small. Interestingly, women with higher blood levels of vitamin D before the start of the study had less than half the risk of colon cancer compared to those with the lowest levels.
+When the WHI study started, 400 IU of vitamin D seemed like a reasonable dose. However, this is now regarded as very little; other studies have shown a reduction in fracture risk with 700-800 IU per day, but not with 400 IU per day. Moreover, for prevention of colon cancer, seven years may well be too short to show a benefit of supplements because we know that this disease takes decades to develop.
+For all of these reasons, the WHI report should not influence thinking about the effects of vitamin D or calcium on health, and for those who might benefit, a vitamin D supplement of 800 to 1000 IU per day still makes sense.
+References
+1. Jackson RD, LaCroix AZ, Gass M et al. Calcium plus vitamin D supplementation and the risk of fractures.  N Engl J Med.  2006; 354:669-83.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vitamins/vitamin-d/
+#1
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16481635&query_hl=1&itool=pubmed_docsum

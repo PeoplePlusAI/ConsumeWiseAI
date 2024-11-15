@@ -1,0 +1,130 @@
+Title: What Is a Calorie Deficit, and How Much of One Is Healthy?
+
+A calorie deficit is when you burn more calories than you consume. Research suggests that a 500-calorie deficit may help with weight loss. But this number depends on many factors and is different for everyone.
+Calories are the units of energy you get from foods and beverages. Calorie expenditure refers to the amount you expend, or burn, each day. It includes  three components :
+resting energy expenditure (REE),  which refers to the calories your body uses at rest for functions that keep you alive, such as breathing and blood circulation
+thermic effect of food,  which involves the calories your body burns digesting, absorbing, and metabolizing food
+activity energy expenditure (AEE),  which refers to the calories you expend during movements, such as exercising, fidgeting, and performing household chores
+A calorie deficit is when you consume fewer calories than you expend. Over time, this could lead to weight loss. Conversely, you may gain weight if you consume more calories than you need, known as a calorie surplus.
+Other factors may also influence weight fluctuations,  such as :
+physical activity
+hormones
+lifestyle habits
+stress
+underlying health conditions
+taking certain medications
+genetics
+sleeping habits
+Keep reading to learn more about how to calculate your calorie deficit and how to reach it healthily.
+
+How do I calculate my calorie deficit?
+For most people, a calorie deficit of 300–500 is sufficient to lose  0.5 kilograms (kg)  (1.1 pounds) per week. However, this needs to be re-evaluated constantly, especially as you lose weight.
+To calculate your calorie deficit, you will first need to calculate your  maintenance calories . These are the number of calories your body needs to support energy expenditure.
+You can calculate your maintenance calories in a few different ways:
+You can use a calorie calculator, like the  Body Weight Planner  from the National Institutes of Health (NIH). It estimates your maintenance calories based on your weight, sex, age, height, and physical activity level.
+Your  BMR  is the minimum amount of calories your body needs to perform basic functions, such as breathing. Combining your BMR and activity levels can help you estimate your maintenance calories.
+Below are  two formulas  to estimate your BMR, based on sex assigned at birth:
+BMR for males:  66 + (13.75 x weight in kg) + (5 x height in cm) − (6.8 x age in years)
+BMR for females:  655 + (9.6 x weight in kg) + (1.85 x size in cm) − (4.7 x age in years)
+Once you have your BMR, you can then calculate your maintenance calories using the  Harris-Benedict Formula :
+For a more precise number, track your calorie intake and weight for  10 days  while maintaining the same level of daily activity. You can use a  calorie tracking app  to track your calories and  weigh yourself  daily. For an accurate result:
+Use the same scale.
+Weigh yourself at the same time of day.
+Wear the same clothes (or nothing at all).
+It’s important to note that your  weight may fluctuate  day to day by a few pounds due to  water weight .
+Divide the total number of calories you consumed for 10 days by 10 to find your average daily calorie intake. Then, subtract 500 calories from this number to determine your new daily intake goal for  weight loss .
+For example, if you find your maintenance calories to be 2,000 per day, your new daily calorie goal would be 1,500.
+As you lose weight, your maintenance calories will decrease over time. You’ll need to adjust your calorie intake based on your weight loss goals.
+It’s also important to note that a  prolonged calorie deficit  may affect your metabolism. It may change and slow down to meet your new calorie intake. This can make weight loss more difficult in the end.
+
+How do I reach a calorie deficit?
+You can reach a calorie deficit by consuming fewer calories or increasing your  physical activity  levels — or both.
+Creating a calorie deficit alongside being physically active may be a more sustainable, safe, and effective weight loss method.
+Eating a well-balanced diet is important to achieving and maintaining a healthy calorie deficit.
+The  Dietary Guidelines for Americans 2020–2025  suggest that a healthy dietary pattern is key for supporting your calorie needs and reducing your risk of some health conditions, such as  cardiovascular disease  and  type 2 diabetes .
+A well-balanced,  nutritious diet  may include:
+fruits
+vegetables
+legumes
+whole grains
+protein , such as lean meats,  poultry , and  seafood
+low or nonfat dairy
+nuts
+Here are some tips that may also help you  lower your caloric intake  without having to count calories:
+Avoid drinking your calories:   Alcoholic  and  sugary beverages  like soda, fruit juices, and specialty coffee drinks can contain many calories. However, calories from these beverages don’t provide fullness. In excess, they  can lead  to weight gain.
+Limit highly processed foods:  The sugar, fat, and salt in  highly processed foods  make these foods highly palatable and  encourage excess consumption . A  2019 study  found that people who ate as much or as little as they wanted took in 500 more calories per day on a diet containing highly processed foods, compared with a diet containing minimally processed foods.
+Try healthy food swaps:  Many  healthy alternatives  to everyday foods and drinks may help you reduce your calorie intake. For example, you can make coffee creamer, granola bars, and chips instead of consuming store-bought products that may contain high levels of  unsaturated fats , sugar, and salt.
+Eat home-cooked meals:  Eating  home-cooked meals  is  associated  with better diet quality, an increased intake of fruits and vegetables, lower body fat levels, and reduced risks of heart disease and diabetes.
+Weight loss is just one of the  many benefits  of getting regular physical activity.
+The  Physical Activity Guidelines for Americans  recommend that adults do 150–300 minutes of moderate intensity exercise, or 75–150 minutes of vigorous intensity exercise, weekly.
+Moderate intensity exercise may include  brisk walking ,  light bicycling , and  yoga , while vigorous intensity exercise may include jogging and fast bicycling.
+The guidelines also recommend that adults do  muscle-strengthening activities  involving their major muscle groups — including the back, shoulders, chest, arms, and legs — at least two days every week.
+Muscle-strengthening activities  can also help your body prioritize the  loss of body fat  rather than muscle mass.
+
+Frequently asked questions
+A calorie deficit of 300–500 calories per day is effective for healthy and sustainable weight loss.
+If you’re in a healthy calorie deficit, you shouldn’t be experiencing noticeable signs of hunger, starvation, or energy loss. However, if you’re in too much of a calorie deficit, you may experience some of the following  symptoms :
+low energy levels
+rapid weight loss
+hair loss
+mood swings
+starvation
+constipation
+feeling cold
+It’s important to talk with a healthcare professional if you experience any of these symptoms related to being in a calorie deficit. They can help you develop a plan to consume more calories.
+
+Takeaway
+A calorie deficit occurs when you consume fewer calories than your body expends. A calorie deficit of up to 500 calories per day is effective for healthy and sustainable weight loss.
+Eating a well-balanced diet of whole foods and exercising or getting some kind of physical activity for 150–300 minutes per week are great ways to help you maintain a calorie deficit.
+That said, speak with a healthcare professional if you’re unsure about the number of calories you need to eat. They can develop a weight loss program that’s right for you.
+
+References:
+
+https://www.ncbi.nlm.nih.gov/books/NBK278963/
+https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/factors-affecting-weight-health
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163457/
+https://www.healthline.com/nutrition/how-many-calories-per-day
+https://www.niddk.nih.gov/bwp
+https://www.healthline.com/health/what-is-basal-metabolic-rate
+https://www.diabetes.co.uk/bmr-calculator.html
+https://www.diabetes.co.uk/bmr-calculator.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5485536/
+https://www.healthline.com/nutrition/best-calorie-counters
+https://www.healthline.com/health/best-time-to-weigh-yourself
+https://www.healthline.com/health/weight-fluctuation
+https://www.healthline.com/nutrition/13-ways-to-lose-water-weight
+https://www.healthline.com/nutrition/how-to-lose-weight-as-fast-as-possible
+https://www.healthline.com/nutrition/calorie-restriction-risks
+https://www.healthline.com/nutrition/best-exercise-for-weight-loss
+https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf
+https://www.healthline.com/health/heart-disease/heart-disease-and-obesity
+https://www.healthline.com/health/diabetes/diabetes-weight-loss
+https://www.healthline.com/nutrition/most-weight-loss-friendly-foods
+https://www.healthline.com/nutrition/best-weight-loss-fruits
+https://www.healthline.com/nutrition/vegetarian-weight-loss
+https://www.healthline.com/nutrition/healthiest-beans-legumes
+https://www.healthline.com/nutrition/whole-grain-foods
+https://www.healthline.com/nutrition/lean-protein-foods
+https://www.healthline.com/nutrition/is-chicken-good-for-you
+https://www.healthline.com/nutrition/is-seafood-healthy
+https://www.healthline.com/nutrition/nuts-and-weight-loss
+https://www.healthline.com/nutrition/35-ways-to-cut-calories
+https://www.healthline.com/health/alcohol-and-weight-loss
+https://www.healthline.com/nutrition/18-surprising-foods-high-in-sugar
+https://www.sciencedirect.com/science/article/pii/S0002916522105290?via%3Dihub
+https://www.healthline.com/nutrition/20-foods-to-avoid-like-the-plague
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769871/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7946062/
+https://www.healthline.com/nutrition/healthy-swaps
+https://www.healthline.com/health/food-nutrition/saturated-and-unsaturated-fat
+https://www.healthline.com/health/food-nutrition/home-cooking-versus-takeout
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5561571/
+https://www.healthline.com/nutrition/10-benefits-of-exercise
+https://www.healthline.comhttps://health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf
+https://www.healthline.com/nutrition/walking-for-weight-loss
+https://www.healthline.com/health/biking-to-lose-weight
+https://www.healthline.com/health/yoga-for-weight-loss
+https://www.healthline.com/health/fitness/benefits-of-strength-training
+https://www.healthline.com/nutrition/cardio-vs-weights-for-weight-loss
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28871849/
+https://www.healthline.com/nutrition/signs-of-not-eating-enough

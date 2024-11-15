@@ -1,0 +1,65 @@
+Title: Food Waste
+
+
+The Big Picture
+Food waste occurs along the entire spectrum of production, from the farm to distribution to retailers  to the consumer . Reasons include losses from mold, pests, or inadequate climate control; losses from cooking; and intentional food waste. [1]
+This waste is categorized differently based on where it occurs:
+Food “loss” occurs before the food reaches the consumer as a result of issues in the production, storage, processing, and distribution phases.
+Food “waste” refers to food that is fit for consumption but consciously discarded at the retail or consumption phases.
+Wasted food has far-reaching effects, both nationally and globally. In the U.S., up to 40% of all food produced goes uneaten [2], and about 95% of discarded food ends up in landfills [3]. It is the largest component of municipal solid waste at 21%. [1] In 2014, more than 38 million tons of food waste was generated, with only 5% diverted from landfills and incinerators for composting. [3] Decomposing food waste produces methane, a strong greenhouse gas that contributes to global warming. Worldwide, one-third of food produced is thrown away uneaten, causing an increased burden on the environment. [4] It is estimated that reducing food waste by 15% could feed more than 25 million Americans every year. [5]
+Benefits of Less Food Waste
+Cost savings on labor through more efficient handling, preparation, and storage of food that will be used.
+Cost savings when purchasing only as much food as needed, and avoiding additional costs of disposal.
+Reduced methane emissions from landfills and a lower carbon footprint.
+Better management of energy and resources, preventing pollution involved in the growing, manufacturing, transporting, and selling of food.
+Community benefits by providing donated, untouched, and safe food that would otherwise be thrown out. [6]
+Proposed Solutions to Food Waste
+Globally, reducing wasted food has been cited as a key initiative in achieving a  sustainable food future . Sustainable Development Goal 12 addresses responsible consumption and production, which includes two indicators to measure (in order to ultimately reduce) global food loss and food waste. [7]
+In the U.S, on June 4, 2013, the Department of Agriculture and Environmental Protection Agency launched the U.S. Food Waste Challenge, calling on entities across the food chain, including farms, agricultural processors, food manufacturers, grocery stores, restaurants, universities, schools, and local governments. [1] The goals are to:
+Reduce food waste by improving product development, storage, shopping/ordering, marketing, labeling, and cooking methods.
+Recover food waste by connecting potential food donors to hunger relief organizations like food banks and pantries.
+Recycle food waste to feed animals or to create compost, bioenergy, and natural fertilizers.
+On September 16, 2015, both agencies also announced for the first time a national food loss and waste goal, calling for a 50% reduction by 2030 to improve overall food security and conserve natural resources.
+The National Resources Defense Council issued a summary paper providing guidelines on how to reduce waste throughout the food production chain. [2] The following are some focal points:
+State and local governments  can incorporate food waste prevention and education campaigns, and implement municipal composting programs. Governments can provide tax credits to farmers who donate excess produce to local food banks. Proposed bills are currently in place in California, Arizona, Oregon, and Colorado.
+Businesses such as restaurants, grocery stores, and institutional food services  can evaluate the extent of their food waste and adopt best practices. Examples include supermarkets selling damaged or nearly expired produce at discounted prices, or offering “half-off” promotions instead of “buy-one-get-one-free” promotions. Restaurants can offer smaller portions and donate excess ingredients and prepared uneaten food to charities.  Schools  may experiment with concepts that allow children to create their own meals to prevent less discarded food, such as with salad bars or build-your-own burritos.
+Farms  can evaluate food losses during processing, distribution, and storage and adopt best practices. Farmers markets can sell “ugly” produce, which are discarded, misshapen fruits and vegetables that do not meet the usual standards for appearance. Farms can sell fresh but unmarketable produce (due to appearance) to food banks at a reduced rate.
+Consumers  can learn when food is no longer safe and edible, how to cook and store food properly, and how to compost. See  Tackling Food Waste at Home .
+The Environmental Protection Agency provides the “Food Recovery Hierarchy” graphic to explain ways to handle excess food. [8] From the most preferred at the top of the pyramid to the least preferred at the bottom tip, the methods include:
+Source reduction : Earliest prevention by reducing the overall volume of food produced
+Feed hungry people : Donating excess food to community sites
+Feed animals : Donating food scraps and waste to local farmers who can use them for animal feed
+Industrial uses : Donating used fats, oils, and grease to make biodiesel fuel
+Composting : Food waste that is composted to produce organic matter that is used to fertilize soil
+Landfill/Incineration : A last resort for unused food
+Read Next:  Tackling Food Waste at Home »
+Related
+Reducing meal waste in schools: A healthy solution
+Sustainability
+The Food Law and Policy Clinic of Harvard Law School
+United States Department of Agriculture. U.S Food Waste Challenge.  https://www.usda.gov/oce/foodwaste/faqs.htm  Accessed 3/20/2017.
+Gunders, D., Natural Resources Defense Council. Wasted: How America Is Losing Up to 40 Percent of Its Food from Farm to Fork to Landfill. Issue Paper, August 2012. IP: 12-06-B.  https://www.nrdc.org/sites/default/files/wasted-food-IP.pdf  Accessed 3/20/2017.
+United States Environmental Protection Agency. Sustainable Management of Food.  https://www.epa.gov/sustainable-management-food  Accessed 3/20/2017.
+Salemdeeb Ramy, Font Vivanco D, Al-Tabbaa A, Zu Ermgassen EK. A holistic approach to the environmental evaluation of food waste prevention.  Waste Manag . 2017 Jan;59:442-450.
+D. Hall, J. Guo, M. Dore, C.C. Chow, National Institute of Diabetes and Digestive and Kidney Diseases, “The Progressive Increase of Food Waste in America and Its environmental Impact,”  PLoS ONE  4(11):e7940, 2009.
+United States Environmental Protection Agency. How to Prevent Wasted Food Through Source Reduction  https://www.epa.gov/sustainable-management-food/how-prevent-wasted-food-through-source-reduction  Accessed 3/20/2017.
+United Nations. Sustainable Development Goal 12.3.  http://www.fao.org/sustainable-development-goals/indicators/1231/en/ . Accessed 1/16/2018.
+United States Environmental Protection Agency. Food Recovery Hierarchy.  https://www.epa.gov/sustainable-management-food/food-recovery-hierarchy  Accessed 3/20/2017.
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/food-waste-home/
+https://nutritionsource.hsph.harvard.edu/sustainability/
+https://nutritionsource.hsph.harvard.edu/food-waste-home/
+https://nutritionsource.hsph.harvard.edu/food-waste-home/
+https://www.hsph.harvard.edu/news/multimedia-article/reducing-meal-waste-in-schools-a-healthy-solution/
+https://nutritionsource.hsph.harvard.edu/sustainability/
+https://chlpi.org/food-law-and-policy/
+https://www.usda.gov/oce/foodwaste/faqs.htm
+https://www.nrdc.org/sites/default/files/wasted-food-IP.pdf
+https://www.epa.gov/sustainable-management-food
+https://www.epa.gov/sustainable-management-food/how-prevent-wasted-food-through-source-reduction
+http://www.fao.org/sustainable-development-goals/indicators/1231/en/
+https://www.epa.gov/sustainable-management-food/food-recovery-hierarchy

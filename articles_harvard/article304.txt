@@ -1,0 +1,133 @@
+Title: Phosphorus
+
+Phosphorus is a mineral that naturally occurs in many foods and is also available as a supplement. It plays multiple roles in the body. It is a key element of bones, teeth, and cell membranes. It helps to activate enzymes, and keeps blood pH within a normal range. Phosphorus regulates the normal function of nerves and muscles, including the heart, and is also a building block of our genes, as it makes up DNA, RNA, and ATP, the body’s major source of energy. [1]
+The kidneys, bones, and intestines tightly regulate phosphorus levels in the body. If the diet lacks phosphorus or too little phosphorus is absorbed, several things happen to preserve its stores and try to maintain normal levels: the kidneys excrete less phosphorus in urine, the digestive tract becomes more efficient at absorbing phosphorus, and the bones release its stores of phosphorus into the blood. [1] The opposite actions occur in these organs if the body has adequate phosphorus stores.
+
+Recommended Amounts
+RDA:   The Recommended Dietary Allowance (RDA) for adult men and women 19+ years is 700 mg a day. Pregnancy and lactation require the same amount of phosphorus at 700 mg daily. [2]
+UL:    The Tolerable Upper Intake Level (UL) is the maximum daily intake unlikely to cause harmful effects on health. The UL for phosphorus for adult men and women ages 19-70 years old is 4,000 mg daily, and for older adults 71+ years, 3,000 mg daily. The UL for pregnant and lactating women ages 14-50 years is 3,500 and 4,000 mg, respectively.
+
+Phosphorus and Health
+Kidneys help to regulate normal levels of phosphorus in the body. If the body has adequate stores of the mineral, the kidneys will push out extra phosphorus in the urine. With chronic kidney disease (CKD), the kidneys cannot perform this action and the amount of phosphorus can rise to harmful levels in the blood. Studies show that adults with CKD have higher phosphate levels than those with normal kidney function. [3] This may quicken the progression of CKD, and increase the risk of cardiovascular disease, bone disorders, and death. [4,5] It appears that patients with higher phosphate levels and more advanced levels of CKD (such as those on dialysis) have a greater risk of disease progression and death than those with milder forms of CKD. [6-9]
+Even so, it is unclear if lowering phosphate levels in those with CKD improves health outcomes later on. Dietary recommendations for phosphorus depend on how much the disease has progressed, and a person’s blood level of phosphorus. Some recommendations suggest limiting animal protein while increasing plant proteins, and reading food labels to limit foods with phosphate additives. [4] Plant-based proteins like legumes, nuts, and seeds contain  phytates , which interfere with the absorption of phosphorus in the gut. [10] Medications like phosphate binders are also sometimes prescribed to be taken with food to reduce the amount of phosphorus absorbed in the gut.
+Some studies have found that excess phosphorus can promote the calcification, or hardening, of heart arteries and increase inflammation. [11] Higher phosphate levels may be associated with an increased risk of  cardiovascular disease  (CVD). A meta-analysis of six cohort studies of more than 120,000 healthy adults followed for up to 29 years showed a 36% increased risk of deaths from CVD and all causes in those with the highest levels of serum phosphorus, compared with the lowest levels. [12] Deaths from all causes were seen mainly in men, not women.
+The foods highest in phosphorus are animal proteins, which also tend to be high in other components related to CVD, like saturated fat. So it is not clear if phosphorus alone is associated with an increased risk of CVD, or if high levels are an indicator of another risk factor. The research is also unclear if restricting dietary phosphorus can prevent CVD in otherwise healthy adults. [2]
+Elevated phosphorus levels may disrupt the normal hormonal balance of phosphorus,  calcium , and  vitamin D  that regulates bone health. Animal studies have shown that high dietary phosphorus intakes are detrimental to bone health. Yet the evidence is less clear in humans, partly because it is difficult to estimate accurate phosphorus intakes. Most studies measure phosphorus in the blood, which may not reflect true dietary intakes of phosphorus, since the majority of the mineral is stored in bones and the body maintains blood levels within a specific range. However, research has shown that a higher intake of phosphate additives, from various foods like cola beverages and salad dressings that are very well-absorbed in the gut, are associated with negative effects on bone metabolism. [13] These include fractures and a lower bone mineral density. [14] More research is needed in this area.
+Another downside of soda
+
+Food Sources
+A variety of foods naturally contain phosphorus, and the richest sources are dairy, red meat, poultry, seafood, legumes, and nuts. Phosphorus from these foods is called organic phosphorus. It is absorbed more efficiently from animal foods than plant foods. Plant foods like seeds, legumes, and whole grains contain a storage form of phosphorus called  phytates or phytic acid  that can reduce the mineral’s absorption. The body lacks an enzyme needed to break down phytic acid, so as it passes through the digestive tract it can bind not only to phosphorus but other minerals like  iron  and  zinc . Cooking, sprouting, and soaking are some food preparation techniques that help to break down phytic acid so that phosphorus is more easily absorbed.
+Inorganic phosphorus is a processed form added to foods to preserve color, moisture, and texture. It is found in fast foods, deli meats, canned and bottled beverages, and many other processed foods. Phosphate additives and preservatives are a significant contributor to phosphorus intakes, comprising up to 30% in the U.S. diet. [4] Inorganic phosphorus is very easily absorbed in the gut: about 90%, compared with 40-60% from natural animal and plant foods. [15] Phosphorus is also available in supplement form.
+Dairy : milk, yogurt, cheese
+Salmon
+Beef
+Poultry
+Pork
+Legumes
+Nuts, seeds
+Whole wheat breads and cereals
+Some  vegetables : asparagus, tomatoes, cauliflower
+Processed foods  (as inorganic phosphorus), especially deli meats, bacon, sausage,  sodas ,  sports drinks , and other bottled beverages
+
+Signs of Deficiency and Toxicity
+Deficiency
+A phosphorus deficiency is called hypophosphatemia, defined by blood levels that fall below the normal range. However, blood levels of phosphate do not necessarily show the total amount of phosphorus in the body, as most of it is stored in bones and teeth. The most common causes of deficiency are kidney problems or a condition called hyperparathyroidism, in which too much parathyroid hormone is released that causes phosphorus to exit the body through urine. Also, the overuse of aluminum-containing antacids can bind to phosphorus and increase the risk of a deficiency.
+A notable but less common occurrence of hypophosphatemia occurs with refeeding syndrome, seen in people with severe malnutrition. Patients who are malnourished from conditions like cancer, advanced liver disease, alcohol abuse, or anorexia nervosa may be started on supplemental nutrition feedings through a tube or vein. However because their starved state has reduced their ability to efficiently process food, reintroducing nutrition can cause problems. A sudden infusion of nutrients and calories causes an insulin surge, which results in rapid shifts in electrolytes and fluids in the blood. Blood levels of electrolyte nutrients like potassium, phosphorus, and magnesium may quickly drop. If untreated, refeeding syndrome can lead to respiratory failure, coma, cardiac arrest, and even death. The situation can be avoided by giving these electrolytes intravenously to the patient prior to the nutritional feedings.
+Symptoms appearing with a phosphorus deficiency:
+Poor appetite
+Anemia
+Muscle weakness
+Bone pain
+Bone disease (osteomalacia, rickets)
+Confusion
+Increased susceptibility to infections
+Toxicity
+A toxicity from phosphorus, called hyperphosphatemia, is rare because the body will regulate any excess levels in healthy individuals. It might occur with supplement use, but generally the use of phosphorus supplements is not common and the amount of phosphorus in them is typically not high. (2) People with hyperphosphatemia may show no symptoms; others may develop calcium deposits and hardening of soft tissues in the body, such as in the kidney, resulting from a disruption in the normal metabolism of calcium.
+
+Did You Know?
+Phosphorus is the second most abundant mineral in the body, second to  calcium . About 85% of the body’s phosphorus is stored in bones and teeth.
+Inorganic phosphorus as phosphorus additives are commonly found in foods like processed meats and baked goods as well as beverages like soda, iced teas, bottled coffee drinks, and flavored waters. Examples to look for in the ingredients list are phosphoric acid, dicalcium phosphate, sodium phosphate, and trisodium phosphate. If one is following a low phosphorus diet, it is important to be aware of these “hidden” well-absorbed dietary sources of phosphorus by reading food labels carefully.
+
+Related
+Vitamins and Minerals
+Institute of Medicine, Food and Nutrition Board. Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. Washington, DC: National Academies Press; 1997. 
+ National Institutes of Health Office of Dietary Supplements: Phosphorus Fact Sheet for Health Professionals  https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/ . Accessed 6/8/2020. 
+ Moore LW, Nolte JV, Gaber AO, Suki WN. Association of dietary phosphate and serum phosphorus concentration by levels of kidney function.  The American journal of clinical nutrition . 2015 Aug 1;102(2):444-53. 
+ Chang AR, Anderson C. Dietary phosphorus intake and the kidney.  Annual review of nutrition . 2017 Aug 21;37:321-46. 
+ Da J, Xie X, Wolf M, Disthabanchong S, Wang J, Zha Y, Lv J, Zhang L, Wang H. Serum phosphorus and progression of CKD and mortality: a meta-analysis of cohort studies.  American Journal of Kidney Diseases . 2015 Aug 1;66(2):258-65. 
+ Hou Y, Li X, Sun L, Qu Z, Jiang L, Du Y. Phosphorus and mortality risk in end-stage renal disease: A meta-analysis.  Clinica chimica acta . 2017 Nov 1;474:108-13. 
+ Selamet U, Tighiouart H, Sarnak MJ, Beck G, Levey AS, Block G, Ix JH. Relationship of dietary phosphate intake with risk of end-stage renal disease and mortality in chronic kidney disease stages 3–5: The Modification of Diet in Renal Disease Study.  Kidney international . 2016 Jan 1;89(1):176-84. 
+ Murtaugh MA, Filipowicz R, Baird BC, Wei G, Greene T, Beddhu S. Dietary phosphorus intake and mortality in moderate chronic kidney disease: NHANES III.  Nephrology Dialysis Transplantation . 2012 Mar 1;27(3):990-6. 
+ Mehrotra R, Peralta CA, Chen SC, Li S, Sachs M, Shah A, Norris K, Saab G, Whaley-Connell A, Kestenbaum B, McCullough PA. No independent association of serum phosphorus with risk for death or progression to end-stage renal disease in a large screen for chronic kidney disease.  Kidney international . 2013 Nov 1;84(5):989-97. 
+ Chauveau P, Koppe L, Combe C, Lasseur C, Trolonge S, Aparicio M. Vegetarian diets and chronic kidney disease.  Nephrology Dialysis Transplantation . 2019 Feb 1;34(2):199-207. 
+ Gutiérrez OM. The connection between dietary phosphorus, cardiovascular disease, and mortality: where we stand and what we need to know.  Advances in nutrition . 2013 Nov;4(6):723-9. 
+ Bai W, Li J, Liu J. Serum phosphorus, cardiovascular and all-cause mortality in the general population: a meta-analysis.  Clinica Chimica Acta . 2016 Oct 1;461:76-82. 
+ Calvo MS, Tucker KL. Is phosphorus intake that exceeds dietary requirements a risk factor in bone health?.  Annals of the New York Academy of Sciences . 2013 Oct;1301(1):29-35. 
+ Vorland CJ, Stremke ER, Moorthi RN, Hill Gallant KM. Effects of excessive dietary phosphorus intake on bone health.  Current osteoporosis reports . 2017 Oct;15(5):473-82. 
+ Kalantar-Zadeh K, Gutekunst L, Mehrotra R, Kovesdy CP, Bross R, Shinaberger CS, Noori N, Hirschberg R, Benner D, Nissenson AR, Kopple JD. Understanding sources of dietary phosphorus in the treatment of patients with chronic kidney disease.  Clinical Journal of the American Society of Nephrology . 2010 Mar 1;5(3):519-30.
+Institute of Medicine, Food and Nutrition Board. Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. Washington, DC: National Academies Press; 1997.
+National Institutes of Health Office of Dietary Supplements: Phosphorus Fact Sheet for Health Professionals  https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/ . Accessed 6/8/2020.
+Moore LW, Nolte JV, Gaber AO, Suki WN. Association of dietary phosphate and serum phosphorus concentration by levels of kidney function.  The American journal of clinical nutrition . 2015 Aug 1;102(2):444-53.
+Chang AR, Anderson C. Dietary phosphorus intake and the kidney.  Annual review of nutrition . 2017 Aug 21;37:321-46.
+Da J, Xie X, Wolf M, Disthabanchong S, Wang J, Zha Y, Lv J, Zhang L, Wang H. Serum phosphorus and progression of CKD and mortality: a meta-analysis of cohort studies.  American Journal of Kidney Diseases . 2015 Aug 1;66(2):258-65.
+Hou Y, Li X, Sun L, Qu Z, Jiang L, Du Y. Phosphorus and mortality risk in end-stage renal disease: A meta-analysis.  Clinica chimica acta . 2017 Nov 1;474:108-13.
+Selamet U, Tighiouart H, Sarnak MJ, Beck G, Levey AS, Block G, Ix JH. Relationship of dietary phosphate intake with risk of end-stage renal disease and mortality in chronic kidney disease stages 3–5: The Modification of Diet in Renal Disease Study.  Kidney international . 2016 Jan 1;89(1):176-84.
+Murtaugh MA, Filipowicz R, Baird BC, Wei G, Greene T, Beddhu S. Dietary phosphorus intake and mortality in moderate chronic kidney disease: NHANES III.  Nephrology Dialysis Transplantation . 2012 Mar 1;27(3):990-6.
+Mehrotra R, Peralta CA, Chen SC, Li S, Sachs M, Shah A, Norris K, Saab G, Whaley-Connell A, Kestenbaum B, McCullough PA. No independent association of serum phosphorus with risk for death or progression to end-stage renal disease in a large screen for chronic kidney disease.  Kidney international . 2013 Nov 1;84(5):989-97.
+Chauveau P, Koppe L, Combe C, Lasseur C, Trolonge S, Aparicio M. Vegetarian diets and chronic kidney disease.  Nephrology Dialysis Transplantation . 2019 Feb 1;34(2):199-207.
+Gutiérrez OM. The connection between dietary phosphorus, cardiovascular disease, and mortality: where we stand and what we need to know.  Advances in nutrition . 2013 Nov;4(6):723-9.
+Bai W, Li J, Liu J. Serum phosphorus, cardiovascular and all-cause mortality in the general population: a meta-analysis.  Clinica Chimica Acta . 2016 Oct 1;461:76-82.
+Calvo MS, Tucker KL. Is phosphorus intake that exceeds dietary requirements a risk factor in bone health?.  Annals of the New York Academy of Sciences . 2013 Oct;1301(1):29-35.
+Vorland CJ, Stremke ER, Moorthi RN, Hill Gallant KM. Effects of excessive dietary phosphorus intake on bone health.  Current osteoporosis reports . 2017 Oct;15(5):473-82.
+Kalantar-Zadeh K, Gutekunst L, Mehrotra R, Kovesdy CP, Bross R, Shinaberger CS, Noori N, Hirschberg R, Benner D, Nissenson AR, Kopple JD. Understanding sources of dietary phosphorus in the treatment of patients with chronic kidney disease.  Clinical Journal of the American Society of Nephrology . 2010 Mar 1;5(3):519-30.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/calcium/
+https://nutritionsource.hsph.harvard.edu/vitamin-d/
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/zinc/
+https://nutritionsource.hsph.harvard.edu/dairy/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/processed-foods/
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/sugary-drinks/
+https://nutritionsource.hsph.harvard.edu/sports-drinks/
+https://nutritionsource.hsph.harvard.edu/calcium/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/
+https://academic.oup.com/ajcn/article-abstract/102/2/444/4564511
+https://www.annualreviews.org/doi/abs/10.1146/annurev-nutr-071816-064607?casa_token=HpovEvRxorwAAAAA:Oxth4x4aTi4Y6YLqfvHWhlXGnQSvYhYZINA2h-mng9NzcOVe-ANykQKPpyveYzASAnV1qesFfSFJ
+https://www.sciencedirect.com/science/article/pii/S0272638615004060?casa_token=GDKmLL5-TMoAAAAA:kC6FeKUqkUHLGOT8N0boA0XVNAfiq8QxGxmmSEFs_-rUR9g257wj0jUZjARLPsxJrKCtpOLVlw
+https://www.sciencedirect.com/science/article/pii/S0009898117303510?casa_token=A63gYt6_tBIAAAAA:QA2O7QFbHQrCdpdgTIU2p97lbK6RQNXj_5Wk6mEIr3c84QCQal_2XjwywZgEfHp7FftAfLRbKQ
+https://www.sciencedirect.com/science/article/pii/S0085253815000241
+https://academic.oup.com/ndt/article-abstract/27/3/990/1890776
+https://www.sciencedirect.com/science/article/pii/S0085253815560535
+https://academic.oup.com/ndt/article-abstract/34/2/199/5049714
+https://academic.oup.com/advances/article-abstract/4/6/723/4595580
+https://www.sciencedirect.com/science/article/pii/S0009898116303205?casa_token=CjmBEAnWpkgAAAAA:fCFfTy_yRwDOfrMFhMbVYA6-B0H54yFPDVDkLtt0_e-rEV_pyvMg15KsFTX8qV1sh00eWj9qIQ
+https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.12300?casa_token=7tKqSECmhcsAAAAA:V0wiw8p7UwBQVHPo0yoXj6nF6g02LGueqD99j8H9p7Ee7n99co56jppWWaJbvckx4OQQS5k1WDT9TOI
+https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s11914-017-0398-4&casa_token=a60rB-2NcCIAAAAA:grnHRFGoDT-e6XYaGoivGF5KGpWpngsv9HOvGskXvJCjq3N_w-8-ZdrzkPDLzXNFRaswGnrtfz44v1oh
+https://cjasn.asnjournals.org/content/5/3/519
+https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/
+https://academic.oup.com/ajcn/article-abstract/102/2/444/4564511
+https://www.annualreviews.org/doi/abs/10.1146/annurev-nutr-071816-064607?casa_token=HpovEvRxorwAAAAA:Oxth4x4aTi4Y6YLqfvHWhlXGnQSvYhYZINA2h-mng9NzcOVe-ANykQKPpyveYzASAnV1qesFfSFJ
+https://www.sciencedirect.com/science/article/pii/S0272638615004060?casa_token=GDKmLL5-TMoAAAAA:kC6FeKUqkUHLGOT8N0boA0XVNAfiq8QxGxmmSEFs_-rUR9g257wj0jUZjARLPsxJrKCtpOLVlw
+https://www.sciencedirect.com/science/article/pii/S0009898117303510?casa_token=A63gYt6_tBIAAAAA:QA2O7QFbHQrCdpdgTIU2p97lbK6RQNXj_5Wk6mEIr3c84QCQal_2XjwywZgEfHp7FftAfLRbKQ
+https://www.sciencedirect.com/science/article/pii/S0085253815000241
+https://academic.oup.com/ndt/article-abstract/27/3/990/1890776
+https://www.sciencedirect.com/science/article/pii/S0085253815560535
+https://academic.oup.com/ndt/article-abstract/34/2/199/5049714
+https://academic.oup.com/advances/article-abstract/4/6/723/4595580
+https://www.sciencedirect.com/science/article/pii/S0009898116303205?casa_token=CjmBEAnWpkgAAAAA:fCFfTy_yRwDOfrMFhMbVYA6-B0H54yFPDVDkLtt0_e-rEV_pyvMg15KsFTX8qV1sh00eWj9qIQ
+https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.12300?casa_token=7tKqSECmhcsAAAAA:V0wiw8p7UwBQVHPo0yoXj6nF6g02LGueqD99j8H9p7Ee7n99co56jppWWaJbvckx4OQQS5k1WDT9TOI
+https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s11914-017-0398-4&casa_token=a60rB-2NcCIAAAAA:grnHRFGoDT-e6XYaGoivGF5KGpWpngsv9HOvGskXvJCjq3N_w-8-ZdrzkPDLzXNFRaswGnrtfz44v1oh
+https://cjasn.asnjournals.org/content/5/3/519

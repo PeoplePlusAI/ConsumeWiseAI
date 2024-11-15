@@ -1,0 +1,36 @@
+Title: Healthy Heart Score uses lifestyle behaviors to estimate cardiovascular disease risk
+
+An overall healthy lifestyle may prevent more than 80% of coronary artery disease ( 1 ) and 50% of ischemic strokes. ( 2 ) Yet most lifestyle behaviors aren’t included in existing prediction tools.
+The  Healthy Heart Score  was created by a team from the Department of Nutrition at Harvard School of Public Health to fill this gap. It estimates cardiovascular disease risk in seemingly healthy individuals. The Healthy Heart Score is a simple tool that can be used to identify individuals at high risk for  cardiovascular disease  due to unhealthy lifestyle habits. Its use is intended to complement, not replace, existing primary prevention risk scores, since  different calculators  may be most appropriate for different populations.
+The real focus should be on primordial prevention – preventing the early onset of risk factors for cardiovascular disease —like high cholesterol, high blood pressure, high blood sugar, and chronic low-grade inflammation, as well as preventing potentially dangerous physiologic changes like artery-clogging atherosclerosis and damage to the inner lining of arteries (endothelial dysfunction).
+Primordial prevention is now the cornerstone of the American Heart Association’s definition of ideal cardiovascular health and efforts to help people achieve it. ( 3 )
+Optimal levels of clinical risk factors in middle age—blood pressure less than 120/80 mmHg, total cholesterol less than 200 milligrams per deciliter of blood (mg/dL), not smoking, and no diabetes—are associated with an extremely low long-term risk of cardiovascular disease. ( 4 )
+The  Healthy Heart Score  may be especially useful for middle-aged adults who don’t have elevated clinical risk factors, like high blood pressure or high cholesterol, but who may still be at high risk for developing cardiovascular disease.
+Instead of relying on clinical data, this new calculator includes smoking status, height and weight, level of physical activity, alcohol intake, and a diet score based on consumption of fruits and vegetables, nuts, cereal fiber, sugar-sweetened beverages, and red and processed meats.
+The team derived this lifestyle-based cardiovascular risk score using data collected from a group of 40,757 women from the Nurses’ Health Study (mean age 52 years) and 23,026 men from the Health Professionals Follow-up Study (mean age 52 years). These are two ongoing, long-term studies being conducted at Harvard School of Public Health and Brigham and Women’s Hospital.
+Participants complete detailed questionnaires about diet, lifestyle, and health every two to four years. Once the risk score had been developed, it was validated among 20,272 other women from the Nurses’ Health Study and 11,451 men from the Health Professionals Follow-up Study.
+Current primary prevention models like the Framingham risk score often underestimate the  risk of cardiovascular disease  in these patients. In addition, the  Healthy Heart Score  does not depend on the results of blood tests or other clinical information, and so can also be used by individuals interested in better understanding their cardiovascular health based on information they have at hand. It may also help heighten awareness for lifestyle changes such as  exercising more  or adopting a more  healthful diet  that can prevent the development of risk factors for cardiovascular disease, rather than treating them once they become worrisome.
+References
+1. Chiuve SE, Rexrode KM, D. S, Logroscino G, Manson JE, Rimm EB., Primary prevention of stroke by healthy lifestyle  .   Circulation , 2008.  118 (9): p. 947-54.
+2. Lloyd-Jones DM, Hong Y, Labarthe D, et al., Defining and setting national goals for cardiovascular health promotion and disease reduction: the American Heart Association’s strategic Impact Goal through 2020 and beyond .   Circulation , 2010.  121 (9): p. 586-613.
+3. Stamler J, Stamler R, Neaton JD, et al., Low risk-factor profile and long-term cardiovascular and noncardiovascular mortality and life expectancy: findings for 5 large cohorts of young adult and middle-aged men and women .   JAMA , 1999.  282 (9): p. 2012-8.
+4. Stampfer MJ, Hu FB, Manson JE, Rimm EB, Willett WC., Primary prevention of coronary heart disease in women through diet and lifestyle. .   N Engl J Med , 2000.  343 (9): p. 16-22.
+
+References:
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2014/11/stethescope_graph_small.jpg
+#ref1
+#ref2
+https://healthyheartscore.sph.harvard.edu/
+https://nutritionsource.hsph.harvard.edu/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/cvd-risk-factors/
+#ref3
+#ref4
+https://healthyheartscore.sph.harvard.edu/
+https://nutritionsource.hsph.harvard.edu/cvd-risk-factors/
+https://healthyheartscore.sph.harvard.edu/
+https://nutritionsource.hsph.harvard.edu/staying-active/
+https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/
+http://www.ncbi.nlm.nih.gov/pubmed/18697819
+http://www.ncbi.nlm.nih.gov/pubmed/20089546
+http://www.ncbi.nlm.nih.gov/pubmed/10591383
+http://www.ncbi.nlm.nih.gov/pubmed/10882764

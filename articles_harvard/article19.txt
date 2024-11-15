@@ -1,0 +1,48 @@
+Title: Is Wine Fine, or Beer Better?
+
+Almost 200 years ago, an Irish doctor noted that chest pain (angina) was far less common in France than in Ireland. He attributed the difference to “the French habits and mode of living.” [1]
+The comparatively low rate of heart disease in France despite a diet that includes plenty of butter and cheese has come to be known as the French paradox. Some experts have suggested that red wine makes the difference, something the wine industry has heavily and heartily endorsed. But there’s far more to the French paradox than red wine. The diet and lifestyle in parts of France, especially in the south, have much in common with other Mediterranean regions, and these may account for some of the protection against heart disease.
+Some studies have suggested that red wine—particularly when drunk with a meal—offers more cardiovascular benefits than beer or spirits. These range from international comparisons showing a lower prevalence of coronary heart disease in “wine-drinking countries” than in beer- or liquor-drinking countries. [2, 3]
+Red wine may contain various compounds in addition to alcohol that could relax blood vessel walls and prevent the oxidation of low-density lipoprotein (LDL, “bad” cholesterol), a key early step in the formation of cholesterol-filled plaque. These substances are called polyphenols, including a specific type called flavonoids that impart the unique color and taste of wine. Flavonoids are found in other plant foods like blueberries, strawberries, apples, onions,  dark chocolate , and tea. Some polyphenols specific to red wine include resveratrol, quercetin, and epicatechins. [4] Red wine tends to receive more attention than white wine because it contains about 10 times the amount of polyphenols. However there may be other active compounds in white wine that offer a cardioprotective effect. [4]
+
+Because the health benefits from wine are often attributed to its polyphenol content, research has looked at dealcoholized wine. This type of wine undergoes fermentation, after which the ethanol is filtered out, but the polyphenol content is preserved. Small studies in individuals with heart disease risk factors found that dealcoholized wine helped to reduce insulin resistance and increase levels of nitric oxide, which helps blood vessels to relax and thereby lower blood pressure. [5-7]
+Beer contains similar phenolic compounds as red wine but in lower amounts, including quercetin, epicatechins, and gallic acid. [8, 9] About 70-80% of polyphenols in beer come from barley malt, and another 20-30% from hops, the flowers from the hop plant. [9]
+It is important to note that the amount of polyphenols in alcohol is modest and only contributes a small amount to the total amount of polyphenols found in a wide variety of plant foods. For example, increasing one’s intake from one to two servings daily of tea, coffee, berries, onions, or apples provides a much higher amount of polyphenols than having an extra glass of red wine. The true health benefit of alcohol is not likely its polyphenol content but the effects of ethanol itself, as discussed below.
+Drinking Patterns Rather Than Alcohol Type May Matter More
+Despite the healthful compounds identified in red wine, epidemiological studies have not confirmed that a specific type of alcoholic drink, whether wine, beer, or spirits, reduces the risk of cardiovascular disease. Studies that observe populations of people suggest that light to moderate amounts of all alcoholic drinks are linked to reduced diabetes and cardiovascular risk when consumed in equal quantities. [2] This seems to suggest that the alcohol itself, not the specific compounds found in each type of alcohol, has a much greater impact on health benefits.
+A report from the Health Professionals Follow-up Study examined the drinking habits of more than 38,000 men over a 12-year period. Moderate drinkers were 30-35% less likely to have had a heart attack than non-drinkers. [10] This reduction was observed among men who drank wine, beer, or spirits, and was similar for those who drank with meals and those who drank outside of meal time. This study also found that the frequency of drinking may matter: Men who drank light to moderate amounts three or more days per week had a lower risk of heart attack than those who drank once or twice a week.
+A review of alcohol consumption in women from the  Nurses’ Health Study I and II  found the lowest death rates from any cause in women who drank smaller amounts of alcohol (about 1 drink per day) over four or more days rather than the same amount of alcohol taken in one or two days. [11] The review also found that all types of alcohol were associated with decreased cardiovascular disease risk, while all types were associated with an increased breast cancer risk.
+The American Heart Association concludes that 1-2 drinks a day for men and up to 1 drink a day for women is associated with a reduction in cardiovascular risk, without consistent evidence showing that wine offers greater benefits than other alcoholic beverages. However, rather than focusing on alcohol intake alone, they advise implementing a  healthful diet  to substantially reduce cardiovascular risk. (4) The Dietary Guidelines for Americans 2015-2020 does not recommend that individuals who do not drink alcohol start drinking for any reason, even for health benefits. [12]
+Related
+Alcohol: Balancing Risks and Benefits
+References
+Black S. Clinical and pathological reports. Newry, England: Alex Wilkinson, 1819.
+Rimm EB, Klatsky A, Grobbee D, Stampfer MJ. Review of moderate alcohol consumption and reduced risk of coronary heart disease: is the effect due to beer, wine, or spirits?.  BMJ . 1996 Mar 23;312(7033):731-6.
+St Leger AS, Cochrane AL, Moore F. Factors associated with cardiac mortality in developed countries with particular reference to the consumption of wine.  The Lancet . 1979 May 12;313(8124):1017-20.
+Haseeb S, Alexander B, Baranchuk A. Wine and cardiovascular health: a comprehensive review.  Circulation . 2017 Oct 10;136(15):1434-48.
+Karatzi KN, Papamichael CM, Karatzis EN, Papaioannou TG, Aznaouridis KA, Katsichti PP, Stamatelopoulos KS, Zampelas A, Lekakis JP, Mavrikakis ME. Red wine acutely induces favorable effects on wave reflections and central pressures in coronary artery disease patients.  American journal of hypertension . 2005 Sep 1;18(9):1161-7.
+Chiva-Blanch G, Urpi-Sarda M, Ros E, Valderas-Martinez P, Casas R, Arranz S, Guillén M, Lamuela-Raventós RM, Llorach R, Andres-Lacueva C, Estruch R. Effects of red wine polyphenols and alcohol on glucose metabolism and the lipid profile: a randomized clinical trial.  Clinical nutrition . 2013 Apr 1;32(2):200-6.
+Caccetta RA, Burke V, Mori TA, Beilin LJ, Puddey IB, Croft KD. Red wine polyphenols, in the absence of alcohol, reduce lipid peroxidative stress in smoking subjects.  Free Radical Biology and Medicine . 2001 Mar 15;30(6):636-42.
+Arranz S, Chiva-Blanch G, Valderas-Martínez P, Medina-Remón A, Lamuela-Raventós RM, Estruch R. Wine, beer, alcohol and polyphenols on cardiovascular disease and cancer.  Nutrients . 2012 Jul 10;4(7):759-81.
+Gerhäuser C. Beer constituents as potential cancer chemopreventive agents.  European Journal of Cancer . 2005 Sep 1;41(13):1941-54.
+Mukamal KJ, Conigrave KM, Mittleman MA, Camargo Jr CA, Stampfer MJ, Willett WC, Rimm EB. Roles of drinking pattern and type of alcohol consumed in coronary heart disease in men.  New England Journal of Medicine . 2003 Jan 9;348(2):109-18.
+Mostofsky E, Mukamal KJ, Giovannucci EL, Stampfer MJ, Rimm EB. Key findings on alcohol consumption and a variety of health outcomes from the Nurses’ Health Study.  American journal of public health . 2016 Sep;106(9):1586-91.
+Dietary guidelines for Americans 2015-2020 . U.S. Department of Agriculture.  https://health.gov/dietaryguidelines/2015/guidelines/appendix-9/ . Accessed 7/23/2018.
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/food-features/dark-chocolate/
+https://nutritionsource.hsph.harvard.edu/nurses-health-study/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/preventing-cvd/
+https://www.bmj.com/content/312/7033/731?variant=full
+https://www.sciencedirect.com/science/article/pii/S014067367992765X
+https://academic.oup.com/ajh/article-abstract/18/9/1161/136497
+https://www.sciencedirect.com/science/article/pii/S0261561412001896
+https://www.sciencedirect.com/science/article/pii/S0891584900004974
+https://www.mdpi.com/2072-6643/4/7/759
+https://www.sciencedirect.com/science/article/pii/S0959804905003308
+https://www.nejm.org/doi/full/10.1056/NEJMoa022095
+http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2016.303336
+https://health.gov/dietaryguidelines/2015/guidelines/appendix-9/

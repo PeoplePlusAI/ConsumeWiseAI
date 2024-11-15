@@ -1,0 +1,233 @@
+Title: Pregunte al Experto: El rol de la dieta y los suplementos nutricionales durante COVID-19
+
+El distanciamiento social y el lavado de manos son los métodos más eficaces y comprobados para reducir el riesgo y la propagación de la enfermedad del coronavirus (COVID-19). Sin embargo, junto con preguntas generales sobre cómo comprar y preparar alimentos de forma segura ( discutidos aquí ), muchos se preguntan sobre el rol específico de la dieta y la nutrición durante esta pandemia. Para entender más sobre la relación entre la nutrición y la inmunidad, y la evidencia que existe sobre el estado nutricional, la suplementación y la infección, hablamos con  Dr. Wafaie Fawzi ,  Dr. Walter Willett , y el estudiante doctoral, Dr. Ibraheem Abioye. A medida que se disponga de más información sobre este tema, revisaremos con nuestros expertos para proveer actualizaciones adicionales. (Última actualización: 4.14.20)
+¿Pueden resumir  brevemente la relación entre nutrición e inmunidad?
+Hemos sabido durante mucho tiempo que  la nutrición está estrechamente relacionada con la inmunidad  y con el riesgo y gravedad de infecciones. Los individuos mal nutridos tienen un mayor riesgo de diversas infecciones bacterianas y virales, entre otras. Por el contrario, las infecciones crónicas o severas conducen a trastornos nutricionales o empeoran el estado nutricional de las personas afectadas. Por lo tanto, es imperativo que todos prestemos atención a nuestra dieta y estado nutricional durante la actual pandemia de COVID-19. Además, el curso clínico de la enfermedad de COVID-19 tiende a ser más grave entre las personas mayores y entre las personas con enfermedades crónicas, como la diabetes, la hipertensión, y el cáncer, que están parcialmente relacionados con la nutrición. [1] Aunque todavía no se dispone de datos, las co-infecciones, como el VIH/SIDA, también pueden estar asociadas con resultados más graves, y una nutrición óptima desempeña un rol importante en el mantenimiento de la salud entre las personas con tales infecciones.
+Ciertamente, consumir dietas de buena calidad siempre es deseable, y esto es particularmente importante durante la pandemia de COVID-19. Una dieta saludable, como se muestra en  El Plato Para Comer Saludable , hace hincapié en las frutas, verduras, cereales integrales, legumbres y nueces, el consumo moderado de pescado, alimentos lácteos y aves, y la ingesta limitada de carne roja y procesada, carbohidratos refinados, y azúcar. Las grasas añadidas deben ser principalmente aceites líquidos como de oliva, canola, o el aceite de soja.  Dicha dieta proporcionará cantidades adecuadas de macronutrientes saludables y minerales y vitaminas esenciales. Comer  proteínas ,  grasas  y  carbohidratos  de alta calidad puede ayudar a mantener un peso saludable y un buen estado metabólico; este no es un momento para dietas altamente restrictivas. Si alguien desarrolla una infección COVID-19, es importante comer lo suficiente de estas calorías saludables para prevenir la pérdida de peso no intencional. Las cantidades adecuadas de  minerales y vitaminas  proporcionadas por una dieta saludable ayudan a asegurar un número suficiente de células del sistema inmune y de anticuerpos, los cuales son importantes a medida que el cuerpo desarrolle una respuesta a las infecciones.
+Aunque no  tenemos datos sobre factores nutricionales en relación al riesgo y la gravedad de COVID-19, ¿cuáles son algunos ejemplos de evidencia que existe sobre nutrición e infección que serían importante considerar?
+Hay muchos estudios que evalúan la ingesta de nutrientes específicos en relación con otras infecciones. Para dar algunos ejemplos:
+El  zinc  es un componente presente en muchas enzimas y factores de transcripción en las células de todo el cuerpo, y los niveles inadecuados de zinc limitan la capacidad del individuo para desarrollar una respuesta inmune adecuada a las [2] Múltiples meta-análisis y análisis agrupados de estudios clínicos aleatorizados han demostrado que la suplementación oral con zinc reduce la tasa de incidencia de infecciones agudas del tracto respiratorio en un 35%, acorta la duración de los síntomas similares a la gripe en aproximadamente 2 días, y mejora la tasa de recuperación. [3,4]. Estos estudios se llevaron a cabo en los Estados Unidos, así como en múltiples países de ingresos bajos y medianos como India, Sudáfrica, y Perú. La dosis de zinc en estos estudios varió de 20 mg/semana a 92 mg/día. La dosis no parece ser el principal promotor de la eficacia de la suplementación con zinc.
+La  vitamina C  es un cofactor de muchas Mejora la función de muchas enzimas en todo el cuerpo manteniendo sus iones metálicos en la forma reducida. También actúa como un antioxidante, limitando la inflamación y el daño del tejido asociado con las respuestas inmunológicas. [5] Se han llevado a cabo estudios clínicos aleatorizados en soldados, jóvenes y personas mayores en los Estados Unidos, la Unión Soviética, el Reino Unido y Japón que evalúan la eficacia de la vitamina C. En estos estudios, se demostró que la suplementación con vitamina C reduce significativamente la incidencia de infecciones del tracto respiratorio. [6] También se ha estudiado la eficacia de la vitamina C en pacientes hospitalizados en los Estados Unidos, Egipto e Irán, admitidos por una amplia variedad de condiciones incluyendo sepsis, complicaciones postoperatorias, quemaduras, contusiones pulmonares, y condiciones cardíacas. [7] Se demostró que la vitamina C reduce la duración de la estancia en la unidad de cuidados intensivos y la necesidad de ventilación mecánica en estos pacientes. [8] La dosis de vitamina C varió de 1-3 g/día, y la dosis no parece ser el principal promotor de la eficacia. Las dosis de vitamina C por encima de 2 g/día deben evitarse fuera de atención médica.
+La evidencia de varios estudios clínicos y estudios agrupados muestra que la suplementación con  vitamina D  reduce las probabilidades de desarrollar infecciones agudas del tracto respiratorio (la mayoría de las cuales se asume que se deben a viruses) en un 12% a un 75%. [9-12] Estos estudios incluyeron tanto la gripe estacional como la gripe pandémica causada por el virus H1N1 en el El efecto benéfico de la suplementación se observó en pacientes de todas las edades, y en personas con enfermedades crónicas pre-existentes. [13] Entre los infectados, los síntomas de la gripe fueron menores y la recuperación fue más temprana si habían recibido una dosis de vitamina D superior a 1,000 UI. [14] Los beneficios fueron relativamente mayores en individuos con deficiencia de vitamina D que en aquellos con niveles adecuados de vitamina D.
+Los adultos mayores tienden a ser deficientes de estos micronutrientes, y por lo tanto pueden obtener el mayor beneficio de la suplementación. [15,16]
+Ustedes mencionan que una nutrición adecuada juega un rol importante en mantener la salud en personas con infecciones como VIH/SIDA. ¿Podrían comentar algo más al respecto?
+Muchas infecciones agudas del tracto respiratorio suelen ser más severas en personas que viven con VIH/SIDA y otras deficiencias inmunológicas [17], y los esfuerzos para monitorear COVID-19 en estas poblaciones son importantes. La nutrición también juega un papel importante en esta categoría de personas. En primer lugar, la infección por VIH y la malnutrición tienden a coexistir. Conforme progresa la enfermedad, muchas personas que viven con VIH tienden a tener desnutrición. Algunos medicamentos para el VIH también pueden provocar enfermedades metabólicas. En segundo lugar, en personas con infección por VIH, un estado nutricional bajo y deficiencias de micronutrimentos empeoran la enfermedad por VIH y aumentan el riesgo de fallas en el tratamiento y muerte. Antes de que surgiera la terapia antirretroviral, los estudios demostraban que personas viviendo con VIH con dietas de alta calidad y mejor estado nutricional tendían a vivir por más tiempo y tenían menos complicaciones. Era menos probable que tuvieran anemia y tenían un conteo más alto de células CD4 (el conteo de células blancas sanguíneas que combaten la infección). Estudios clínicos aleatorizados y grandes estudios prospectivos en África y Asia han demostrado que el uso de multivitamínicos conduce a menos muertes y disminuye notablemente la progresión de la enfermedad [18-20]. Los resultados de estos estudios fueron consistentes sin importar si las personas infectadas con VIH recibían terapia antirretroviral o no. En los Estados Unidos, el consumo adecuado de vitaminas y minerales estaba asociado de igual manera a una reducción de la progresión de la enfermedad por VIH y mortalidad [21]. Por ello, una dieta de buena calidad y suplementación con multivitamínicos pueden contribuir a reducir el riesgo de infección por COVID-19 en personas con VIH y enfermedades similares.
+¿Existe un papel para los suplementos nutricionales en la pandemia de COVID-19?
+Las encuestas dietéticas en Estados Unidos y en otros lugares muestran que la mayoría de las personas están consumiendo dietas que no cumplen con las recomendaciones nacionales- a menudo debido a la disponibilidad o precio- y dichas dietas pueden no proveer cantidades óptimas de vitaminas y minerales esenciales. Actualmente, es probable que la pandemia de COVID-19 ponga a muchos individuos en riesgo de inseguridad alimentaria y dificulte aún más el consumo de una dieta saludable. Esto se vuelve cada vez más probable si las estrategias para reducir la infección no consideran esfuerzos para garantizar la distribución y acceso efectivos de suministros esenciales, o si la pandemia afecta la productividad del sector agrícola.
+Aunque no estamos al tanto de información de calidad sobre los efectos de suplementos nutricionales en el riesgo o gravedad de COVID-19, la evidencia existente indica que suplementos de varios nutrimentos puede reducir el riesgo o la gravedad de algunas infecciones virales, especialmente en personas con fuentes dietéticas inadecuadas. Por lo tanto, es prudente sugerir que se evite el consumo inadecuado de minerales y vitaminas, y los suplementos pueden ayudar a corregir esta situación. Algunos puntos importantes:
+Tomar un  suplemento multivitamínico o multi-mineral  estándar (RDA, recomendación diaria, por sus siglas en inglés) como una medida de seguridad nutricional es razonable. Estos suplementos son relativamente accesibles (un suministro para 6 meses debe costar menos de 40 dólares) y es una forma conveniente de llenar y mantener las reservas de micronutrimentos.
+Es especialmente importante mantener niveles adecuados de  vitamina D . La vitamina D se produce normalmente en nuestra piel cuando se expone a la luz del sol, y durante el final del invierno y primavera los niveles de vitamina D en la sangre tienen a ser bajos debido a poca exposición solar. Permanecer en el interior reducirá aún más los niveles en sangre. Aunque en este momento no tenemos evidencia de que los suplementos de vitamina D reduzcan la gravedad de COVID-19, podrían hacerlo, especialmente en personas que tengan niveles bajos. Debido a que generalmente el costo de los análisis de sangre es mayor que el costo de los suplementos (y no es apropiado mientras nuestro sistema de salud está siendo sobre utilizado), y debido a que hay otros beneficios de mantener adecuados niveles de vitamina D, es razonable que la mayoría de las personas considere tomar suplementos de vitamina D.
+ 
+ 
+ 
+ Muchos de los suplementos multivitamínicos/multi-minerales que están comúnmente disponibles contienen 1000 o 2000 UI de vitamina D, lo cual es un buen objetivo. 
+ Personas con piel más oscura (que tienden a tener niveles más bajos debido a que la melanina de su piel bloquea la luz ultravioleta) pueden necesitar más vitamina D; hasta 4000 UI diarias se considera seguro. 
+ 
+ 
+ 
+ 
+			 
+				 Vitamina D en suplementos de multivitaminas/multiminerales comúnmente disponibles 
+				
+ 
+ 
+ 
+ MARCA* 
+ Vitamina D (UI) 
+ 
+ 
+ ALIVE! ADULT GUMMIES 
+ 1200 
+ 
+ 
+ CENTRAL-VITE SENIOR (RITE AID) 
+ 1000 
+ 
+ 
+ CENTRUM ADVANCED FORMULA (LEDERLE) 
+ 1000 
+ 
+ 
+ CENTRUM CHEWABLES (LEDERLE) 
+ 400 
+ 
+ 
+ CENTRUM SILVER (LEDERLE) 
+ 1000 
+ 
+ 
+ CENTRUM SILVER MEN 50+ (LEDERLE) 
+ 1000 
+ 
+ 
+ CENTRUM SILVER WOMEN 50+ (LEDERLE) 
+ 1000 
+ 
+ 
+ DAILY MULTIPLE TABLETS FOR MEN (CVS) 
+ 700 
+ 
+ 
+ DAILY MULTIPLE TABLETS FOR MEN 50+ (CVS) 
+ 400 
+ 
+ 
+ DAILY MULTIPLE TABLETS FOR WOMEN (CVS) 
+ 1000 
+ 
+ 
+ DAILY MULTIPLE TABLETS FOR WOMEN 50+ (CVS) 
+ 1000 
+ 
+ 
+ EQUATE COMPLETE MULTIVITAMIN ADULTS 50+ 
+ 1000 
+ 
+ 
+ EQUATE MEN’S ONE DAILY 
+ 700 
+ 
+ 
+ EQUATE WOMEN’S ONE DAILY 
+ 1000 
+ 
+ 
+ MEGA MEN (GNC) 
+ 800 
+ 
+ 
+ MULTI FOR HER TABLET (NATURE MADE) 
+ 1000 
+ 
+ 
+ MULTI FOR HIM 50+ NO IRON (NATURE MADE) 
+ 1000 
+ 
+ 
+ ONE A DAY MEN’S 
+ 700 
+ 
+ 
+ ONE A DAY MEN’S 50+ 
+ 700 
+ 
+ 
+ ONE A DAY VITACRAVES ADULT MULTI GUMMIES 
+ 800 
+ 
+ 
+ ONE A DAY VITACRAVES MEN’S MULTIGUMMIES 
+ 400 
+ 
+ 
+ ONE A DAY VITACRAVES WOMEN’S MULTIGUMMIES 
+ 800 
+ 
+ 
+ ONE A DAY WOMEN’S 
+ 1000 
+ 
+ 
+ ONE A DAY WOMEN’S 50+ 
+ 1000 
+ 
+ 
+ PRENATAL Multi + DHA SOFTGELS (NATURE MADE) 
+ 1000 
+ 
+ 
+ SIGNATURE ADULT GUMMIES (KIRKLAND) 
+ 800 
+ 
+ 
+ SIGNATURE-DAILY MULTI-VITAMIN/MINERAL (KIRKLAND) 
+ 800 
+ 
+ 
+ SPECTRAVITE SENIOR (CVS) 
+ 1000 
+ 
+ 
+ ULTRA MEGA FOR WOMEN (GNC) 
+ 1200 
+ 
+ 
+ WOMEN’S ULTRA MEGA 50 PLUS  (GNC) 
+ 1200 
+ 
+ 
+ 
+ *La inclusión de marcas de suplementos en esta lista es para referencia y no constituye un endoso. El “Nutrition Source” no endosa ninguna marca en específico. 
+
+			 
+			 
+ 
+ Si no hay suplementos de vitamina D disponibles, una opción es aprovechar un poco de la luz solar, que ahora está empezando a ser suficientemente intensa como para producir vitamina D. Exponga la mayor cantidad de piel posible durante el mediodía y comience con periodos cortos, teniendo mucho cuidado de evitar quemaduras. Quince minutos pueden producir una gran cantidad de vitamina D en piel clara; periodos 3 ó 4 veces más largos puede que se necesiten para piel oscura. Tenga en cuenta que esto es una guía a corto plazo debido a la disponibilidad limitada de suplementos de vitamina D durante la pandemia actual; y no es aconsejable a largo plazo. Dado que la exposición al sol puede contribuir al cáncer de piel, en general es importante evitar la exposición excesiva al sol o el uso de camas de bronceado.
+Muchos de los suplementos multivitamínicos/multi-minerales que están comúnmente disponibles contienen 1000 o 2000 UI de vitamina D, lo cual es un buen objetivo. 
+ Personas con piel más oscura (que tienden a tener niveles más bajos debido a que la melanina de su piel bloquea la luz ultravioleta) pueden necesitar más vitamina D; hasta 4000 UI diarias se considera seguro.
+Muchos de los suplementos multivitamínicos/multi-minerales que están comúnmente disponibles contienen 1000 o 2000 UI de vitamina D, lo cual es un buen objetivo.
+Personas con piel más oscura (que tienden a tener niveles más bajos debido a que la melanina de su piel bloquea la luz ultravioleta) pueden necesitar más vitamina D; hasta 4000 UI diarias se considera seguro.
+*La inclusión de marcas de suplementos en esta lista es para referencia y no constituye un endoso. El “Nutrition Source” no endosa ninguna marca en específico.
+Si no hay suplementos de vitamina D disponibles, una opción es aprovechar un poco de la luz solar, que ahora está empezando a ser suficientemente intensa como para producir vitamina D. Exponga la mayor cantidad de piel posible durante el mediodía y comience con periodos cortos, teniendo mucho cuidado de evitar quemaduras. Quince minutos pueden producir una gran cantidad de vitamina D en piel clara; periodos 3 ó 4 veces más largos puede que se necesiten para piel oscura. Tenga en cuenta que esto es una guía a corto plazo debido a la disponibilidad limitada de suplementos de vitamina D durante la pandemia actual; y no es aconsejable a largo plazo. Dado que la exposición al sol puede contribuir al cáncer de piel, en general es importante evitar la exposición excesiva al sol o el uso de camas de bronceado.
+En este momento, suplementos con mega dosis (mucha más cantidad que la recomendación diaria o RDA) no parecen estar justificados, y pueden resultar dañinos ocasionalmente.
+Evite cualquier suplemento que promueva declaraciones de salud exageradas. En este momento, la Administración de Alimentos y Medicamentos de Estados Unidos (FDA, por sus siglas en inglés) ha estado monitoreando y advirtiendo a las compañías que ofrecen productos fraudulentos que pretenden prevenir, diagnosticar, tratar o curar COVID-19.
+Los suplementos nutricionales no deben considerarse sustitutos de una dieta adecuada, debido a que ningún suplemento contiene todos los beneficios que brindan los alimentos saludables.
+Report of the WHO–China Joint Mission on coronavirus disease 2019 (COVID-19) .  https://www.who.int/publications-detail/report-of-the-who-china-joint-mission-on-coronavirus-disease-2019-(covid-19) . February 28, 2020
+Read SA, Obeid S, Ahlenstiel C, Ahlenstiel G. The role of zinc in antiviral immunity.  Advances in Nutrition . 2019 Jul 1;10(4):696-710.
+Hemilä H, Fitzgerald JT, Petrus EJ, Prasad A. Zinc acetate lozenges may improve the recovery rate of common cold patients: an individual patient data meta-analysis.  InOpen forum infectious diseases 2017 (Vol. 4, No. 2, p. ofx059) . US: Oxford University Press.
+Roth DE, Richard SA, Black RE. Zinc supplementation for the prevention of acute lower respiratory infection in children in developing countries: meta-analysis and meta-regression of randomized trials.  International journal of epidemiology . 2010 Jun 1;39(3):795-808.
+Chien CT, Chang WT, Chen HW, Wang TD, Liou SY, Chen TJ, Chang YL, Lee YT, Hsu SM. Ascorbate supplement reduces oxidative stress in dyslipidemic patients undergoing apheresis.  Arteriosclerosis, thrombosis, and vascular biology . 2004 Jun 1;24(6):1111-7.
+Hemilä H, Louhiala P. Vitamin C for preventing and treating pneumonia.  Cochrane database of systematic reviews . 2013(8).
+Wang Y, Lin H, Lin BW, Lin JD. Effects of different ascorbic acid doses on the mortality of critically ill patients: a meta-analysis.  Annals of intensive care . 2019 Dec 1;9(1):58.
+Hemilä H, Chalker E. Vitamin C can shorten the length of stay in the ICU: a meta-analysis.  Nutrients . 2019 Apr;11(4):708.
+Charan J, Goyal JP, Saxena D, Yadav P. Vitamin D for prevention of respiratory tract infections: A systematic review and meta-analysis.  Journal of pharmacology & pharmacotherapeutics . 2012 Oct;3(4):300.
+Urashima M, Segawa T, Okazaki M, Kurihara M, Wada Y, Ida H. Randomized trial of vitamin D supplementation to prevent seasonal influenza A in schoolchildren.  The American journal of clinical nutrition . 2010 May 1;91(5):1255-60.
+Gysin DV, Dao D, Gysin CM, Lytvyn L, Loeb M. Effect of vitamin D3 supplementation on respiratory tract infections in healthy individuals: a systematic review and meta-analysis of randomized controlled trials.  PloS one . 2016;11(9).
+Martineau AR, Jolliffe DA, Hooper RL, Greenberg L, Aloia JF, Bergman P, Dubnov-Raz G, Esposito S, Ganmaa D, Ginde AA, Goodall EC. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data.  BMJ . 2017 Feb 15;356:i6583.
+Arihiro S, Nakashima A, Matsuoka M, Suto S, Uchiyama K, Kato T, Mitobe J, Komoike N, Itagaki M, Miyakawa Y, Koido S. Randomized trial of vitamin D supplementation to prevent seasonal influenza and upper respiratory infection in patients with inflammatory bowel disease.  Inflammatory bowel diseases . 2019 May 4;25(6):1088-95.
+Zhou J, Du J, Huang L, Wang Y, Shi Y, Lin H. Preventive effects of vitamin D on seasonal influenza A in infants: a multicenter, randomized, open, controlled clinical trial.  The Pediatric infectious disease journal . 2018 Aug 1;37(8):749-54.
+Prasad AS, Beck FW, Bao B, Fitzgerald JT, Snell DC, Steinberg JD, Cardozo LJ. Zinc supplementation decreases incidence of infections in the elderly: effect of zinc on generation of cytokines and oxidative stress.  The American journal of clinical nutrition . 2007 Mar 1;85(3):837-44.
+Hunt C, Chakravorty NK, Annan G, Habibzadeh N, Schorah CJ. The clinical effects of vitamin C supplementation in elderly hospitalised patients with acute respiratory infections.  International journal for vitamin and nutrition research . 1994 Mar 2;64(3):212-9.
+Sheth AN, Patel P, Peters PJ. Influenza and HIV: lessons from the 2009 H1N1 influenza pandemic.  Current HIV/AIDS Reports . 2011 Sep 1;8(3):181-91.
+Fawzi WW, Msamanga GI, Spiegelman D, Wei R, Kapiga S, Villamor E, Mwakagile D, Mugusi F, Hertzmark E, Essex M, Hunter DJ. A randomized trial of multivitamin supplements and HIV disease progression and mortality.  New England Journal of Medicine . 2004 Jul 1;351(1):23-32.
+Sudfeld CR, Buchanan A, Ulenga N, Spiegelman D, Mtisi E, Hertzmark E, Muya AN, Sando D, Mungure E, Mizinduko M, Fawzi WW. Effectiveness of a multivitamin supplementation program among HIV-infected adults in Tanzania.  Aids . 2019 Jan 2;33(1):93-100.
+Jiamton S, Pepin J, Suttent R, Filteau S, Mahakkanukrauh B, Hanshaoworakul W, Chaisilwattana P, Suthipinittharm P, Shetty P, Jaffar S. A randomized trial of the impact of multiple micronutrient supplementation on mortality among HIV-infected individuals living in Bangkok.  Aids . 2003 Nov 21;17(17):2461-9.
+Tang AM, Graham NM, Saah AJ. Effects of micronutrient intake on survival in human immunodeficiency virus type 1 infection.  American journal of epidemiology . 1996 Jun 15;143(12):1244-56.
+Asistencia de traducción provista por Andrea López-Cepero, PhD, Ana Maafs, MEd, y Josiemer Mattei, PhD, MPH (Translation assistance provided by Andrea López-Cepero, PhD, Ana Maafs, MEd, and Josiemer Mattei, PhD, MPH).
+
+References:
+https://nutritionsource.hsph.harvard.edu/2020/03/27/seguridad-de-los-alimentos-nutricion-y-bienestar-durante-covid-19/
+https://www.hsph.harvard.edu/wafaie-fawzi/
+https://www.hsph.harvard.edu/walter-willett/
+https://nutritionsource.hsph.harvard.edu/nutrition-and-immunity/
+https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/translations/spanish_spain/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/fats-and-cholesterol/
+https://nutritionsource.hsph.harvard.edu/carbohydrates/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://nutritionsource.hsph.harvard.edu/zinc/
+https://nutritionsource.hsph.harvard.edu/vitamin-c/
+https://nutritionsource.hsph.harvard.edu/vitamin-d/
+https://nutritionsource.hsph.harvard.edu/multivitamin/
+https://nutritionsource.hsph.harvard.edu/vitamin-d/
+https://www.who.int/publications-detail/report-of-the-who-china-joint-mission-on-coronavirus-disease-2019-(covid-19)
+https://academic.oup.com/advances/article-abstract/10/4/696/5476413
+https://academic.oup.com/ofid/article-abstract/4/2/ofx059/3098578
+https://academic.oup.com/ije/article-abstract/39/3/795/628708
+https://www.ahajournals.org/doi/abs/10.1161/01.atv.0000127620.12310.89
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005532.pub3/abstract
+https://link.springer.com/article/10.1186/s13613-019-0532-9
+https://www.mdpi.com/2072-6643/11/4/708
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543548/
+https://academic.oup.com/ajcn/article-abstract/91/5/1255/4597253
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025082/
+https://www.bmj.com/content/356/bmj.i6583
+https://academic.oup.com/ibdjournal/article-abstract/25/6/1088/5270748
+https://journals.lww.com/pidj/fulltext/2018/08000/Preventive_Effects_of_Vitamin_D_on_Seasonal.5.aspx
+https://academic.oup.com/ajcn/article-abstract/85/3/837/4633003
+https://www.mv.helsinki.fi/home/hemila/CP/Hunt1994.pdf
+https://link.springer.com/article/10.1007/s11904-011-0086-4
+https://www.nejm.org/doi/pdf/10.1056/nejmoa040541
+https://journals.lww.com/aidsonline/Fulltext/2019/01020/Effectiveness_of_a_multivitamin_supplementation.10.aspx
+https://journals.lww.com/jonajournal/00002030-200311210-00008.fulltext
+https://academic.oup.com/aje/article-abstract/143/12/1244/71011

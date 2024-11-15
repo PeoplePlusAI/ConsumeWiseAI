@@ -1,0 +1,88 @@
+Title: Heart Disease
+
+Jump to: 
+– What is heart disease? 
+– Types 
+– Risk factors 
+— Calculating risk 
+– Prevention is possible
+Definition and Overview
+“Heart disease,” often used interchangeably with the term “cardiovascular disease” (CVD), describes several conditions affecting the heart, the blood vessels that nourish the heart (the coronary arteries), and the arteries that distribute blood to the brain, legs, and everywhere in-between. Heart disease afflicts or kills as many as one in two adults in the United States and other developed countries. [1]
+Types
+Two harmful internal processes underlie most forms of heart disease:
+Atherosclerosis:  atherosclerosis is the accumulation of cholesterol-filled plaque in the inner walls of an artery. It is usually accompanied by low-grade inflammation. Atherosclerosis is a slow-growing, generally silent condition that plays a key role in many types of heart disease. It can begin during teenage years, or even earlier. Atherosclerosis first appears as whitish streaks on the inner lining of artery walls. As more and more  cholesterol  enters the artery wall, these fatty streaks turn into plaques—pockets of cholesterol, white blood cells, and more. Plaque can bulge outward into the bloodstream, or inward away from the bloodstream. Large plaques can narrow the opening available for blood flow, causing chest pain, or angina, during physical exertion or stress. Large and small plaques can rupture, creating a blood clot that, if too large, can completely block blood flow in the vessels, causing a heart attack or stroke.
+Endothelial dysfunction:  the endothelium is the layer of tissue that lines the inside of arteries. A healthy endothelium works to keep an artery free from plaque or blood clots. It also allows the artery to easily widen and narrow to regulate blood flow. Smoking, high blood pressure, and other “insults” can cause the endothelium to malfunction. Endothelial dysfunction harms health directly and also contributes to atherosclerosis.
+Atherosclerosis and endothelial dysfunction  can be prevented . Halting them once they’ve started, or reversing them, is possible too, but is much harder to achieve. Atherosclerosis and endothelial dysfunction can lead to a variety of conditions:
+Coronary artery disease : atherosclerosis in one or more arteries that nourish the heart muscle. Coronary artery disease underlies:
+ 
+ Angina:  chest pain or discomfort with exertion or stress. Angina occurs when the heart’s demand for oxygen (because it is working harder) outstrips the coronary arteries’ abilities to supply part of the heart with enough oxygenated blood. 
+ Heart attack:  the complete blockage of blood flow through an artery, which prevents part of the heart muscle from receiving any oxygenated blood. Such blockages occur when a plaque ruptures and a clot forms to seal the break. If the clot is large enough, it can completely block the blood vessel. A clot can also break away and lodge in a smaller artery.
+Angina:  chest pain or discomfort with exertion or stress. Angina occurs when the heart’s demand for oxygen (because it is working harder) outstrips the coronary arteries’ abilities to supply part of the heart with enough oxygenated blood.
+Heart attack:  the complete blockage of blood flow through an artery, which prevents part of the heart muscle from receiving any oxygenated blood. Such blockages occur when a plaque ruptures and a clot forms to seal the break. If the clot is large enough, it can completely block the blood vessel. A clot can also break away and lodge in a smaller artery.
+Stroke:  essentially a brain attack. Most strokes occur when a clot blocks an artery feeding part of the brain (these are called ischemic strokes). Without a constant supply of oxygen, brain cells rapidly die. About 20% of strokes occur when a blood vessel bursts and bleeds into the brain (these are called hemorrhagic strokes).
+Heart failure:  the inability of the heart to pump blood through the body as efficiently as it should. This prevents other organs from getting as much oxygenated blood as they need to carry out their functions
+Heart arrhythmias:  potentially harmful changes in the rhythm of the heartbeat. They include ventricular fibrillation, which nearly always causes death, and atrial fibrillation, which causes fatigue and increases the risk of stroke.
+Valve disorders:  four valves inside the heart ensure a one-way flow of blood through the heart and around the body. Corrosion of a valve can cause it to leak, which makes the heart work harder. This can cause symptoms such as shortness of breath or lead to heart failure.
+Peripheral artery disease:  atherosclerosis-induced reductions in circulation to the arms, legs, kidneys, digestive system, and other parts of the body.
+Cognitive decline:  age-related memory loss and decline in thinking abilities. Although it is usually blamed on Alzheimer’s disease, a common cause is poor blood flow to the brain through atherosclerosis-narrowed arteries.
+The American Heart Association estimates that around 92.1 million American adults are living with some form of heart disease or the after-effects of stroke. [2] It’s also the number one cause of death globally: more people die annually from cardiovascular diseases than from any other cause. [3]
+Risk Factors
+Several factors influence your risk of having a heart attack or stroke, or developing another form of heart disease. Some of these you can’t change; some you can:
+Non-modifiable risk factors (risk factors you can’t change) include:  age, gender, genes, and ethnic origin. There’s also strong evidence that your early development in the womb and during childhood helps set the stage for heart health or heart disease.
+Risk factors that  can  be modified include  habits and choices  such as:  tobacco use, physical activity, and what you eat and drink.
+ 
+ Other potentially modifiable risk factors include air pollution, noise, stress, and infection, though these are not as easy for an individual to control directly.
+Other potentially modifiable risk factors include air pollution, noise, stress, and infection, though these are not as easy for an individual to control directly.
+And all of the above affect physiologic factors like blood pressure, cholesterol level, and blood sugar.
+Having a risk factor doesn’t automatically mean you will develop heart disease. But the more of them you have, the higher your odds— unless you take action .
+Calculating risk
+Several models have been developed to help individuals predict their risk of having a heart attack or developing heart disease. The American Heart Association has endorsed the use of these models in the primary prevention setting. [4]
+My Life Check  is an online health assessment tool created by the American Heart Association that encourages forming habits that will promote heart health. Based on answers to the questionnaire, one will receive recommendations, ability to log goals, and track one’s progress. It requires you to create a username and password, but is a free service.
+The  Reynolds Risk Score  is a validated tool developed from the Women’s Health Study and Physicians Health Study that predicts the risk of having a heart attack, stroke, or heart disease in the next 10 years, accounting for age, sex, smoking status, blood pressure, cholesterol, family history, and C-reactive protein levels, a marker of inflammation.
+The  ASCVD Risk Estimator Plus  is a calculator developed by the American College of Cardiology for healthcare providers to estimate the 10-year risk of an initial heart attack or stroke in patients who are 40-79 years of age, accounting for age, sex, race, cholesterol, blood pressure, and disease history. It then outlines treatment guidelines with lifestyle changes and/or medication.
+These calculators are useful for estimating the risk of developing heart disease among individuals who already have strong risk factors and who are at high risk for having a heart attack or stroke or other cardiovascular event. However, these calculators may underestimate the true lifetime burden of heart disease, especially in middle-aged adults, as more than half of all such cardiovascular events occur in individuals who aren’t classified as high risk. [5] In addition, while most American adults have low  short-term risk  of heart disease, two-thirds of them have a high  lifetime risk . [6]
+Prevention Is Possible
+Although some types of heart disease have an unknown cause or are inherited at birth, the good news is that the most common conditions like heart attacks, strokes, and high blood pressure can be largely prevented by  making healthy dietary and lifestyle choices .
+Compelling data from the Nurses’ Health Study show that women who followed a healthy lifestyle pattern were 80% less likely to develop coronary artery disease over a 14-year period compared to all other women in the study. [7]
+In a companion study, the Health Professionals Follow-up Study, men also reaped similar benefits from making healthy choices. [8]
+A healthy lifestyle pattern may prevent more than 50% of deaths due to ischemic strokes,[9] 80% of sudden cardiac deaths, [10] and 75% of all deaths due to cardiovascular disease. [11]
+Go AS, Mozaffarian D, Roger VL, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association.  Circulation . 2013;127:e6-e245.
+Stampfer MJ, Hu FB, Manson JE, Rimm EB, Willett WC. Primary prevention of coronary heart disease in women through diet and lifestyle.  N Engl J Med . 2000;343:16-22.
+Benjamin EJ, Virani SS, Callaway CW, et al. Heart disease and stroke statistics-2018 update: a report from the American Heart Association.  Circulation . 2018 Mar;135(10):e146-603.
+Cardiovascular diseases (CVDs) Fact Sheet . World Health Organization. Updated May, 2017.
+Greenland P, Alpert JS, Beller GA, et al. 2010 ACCF/AHA guideline for assessment of cardiovascular risk in asymptomatic adults: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines.  Circulation . 2010;122:e584-636.
+Polonsky TS, Greenland P. CVD screening in low-risk, asymptomatic adults: clinical trials needed.  Nat Rev Cardiol . 2012;9:599-604.
+Marma AK, Berry JD, Ning H, Persell SD, Lloyd-Jones DM. Distribution of 10-year and lifetime predicted risks for cardiovascular disease in US adults: findings from the National Health and Nutrition Examination Survey 2003 to 2006.  Circ Cardiovasc Qual Outcomes . 2010;3:8-14
+Chiuve SE, McCullough ML, Sacks FM, Rimm EB. Healthy lifestyle factors in the primary prevention of coronary heart disease among men: benefits among users and nonusers of lipid-lowering and antihypertensive medications.  Circulation . 2006;114:160-7.
+Chiuve SE, Rexrode KM, D. S, Logroscino G, Manson JE, Rimm EB. Primary prevention of stroke by healthy lifestyle.  Circulation . 2008;118:947-54.
+Chiuve SE, Fung TT, Rexrode KM, et al. Adherence to a low-risk, healthy lifestyle and risk of sudden cardiac death among women.  JAMA . 2011;306:62-9.
+van Dam RM, Li T, Spiegelman D, Franco OH, Hu FB. Combined impact of lifestyle factors on mortality: prospective cohort study in US women.  BMJ . 2008;337:a1440.
+Last reviewed August 2022
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+#definition
+#types
+#risk
+#riskcalc
+#prevent
+https://nutritionsource.hsph.harvard.edu/cholesterol/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/preventing-cvd/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/preventing-cvd/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/preventing-cvd/
+https://mlc.heart.org/
+http://www.reynoldsriskscore.org/default.aspx
+https://tools.acc.org/ASCVD-Risk-Estimator-Plus/#!/calculate/estimate/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/preventing-cvd/
+http://www.ncbi.nlm.nih.gov/pubmed/23239837
+https://www.ncbi.nlm.nih.gov/pubmed/10882764
+http://circ.ahajournals.org/content/early/2018/01/30/CIR.0000000000000558
+http://www.who.int/mediacentre/factsheets/fs317/en/
+http://www.ncbi.nlm.nih.gov/pubmed/21098428
+http://www.ncbi.nlm.nih.gov/pubmed/22889949
+http://www.ncbi.nlm.nih.gov/pubmed/20123666
+https://www.ncbi.nlm.nih.gov/pubmed/16818808
+https://www.ncbi.nlm.nih.gov/pubmed/18697819
+http://www.ncbi.nlm.nih.gov/pubmed/21730242
+http://www.ncbi.nlm.nih.gov/pubmed/18796495

@@ -1,0 +1,232 @@
+Title: A Beginner’s Guide to the Low Glycemic Diet
+
+This eating plan comes with a host of health benefits. However, it also comes with some drawbacks.
+The low glycemic (low GI) diet is based on the concept of the glycemic index (GI).
+Studies have shown that the low GI diet may result in weight loss, reduce blood sugar levels, and lower the risk of heart disease and type 2 diabetes.
+However, the way it ranks foods has been criticized for being unreliable and failing to reflect foods’ overall healthiness.
+This article provides a detailed review of the low GI diet, including what it is, how to follow it, and its benefits and drawbacks.
+
+What is the glycemic index (GI)?
+Carbohydrates are found in breads, cereals, fruits, vegetables, and dairy products. They’re an essential part of a healthy diet.
+When you eat any type of carb, your digestive system breaks it down into simple sugars that enter the bloodstream.
+Not all carbs are the same, as  different types  have unique effects on blood sugar.
+The  glycemic index (GI)  is a measurement system that ranks foods according to their effect on your blood sugar levels. It was created in the early 1980s by Dr. David Jenkins, a Canadian professor ( 1 ).
+The rates at which different foods raise blood sugar levels are ranked in comparison with the absorption of 50 grams of pure glucose. Pure glucose is used as a reference food and has a GI value of 100.
+The three GI ratings are:
+Low:  55 or fewer
+Medium:  56–69
+High:  70 or more
+Foods with a low GI value are the preferred choice. They’re slowly digested and absorbed, causing a slower and smaller rise in blood sugar levels.
+On the other hand, foods with a high GI value should be limited. They’re quickly digested and absorbed, resulting in a rapid rise and fall of blood sugar levels.
+You can use  this database  to find the GI value (and glycemic load, described below) of common foods.
+It’s important to note that foods are only assigned a GI value if they contain carbs. Hence, foods without carbs won’t be found on GI lists. Examples of these foods include:
+beef
+chicken
+fish
+eggs
+herbs
+spices
+The glycemic index (GI) is a ranking system that classifies carb-containing foods by their effect on blood sugar levels. It was created in the early 1980s by Dr. David Jenkins.
+
+Factors that affect the GI of a food
+A number of factors can influence the GI value of a food or meal, including:
+The type of sugar it contains.  There’s a misconception that all sugars have a high GI. The GI of sugar ranges from as low as 23 for fructose to up to 105 for maltose. Therefore, the GI of a food partly depends on the type of sugar it contains.
+The structure of the starch . Starch is a carb comprising two molecules — amylose and amylopectin. Amylose is difficult to digest, whereas amylopectin is easily digested. Foods with a higher amylose content will have a lower GI ( 2 ).
+How refined the carb is.  Processing methods such as grinding and rolling disrupt amylose and amylopectin molecules, raising the GI. Generally speaking, the more  processed  a food is, the higher its GI ( 2 ).
+Nutrient composition . Adding protein or fat to a meal can slow digestion and help reduce the glycemic response to a meal ( 3 ,  4 ).
+Cooking method.  Preparation and cooking techniques can affect the GI too. Generally, the longer a food is cooked, the faster its sugars will be digested and absorbed, raising the GI.
+Ripeness . Unripe fruit contains complex carbs that break down into sugars as the fruit ripens. The riper the fruit, the higher its GI. For example, an  unripe banana  has a GI of 30, whereas an overripe banana has a GI of 48 ( 5 ).
+The GI of a food or meal is influenced by a number of factors, including the type of sugar it contains, the structure of the starch, the cooking method, and the level of ripeness.
+
+The amount of carbs is also important
+The rate at which foods raise blood sugar levels depends on three factors: the types of carbs they contain, their nutrient composition, and the amount you eat.
+However, the GI is a relative measure that doesn’t take into account the amount of food eaten. It’s often criticized for this reason ( 1 ).
+To solve this, the glycemic load (GL) rating was developed.
+The GL is a measure of how a carb affects blood sugar levels, taking both the type (GI) and quantity (grams per serving) into account.
+Like the GI, the GL has three classifications:
+Low:  10 or fewer
+Medium:  11–19
+High:  20 or more
+The GI is still the most important factor to consider when following the low GI diet.
+However, the  Glycemic Index Foundation , an Australian nonprofit raising awareness about the low GI diet, recommends that people also monitor their GL and aim to keep their total daily GL under 100.
+Otherwise, the easiest way to aim for a GL under 100 is to choose low GI foods when possible and consume them in moderation.
+The glycemic load (GL) is a measure of the type and quantity of the carbs you eat. When following the low GI diet, it’s recommended that you keep your daily GL under 100.
+
+Discover more about Type 2 Diabetes
+
+Low GI diet and diabetes
+Diabetes is a complex disease that affects millions of people worldwide ( 6 ).
+Those who have diabetes are unable to process sugars effectively, which can make it difficult to maintain healthy blood sugar levels.
+However,  good blood sugar control  helps prevent and delay the onset of complications, including heart disease, stroke, and damage to the nerves and kidneys ( 7 ,  8 ,  9 ).
+A number of studies suggest that low GI diets reduce blood sugar levels in people with diabetes ( 10 ,  11 ,  12 ).
+A 2019 review of 54 studies concluded that low GI diets reduced hemoglobin A1C (a long-term marker of blood sugar control), body weight, and fasting blood sugar levels in people with prediabetes or diabetes ( 12 ).
+What’s more, some research has linked high GI diets with a greater risk of developing type 2 diabetes. One study in over 205,000 people found that those with the highest GI diets had up to a 33% greater risk of developing type 2 diabetes than those who consumed the lowest GI diets ( 13 ).
+A systematic review of 24 studies reported that for every 5 GI points, the risk of developing type 2 diabetes increased by 8% ( 14 ).
+The low GI diet may also improve pregnancy outcomes in women with  gestational diabetes , a form of diabetes that occurs during pregnancy.
+Moreover, the low GI diet has been shown to reduce the risk of  macrosomia  by 73%. This is a condition in which newborns have a birth weight over 8 pounds and 13 ounces, and it’s associated with numerous short- and long-term complications for the mother and baby ( 15 ).
+The low GI diet appears to reduce blood sugar levels in people with diabetes. Diets higher in GI have also been associated with an increased risk of type 2 diabetes.
+
+Other benefits
+Studies have shown that the low GI diet may also have other health benefits:
+Improved cholesterol levels.  One study showed that low GI diets reduce total  cholesterol  by 9.6% and LDL (bad) cholesterol by 8.6%. LDL cholesterol is also associated with an increased risk of heart disease and stroke ( 16 ,  17 ,  18 ,  19 ).
+May help you lose weight . Some evidence suggests that low GI diets can promote fat loss. However, more research is needed to determine whether low GI diets are effective for long-term weight loss ( 16 ,  20 ,  21 ).
+May reduce the risk of cancer.  Some studies suggest that people who consume high GI diets are more likely to develop certain types of cancer, including endometrial, colorectal, and breast cancer, compared with people on low GI diets ( 22 ,  23 ,  24 ).
+May reduce the risk of heart disease . Recent research has strongly associated high GI and GL diets with an increased risk of heart disease ( 24 ,  25 ).
+Low GI diets have been associated with a reduction in weight and cholesterol. On the other hand, high GI diets have been linked to heart disease and an increased risk of certain cancers.
+
+Foods to eat on the low GI diet
+There’s no need to count calories or track your protein, fat, or carbs on the low GI diet.
+Instead, the low GI diet involves swapping high GI foods for low GI alternatives.
+There are plenty of healthy and nutritious foods to choose from. You should build your diet around the following low GI foods:
+Bread:  whole grain, multigrain, rye, sourdough
+Breakfast cereals:  steel cut oats, bran flakes
+Fruit:  apples, strawberries, apricots, peaches, plums, pears, kiwi, tomatoes, and more
+Vegetables:  carrots, broccoli, cauliflower, celery, zucchini, and more
+Starchy vegetables:  sweet potatoes with an orange flesh, corn, yams, winter squash
+Legumes:  lentils, chickpeas, baked beans, butter beans, kidney beans, and more
+Pasta and noodles:  pasta, soba noodles, vermicelli noodles, rice noodles
+Rice:  basmati, Doongara, long grain, brown
+Grains:  quinoa, barley, pearl couscous, buckwheat, freekeh, semolina
+Dairy and  dairy  replacements:  milk, cheese, yogurt, coconut milk, soy milk, almond milk
+The following foods contain few or no carbs and therefore don’t have a GI value. These foods can be included as part of the low GI diet:
+Fish and seafood:  including salmon, trout, tuna, sardines, and prawns
+Other animal products:  including beef, chicken, pork, lamb, and eggs
+Nuts:  such as almonds, cashews, pistachios, walnuts, and macadamia nuts
+Fats and oils:  including olive oil, butter, and avocado
+Herbs and spices:  such as garlic, basil, dill, salt, and pepper
+To search for foods not found on this list, refer to  this database .
+The low GI diet involves swapping high GI foods for low GI alternatives. For a balanced diet, consume low GI options from each of the food groups.
+
+Foods to avoid on the low GI diet
+Nothing is strictly banned on the low GI diet.
+However, try to replace these high GI foods with low GI alternatives as much as possible:
+Bread:  white bread, bagels, naan, Turkish bread, French baguettes, Lebanese bread
+Breakfast cereals:  instant oats, Rice Krispies, Cocoa Krispies, Corn Flakes, Froot Loops
+Starchy vegetables:  Désirée and Red Pontiac potato varieties, instant mashed potatoes
+Pasta and noodles:  corn pasta and instant noodles
+Rice:  Jasmine, Arborio (used in risotto), Calrose, medium-grain white
+Dairy replacements:  rice milk and oat milk
+Fruit:  watermelon
+Savory snacks:  rice crackers, Corn Thins, rice cakes, pretzels, corn chips
+Cakes and other sweets:  scones, doughnuts, cupcakes, cookies, waffles, cakes
+Other:  jelly beans, licorice, Gatorade, Lucozade
+To follow the low GI diet, limit your intake of the high GI foods listed above and replace them with low GI alternatives.
+
+A sample low GI menu for 1 week
+This sample menu shows what 1 week on the low GI diet might look like. It even includes a few recipes from the Glycemic Index Foundation.
+Feel free to adjust this or add low GI snacks based on your own needs and preferences.
+Monday
+Breakfast:  oatmeal made with rolled oats, milk, pumpkin seeds, and chopped, fresh, low GI fruit
+Lunch:  chicken sandwich on whole grain bread, served with a salad
+Dinner:  beef stir-fry with vegetables, served with long grain rice
+Tuesday
+Breakfast:  whole grain toast with avocado, tomato, and smoked salmon
+Lunch:  minestrone soup with a slice of whole grain bread
+Dinner:  grilled fish served with steamed broccoli and green beans
+Wednesday
+Breakfast:  omelet with mushrooms, spinach, tomato, and cheese
+Lunch:  salmon, ricotta, and quinoa cups  with a salad
+Dinner:  homemade pizzas made with whole wheat bread
+Thursday
+Breakfast:  smoothie with berries, milk, Greek yogurt, and cinnamon
+Lunch:  chicken pasta salad made with whole wheat pasta
+Dinner:  homemade burgers with beef patties and vegetables on whole wheat rolls
+Friday
+Breakfast:  fruity quinoa porridge  with apple and cinnamon
+Lunch:  toasted tuna salad sandwich on whole wheat bread
+Dinner:  chicken and chickpea curry with basmati rice
+Saturday
+Breakfast:  eggs with smoked salmon and tomatoes on whole grain toast
+Lunch:  whole grain wrap with egg and lettuce
+Dinner:  grilled lamb chops with greens and mashed pumpkin
+Sunday
+Breakfast:   buckwheat pancakes with berries
+Lunch:  brown rice and tuna salad
+Dinner:  beef meatballs served with vegetables and brown rice
+The sample meal plan above shows what 1 week on the low GI diet might look like. However, you can adjust the plan to suit your taste and dietary preferences.
+
+Healthy low GI snacks
+If you find yourself hungry between meals, here are a few healthy low GI snack ideas:
+a handful of unsalted nuts
+a piece of fruit with nut butter
+carrot sticks with hummus
+a cup of berries or grapes served with a few cubes of cheese
+Greek yogurt with sliced almonds
+apple slices with almond butter or peanut butter
+a hard-boiled egg
+low GI leftovers from the night before
+Eating snacks between meals is allowed on the low GI diet. Some healthy snack ideas are listed above.
+
+Drawbacks of the low GI diet
+Although the low GI diet has several benefits, it also has a number of drawbacks.
+First, the GI doesn’t provide a complete nutritional picture. It’s important to also consider the  fat ,  protein ,  sugar , and  fiber  contents of a food, regardless of its GI.
+For example, the GI of frozen french fries is 75. Some varieties of baked potato, a healthier alternative, have a GI of 93 or more.
+In fact, there are many unhealthy low GI foods, such as a Twix bar (GI 44) and ice cream (GI 27–55 for low fat versions).
+Another drawback is that the GI measures the effect of a single food on blood sugar levels. However, most foods are consumed as part of a larger mixed meal, making the GI difficult to predict in these circumstances ( 26 ).
+Lastly, as mentioned earlier, the GI doesn’t take into account the number of carbs you eat. However, this is an important factor in determining their effect on your blood sugar levels.
+For example, watermelon has a high GI of 72–80 and therefore wouldn’t be considered the best option when following a low GI diet.
+However, watermelon also has a low carb content, containing under 8 grams of carbs per 100 grams. In fact, a typical serving of watermelon has a low GL of 4–5 and a minimal effect on blood sugar levels ( 27 ).
+This highlights that using GI in isolation may not always be the best predictor of blood sugar levels. It’s important to also consider the carb content and GL of a food.
+The low GI diet has its drawbacks. The GI can be difficult to calculate, it doesn’t always reflect the healthiness of a food, and it doesn’t take into account the number of carbs consumed.
+
+The bottom line
+The low glycemic (low GI) diet involves swapping high GI foods for low GI alternatives.
+It has a number of potential health benefits, including reducing blood sugar levels, aiding weight loss, and lowering your risk of heart disease and type 2 diabetes.
+However, the diet also has multiple drawbacks.
+At the end of the day, it’s important to consume a healthy, balanced diet based on a variety of  whole and unprocessed foods , regardless of their GI.
+Read this article in Spanish .
+
+References:
+
+https://www.healthline.com/nutrition/good-carbs-bad-carbs
+https://www.healthline.com/nutrition/glycemic-index
+https://www.nature.com/articles/1602942
+http://www.glycemicindex.com/foodSearch.php
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4579564/
+https://www.healthline.com/nutrition/why-refined-carbs-are-bad
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4579564/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4994556/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5525124/
+https://www.healthline.com/nutrition/green-bananas-good-or-bad
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4837723
+https://www.nature.com/articles/1602942
+https://www.gisymbol.com/what-about-glycemic-load/
+https://www.wjgnet.com/1948-9358/full/v6/i6/850.htm
+https://www.healthline.com/nutrition/blood-sugar-spikes
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6709577/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4755100/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6497593/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5872791/
+https://www.healthline.comhttps://jandonline.org/article/S2212-2672(14)01509-3/fulltext
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31374573/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31374573/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4144100
+https://www.healthline.comhttps://care.diabetesjournals.org/content/36/12/4166.long
+https://www.healthline.com/health/gestational-diabetes
+https://www.healthline.com/health/macrosomia
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4900719
+https://www.healthline.com/health/hdl-vs-ldl-cholesterol
+https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/beneficial-effects-of-a-5week-lowglycaemic-index-regimen-on-weight-control-and-cardiovascular-risk-factors-in-overweight-nondiabetic-subjects/9F874F4969E6E179E040ACEB15A53BB0/core-reader
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/22841185
+https://www.healthline.comhttps://academic.oup.com/fampra/article/30/5/485/683184
+https://www.healthline.comhttps://academic.oup.com/eurheartj/article/38/32/2459/3745109
+https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/beneficial-effects-of-a-5week-lowglycaemic-index-regimen-on-weight-control-and-cardiovascular-risk-factors-in-overweight-nondiabetic-subjects/9F874F4969E6E179E040ACEB15A53BB0/core-reader
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019781/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30460737/
+https://www.nature.com/articles/s41598-017-09498-2
+https://www.healthline.comhttps://link.springer.com/article/10.1007%2Fs10549-011-1343-3
+https://www.healthline.comhttps://academic.oup.com/ajcn/article/87/3/627/4633329
+https://www.healthline.comhttps://academic.oup.com/ajcn/article/87/3/627/4633329
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6410335/
+http://www.glycemicindex.com/foodSearch.php
+https://www.gisymbol.com/recipes/salmon-ricotta-and-quinoa-cups-gluten-free
+https://www.gisymbol.com/recipes/fruity-quinoa-porridge
+https://www.gisymbol.com/recipes/buckwheat-pancakes-with-berries
+https://www.healthline.com/nutrition/how-much-fat-to-eat
+https://www.healthline.com/nutrition/how-much-protein-per-day
+https://www.healthline.com/nutrition/how-much-sugar-per-day
+https://www.healthline.com/nutrition/why-is-fiber-good-for-you
+https://www.healthline.comhttps://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.550
+https://www.healthline.comhttps://fdc.nal.usda.gov/fdc-app.html#/food-details/786754/nutrients
+https://www.healthline.com/nutrition/50-super-healthy-foods
+https://www.healthline.com/health/es/dieta-de-bajo-indice-glucemico/

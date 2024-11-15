@@ -1,0 +1,25 @@
+Title: Dietary fat and heart disease study is seriously misleading
+
+The journal Annals of Internal Medicine recently published a  paper  suggesting there is no evidence supporting the longstanding recommendation to limit saturated fat consumption. Media reporting on the paper included headlines such as “ No link found between saturated fat and heart disease ” and articles saying “Saturated fat shouldn’t be demonized” springing up on social media.
+However, Walter Willett, chair of the Department of Nutrition at Harvard School of Public Health, warns that the conclusions are seriously misleading, as the analysis contains major errors and omissions.
+This paper is bound to cause confusion. A central issue is what replaces saturated fat if someone reduces the amount of saturated fat in their diet. If it is replaced with refined starch or sugar, which are the largest sources of calories in the U.S. diet, then the risk of heart disease remains the same. However, if saturated fat is replaced with polyunsaturated fat or monounsaturated fat in the form of olive oil, nuts and probably other plant oils, we have much evidence that risk will be reduced.
+Dr. Willett emphasized that because this meta-analysis contains multiple serious errors and omissions, the study conclusions are misleading and should be disregarded.
+The official comment, as it appears on the  Annals of Internal Medicine website , is as follows:
+The meta-analysis of dietary fatty acids and risk of coronary heart disease by Chowdhury et al. (1) contains multiple errors and omissions, and the conclusions are seriously misleading, particularly the lack of association with N-6 polyunsaturated fat. For example, two of the six studies included in the analysis of N-6 polyunsaturated fat were wrong. The relative risks for Nurses’ Health Study (NHS) (2) and Kuopio Ischemic Heart Disease Study (KIHD) (3) were retrieved incorrectly and said to be above 1.0. However, in the 20-year follow-up of the NHS the relative risk for highest vs lowest quintile was 0.77 (95 percent CI: 0.62, 0.95); ptrend = 0.01 (the authors seem to have used the RR for N-3 alpha-linolenic acid from a paper on sudden cardiac death), and in the KIHD the relative risk was 0.39; 95% confidence interval [CI], 0.21-0.71) (the origin of the number used in the meta-analysis is unclear). Also, relevant data from other studies were not included (4 and 5).
+Further, the authors did not mention a pooled analysis (6) of the primary data from prospective studies, in which a significant inverse association between intake of polyunsaturated fat (the large majority being the N-6 linoleic acid) and risk of CHD was found. Also, in this analysis, substitution of polyunsaturated fat for saturated fat was associated with lower risk of CHD. Chowdhury et al. also failed to point out that most of the monounsaturated fat consumed in their studies was from red meat and dairy sources, and the findings do not necessarily apply to consumption in the form of nuts, olive oil, and other plant sources. Thus, the conclusions of Chowdhury et al. regarding the type of fat being unimportant are seriously misleading and should be disregarded.
+Sincerely,
+Walter Willett 
+Frank Sacks 
+Meir Stampfer
+Harvard University
+1. Chowdhury R, Warnakula S, Kunutsor S, et al. Association of dietary, circulating, and supplement fatty acids with coronary risk. Ann Intern Med 2014; 160(6):398-406. 
+ 2. Oh K, Hu FB, Manson JE, Stampfer MJ, Willett WC. Dietary fat intake and risk of coronary heart disease in women: 20 years of follow-up of the Nurses’ Health Study. Am J Epidemiol 2005;161:672-9. 
+ 3. Laaksonen DE, Nyyssonen K, Niskanen L, Rissanen TH, Salonen JT. Prediction of cardiovascular mortality in middle aged men by dietary and serum linoleic and polyunsaturated fatty acids. Arch Intern Med 2005;165:193-199. 
+ 4. de Goede J, Geleijnse JM, Boer JM, Kromhout D, Verschuren WM. Linoleic acid intake, plasma cholesterol and 10-year incidence of CHD in 20,000 middle-aged men and women in the Netherlands. Br J Nutr 2012;107:1070-6. 
+ 5. Dolecek TA. Epidemiological evidence of relationships between dietary polyunsaturated fatty acids and mortality in the multiple risk factor intervention trial. Proc Soc Exp Biol Med 1992;200:177-82. 
+ 6. Jakobsen MU, O’Reilly EJ, Heitmann BL, Pereira MA, Bälter K, Fraser GE, Goldbourt U, Hallmans G, Knekt P, Liu S, Pietinen P, Spiegelman D, Stevens J, Virtamo J, Willett WC, Ascherio A. Major types of dietary fat and risk of coronary heart disease: a pooled analysis of 11 cohort studies. Am J Clin Nutr 2009:1425-32.
+
+References:
+http://annals.org/article.aspx?articleid=1846638
+http://www.telegraph.co.uk/journalists/sarah-knapton/10703970/No-link-found-between-saturated-fat-and-heart-disease.html
+http://annals.org/

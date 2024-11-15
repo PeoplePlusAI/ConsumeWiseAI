@@ -1,0 +1,164 @@
+Title: Fiber
+
+Fiber is a  type of carbohydrate  that the body can’t digest. Though most carbohydrates are broken down into sugar molecules called glucose, fiber cannot be broken down into sugar molecules, and instead it passes through the body undigested. Fiber helps regulate the body’s use of sugars, helping to keep hunger and blood sugar in check.
+Children and adults need at least 25 to 35 grams of fiber per day for good health, but most Americans get only about 15 grams a day. Great sources are  whole grains ,  whole fruits and vegetables ,  legumes , and  nuts .
+
+Types of Fiber
+Fiber comes in two varieties, both beneficial to health:
+Soluble fiber , which dissolves in water, can help lower glucose levels as well as help lower blood cholesterol. Foods with soluble fiber include  oatmeal ,  chia seeds , nuts, beans,  lentils ,  apples , and blueberries.
+Insoluble fiber , which does not dissolve in water, can help food move through your digestive system, promoting regularity and helping prevent constipation. Foods with insoluble fibers include whole wheat products (especially wheat bran),  quinoa ,  brown rice , legumes, leafy greens like  kale ,  almonds , walnuts, seeds, and fruits with edible skins like pears and apples.
+Further defining fiber
+The National Academy of Medicine defines fiber as: 1) dietary fibers (nondigestible carbohydrates and lignans) that occur naturally in plants, and 2) functional fibers that are extracted from plants or synthetically made and are nondigestible with a beneficial health effect in humans. [1] Some types of fiber fall into both categories, such as oligosaccharides and resistant starches that may be naturally occurring or synthetically made.
+Naturally occurring plant fibers:
+Cellulose, hemicellulose  – Insoluble fiber found in cereal grains and the cell walls of many fruits and vegetables. It absorbs water and adds bulk to stool, which can have a laxative effect.
+Lignins  – Insoluble fiber found in wheat and corn bran, nuts, flaxseeds, vegetables, and unripe bananas that triggers mucus secretion in the colon and adds bulk to stools. Has laxative effect.
+Beta-glucans  – Soluble highly fermentable fiber found in oats and barley that is metabolized and fermented in the small intestine. Acts as a prebiotic. Can add bulk to stool but does not have a laxative effect. May help to normalize blood glucose and cholesterol levels.
+Guar gum  – Soluble fermentable fiber isolated from seeds. Has a viscous gel texture and is often added to foods as a thickener. It is metabolized and fermented in the small intestine. Does not have a laxative effect. May help to normalize blood sugar and cholesterol levels.
+Inulin, oligofructose, oligosaccharides, fructooligosaccharides  – Soluble fermentable fibers found in onions, chicory root, asparagus, and Jerusalem artichokes. May help to bulk stool with a laxative effect, normalize blood glucose, and act as a prebiotic. People with irritable bowel syndrome may be sensitive to these fibers that can cause bloating or stomach upset.
+Pectins  – Soluble highly fermentable fiber found in apples, berries, and other fruits. Minimal bulking or laxative effect. Due to its gelling properties, it may slow digestion and help normalize blood sugar and cholesterol levels.
+Resistant starch  – Soluble fermentable fiber found in legumes, unripe bananas, cooked and cooled pasta, and potatoes that acts as a prebiotic. Adds bulk to stools but has minimal laxative effect. May help to normalize blood sugar and cholesterol levels.
+Manufactured functional fibers, some of which are extracted and modified from natural plants:
+Psyllium  – Soluble viscous nonfermentable fiber extracted from psyllium seeds that holds onto water and softens and bulks stools. Has laxative effect and is an ingredient in over-the-counter laxatives and high-fiber cereals. May help to normalize blood sugar and cholesterol levels.
+Polydextrose and polyols  – Soluble fiber made of glucose and sorbitol, a sugar alcohol. It can increase stool bulk and have a mild laxative effect. Minimal effect on blood sugar or cholesterol levels. It is a food additive used as a sweetener, to improve texture, maintain moisture, or to increase fiber content.
+Inulin, oligosaccharides, pectins, resistant starch, gums  – Soluble fibers derived from plant foods as listed above, but are isolated or modified into a concentrated form that is added to foods or fiber supplements.
+
+Fiber and Disease
+Fiber appears to lower the risk of developing various conditions, including  heart disease ,  diabetes , diverticular disease, and constipation. Fiber’s beneficial role in the gut  microbiome  may produce anti-inflammatory effects that alleviate the chronic inflammation associated with these conditions. [2]
+Soluble fiber attracts water in the gut, forming a gel, which can slow digestion. This may help prevent blood glucose surges after eating and reduce hunger. Control of blood glucose and weight is important because these are risk factors for diabetes, a condition which doubles the risk of developing  heart disease .
+Soluble fiber may also lower blood cholesterol by interfering with bile acid production. Cholesterol is used to make bile acids in the liver. Soluble fiber binds to bile acids in the gut and excretes them from the body. Because of this reduced amount of available bile acids, the liver will pull cholesterol from the blood to make new bile acids, thereby lowering blood cholesterol. [3] A meta-analysis of 67 controlled trials found a modest benefit of dietary soluble fiber in lowering total and LDL cholesterol. [4]
+Epidemiological studies find that a high intake of dietary fiber is associated with a lower risk of heart disease and deaths from cardiovascular disease. [5-7] In large cohorts of male and female health professionals, researchers found that higher intakes of cereal fibers were associated with a lower risk of heart disease and heart attacks. [8,9] Keep in mind that cereal fiber doesn’t necessarily refer to the aisle of boxed breakfast cereals in your local supermarket. “Cereals” in these studies referred to the seeds of minimally refined  whole grains  that include the germ, bran, and endosperm. Examples are steel-cut oats, quinoa, brown rice, millet, barley, and buckwheat.
+A higher fiber intake has also been linked to a lower risk of metabolic syndrome, a combination of factors that increases the risk of developing heart disease and diabetes: high blood pressure, high insulin levels, excess weight (especially around the belly), high triglyceride levels, and low HDL (good) cholesterol. [10,11]
+Diets low in fiber, especially insoluble types, may increase the risk of type 2 diabetes (T2DM). Large cohort studies of women found that a diet low in fiber (especially lacking cereal fibers) but containing foods with a high glycemic index (causing blood glucose surges) increased the risk of developing T2DM. [12,13] Other large cohorts of male and female health professionals have found that high-fiber whole grains (brown rice, rye, oats, wheat bran) are most strongly associated with lower diabetes risk. [14,15] Fibers from fruits and vegetables do not appear to have as strong an association. [16]
+Read about what you can do to help prevent  type 2 diabetes .
+A prospective cohort study of more than 90,000 premenopausal women found that a higher fiber intake as well as eating fiber during adolescence reduced breast  cancer risk . When comparing the highest to lowest intakes of fiber, there was a 25% reduced risk of breast cancer. [32] This protection of dietary fiber on breast cancer risk was also found in a later meta-analysis of 17 prospective cohort studies when comparing highest to lowest fiber intakes. It was found protective from both premenopausal and postmenopausal breast cancers. [33]
+A high-fiber diet was also associated with a lower risk of benign breast disease, a risk factor in adolescents for the later development of breast cancer. [34]
+Earlier epidemiological studies show mixed results on the association of fiber and colorectal  cancer  (CRC). [27]
+One reason may be due to differing effects of fiber on specific subtypes of CRC. When accounting for this, fiber was found to be protective with certain subtypes. [28] A meta-analysis of prospective cohort studies found fibers from fruits, vegetables, and legumes to offer some protection from CRC, but cereal fibers showed a stronger association with CRC prevention. [29] Other later meta-analyses have also found significant associations between a high-fiber diet and lower risk of CRC. [30,31]
+Constipation is generally defined as having three or fewer bowel movements a week, difficulty or pain passing bowel movements, or small hard “pebbly” stool. Occasional bouts of constipation are common, but chronic constipation that does not resolve can lower quality of life and lead to symptoms of bloating, cramping, and even nausea. Chronic constipation increases the risk of diverticular disease and hemorrhoids.
+Lifestyle behaviors that help relieve constipation include eating more fiber from fruits, vegetables, and whole grains; drinking more water; and regular exercise. There are various reasons why fiber reduces constipation. Some types of soluble fiber bind to water, creating a gel that helps to soften and bulk stool. Insoluble fibers mildly irritate the intestinal lining, which stimulates the secretion of water and mucus to encourage movement of stool. [26] Certain fibers act as prebiotics, or food for gut bacteria, which ferments fibers into short chain fatty acids and increases water in the intestines to produce softer, easier-to-pass stools. [26]
+Because of the differing actions of various fiber types with constipation, a range of high-fiber foods from whole grains, fruits, legumes, and vegetables is recommended. It is suggested to increase fiber intake gradually, because a sudden significant increase in dietary fiber can cause bloating and cramping. Drinking more fluids while eating more fiber can also help lessen these side effects.
+Diverticulosis is a condition in which small “pouches” called diverticula develop in the lower intestine. It is one of the most common disorders of the colon in the Western world, with the highest rates in the U.S. and Europe. [17] The risk of developing diverticulosis increases with age (more than half of people over age 60 have diverticula) and is usually silent, not causing noticeable symptoms unless the pouches tear or become inflamed, leading to diverticulitis. Diverticulitis can cause persistent abdominal pain (usually in the lower left side), nausea, vomiting, and fever. Treatment is typically a brief period of no food, drinking liquids only, and antibiotic medications. In severe cases where an abscess or perforation may develop, surgery may be needed. However, most people who develop diverticulosis will not develop diverticulitis, with more recent studies estimating only 5% progressing to diverticulitis. [18]
+Research shows that a Westernized diet low in fiber and high in red meat and ultra-processed refined foods is a major contributor. [19-21] An eating pattern such as this can lead to constipation, which over time weakens the colon muscles while increasing pressure when trying to defecate; small pouches can form within these weak spots. It can also lead to an increase in harmful intestinal bacteria, causing inflammation and further increasing the risk of diverticular disease. [17,20]
+Large cohort studies show a protective effect of fiber on diverticular disease, particularly fibers from fruits, cereal grains, and vegetables. [22,23] A cohort of more than 43,000 men from the Health Professionals Follow-up Study found a protective effect of dietary fiber from diverticulitis, especially cellulose, a type of insoluble fiber. [24] Cellulose is found in the skins of fruits, leafy vegetables, root vegetables, legumes, and wheat bran. A Nurses’ Health Study following more than 50,000 women found that those with the highest fiber intakes (25 or more grams daily) had a 13% lower risk of diverticulitis than those who ate the least (less than 18 grams daily). [2] The protective effect came especially from fibers from cereal grains and whole fruits, but not fruit juices.
+Other factors that increase the risk of diverticular disease are increasing age, smoking, lack of exercise, use of certain medications (NSAIDs, steroids, aspirin, opioids), family history, and history of irritable bowel syndrome. [18]
+Should I avoid nuts and seeds with diverticulosis?
+Although the role of diet with diverticular disease has long been debated, a high-fiber intake with a focus on whole grains, fruits, and vegetables has been found to have a strong association with decreased risk of diverticular disease and diverticulitis. [18] When it comes to nuts and popcorn, research following more than 47,000 men from the Health Professionals Follow-up Study actually found a  lower  risk of diverticulitis when eating these foods. [25] Including these foods also did not increase the risk of developing new diverticulosis or diverticular complications.
+
+
+Bottom Line
+There are many types of dietary fibers that come from a range of plant foods. It’s important to not hyperfocus on a particular fiber because of its specific proposed action, as each type offers some level of health benefit. Therefore, eating a wide variety of plant foods like  fruits ,  vegetables ,  whole grains ,  legumes ,  nuts , and seeds to reach the fiber recommendation of 25-35 grams daily best ensures reaping those benefits.
+Some tips for increasing fiber intake:
+Eat  whole fruits  instead of drinking  fruit juices .
+Replace white rice, bread, and pasta with minimally processed  brown rice  and  other whole grains  like barley, millet, amaranth, farro, and
+Add high-fiber foods to current meals: 1-2 tablespoons of  almonds , ground flaxseeds, or  chia seeds  to cereals;  diced vegetables  to casseroles, stir-fried dishes, and soups.
+For breakfast, choose cereals that have a whole grain as their first ingredient. Another tip is to look on the  Nutrition Facts label  and choose cereals with 20% or higher of the Daily Value (DV) for fiber.
+Snack on crunchy raw vegetables or a handful of almonds instead of chips and crackers.
+Substitute beans or legumes for meat two to three times a week in chili and soups.
+If it is difficult to eat enough fiber through food, a fiber supplement such as psyllium or methylcellulose powders or wafers can be used. They can help bulk and soften stool so it is easier to pass. However, fiber supplements are not intended to completely replace high-fiber foods.
+Institute of Medicine 2005. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. Washington, DC: The National Academies Press.  https://doi.org/10.17226/10490 .
+Ma W, Nguyen LH, Song M, Jovani M, Liu PH, Cao Y, Tam I, Wu K, Giovannucci EL, Strate LL, Chan AT. Intake of dietary fiber, fruits, and vegetables, and risk of diverticulitis.  The American journal of gastroenterology . 2019 Sep;114(9):1531.  *Disclosure: Andrew T. Chan receives consulting fees from Janssen, Pfizer Inc., and Bayer Pharma AG for work unrelated to the topic of this manuscript.
+Jesch ED, Carr TP. Food ingredients that inhibit cholesterol absorption.  Preventive nutrition and food science . 2017 Jun;22(2):67.
+Brown L, Rosner B, Willett WW, Sacks FM. Cholesterol-lowering effects of dietary fiber: a meta-analysis.  The American journal of clinical nutrition . 1999 Jan 1;69(1):30-42.
+Pereira MA, O’Reilly E, Augustsson K, Fraser GE, Goldbourt U, Heitmann BL, Hallmans G, Knekt P, Liu S, Pietinen P, Spiegelman D. Dietary fiber and risk of coronary heart disease: a pooled analysis of cohort studies.  Archives of internal medicine . 2004 Feb 23;164(4):370-6.
+Acosta S, Johansson A, Drake I. Diet and lifestyle factors and risk of atherosclerotic cardiovascular disease—a prospective cohort study.  Nutrients . 2021 Nov;13(11):3822.
+Yang Y, Zhao LG, Wu QJ, Ma X, Xiang YB. Association between dietary fiber and lower risk of all-cause mortality: a meta-analysis of cohort studies.  American journal of epidemiology . 2015 Jan 15;181(2):83-91.
+Rimm EB, Ascherio A, Giovannucci E, Spiegelman D, Stampfer MJ, Willett WC. Vegetable, fruit, and cereal fiber intake and risk of coronary heart disease among men.  JAMA . 1996 Feb 14;275(6):447-51.
+AlEssa HB, Cohen R, Malik VS, Adebamowo SN, Rimm EB, Manson JE, Willett WC, Hu FB. Carbohydrate quality and quantity and risk of coronary heart disease among US women and men.  The American journal of clinical nutrition . 2018 Feb 1;107(2):257-67.
+McKeown NM, Meigs JB, Liu S, Wilson PW, Jacques PF. Whole-grain intake is favorably associated with metabolic risk factors for type 2 diabetes and cardiovascular disease in the Framingham Offspring Study.  The American journal of clinical nutrition . 2002 Aug 1;76(2):390-8.
+McKeown NM, Meigs JB, Liu S, Saltzman E, Wilson PW, Jacques PF. Carbohydrate nutrition, insulin resistance, and the prevalence of the metabolic syndrome in the Framingham Offspring Cohort.  Diabetes care . 2004 Feb 1;27(2):538-46.
+Schulze MB, Liu S, Rimm EB, Manson JE, Willett WC, Hu FB. Glycemic index, glycemic load, and dietary fiber intake and incidence of type 2 diabetes in younger and middle-aged women.  The American journal of clinical nutrition . 2004 Aug 1;80(2):348-56.
+Krishnan S, Rosenberg L, Singer M, Hu FB, Djoussé L, Cupples LA, Palmer JR. Glycemic index, glycemic load, and cereal fiber intake and risk of type 2 diabetes in US black women.  Archives of Internal Medicine . 2007 Nov 26;167(21):2304-9.
+Hu Y, Ding M, Sampson L, Willett WC, Manson JE, Wang M, Rosner B, Hu FB, Sun Q. Intake of whole grain foods and risk of type 2 diabetes: results from three prospective cohort studies.  BMJ . 2020 Jul 8;370. *Author disclosure: FBH reports grants from California Walnut Commission, personal fees from Metagenics, personal fees from Standard Process, and personal fees from Diet Quality Photo Navigation, outside the submitted work.
+Kyrø C, Tjønneland A, Overvad K, Olsen A, Landberg R. Higher whole-grain intake is associated with lower risk of type 2 diabetes among middle-aged men and women: the Danish Diet, Cancer, and Health Cohort.  The Journal of nutrition . 2018 Sep 1;148(9):1434-44.
+Weickert MO, Pfeiffer AF. Impact of dietary fiber consumption on insulin resistance and the prevention of type 2 diabetes.  The Journal of nutrition . 2018 Jan 1;148(1):7-12.
+Boynton W, Floch M. New strategies for the management of diverticular disease: insights for the clinician.  Therapeutic Advances in Gastroenterology . 2013 May;6(3):205-13.
+Hawkins AT, Wise PE, Chan T, Lee JT, Mullaney TG, Wood V, Eglinton T, Frizelle F, Khan A, Hall J, Ilyas MM. Diverticulitis–An Update from the Age Old Paradigm.  Current problems in surgery . 2020 Oct;57(10):100862.
+Strate LL, Keeley BR, Cao Y, Wu K, Giovannucci EL, Chan AT. Western dietary pattern increases, and prudent dietary pattern decreases, risk of incident diverticulitis in a prospective cohort study.  Gastroenterology . 2017 Apr 1;152(5):1023-30.
+Cao Y, Strate LL, Keeley BR, Tam I, Wu K, Giovannucci EL, Chan AT. Meat intake and risk of diverticulitis among men.  Gut . 2018 Mar 1;67(3):466-72.  *Disclosure: ATC previously served as a consultant for Bayer Healthcare, Aralaz Pharmaceuticals and Pfizer Inc. for work unrelated to the topic of this manuscript.
+Carabotti M, Falangone F, Cuomo R, Annibale B. Role of Dietary Habits in the Prevention of Diverticular Disease Complications: A Systematic Review.  Nutrients . 2021 Apr;13(4):1288.
+Crowe FL, Balkwill A, Cairns BJ, Appleby PN, Green J, Reeves GK, Key TJ, Beral V. Source of dietary fibre and diverticular disease incidence: a prospective study of UK women.  Gut . 2014 Sep 1;63(9):1450-6.
+Mahmood MW, Abraham-Nordling M, Håkansson N, Wolk A, Hjern F. High intake of dietary fibre from fruit and vegetables reduces the risk of hospitalisation for diverticular disease.  European journal of nutrition . 2019 Sep;58(6):2393-400.
+Aldoori WH, Giovannucci EL, Rockett HR, Sampson L, Rimm EB, Willett WC. A prospective study of dietary fiber types and symptomatic diverticular disease in men.  The Journal of nutrition . 1998 Apr 1;128(4):714-9.
+Strate LL, Liu YL, Syngal S, Aldoori WH, Giovannucci EL. Nut, corn, and popcorn consumption and the incidence of diverticular disease.  JAMA . 2008 Aug 27;300(8):907-14.
+Bellini M, Tonarelli S, Barracca F, Rettura F, Pancetti A, Ceccarelli L, Ricchiuti A, Costa F, de Bortoli N, Marchi S, Rossi A. Chronic Constipation: Is a Nutritional Approach Reasonable?.  Nutrients . 2021 Oct;13(10):3386.
+Fuchs CS, Giovannucci EL, Colditz GA, Hunter DJ, Stampfer MJ, Rosner B, Speizer FE, Willett WC. Dietary fiber and the risk of colorectal cancer and adenoma in women.  New England Journal of Medicine . 1999 Jan 21;340(3):169-76.
+Hidaka A, Harrison TA, Cao Y, Sakoda LC, Barfield R, Giannakis M, Song M, Phipps AI, Figueiredo JC, Zaidi SH, Toland AE. Intake of dietary fruit, vegetables, and fiber and risk of colorectal cancer according to molecular subtypes: A pooled analysis of 9 studies.  Cancer research . 2020 Oct 15;80(20):4578-90.
+Oh H, Kim H, Lee DH, Lee A, Giovannucci EL, Kang SS, Keum N. Different dietary fibre sources and risks of colorectal cancer and adenoma: a dose–response meta-analysis of prospective studies.  British Journal of Nutrition . 2019 Sep;122(6):605-15.
+Nucci D, Fatigoni C, Salvatori T, Nardi M, Realdon S, Gianfredi V. Association between dietary fibre intake and colorectal adenoma: A systematic review and meta-analysis.  International journal of environmental research and public health . 2021 Jan;18(8):4168.
+Zhang XF, Wang XK, Tang YJ, Guan XX, Guo Y, Fan JM, Cui LL. Association of whole grains intake and the risk of digestive tract cancer: a systematic review and meta-analysis.  Nutrition journal . 2020 Dec;19(1):1-4.
+Farvid MS, Eliassen AH, Cho E, Liao X, Chen WY, Willett WC. Dietary fiber intake in young adults and breast cancer risk.  Pediatrics . 2016 Mar 1;137(3).
+Farvid MS, Spence ND, Holmes MD, Barnett JB. Fiber consumption and breast cancer incidence: A systematic review and meta-analysis of prospective studies.  Cancer . 2020 Jul 1;126(13):3061-75.
+Berkey CS, Tamimi RM, Willett WC, Rosner B, Hickey M, Toriola AT, Frazier AL, Colditz GA. Adolescent alcohol, nuts, and fiber: Combined effects on benign breast disease risk in young women.  NPJ breast cancer . 2020 Nov 23;6(1):1-5.
+Last reviewed April 2022
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/carbohydrates/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/food-features/oats/
+https://nutritionsource.hsph.harvard.edu/food-features/chia-seeds/
+https://nutritionsource.hsph.harvard.edu/food-features/lentils/
+https://nutritionsource.hsph.harvard.edu/food-features/apples/
+https://nutritionsource.hsph.harvard.edu/food-features/quinoa/
+https://nutritionsource.hsph.harvard.edu/food-features/rice/
+https://nutritionsource.hsph.harvard.edu/food-features/kale/
+https://nutritionsource.hsph.harvard.edu/food-features/almonds/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/
+https://nutritionsource.hsph.harvard.edu/microbiome/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/
+https://nutritionsource.hsph.harvard.edu/cancer/
+https://nutritionsource.hsph.harvard.edu/cancer/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/drinks-to-consume-in-moderation/
+https://nutritionsource.hsph.harvard.edu/food-features/rice/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/food-features/chia-seeds/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/food-label-guide/
+https://doi.org/10.17226/10490
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6731157/
+https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5503415/
+https://academic.oup.com/ajcn/article-abstract/69/1/30/4694117
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/216689
+https://www.mdpi.com/2072-6643/13/11/3822
+https://academic.oup.com/aje/article-abstract/181/2/83/2739206
+https://jamanetwork.com/journals/jama/article-abstract/396216
+https://academic.oup.com/ajcn/article-abstract/107/2/257/4911453
+https://academic.oup.com/ajcn/article-abstract/76/2/390/4689518
+https://diabetesjournals.org/care/article-abstract/27/2/538/28275
+https://academic.oup.com/ajcn/article-abstract/80/2/348/4690317
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/413517
+https://www.bmj.com/content/370/bmj.m2206.short
+https://academic.oup.com/jn/article-abstract/148/9/1434/5054990
+https://academic.oup.com/jn/article-abstract/148/1/7/4823705
+https://journals.sagepub.com/doi/abs/10.1177/1756283X13478679
+https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7575828/
+https://www.sciencedirect.com/science/article/pii/S0016508517300069
+https://gut.bmj.com/content/67/3/466.short
+https://www.mdpi.com/2072-6643/13/4/1288
+https://gut.bmj.com/content/63/9/1450.short
+https://link.springer.com/article/10.1007/s00394-018-1792-0
+https://academic.oup.com/jn/article-abstract/128/4/714/4728863
+https://jamanetwork.com/journals/jama/article-abstract/1028647
+https://www.mdpi.com/1287222
+https://www.nejm.org/doi/full/10.1056/NEJM199901213400301
+https://cancerres.aacrjournals.org/content/80/20/4578.short
+https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/different-dietary-fiber-sources-and-risks-of-colorectal-cancer-and-adenoma-doseresponse-metaanalysis-of-prospective-studies/BDEA13DC175ACF0B446E5CC0021417FE
+https://www.mdpi.com/1073000
+https://link.springer.com/article/10.1186/s12937-020-00556-6
+https://www.publications.aap.org/pediatrics/article-split/137/3/e20151226/81373/Dietary-Fiber-Intake-in-Young-Adults-and-Breast
+https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/cncr.32816
+https://www.nature.com/articles/s41523-020-00206-4

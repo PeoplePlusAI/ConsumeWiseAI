@@ -1,0 +1,139 @@
+Title: Healthy Health Care
+
+There is a global epidemic of diet-related chronic disease. One of every five deaths globally is due to suboptimal diets, accounting for more than any other risk factor, including tobacco. Emerging evidence suggests that food and nutrition interventions in coordination with health care settings may be associated with improved health outcomes and decreased health care costs.
+Food is Medicine
+“Food is Medicine” interventions are being explored to prevent, manage, and treat illness through improved diet and lifestyle, such as medically tailored meals, medically tailored groceries (for example, food ‘farmacies’ or healthy food prescriptions), and produce prescriptions. [1] These interventions are usually implemented by clinicians; funded by health care, government or philanthropy; and are provided to patients at no or very low cost. [1]
+Medically tailored meals
+Medically tailored meals are fully prepared home-delivered meals designed by a dietitian based on individual needs determined through nutrition counseling. The target population of these meals are patients with complex medical conditions who are physically unable to shop or prepare meals. Patients participating in medically tailored meals have demonstrated a range of positive outcomes, including decreased in-patient hospital admissions, decreased overall health care costs, and increased diet quality among food-insecure individuals. [1-4]
+Medically tailored groceries
+Medically tailored groceries reach a broader range of patients than medically tailored meals, because the patient cooks and prepares food at home. For medically tailored groceries, a nutrition professional selects grocery items as part of a treatment plan for food insecure patients with diet related chronic and acute conditions (e.g., diabetes, cardiovascular disease). The patient collects non-prepared grocery items from a clinic or other community location, and cooks or prepares the food at home. Measured impact of this intervention is not as robust as medically tailored meals, but nevertheless the co-location of food pantries and hospitals/health centers are becoming more common, as well as the ability to participate in this program through food banks. [1]
+Produce prescription programs
+Produce prescription programs have the broadest impact among “food is medicine” interventions. These prescriptions are vouchers or debit cards for free or discounted produce for food insecure patients who are at risk for diet related disease (e.g, obesity, prediabetes). There have been positive outcomes related to participation in this program, including improved biomarkers among people with diabetes, decreased fast food consumption, decreased body mass index, and increased fruit and vegetable consumption. Cost-effectiveness studies have shown that a 30% subsidy incentive on fruit and vegetables would prevent nearly 2 million cardiovascular disease events and save $40 billion in health care costs. [1,5-7]
+Food is Medicine Coalition : An association of nonprofit medically tailored food and nutrition service providers.
+Massachusetts Food is Medicine State Plan, 2019
+Medically-Tailored Home-Delivered Meal Demonstration Act of 2020
+American Society of Nutrition : Food as Medicine
+Examples of medically tailored meals and groceries:
+ 
+ God’s Love We Deliver 
+ Community Servings 
+ Food Fresh Farmacy 
+ Preventive food pantry 
+ Food and Friends
+God’s Love We Deliver
+Community Servings
+Food Fresh Farmacy
+Preventive food pantry
+Food and Friends
+Healthy Hospital Environments
+Hospitals are important settings for public health efforts because they reach a large population each year, including employees, patients, and visitors. Hospitals have a significant opportunity to support healthy weight by providing healthier food and drink choices in cafeterias and vending machines and provide opportunities for physical activity.
+Best practices for supporting healthy eating and physical activity in hospitals
+Utilize pricing and point-of-purchase strategies to promote healthier choices in cafeterias and vending machines [8-15]
+Development of healthy food and beverage procurement policies for cafeterias, vending machines, concessions stands, and/or for food provided at meetings, conferences and other organizational events [8-10,16]
+Improve nutritional quality of hospital food and support a more environmentally sustainable food system by purchasing local foods, sustainable foods, serving less meat, and participating in community benefit programs [17,18]
+Create incentive-based physical activity programs for employees [8,9]
+Initiate employee wellness programs that includes promoting use of stairs and walking trails, and targeting healthy eating [8,9]
+Health Care
+Health care and health service providers are uniquely positioned to help identify patients at-risk for obesity and related chronic diseases, and implement effective clinical interventions to help patients achieve a healthy weight. Health insurers and health care systems can utilize incentives and provide support for clinicians and patients to adopt evidence-based standards of practice for prevention, screening, diagnosis, and treatment of overweight and obesity for children, adolescents, and adults. [9,17] Furthermore, working with the health care system is important to reduce disparities among the populations they serve. [17] Below are some best practices for health care, hospitals, and service providers.
+Health care providers
+Health care providers use clinical guidelines to identify patients at-risk for obesity, and recommend effective healthy eating and physical activity strategies to help patients lose weight and/or maintain weight loss [9,17,19]
+Health care providers utilize clinical preventive-service recommendations to refer patients with obesity to comprehensive, multicomponent behavioral interventions [17,20–22]
+Require that health care clinician education includes comprehensive nutrition training as well as prevention, screening, diagnosis, and treatment of obesity [1,9,17,23,24]
+Health care providers screen patients for food insecurity and connect at-risk patients with nutrition assistance programs such as SNAP, WIC, and school meals [17,25]
+Incorporating nutrition education in medical training
+Hospitals
+Hospitals provide benefits to their local communities to assess, implement and evaluation strategies to address local community needs [17,28]
+Hospitals use electronic health records to adopt standards of practice that include BMI screening, assessment, and treatment of obesity [9]
+Case Study: The Study of Technology to Accelerate Research (STAR)
+The use of Electronic Health Records (EHRs) by clinicians during primary care visits may facilitate childhood obesity management by prompting diagnosis and providing decision support tools and electronic resources and tools for evaluation, management, and follow-up care. One such intervention is The Study of Technology to Accelerate Research (STAR) program, which utilizes a point-of-care clinical decision support alert to pediatric clinicians when a child between the ages of 6-12 years measures a BMI ≥95 th  percentile during a well care visit. The alert included links to growth charts, childhood obesity screening and management guidelines, and standard clinician note templates specifically for obesity. Furthermore, clinicians were trained in motivational interviewing to negotiate follow-up weight management plans, and provided educational materials to families. Some families were assigned a health coach for individualized support. [29]
+A trial of this intervention demonstrated that children ages 6-12 years old with obesity had smaller increases in BMI after one year compared with usual care. Overall, this type of approach in the clinical primary care setting demonstrated improved quality of care, and effective support of patients and families in improving obesity-related behaviors. [29,30] Furthermore, childhood obesity interventions with electronic decision support for clinicians and self-guided behavior-change support for parents may be a more cost-effective approach than other clinical interventions targeting children with obesity. [31]
+Insurance and Medicaid
+Obesity-related screening and preventive health care services covered by insurance [9,17]
+Covering evidence-based comprehensive pediatric weight-management programs and services in Medicaid benefits [17]
+Related
+Healthy Food Environment
+Active Communities
+Healthy Workplaces
+Downer S, Berkowitz SA, Harlan TS, Olstad DL, Mozaffarian D. Food is medicine: actions to integrate food and nutrition into healthcare.  BMJ . 2020 Jun 29;369.
+Berkowitz SA, Terranova J, Hill C, Ajayi T, Linsky T, Tishler LW, DeWalt DA. Meal delivery programs reduce the use of costly health care in dually eligible Medicare and Medicaid beneficiaries.  Health Affairs . 2018 Apr 1;37(4):535-42.
+Berkowitz SA, Terranova J, Randall L, Cranston K, Waters DB, Hsu J. Association between receipt of a medically tailored meal program and health care use.  JAMA internal medicine . 2019 Jun 1;179(6):786-93.
+Berkowitz SA, Delahanty LM, Terranova J, Steiner B, Ruazol MP, Singh R, Shahid NN, Wexler DJ. Medically tailored meal delivery for diabetes patients with food insecurity: a randomized cross-over trial.  Journal of general internal medicine . 2019 Mar 15;34:396-404.
+Bryce R, Guajardo C, Ilarraza D, Milgrom N, Pike D, Savoie K, Valbuena F, Miller-Matero LR. Participation in a farmers’ market fruit and vegetable prescription program at a federally qualified health center improves hemoglobin A1C in low income uncontrolled diabetics.  Preventive medicine reports . 2017 Sep 1;7:176-9.
+Trapl ES, Smith S, Joshi K, Osborne A, Benko M, Matos AT, Bolen S. Peer reviewed: dietary impact of produce prescriptions for patients with hypertension.  Preventing chronic disease . 2018;15.
+Cavanagh M, Jurkowski J, Bozlak C, Hastings J, Klein A. Veggie Rx: an outcome evaluation of a healthy food incentive programme.  Public Health Nutrition . 2017 Oct;20(14):2636-41.
+Centers for Disease Control and Prevention. Strategies to Prevent and Manage Obesity: Healthy Hospitals. Accessed January 3, 2022.
+Committee on Accelerating Progress in Obesity Preventions; Food and Nutrition Board; Institute of Medicine.  Accelerating Progress in Obesity Prevention: Solving the Weight of the Nation . (Glickman D, Parker L, Sim LJ, Del Valle Cook H, Miller EA, eds.). National Academies Press; 2012.
+Gardner CD, Whitsel LP, Thorndike AN, Marrow MW, Otten JJ, Foster GD, Carson JA, Johnson RK. Food-and-beverage environment and procurement policies for healthier work environments.  Nutrition reviews . 2014 Jun 1;72(6):390-410.
+Block JP, Chandra A, McManus KD, Willett WC. Point-of-purchase price and education intervention to reduce consumption of sugary soft drinks.  American journal of public health . 2010 Aug;100(8):1427-33.
+Hartigan P, Patton-Ku D, Fidler C, Boutelle KN. Rethink your drink: reducing sugar-sweetened beverage sales in a children’s hospital.  Health promotion practice . 2017 Mar;18(2):238-44.
+Blake MR, Peeters A, Lancsar E, Boelsen-Robinson T, Corben K, Stevenson CE, Palermo C, Backholer K. Retailer-led sugar-sweetened beverage price increase reduces purchases in a hospital convenience store in Melbourne, Australia: a mixed methods evaluation.  Journal of the Academy of Nutrition and Dietetics . 2018 Jun 1;118(6):1027-36.
+Thorndike AN, Gelsomin ED, McCurley JL, Levy DE. Calories purchased by hospital employees after implementation of a cafeteria traffic light–labeling and choice architecture program.  JAMA Network Open . 2019 Jul 3;2(7):e196789-.
+Grech A, Allman‐Farinelli M. A systematic literature review of nutrition interventions in vending machines that encourage consumers to make healthier choices.  Obesity reviews . 2015 Dec;16(12):1030-41.
+Jilcott Pitts SB, Graham J, Mojica A, Stewart L, Walter M, Schille C, McGinty J, Pearsall M, Whitt O, Mihas P, Bradley A. Implementing healthier foodservice guidelines in hospital and federal worksite cafeterias: barriers, facilitators and keys to success.  Journal of human nutrition and dietetics . 2016 Dec;29(6):677-86.
+Trust for America’s Health. The State of Obesity: Better policies for a healthier America 2020. 2020;20(September 2020):98. Accessed January 3, 2022.
+Health care without harm.  Healthy food in Health Care . 2019. Accessed January 3, 2022.
+Jensen MD, Ryan DH, Apovian CM, Ard JD, Comuzzie AG, Donato KA, Hu FB, Hubbard VS, Jakicic JM, Kushner RF, Loria CM. 2013 AHA/ACC/TOS guideline for the management of overweight and obesity in adults: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines and The Obesity Society.  Circulation . 2014 Jun 24;129(25_suppl_2):S102-38.
+Curry SJ, Krist AH, Owens DK, Barry MJ, Caughey AB, Davidson KW, Doubeni CA, Epling JW, Grossman DC, Kemper AR, Kubik M. Behavioral weight loss interventions to prevent obesity-related morbidity and mortality in adults: US Preventive Services Task Force recommendation statement.  JAMA . 2018 Sep 18;320(11):1163-71.
+O’Connor EA, Evans CV, Burda BU, Walsh ES, Eder M, Lozano P. Screening for obesity and intervention for weight management in children and adolescents: evidence report and systematic review for the US Preventive Services Task Force.  JAMA . 2017 Jun 20;317(23):2427-44.
+Grossman DC, Bibbins-Domingo K, Curry SJ, Barry MJ, Davidson KW, Doubeni CA, Epling JW, Kemper AR, Krist AH, Kurth AE, Landefeld CS. Screening for obesity in children and adolescents: US Preventive Services Task Force recommendation statement.  JAMA . 2017 Jun 20;317(23):2417-26.
+Bradley DW, Dietz WH, and the Provider Training Education Workgroup.  Provider Competencies for the Prevention and Management of Obesity . 2017;(June).
+Broad Leib EM, Shapiro M, Chan A, Negoweitti N, Borzi L, Etessami S, Hartmann T, Hoover A, Jeong J, Loucks S.  Doctoring our diet: policy tools to include nutrition in US medical training . Food Law and Policy Clinic; Harvard Law School: Boston, MA, USA. 2019:1-35.
+Council On Community Pediatrics, Committee On Nutrition, Gitterman BA, Chilton LA, Cotton WH, Duffee JH, Flanagan P, Keane VA, Krugman SD, Kuo AA, Linton JM. Promoting food security for all children.  Pediatrics . 2015 Nov 1;136(5):e1431-8.
+Crowley J, Ball L, Hiddink GJ. Nutrition in medical education: a systematic review.  The Lancet Planetary Health . 2019 Sep 1;3(9):e379-89.
+Devries S, Dalen JE, Eisenberg DM, Maizes V, Ornish D, Prasad A, Sierpina V, Weil AT, Willett W. A deficiency of nutrition education in medical training.  The American journal of medicine . 2014 Sep 1;127(9):804-6.
+James J. Nonprofit hospitals’ community benefit requirements. Washington, DC, USA: Project HOPE; 2016 Feb 25.
+Taveras EM, Marshall R, Horan CM, Gillman MW, Hacker K, Kleinman KP, Koziol R, Price S, Simon SR. Rationale and design of the STAR randomized controlled trial to accelerate adoption of childhood obesity comparative effectiveness research.  Contemporary Clinical Trials . 2013 Jan 1;34(1):101-8.
+Taveras EM, Marshall R, Kleinman KP, Gillman MW, Hacker K, Horan CM, Smith RL, Price S, Sharifi M, Rifas-Shiman SL, Simon SR. Comparative effectiveness of childhood obesity interventions in pediatric primary care: a cluster-randomized clinical trial.  JAMA pediatrics . 2015 Jun 1;169(6):535-42.
+Sharifi M, Franz C, Horan CM, Giles CM, Long MW, Ward ZJ, Resch SC, Marshall R, Gortmaker SL, Taveras EM. Cost-effectiveness of a clinical childhood obesity intervention.  Pediatrics . 2017 Nov 1;140(5).
+Last reviewed January 2022
+
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+http://www.fimcoalition.org/
+https://static1.squarespace.com/static/5c82ced1a56827591142c3df/t/5d083d61a02ad90001121ce4/1560821124217/MA+Food+is+Medicine+State+Plan+2019.pdf
+https://www.congress.gov/bill/116th-congress/house-bill/6774/titles
+https://nutrition.org/food-as-medicine/
+https://www.glwd.org/
+https://www.servings.org/
+https://www.geisinger.org/freshfoodfarmacy
+https://www.bmc.org/nourishing-our-community/preventive-food-pantry
+https://foodandfriends.org/
+https://www.glwd.org/
+https://www.servings.org/
+https://www.geisinger.org/freshfoodfarmacy
+https://www.bmc.org/nourishing-our-community/preventive-food-pantry
+https://foodandfriends.org/
+https://nutritionsource.hsph.harvard.edu/healthy-food-environment/
+https://nutritionsource.hsph.harvard.edu/staying-active/active-communities/
+https://nutritionsource.hsph.harvard.edu/healthy-workplaces/
+https://www.bmj.com/content/369/bmj.m2482.abstract
+https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2017.0999
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2730768
+https://link.springer.com/article/10.1007/s11606-018-4716-z
+https://www.sciencedirect.com/science/article/pii/S2211335517301079
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266424/
+https://www.cambridge.org/core/journals/public-health-nutrition/article/veggie-rx-an-outcome-evaluation-of-a-healthy-food-incentive-programme/7E407BED0D9FDA2042B3A1AC9C70ACC3
+https://www.ncbi.nlm.nih.gov/books/NBK201141/
+https://academic.oup.com/nutritionreviews/article-abstract/72/6/390/1870897
+https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2009.175687
+https://journals.sagepub.com/doi/abs/10.1177/1524839915625215
+https://www.sciencedirect.com/science/article/pii/S2212267217310055
+https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2737840
+https://onlinelibrary.wiley.com/doi/abs/10.1111/obr.12311
+https://onlinelibrary.wiley.com/doi/abs/10.1111/jhn.12380
+https://noharm-uscanada.org/issues/us-canada/healthy-food-health-care
+https://www.ahajournals.org/doi/abs/10.1161/01.cir.0000437739.71477.ee
+https://jamanetwork.com/journals/jama/article-abstract/2702878
+https://jamanetwork.com/journals/jama/article-abstract/2632510
+https://jamanetwork.com/journals/jama/article-abstract/2632511
+https://bipartisanpolicy.org/report/provider-competencies-for-the-prevention-and-management-of-obesity/
+https://chlpi.org/wp-content/uploads/2013/12/Doctoring-Our-Diet_-September-2019-V2.pdf
+https://publications.aap.org/pediatrics/article-abstract/136/5/e1431/33896
+https://www.thelancet.com/journals/lanplh/article/PIIS2542-51961930171-8/fulltext?trk=public_post_comment-text
+https://www.amjmed.com/article/S0002-9343(14)00308-8/abstract
+https://www.sciencedirect.com/science/article/pii/S1551714412002327
+https://jamanetwork.com/journals/jamapediatrics/article-abstract/2241760
+https://publications.aap.org/pediatrics/article-abstract/140/5/e20162998/37800

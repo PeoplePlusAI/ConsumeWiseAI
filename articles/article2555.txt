@@ -1,0 +1,80 @@
+Title: What’s the Difference Between Kcal and Calories?
+
+Calories and kcal are used interchangeably and refer to the same amount of energy, but kilojoules require conversion. Usage may differ depending on where you live.
+Calories are a measure of energy. They refer to the amount of energy in foods and beverages or energy you burn while exercising.
+Depending on where you live, energy may also be measured in kilocalories (kcal) and kilojoules (kJ).
+This can create confusion, especially if you’re counting calories or comparing the calorie contents of various foods and drinks.
+This article explains what calories are and how they compare with kcal and kJ, as well as how to convert between the two.
+
+Comparing kcal and calories
+When it comes to calories, they may be “small” or “large.”
+If the “c” in calories is lowercase, it indicates a small calorie, and if it’s uppercase, a indicates a large calorie.
+A small calorie estimates the amount of energy it takes to raise the temperature of 1 gram (g), which is 0.035 ounces of water by  1°C  (or an increase of 1.8°F).
+On the other hand, a large calorie estimates the amount of energy required to raise the temperature of 1 kilogram (kg), which is 2.2 pounds of water by 1°C (or an increase of 1.8°F).
+By these definitions, 1 large calorie equals 1,000 small calories, and 1 kg equals 1,000 g.
+Experts created the term  kilocalorie  to avoid confusion between large and small calories. The prefix “kilo,” meaning 1,000, refers to a large calorie.
+However, the term small calorie is rarely used today outside of physics and chemistry research. A small calorie is such a small unit of energy that it doesn’t really pertain much to our daily lives. Because of this, we’ve come to use the word “calorie” to mean a large calorie or kilocalorie.
+In everyday language, the terms “calories” (capitalized or not) and “kcal” are used interchangeably and refer to the same amount of energy in relation to food or  energy burned with exercise .
+Therefore, you don’t need to convert them, as 1 kcal equals 1 calorie in general nutrition terms.
+
+How to convert calories to kilojoules
+Experts also express the energy from food or exercise as kilojoules (kJ).
+One calorie (kcal) equals  4.18 kJ or 4,184 joules (J) . The joule is the official  SI unit  for energy. SI units are internationally recognized units for scientific purposes, like meters, grams, and seconds.
+To convert from calories to kJ, multiply calories by 4.18. Conversely, to convert from kJ to calories, divide kJ by 4.18.
+For example, a medium-sized banana (126 g) provides  112 calories (kcal) or 468 kJ .
+When it comes to nutrition and exercise, kilocalories (kcal) and calories equal the same amount of energy. You may also express energy as kilojoules (kJ), with one calorie or kcal equaling 4.18 kJ.
+
+How are these terms used?
+Regulations require that food and beverage manufacturers display a  nutrition facts label  on their products. It lists, among other information, the  amount of energy  the item contains per serving or weight.
+The nutrition facts label informs you about the ingredients present in packaged foods and beverages. They help determine whether they contain ingredients that you may need to avoid due to an allergy, intolerance, or personal preference.
+Depending on where you live, the nutrition facts panel may express the energy value of a food or beverage in calories, kcal, kJ, or a combination of them.
+Below is a list of countries and which label they use for energy:
+United States:   calories
+Canada:   calories
+United Kingdom:   kJ and kcal
+European Union (EU):   kJ and kcal
+Australia and New Zealand:   kJ or both kJ and kcal
+China:   kJ
+Manufacturers determine the number of calories a food or beverage contains based on the amount of energy-supplying nutrients it contains.
+The three main energy-supplying nutrients are:
+protein
+carbs
+fats
+Protein and carbs each provide about  4 calories (16.7 kJ) per gram , while fat provides 9 calories per gram (37.6 kJ).
+Alcohol  also supplies  7 calories (29.3 kJ) per gram .
+Manufacturers round to the nearest 1-gram increment, so if you quantify the number of calories or kJ from each of the macronutrients, the total may be slightly different from the number listed on the nutrition label.
+Moreover, the nutrition labels of foods that contain  fiber , which is classified as a carbohydrate, may contain fewer calories than what you calculate.
+This is because fiber,  depending on the type , is either indigestible or not digested properly, thus contributing  zero or a few calories .
+Most packaged foods and beverages contain a nutrition label that lists the amount of energy the item contains in calories, kcal, kJ, or some combination of these.
+
+The bottom line
+Calories  are a measure of energy in nutrition and exercise.
+You can use Calories and kcal interchangeably and refer to the same amount of energy.
+You can also measure energy from food and exercise in kJ, with one calorie (kcal) equaling 4.18 kJ.
+
+References:
+
+https://www.ncbi.nlm.nih.gov/books/NBK499909/
+https://www.healthline.comhttps://pmc.ncbi.nlm.nih.gov/articles/PMC2238749/
+https://www.healthline.com/health/what-exercise-burns-the-most-calories
+https://www.healthline.comhttps://pmc.ncbi.nlm.nih.gov/articles/PMC2238749/
+https://www.healthline.comhttps://pmc.ncbi.nlm.nih.gov/articles/PMC7339751/
+https://www.healthline.comhttps://fdc.nal.usda.gov/fdc-app.html#/food-details/1102653/nutrients
+https://www.healthline.com/nutrition/new-nutrition-facts-label-2020
+https://www.healthline.comhttps://pmc.ncbi.nlm.nih.gov/articles/PMC8194387/
+https://www.fda.gov/food/nutrition-education-resources-materials/nutrition-facts-label
+https://www.healthline.comhttps://inspection.canada.ca/en/food-labels/labelling/industry/nutrition-labelling/elements-within-nutrition-facts-table
+https://www.food.gov.uk/business-guidance/nutrition-labelling
+https://www.healthline.comhttps://europa.eu/youreurope/business/product-requirements/food-labelling/nutrition-declaration/index_en.htm
+https://www.foodstandards.gov.au/consumer/labelling/panels
+https://www.healthline.comhttps://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=general%20rules%20for%20nutrition%20labeling%20of%20prepackaged%20foods%20_beijing_china%20-%20peoples%20republic%20of_1-9-2013.pdf
+https://www.healthline.com/nutrition/how-much-protein-per-day
+https://www.healthline.com/nutrition/carbohydrate-functions
+https://www.healthline.com/nutrition/how-much-fat-to-eat
+https://www.ncbi.nlm.nih.gov/books/NBK538294/
+https://www.healthline.com/nutrition/alcohol-good-or-bad
+https://www.nhs.uk/live-well/alcohol-advice/calories-in-alcohol/
+https://www.healthline.com/health/food-nutrition/how-much-fiber-per-day
+https://www.healthline.com/nutrition/different-types-of-fiber
+https://www.fda.gov/media/113663/download
+https://www.healthline.com/nutrition/how-many-calories-per-day

@@ -1,0 +1,22 @@
+Title: Unpacking WHO guidelines on non-sugar sweeteners
+
+The World Health Organization (WHO) released a new  guideline on non-sugar sweeteners  (NSS)—often referred to as  artificial or low-calorie sweeteners —that advises against use of NSS to control body weight or reduce the risk of noncommunicable diseases. After conducting a research review, they concluded that replacing sugar sweeteners with NSS did not promote weight loss in the  long term  in adults and children. However, clinical trial data showed that higher intakes of NSS resulted in lower calorie intake when they replaced sugar and sugar-sweetened foods/beverages. There was no significant effect of NSS on hunger or satiety levels. Some trials showed less hunger with use of NSS, but others showed a stronger appetite in participants with higher intakes of NSS-containing beverages.
+When looking at observational cohort studies, long-term use of NSS-containing beverages was associated with an increased risk of cardiovascular disease and early death in adults. A higher intake of NSS, either in beverages or added to foods, was also associated with increased risk of developing type 2 diabetes. The WHO noted that “reverse causation” may have contributed to the positive association: participants with the highest intakes of NSS tended to have a higher body mass index and obesity or metabolic risk factors, and therefore may have already been predisposed to chronic disease (for which they were choosing NSS as a health measure). No association was found with intakes of NSS-containing beverages and cancer or cancer deaths.
+Based on these findings, WHO advised that people work to lower the overall sweetness in the diet starting early in life, as NSS do not provide nutritional value.  Examples of NSS  include acesulfame K, aspartame, saccharin, sucralose, and stevia. Their analysis did not study sugar alcohols (polyols) such as maltitol, xylitol, and sorbitol that are added to many foods and beverages.
+Harvard Chan School experts agreed with the WHO recommendation to tame our sweet tooths, but had some criticisms that the meta-analysis excluded certain large studies. [1-3] The omitted cohort studies—which included more than 100,000 people—found that increasing consumption of artificially sweetened beverages at the expense of sugar-sweetened beverages was associated with less weight gain over time, consistent with findings from small, short-term randomized controlled trials. Based on statistical modeling, it was estimated that replacing one serving of sugar-sweetened beverage with an artificially sweetened beverage was associated with a 4% lower risk of total mortality, 5% lower risk of cardiovascular disease-related mortality, and 4% lower risk of cancer-related mortality.
+Of course, when it comes to  optimal beverages  for long-term health, we should look to other options.  Frank Hu , Chair of the Department of Nutrition at the Harvard T.H. Chan School of Public Health, explains that “for habitual consumers of sugar-sweetened beverages, artificially sweetened beverages can be used as a temporary replacement, although the best choices would be water and unsweetened coffee or tea.”
+Related
+Spotlight on aspartame
+Mozaffarian D, Hao T, Rimm EB, Willett WC, Hu FB. Changes in diet and lifestyle and long-term weight gain in women and men.  New England journal of medicine . 2011 Jun 23;364(25):2392-404.
+Pan A, Malik VS, Hao T, Willett WC, Mozaffarian D, Hu FB. Changes in water and beverage intake and long-term weight changes: results from three prospective cohort studies.  International journal of obesity . 2013 Oct;37(10):1378-85.
+Malik VS, Li Y, Pan A, De Koning L, Schernhammer E, Willett WC, Hu FB. Long-term consumption of sugar-sweetened and artificially sweetened beverages and risk of mortality in US adults.  Circulation . 2019 Apr 30;139(18):2113-25.
+
+References:
+https://www.who.int/publications/i/item/9789240046429
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/artificial-sweeteners/
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/artificial-sweeteners/
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/
+https://www.hsph.harvard.edu/profile/frank-b-hu/
+https://www.nejm.org/doi/full/10.1056/nejmoa1014296
+https://www.nature.com/articles/ijo2012225
+https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.118.037401

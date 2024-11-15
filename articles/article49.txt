@@ -1,0 +1,116 @@
+Title: How Many Calories Do You Burn Walking 10,000 Steps?
+
+Walking regularly has many benefits.
+It’s an easy and cost-effective form of physical activity, plus, taking enough steps each day could benefit your health by reducing your risk of depression, aiding in weight management, and improving brain health, bone health, and overall quality of life ( 1 ).
+In recent years,  walking 10,000 steps per day  has become a popular recommendation used to promote regular physical activity.
+But you may wonder why exactly 10,000 steps is recommended and whether this guideline can help you reach your fitness goals.
+This article takes a closer look at daily step recommendations and how many calories you burn by taking 10,000 steps.
+
+Why does taking 10,000 steps matter?
+For many people, walking 10,000 steps equates to roughly 5 miles (8.05 kilometers).
+The specific number of 10,000 can be traced back to a slogan used by walking clubs in Japan as early as the 1960s ( 2 ,  3 ).
+What’s more, current research also supports the claim that walking 10,000 steps is good for  weight loss  and overall health ( 4 ).
+In a study in 35 adults with a  body mass index (BMI)  of 31.7–44.9, participants received dietary counseling and gradually increased their daily steps until reaching 10,000. After the 6-month intervention, participants’ BMIs significantly decreased by 3.7% ( 5 ).
+Other body measurements improved as well.
+That said, this study did not differentiate the effects of dietary counseling from those of walking. Therefore, it’s not possible to attribute the decrease in BMI to walking alone.
+Taking 10,000 steps each day is not an official health recommendation, but it has shown to benefit weight loss and overall health.
+
+How many calories does taking 10,000 steps burn?
+Perhaps surprisingly, it’s not simple to measure exactly how many calories you burn by taking 10,000 steps.
+In fact, each person likely burns a  different number of calories  every time they take those steps because the number of calories you burn through physical activity is affected by many factors.
+It has long been believed that one of the main factors affecting how many calories you burn during physical activity is body size and weight ( 6 ,  7 ).
+Because it takes more energy to move a larger body than it does to move a smaller body, the theory is that more calories are burned during the movement of a larger body ( 6 ).
+However, emerging research is suggesting that after adjusting for body weight, the number of calories burned through physical activity in people with a higher body weight might not be higher after all ( 8 ).
+Therefore, more research is needed to determine how weight affects the number of calories burned while taking steps.
+Other factors that could influence how many calories you burn by taking 10,000 steps are  how quickly you move  and on what type of surface.
+For example, if you’re walking briskly uphill at a pace of 5 miles (8 kilometers) per hour, you could be burning more than 7 calories per minute.
+On the other hand, if you’re walking leisurely downhill at a rate of 3–4 miles (5–6 kilometers) per hour, you might be burning between 3.5 and 7 calories per minute ( 9 ).
+A study in young adults found that walking 10,000 steps at a pace of 4 miles (6 kilometers) per hour would burn an average of 153 calories more than walking the same distance at 2 miles (3 kilometers) per hour ( 10 ).
+An often overlooked factor that contributes to how many calories you burn is genetics ( 11 ,  12 ,  13 ,  14 ).
+One study measured the calories burned during physical activity in 8 sets of twins for 2 weeks and concluded that genetic differences were responsible for as much as 72% of the variance in calories burned during physical activity in daily life ( 15 ).
+Plus, a study in rats found that constantly active and high-capacity runners transmitted more heat in their muscles during physical activity, leading to  more calories burned , compared with low-capacity runners that were less active ( 16 ).
+Still, some of the research on this topic is of an older date, and more current studies are needed to understand how genetics influence how many calories you burn.
+The number of calories you burn by taking 10,000 steps is likely affected by factors like weight, genetics, and the pace and terrain on which you walk.
+
+How to estimate calories burned
+One of the best ways to calculate how many calories you burn by taking 10,000 steps is to use an equation that considers your:
+weight
+exercise intensity
+duration of exercise
+A simple equation that considers these factors that you can use to calculate your calories burned while walking — and for other exercises — is ( 17 ):
+calories burned per minute = 0.0175 x Metabolic Equivalent of Task (MET) x weight in kilograms
+To use this equation you will need to:
+MET stands for the  Metabolic Equivalent of Task . A MET represents the rate at which you burn calories while engaging in a certain physical activity. Different activities at different intensities have their own MET equivalent ( 18 ).
+A list of evidence-based common MET equivalents can be found  here  ( 19 ).
+For walking, an average MET equivalent ranges from 2.0 to 10.0 depending on speed and terrain ( 20 ).
+If you’re used to calculating your weight in pounds, it’s easy to convert your number to kilograms.
+Simply divide your weight in pounds by 2.2:
+weight in pounds / 2.2 = weight in kilograms
+Since this equation calculates calories burned per minute, you need to multiply the result by the total number of minutes it took you to take the 10,000 steps to determine the total calories you burned.
+For example, if it took you 1.5 hours (90 minutes) to take 10,000 steps, your final equation would look like this:
+calories burned = 0.0175 x MET x weight in kilograms x 90 (minutes)
+Once you have determined your MET, your weight in kilograms, and the total number of minutes it took you to take 10,000 steps, you can plug your data into the equation and complete your estimate.
+Here are a few examples of how the calories you burn could vary for different body weights and step intensities. In these examples, it’s assumed that each person walked for 1 full hour (60 minutes) regardless of the speed.
+You can easily estimate the number of calories you burn taking 10,000 steps with a simple equation that considers your weight, walking speed and intensity, and the time it took you to walk 10,000 steps.
+
+Will taking 10,000 steps help you reach your fitness goals?
+Overall, taking 10,000 steps each day appears to be one way to improve overall health and wellness.
+Research conducted on walking programs suggests that it’s a safe and effective exercise that may aid weight loss and improve overall health ( 2 ,  21 ,  22 ,  23 ,  24 ).
+Still, taking 10,000 steps each day may not be right for everyone, for example, because of a lack of time or joint problems. That said, even walking fewer than 10,000 steps each day has been shown to have benefits ( 3 ,  4 ,  5 ,  25 ).
+One study in women found that a 12-week walking program in which participants walked 50–70 minutes on 3 days a week could  reduce abdominal obesity  and improve blood markers of insulin resistance ( 26 ).
+Current recommendations suggest walking for a minimum of 30 minutes at least 5 days a week. Taking 10,000 steps a day is one way to meet that goal ( 27 ,  28 ).
+Walking 10,000 steps each day could help you meet your weekly physical activity recommendations. However, taking any number of steps each day is still more beneficial to your health than taking none at all.
+
+The bottom line
+Taking 10,000 steps each day may help you get the recommended 30 minutes of  physical activity  at least 5 days per week.
+Yet, taking 10,000 steps daily may not be realistic for everyone. Plus, fewer steps can still improve your health.
+The number of calories that you burn by taking 10,000 steps varies from person to person — and even day to day — as factors like body weight, genetics, and walking speed could increase or decrease the number of calories burned.
+To estimate how many calories you have burned, use an equation that considers your body weight, walking intensity, and the time it took you to complete the 10,000 steps.
+All in all, walking regularly may offer  many health benefits  — whether you walk 10,000 steps or fewer.
+
+References:
+
+https://www.healthline.comhttps://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf#page=31
+https://www.healthline.comhttp://healthline.com/health/how-many-steps-a-day
+https://www.ncbi.nlm.nih.gov/pubmed/14715035
+https://www.ncbi.nlm.nih.gov/pubmed/18562971
+https://www.healthline.com/nutrition/walking-for-weight-loss
+https://www.ncbi.nlm.nih.gov/pubmed/17152246
+https://www.healthline.com/health/body-mass-index
+https://www.ncbi.nlm.nih.gov/pubmed/27600387
+https://www.healthline.com/health/fitness-exercise/how-many-calories-do-i-burn-a-day
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636460/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3605325/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636460/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4863259/
+https://www.healthline.com/health/exercise-fitness/average-walking-speed
+https://www.cdc.gov/nccdphp/dnpa/physical/pdf/PA_Intensity_table_2_1.pdf
+https://www.tandfonline.com/doi/full/10.3109/14038190903214530
+https://www.ncbi.nlm.nih.gov/pubmed/18308349
+https://www.sciencedirect.com/science/article/abs/pii/S0195666307002541
+https://www.ncbi.nlm.nih.gov/pubmed/8357495
+https://www.ncbi.nlm.nih.gov/pubmed/11673770
+https://www.ncbi.nlm.nih.gov/pubmed/16332658
+https://www.healthline.com/health-news/fitness-lean-people-may-burn-more-calories-032514
+https://www.ncbi.nlm.nih.gov/pubmed/24398400
+http://www.ucdenver.edu/academics/colleges/medicine/sportsmed/cusm_patient_resources/Documents/Estimating%20Energy%20Expenditure.pdf
+https://www.healthline.com/health/what-are-mets
+https://www.ncbi.nlm.nih.gov/pubmed/15831804
+https://www.healthline.comhttps://sites.google.com/site/compendiumofphysicalactivities/Activity-Categories
+https://www.healthline.comhttps://journals.lww.com/acsm-msse/fulltext/2011/08000/2011_Compendium_of_Physical_Activities__A_Second.25.aspx
+https://www.healthline.comhttps://sites.google.com/site/compendiumofphysicalactivities/Activity-Categories/walking
+https://www.healthline.comhttps://link.springer.com/article/10.2165%2F00007256-200434010-00001
+https://www.ncbi.nlm.nih.gov/pubmed/17716553
+https://www.ncbi.nlm.nih.gov/pubmed/18195317
+https://www.ncbi.nlm.nih.gov/pubmed/18029834
+https://www.ncbi.nlm.nih.gov/pubmed/14768840
+https://www.ncbi.nlm.nih.gov/pubmed/18562971
+https://www.ncbi.nlm.nih.gov/pubmed/17152246
+https://www.ncbi.nlm.nih.gov/pubmed/27600387
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894114/
+https://www.healthline.com/nutrition/20-tips-to-lose-belly-fat
+https://www.ncbi.nlm.nih.gov/pubmed/25566464
+https://www.ncbi.nlm.nih.gov/pubmed/17762377
+https://www.ncbi.nlm.nih.gov/pubmed/19362695
+https://www.healthline.com/nutrition/10-benefits-of-exercise
+https://www.healthline.com/health/benefits-of-walking

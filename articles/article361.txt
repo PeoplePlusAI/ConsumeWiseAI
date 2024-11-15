@@ -1,0 +1,75 @@
+Title: 5 Studies on Saturated Fat — Time to Retire the Myth?
+
+The relationship between saturated fat consumption and heart disease is still debated. Here are 5 studies that suggest saturated fat has little effect on heart disease for most healthy adults.
+Since the 1950s, people have believed that saturated fat is bad for human health.
+This was originally based on observational studies showing that people who consumed high amounts of saturated fat had higher rates of death from heart disease ( 1 ).
+The diet-heart hypothesis states that saturated fat raises LDL (bad) cholesterol in the blood, which then supposedly lodges in the arteries and causes heart disease ( 2 ).
+While this hypothesis has never been proven, official dietary guidelines from the U.S. Department of Agriculture, the American Heart Association, and the World Health Organization all recommend limiting your intake of saturated fat ( 3 ,  4 ,  5 ).
+While the issue is still debated, numerous recent studies have turned up mixed results on the link between saturated fat consumption and  heart disease .
+This article reviews 5 recent, high quality studies on this issue.
+Details:  This systematic review and meta-analysis of randomized controlled trials was performed by the Cochrane collaboration, an independent organization of scientists.
+The review includes 15 randomized controlled trials with 56,675 participants.
+Each of these studies had a control group, reduced saturated fat or replaced it with other types of fat, lasted for at least 24 months, and looked at hard endpoints such as heart attacks or death.
+Results:  The study showed that reducing total saturated fat intake could decrease the risk of cardiovascular events by approximately 17% but had no effect on the risk of dying from heart disease or other causes.
+More specifically, replacing some saturated fat with polyunsaturated fat in the diet led to a 21% lower risk of cardiovascular events, while replacing saturated fat with carbohydrates was linked to a 16% lower risk.
+Conclusion:  People who reduced their saturated fat intake were just as likely to die from heart disease and other causes as those who ate more saturated fat.
+However, partially replacing saturated fat with polyunsaturated fat or nutrient-dense carbohydrates, such as whole grains, may be beneficial for heart health and disease prevention.
+These results are similar to a previous Cochrane review conducted in 2015 ( 6 ).
+Details:  This observational study looked at the association between specific types of fat from various food sources and the risk of developing heart disease.
+The study included data from 16,073 people in nine countries in Europe.
+Results:  Total saturated fat intake was not associated with a higher risk of heart disease. However, specific foods high in saturated fat had different effects on the risk of heart disease.
+For example, each 1% increase in total energy intake from  yogurt  or cheese was linked to a 7% and 2% lower risk of heart disease, respectively.
+Conversely, increased intake of red meat and butter were associated with a 7% and 2% higher risk of heart disease, respectively.
+Conclusion:  Though total saturated fat intake has no effect on the risk of heart disease, certain foods high in saturated fat may impact heart health differently.
+For this reason, the researchers point out that it’s important to consider the overall composition of foods rather than focusing only on the individual nutrients they contain.
+Details:  This review looked at evidence from 18 observational studies on the link between saturated fat intake from dairy products and risk of heart disease and death.
+The studies included more than 40,000 participants and measured blood levels of pentadecanoic acid and heptadecanoic acid, both of which are saturated fats found in dairy.
+Studies also measured levels of trans-palmitoleic acid, a type of trans fat found naturally in foods such as milk, cheese, and yogurt.
+Results:  Higher blood levels of pentadecanoic acid and heptadecanoic acid were linked to a lower risk of heart disease but not death.
+Blood levels of trans-palmitoleic acid were not associated with the risk of heart disease or death.
+Conclusion:  Consuming higher amounts of saturated fat from dairy may be associated with a reduced risk of heart disease.
+However, more studies are needed, as researchers note that the biomarkers used in this study did not distinguish among specific types of dairy products, each of which could impact the risk of heart disease differently.
+Details:  This study evaluated the association between consumption of different types of dietary fats and the risk of heart disease.
+The study followed 2,809 adults over an average of 10.6 years and used a food frequency questionnaire to estimate dietary fat intake.
+Results:  The study didn’t find any connection between total intake of saturated fat or the consumption of specific saturated fatty acids — like myristic acid, lauric acid, palmitic acid, and stearic acid — and the risk of heart disease.
+The study also found that replacing saturated fats with other macronutrients in the diet had no effect on heart disease risk.
+Conclusion:  Saturated fat intake was not associated with a higher risk of heart disease.
+Furthermore, the researchers didn’t find any benefit to consuming other macronutrients instead of saturated fats, indicating that a  low fat diet  may not be necessary for the prevention of heart disease.
+Details:  This study focused on the effects of carbohydrate and saturated fat intake on the risk of heart disease, stroke, type 2 diabetes, obesity, high blood pressure, and death.
+The study included 9,899 women ages 50–55, whom the researchers followed for 15 years.
+Results:  Increased saturated fat intake was not associated with a higher risk of heart disease or death and was linked to lower rates of obesity, type 2 diabetes, and high blood pressure.
+Additionally, moderate carbohydrate intake (41–43% of total daily calorie intake) was associated with the lowest risk of heart disease but had no effect on the risk of death.
+Conclusion:  In women, consuming saturated fat doesn’t increase the risk of heart disease or death and may be linked to a lower risk of other conditions, including obesity, type 2 diabetes, and high blood pressure.
+Reducing saturated fat intake has no effect on your risk of heart disease or death.
+Saturated fat from certain food sources may affect the risk of heart disease differently.
+Replacing saturated fat with polyunsaturated fat may reduce your risk of cardiovascular events, but results are mixed.
+
+The bottom line
+People with certain medical conditions or cholesterol problems may need to monitor their saturated fat intake.
+However, the study results selected for this article are pretty clear that saturated fat has little effect on heart disease for most healthy adults and that some foods high in saturated fat may even be beneficial for heart health.
+Furthermore, recent research emphasizes that it’s important to consider the overall composition of foods and the way that they interact with our bodies rather than focusing solely on the individual macronutrients they contain ( 1 ,  7 ).
+For example, while processed foods and whole foods may both contain protein, fats, and carbohydrates, these foods have different effects on health ( 8 ).
+This concept may also apply to saturated fats, as the fats found in nutrient-dense ingredients such as milk, cheese, and yogurt impact health differently than the saturated fats found in processed meats or sugary desserts.
+That said, replacing some of the saturated fat in your diet with unsaturated fat may offer several health benefits.
+This is not because  saturated fat  is “bad” but because unsaturated fats are particularly healthy and have been shown to protect against heart disease ( 9 ).
+Nutritious sources of unsaturated fats include nuts, seeds, fatty fish, extra-virgin olive oil, and avocados ( 10 ).
+Still, there doesn’t seem to be any reason for most people to worry about saturated fat.
+Other issues are much more worthy of your attention, such as limiting your intake of sugar-sweetened beverages and processed foods, following a well-balanced diet, and getting plenty of physical activity in your daily routine.
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6053258/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31142556/
+https://www.dietaryguidelines.gov/sites/default/files/2021-03/Dietary_Guidelines_for_Americans-2020-2025.pdf
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000001031
+https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+https://www.healthline.comhttp://healthline.com/health/heart-disease
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26068959/
+https://www.healthline.com/health/yogurt-for-yeast-infection
+https://www.healthline.com/nutrition/23-studies-on-low-carb-and-low-fat-diets
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6053258/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30040431/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7399967/
+https://www.healthline.com/nutrition/saturated-fat-good-or-bad
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30019767/
+https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/polyunsaturated-fats

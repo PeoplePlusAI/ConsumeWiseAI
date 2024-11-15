@@ -1,0 +1,76 @@
+Title: Chromium
+
+Chromium is an essential mineral that the body needs in trace amounts. It is naturally present in a wide variety of foods, though only in small amounts, and is also available as a supplement. Chromium enhances the action of the hormone insulin. [1) It is also involved in the breakdown and absorption of carbohydrate, proteins, and fats.  Vitamin B3 (niacin)  and  vitamin C  help to improve the absorption of chromium.
+Recommended Amounts
+There is not enough data to establish a Recommended Dietary Allowance for chromium. [2] An Adequate Intake (AI) was set as an estimated safe and adequate daily dietary intake for chromium.
+AI:  The AI for men ages 19-50 years is 35 micrograms daily, and for women ages 19-50 years, 25 micrograms daily. Men and women older than 50 years require slightly less, at 30 and 20 micrograms daily, respectively. For pregnancy and lactation, the AI is 30 and 45 micrograms daily.
+UL:  A Tolerable Upper Intake Level (UL) is the maximum daily dose unlikely to cause adverse side effects in the general population. A UL has not been established for chromium, because a toxic level has not been observed from food sources or from longer-term intakes of high-dose supplements.
+Chromium and Health
+Chromium has been identified as a key player in the action of insulin and regulating blood glucose. Animal and human studies have shown that chromium supplementation corrects glucose intolerance in those who are deficient in the mineral. [1] Case studies found that people fed solely through intravenous feeding, called total parenteral nutrition or TPN, in which chromium was not part of the feeding, developed chromium deficiency and hyperglycemia. Although they were given high doses of insulin, their condition did not improve until the TPN was supplemented with chromium. [1,3] Lower chromium blood levels have been reported in patients with diabetes compared with control patients without diabetes. [3] Some clinical trials have shown a benefit with chromium supplements in improving insulin sensitivity and glucose metabolism in participants with diabetes. [4]
+Because of these findings, chromium supplements are popular among people with diabetes. However, the exact mechanism of chromium in relation to insulin is not clearly understood. There is not one consistent measure to evaluate chromium content in the diet, and clinical tests to measure a deficiency vary (e.g., through blood, toenails, hair, or sweat). Results of studies on chromium supplements and diabetes have not consistently shown a benefit, making a bottom-line conclusion difficult to establish. [5] Conflicting results may occur because of weaknesses in methods: an open-label design (participants and researchers were not blinded to who received the chromium supplement versus placebo), participants taking different diabetic medications, not measuring baseline chromium levels to determine deficient or non-deficient status, and participants with differing levels of diabetes control (e.g., high or low hemoglobin A1c values). [3] The studies also tended to include a small number of people followed for a short time.
+It is clearer that chromium supplementation can improve glucose metabolism in individuals who are deficient in the mineral, but still unclear that supplementation will have the same action in those who are adequately nourished. Currently, the American Diabetes Association does not recommend chromium supplements to improve blood glucose control in people with diabetes who do not have underlying nutritional deficiencies. [6]
+Chromium supplement sales exceed $85 million a year. [2] They are promoted to suppress appetite, break down fat, and stimulate heat production (thermogenesis) causing a mild increase in calorie usage. [7] However, chromium supplements have not been found to produce significant weight loss. Most of the clinical trials available are of short duration (six months or less) and do not control for confounders such as dietary intake and physical activity.
+A Cochrane review analyzed nine randomized controlled trials looking at chromium picolinate supplementation on weight loss, with a follow-up of up to six months. [7] When the study results were combined, the study participants lost about 2 pounds more than those receiving a placebo. However, the authors noted that most of the studies were of low quality with a short follow-up of less than six months and a small number of participants, and the different study designs made them difficult to compare.
+Another meta-analysis of 19 randomized controlled trials looked at the effects of chromium picolinate and chromium nicotinate on body weight or body mass index in overweight and obese individuals. [8] The duration of trials lasted from two to six months using a median of 400 micrograms of chromium. The results showed a significant reduction in overall weight loss and body fat percentage compared with the placebo group. The authors noted however that the quality of most of the trials was low. They also did not account for exercise level and diet in their meta-analysis (factors that were typically not measured in the studies), which could have influenced the results.
+Polycystic ovary syndrome (PCOS) is a female endocrine disorder that leads to insulin resistance and increased belly fat. A systematic review of six randomized controlled trials looking at the effect of chromium supplementation on weight loss and metabolic variables in patients with PCOS did not find that chromium supplements caused weight loss or reductions in blood glucose. [9]
+Potential downsides of chromium supplements
+Food Sources
+Chromium is found in small amounts in a range of foods. However, chromium content varies even among the same types of food, likely due to mineral variations in the soil in which it was grown. Chromium may also be inadvertently added into a food when it is processed with stainless steel equipment.
+Whole grains
+High-fiber bran cereals
+Certain vegetables: broccoli, green beans, potatoes
+Certain fruits:  apples ,  bananas
+Beef
+Poultry,  egg  yolks
+Fish
+Coffee
+Brewer’s yeast
+Some brands of  beer and red wine
+Signs of Deficiency and Toxicity
+Deficiency
+A chromium deficiency is rare, even though the mineral is poorly absorbed, with only about 5% or less absorbed in the gut. [12] Diets high in refined sugars can cause more chromium to be excreted in the urine. Pregnancy and lactation, strenuous exercise, and physical stress from infections and trauma can also increase chromium losses. A risk of chromium deficiency increases with these scenarios if the diet is also low in chromium (most commonly seen with general malnutrition or acute illness that causes a deficiency of many nutrients).
+Toxicity
+Harmful side effects linked to high intakes of chromium from food or supplements exist but are rare. This may be because chromium is poorly absorbed in the gut. Therefore a Tolerable Upper Intake Level has not been established by the Institute of Medicine. This is a level set as a maximum intake that is unlikely to cause adverse health effects. However, caution should be used with high dose supplements of any trace mineral; a few case studies found an association with chromium supplements and kidney and liver damage. [1]
+Did You Know?
+Although only present in small amounts in food, chromium is one of the most common elements in the earth’s crust and seawater. [3]
+Chromium exists in two main forms: trivalent chromium (III) and hexavalent chromium (VI). Trivalent chromium is the type found in food and supplements and is not toxic. Hexavalent chromium is found with industrial pollution and is toxic and carcinogenic when inhaled. Symptoms of a latter toxicity include dermatitis, skin ulcers, and kidney and liver damage.
+Related
+Vitamins and Minerals
+Institute of Medicine, Food and Nutrition Board. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc. National Academy Press, Washington, DC, 2001.
+U.S. Department of Health and Human Services. Chromium Fact Sheet for Health Professionals.  https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/  Accessed 4/25/20.
+Cefalu WT, Hu FB. Role of chromium in human health and in diabetes.  Diabetes care . 2004 Nov 1;27(11):2741-51.
+Huang H, Chen G, Dong Y, Zhu Y, Chen H. Chromium supplementation for adjuvant treatment of type 2 diabetes mellitus: Results from a pooled analysis.  Molecular nutrition & food research . 2018 Jan;62(1):1700438.
+Costello RB, Dwyer JT, Bailey RL. Chromium supplements for glycemic control in type 2 diabetes: limited evidence of effectiveness.  Nutrition reviews . 2016 Jul 1;74(7):455-68.
+Evert AB, Boucher JL, Cypress M, Dunbar SA, Franz MJ, Mayer-Davis EJ, Neumiller JJ, Nwankwo R, Verdi CL, Urbanski P, Yancy WS. Nutrition therapy recommendations for the management of adults with diabetes.  Diabetes care . 2014 Jan 1;37(Supplement 1):S120-43.
+Tian H, Guo X, Wang X, He Z, Sun R, Ge S, Zhang Z. Chromium picolinate supplementation for overweight or obese adults.  Cochrane Database of Systematic Reviews . 2013(11).
+Tsang C, Taghizadeh M, Aghabagheri E, Asemi Z, Jafarnejad S. A meta‐analysis of the effect of chromium supplementation on anthropometric indices of subjects with overweight or obesity.  Clinical obesity . 2019 Aug;9(4):e12313.
+Maleki V, Izadi A, Farsad-Naeimi A, Alizadeh M. Chromium supplementation does not improve weight loss or metabolic and hormonal variables in patients with polycystic ovary syndrome: A systematic review.  Nutrition research . 2018 Aug 1;56:1-0.
+Onakpoya I, Posadzki P, Ernst E. Chromium supplementation in overweight and obesity: a systematic review and meta‐analysis of randomized clinical trials.  Obesity reviews . 2013 Jun;14(6):496-507.
+Cerulli J, Grabe DW, Gauthier I, Malone M, McGoldrick MD. Chromium picolinate toxicity.  Annals of pharmacotherapy . 1998 Apr;32(4):428-31.
+World Health Organization. Chromium: Chapter 6.4.  http://www.euro.who.int/__data/assets/pdf_file/0017/123074/AQG2ndEd_6_4Chromium.PDF . Accessed 4/25/20.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/niacin-vitamin-b3/
+https://nutritionsource.hsph.harvard.edu/vitamin-c/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/food-features/apples/
+https://nutritionsource.hsph.harvard.edu/food-features/bananas/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/fish/
+https://nutritionsource.hsph.harvard.edu/food-features/coffee/
+https://nutritionsource.hsph.harvard.edu/is-wine-fine-or-beer-better/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/
+https://care.diabetesjournals.org/content/27/11/2741.short
+https://onlinelibrary.wiley.com/doi/abs/10.1002/mnfr.201700438?casa_token=XTw-_zcc88wAAAAA:qSCoCPfvsC3X9Yph26AJGge42jfF8pNYPzUsmzUH6rdNnTbkBXl-JS2xwBmxWvh7F7s5hT4BUzPjKKA
+https://academic.oup.com/nutritionreviews/article-abstract/74/7/455/1752210
+https://care.diabetesjournals.org/content/37/Supplement_1/S120.short
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010063.pub2/abstract
+https://onlinelibrary.wiley.com/doi/abs/10.1111/cob.12313?casa_token=DVTBfYu7EOEAAAAA:ahWLwXZfH_Bm4DBLtpzPDZIItBd-smbSKy8vXgtpmhTaVyKeZaEIWpvuKnXMIg2IofOBE3OmRA7Mqvo
+https://www.sciencedirect.com/science/article/pii/S0271531717304803?casa_token=M18vhA-h-S4AAAAA:_JglJBBISoup0Dt3WA4BFvtxBgJQ5DBaK2Vg5OLB7tq3tWDPviLlr_zz45mirJp0nMoEVcFSfQ
+https://onlinelibrary.wiley.com/doi/abs/10.1111/obr.12026?casa_token=PxusIx048sgAAAAA:W47a659KqUCbod8WNUBwliQrn8uklyEKVPISRTPHJp4Dmw68LzHfZs8AvDunLUK0cechwGuN57la8Rw
+https://journals.sagepub.com/doi/abs/10.1345/aph.17327
+http://www.euro.who.int/__data/assets/pdf_file/0017/123074/AQG2ndEd_6_4Chromium.PDF

@@ -1,0 +1,136 @@
+Title: What Is BPA? Should I Be Concerned About It?
+
+Bisphenol-A (BPA) is an industrial chemical used in plastic manufacturing and added to many commercial products, including food containers, baby bottles, and plastic water bottles.
+You’ve probably seen that most plastics you purchase these days are labeled “BPA-free.” But you might be wondering exactly what that means and why it’s important.
+BPA has been used since the 1960s to produce strong and resilient plastics for food packaging and home kitchen use ( 1 ).
+Some people are concerned about BPA’s ability to leach into foods and beverages, and some research suggests that BPA exposure may lead to a number of health problems.
+This article provides a detailed review of BPA and its potential health effects.
+
+Why are some people concerned about BPA?
+Many people worry about BPA exposure. One of the main reasons for this concern is that BPA can leach out of food or drink containers and into the food or beverages you consume.
+That’s particularly true of foods or beverages that may be stored for long periods in containers with BPA, like  canned tomatoes  or bottled water.
+That includes plastic that may be heated, as heat can cause additional BPA to leach out — for example, foods meant to be microwaved in plastic bowls or beverages microwaved in plastic cups ( 2 ).
+In fact, BPA exposure is so widespread that research suggests most people over the age of 6 have measurable amounts of BPA in their urine. One study found that about 85% of Korean children under 2 years old had detectable levels of BPA in their urine ( 3 ,  4 ).
+Researchers have found that BPA exposure is linked to a number of health issues, partly because BPA mimics the structure and function of the hormone estrogen ( 5 ).
+That means BPA can bind to estrogen receptors and influence bodily processes, such as growth, cell repair, fetal development, energy levels, and reproduction.
+In addition, BPA may also interact with other hormone receptors, such as those for your thyroid, thus altering their function ( 6 ).
+Your body is  sensitive to changes in hormone levels , which is the reason why BPA’s ability to mimic estrogen or affect other hormones is thought to influence health.
+According to a 2014 report from the U.S. Food and Drug Administration (FDA), exposure of less than 2.25  milligrams  per pound (5 mg per kg) of bodyweight per day are safe ( 7 ).
+Most people are only exposed to 0.1-2.2  micrograms  per pound (0.2-0.5 micrograms per kg) of bodyweight per day ( 7 ).
+In fact, the FDA still recognizes BPA as a safe additive in  food packaging , although the agency banned manufacturers from using BPA in baby formula cans, baby bottles, and sippy cups in 2012 ( 1 ).
+Regardless, some emerging research suggests that — even at established “safe” levels — BPA exposure may cause or contribute to a variety of health problems ( 8 ).
+Still, we need more research to understand if there is a true safety threshold for BPA exposure or if it can cause harm at any level of exposure.
+BPA is found in many plastic products, and unfortunately, it can leach into foods and beverages and then be absorbed into our bodies. As an estrogen-like compound, it may cause some health problems.
+
+Which products may contain BPA?
+Common products that may contain BPA include ( 9 ):
+Items packaged in plastic containers
+Canned foods
+Toiletries
+Menstrual products
+Thermal printer receipts
+CDs and DVDs
+Household electronics
+Eyeglass lenses
+Sports equipment
+Dental filling sealants
+Even some drinking water pipes are lined with epoxy resins containing BPA ( 3 ).
+Generally, containers that may contain BPA are marked with recycling code 3 or 7 ( 3 ).
+BPA may be found in many commonly used plastic and paper products.
+
+Potential health effects of BPA exposure
+You’ll notice that the language used to share stats and other data points is pretty binary, fluctuating between the use of “male” and “female” or “men” and “women.”
+We recognize that this language doesn’t encompass all identities and experiences. However, specificity is key when reporting on research participants and clinical findings.
+Unfortunately, the studies and surveys referenced in this article didn’t report data on, or include, participants who were  transgender ,  nonbinary ,  gender nonconforming ,  genderqueer ,  agender ,  intersex , or genderless.
+We encourage you to talk with a healthcare professional if you need support navigating how the information in this article may apply to you.
+BPA may affect several aspects of male and female fertility.
+As a  phytoestrogen , or a plant-based compound that mimics estrogen, it may act on estrogen receptors in both males and females to promote inflammation or cause damage to the cells through a process called oxidative stress ( 10 ).
+The damage may manifest in different ways. In one study, male mice who received BPA-treated drinking water had lower testosterone levels, diminished sperm quality, and greater infertility compared with mice who received regular drinking water ( 11 ).
+In female mice, researchers have found that BPA exposure reduces fertility by decreasing the hormone estradiol, reducing the number of healthy eggs and negatively affecting the ability of a fertilized egg to implant on the uterus ( 12 ).
+In a concept known as “precocious maturation,” BPA exposure appears to prematurely age the female reproductive system, causing hormone changes and diminished fertility ( 12 ).
+BPA has also been linked to endometriosis and  polycystic ovarian syndrome (PCOS)  in animal studies ( 12 ).
+Although such effects are notable, more studies are needed to strengthen the body of evidence. Much of the evidence we have is from mice studies, so they’re not necessarily indicative of how BPA affects human fertility ( 13 ).
+The inflammatory effects of BPA may contribute to unwanted weight gain, along with the development of heart disease and  type 2 diabetes .
+In addition to binding to estrogen receptors, BPA may bind to other hormone receptors, causing adipogenesis (fat accumulation) ( 14 ,  15 ).
+BPA may also cause stress to your body by damaging the mitochondria (the energy factories in each of your cells). Stress can lead to  chronic inflammation , an immune response that can alter the way your body regulates your weight, appetite, and hormone levels ( 15 ).
+Chronic inflammation is linked to an increased risk of obesity, heart disease, and type 2 diabetes ( 16 ).
+In addition to its link to  infertility , BPA and other plastics may be related to birth defects and childhood health problems.
+There are many different ways that plastics can disrupt healthy embryonal, fetal, or childhood growth because it is able to pass into the placenta and breast milk ( 14 ).
+Developing fetuses can’t break down BPA, making them more sensitive to exposure. Some evidence suggests that BPA exposure in utero can affect gene expression, which may contribute to a variety of health problems — including an  increased risk of obesity  and metabolic disease ( 14 ).
+Low levels of BPA exposure have also been linked to the development of certain cancers, including ovarian cancer, breast cancer, prostate cancer, and colon cancer. Additionally, there’s some evidence from test-tube studies that BPA may make chemotherapy drugs less effective ( 17 ).
+However, remember that more research is needed to support a better understanding of the effects of BPA exposure on humans.
+BPA exposure has been linked to several health problems, including infertility, obesity, heart disease, type 2 diabetes, and cancer.
+
+How to minimize your exposure
+While we need more research, BPA does appear to be linked to some negative effects. You may wish to limit your exposure to BPA.
+Although eradicating it completely may be impossible, there are some effective ways to reduce your exposure:
+Limit packaged foods that aren’t labeled “BPA-free.”  Eat mostly fresh, whole foods. Limit canned foods or foods packaged in plastic containers labeled with recycling numbers 3 or 7. However,  BPA-free packaging may not be an adequate solution , either, as we’ll discuss later.
+Drink from glass bottles.  Buy liquids that come in glass bottles instead of plastic bottles or cans, and use glass baby bottles instead of plastic ones.
+Be selective with toys.  Make sure that any plastic toys you buy for children are made from BPA-free material — especially toys that little ones are likely to chew or suck on.
+Don’t microwave plastic.  Microwave and store food in glass rather than plastic, since heating BPA-containing plastics may cause more BPA leaching ( 2 ).
+There are several simple ways to reduce your exposure to BPA from your diet and environment. Limiting your use of paper and plastic products that don’t bear the “BPA-free” label is a good place to start.
+
+Are BPA alternatives safe?
+It’s worth noting that many BPA-free products have replaced BPA with bisphenol-S (BPS) or bisphenol-F (BPF), compounds that are similar in structure and function to BPA — but that haven’t yet been as heavily studied for their safety.
+However, the research that does exist suggests that even small concentrations of BPS and BPF may leach into food and disrupt the function of your cells in ways similar to BPA. Thus, BPA-free plastics may not be an adequate solution ( 2 ,  18 ).
+A better alternative may be to limit or avoid plastics altogether, especially for foods and beverages.
+That means replacing plastic drinking bottles with glass or stainless steel, avoiding bottled water in plastic bottles, and purchasing food that’s not packaged in plastic or cans lined with BPA-containing plastics.
+Replacing all of your plastic containers or household supplies may seem daunting, but there are more options available than ever to help you do just that.
+For kids, you can now purchase glass or stainless steel baby bottles or water bottles, and the brand RocketBox sells kid-friendly, stainless steel lunchboxes that are perfect for school lunches.
+Food manufacturers are moving away from plastic or plastic-lined packaging as well. You may find more items that used to be packaged in plastic are now packaged in glass, cardboard, or biodegradable materials.
+BPA alternatives, like BPS and BPF, may not be safe — despite being a common addition to items that are labeled “BPA-free.”
+
+The bottom line
+In light of the evidence, it’s best to take some steps to limit your BPA exposure.
+In particular, pregnant people may benefit from avoiding BPA, especially during the early stages of pregnancy.
+As for others, occasionally drinking from a plastic bottle or eating from a can is not a reason to panic. That said, swapping plastic containers for glass or stainless steel is a small change that may support your health in the long-term.
+If you aim to eat fresh, whole, and minimally-processed foods, you’ll automatically limit your BPA exposure.
+Try this today : Take a few minutes to research plastic-free alternatives to some of the commonly-used plastic items in your household. Rather than trying to go completely plastic-free all at once, replacing a few items at home is a great way to start without the stress.
+
+References:
+
+https://www.fda.gov/food/food-additives-petitions/bisphenol-bpa-use-food-contact-application
+https://www.healthline.com/nutrition/best-canned-foods
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29172986/
+https://www.niehs.nih.gov/health/topics/agents/sya-bpa/index.cfm
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32380592/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27717745/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31884733/
+https://www.healthline.com/nutrition/how-hormones-influence-your-weight-all-you-need-to-know
+https://www.fda.gov/media/90124/download
+https://www.fda.gov/media/90124/download
+https://www.healthline.com/nutrition/eco-friendly-food-packaging
+https://www.fda.gov/food/food-additives-petitions/bisphenol-bpa-use-food-contact-application
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6823117/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/25813067/
+https://www.niehs.nih.gov/health/topics/agents/sya-bpa/index.cfm
+https://www.niehs.nih.gov/health/topics/agents/sya-bpa/index.cfm
+https://www.healthline.com/nutrition/the-complexity-of-nutritional-guidelines-for-trans-people
+https://www.healthline.com/health/transgender/nonbinary
+https://www.healthline.com/health/gender-nonconforming
+https://www.healthline.com/health/transgender/genderqueer
+https://www.healthline.com/health/agender
+https://www.healthline.com/health/baby/what-does-intersex-look-like
+https://www.healthline.com/health/phytoestrogens
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32397641/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32777607/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32171313/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32171313/
+https://www.healthline.com/health/womens-health/natural-treatment-pcos
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32171313/
+https://www.ncbi.nlm.nih.gov/pubmed/25619032
+https://www.healthline.com/nutrition/prevent-diabetes
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32476245/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7460848/
+https://www.healthline.com/nutrition/13-anti-inflammatory-foods
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7460848/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27803762/
+https://www.healthline.com/nutrition/foods-to-avoid-when-trying-to-get-pregnant
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32476245/
+https://www.healthline.com/nutrition/9-reasons-obesity-is-not-a-choice
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32476245/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30848227/
+https://www.healthline.com/nutrition/what-is-bpa
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29172986/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29172986/
+https://www.ncbi.nlm.nih.gov/pubmed/25775505

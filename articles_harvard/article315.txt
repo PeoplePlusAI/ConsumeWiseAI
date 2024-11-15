@@ -1,0 +1,98 @@
+Title: Preventing Cancer
+
+Although 1 in 5 men and 1 in 6 women worldwide develop  some type of cancer  during their lifetime, those diagnosed are living longer than ever, thanks to  screening  and early detection,  vaccinations , and improvements in treatment. However, even for cancers with effective treatment options, prevention has the greatest potential to reduce the burden of cancer in the general population. [1]
+Because each person is exposed to unique environmental and lifestyle factors, cancer risk can vary. Although some factors cannot be controlled (such as inherited genetic mutations), there is a range of modifiable environmental and lifestyle factors that can help reduce the risk of developing cancer.
+According to the World Health Organization (WHO), a 30-40% cancer burden can be attributed to lifestyle risk factors such as tobacco smoking, alcohol consumption, a diet low in fruit and vegetables, overweight and obesity, and physical inactivity. [2] In a 2018 report by the World Cancer Research Fund (WCRF) and the American Institute of Cancer Research (AICR), not-for-profit organizations that lead a network of cancer prevention charities with a global reach,  10 cancer prevention recommendations  on diet and nutrition were developed. These recommendations were based on the continuous update project of evidence in cancer research, which summarizes current evidence with relevant papers from randomized controlled trials and cohort studies. [3] Taken together, they promote a lifestyle consisting of a healthy dietary pattern, physical activity, and weight management. This may not only help reduce the risk of cancer but may also contribute to the prevention of obesity and other chronic diseases such as type 2 diabetes and cardiovascular disease.
+
+Here is a closer look at some of their recommendations:
+Maintain a healthy weight
+In a meta-analysis conducted by the WCRF/AICR, there is convincing evidence that carrying extra fat mass, marked by a higher body mass index (BMI), greater waist circumference, and greater waist-to-hip ratio, significantly increases the risk of several cancers: [4]
+BMI measures one’s weight in relation to height. A BMI between 18.5-25 is classified as normal, 25.1-29.9 overweight, and 30 or higher obese. Each increase of 5 points in BMI was associated with a 50% higher risk of endometrial cancer, 48% higher risk of esophageal adenocarcinoma, 30% higher risk of kidney cancer, 30% higher risk of liver cancer, 12% higher risk for postmenopausal breast cancer, 10% higher risk of pancreatic cancer, and 5% higher risk of colorectal cancer.
+Each 4-inch increase in waist circumference was shown to increase the risk of esophageal adenocarcinoma by 34%, pancreatic cancer by 11%, postmenopausal breast cancer by 11%, kidney cancer by 11%, endometrial cancer by 5%, and colorectal cancer by 2%.
+A waist-to-hip ratio (WHR) measures one’s waist size divided by hip size. People who carry more weight in the belly (apple shape) are at higher risk for cancer and other chronic diseases than those who carry more weight in the hips (pear shape). The WHO recommends a healthy WHR to be 0.9 or less in men and 0.85 or less in women. Each 0.1 unit increase in waist-hip ratio significantly increased the risk of esophageal adenocarcinoma by 38%, kidney cancer by 26%, endometrial cancer by 21%, pancreatic cancer by 19%, postmenopausal breast cancer by 10%, and colorectal cancer by 2%.
+Significant increasing weight in adult life is a convincing cause of postmenopausal breast cancer and endometrial cancer.
+Each 11-pound increase in weight gain during adulthood was significantly associated with a 16% higher risk of endometrial cancer, and 6% higher risk of postmenopausal breast cancer.
+Incidence of  obesity-related cancers is also rising in young adults . Researchers from the American Cancer Society collected data from 25 state cancer registries for people ages 25-84 years diagnosed with any cancer from 1995 to 2014. [5] Over this time period, incidence rates of several obesity-related cancers—including colorectal, kidney, and pancreatic—increased significantly in the youngest age group, ages 25-49 years (with the sharpest increases in progressively younger ages). Although the incidence of these cancers also rose in older age groups, the rate of increase was much smaller.
+Be physically active
+Physical activity  is defined as any movement that uses skeletal muscles and requires more energy than does resting. Physical activity can include working, exercising, performing household chores, and leisure-time activities such as walking, jogging, running, yoga, hiking, bicycling, and swimming.
+There is evidence from a 2009 meta-analysis of 52 epidemiologic studies showing that the most physically active individuals had a 24% lower risk of colon cancer than those who were the least physically active. [6] A 2013 meta-analysis of 31 prospective studies showed that the average breast cancer risk reduction associated with physical activity was 12%, and the protective effect was stronger for postmenopausal women. [7] After menopause, women who increase their physical activity may also have a lower risk of breast cancer than women who do not. [8]
+Sedentary behaviors, such as spending an extended amount of time sitting, reclining, or lying down, may also increase cancer risk. [9] The review of research on sedentary behavior and risk of endometrial, colon, and lung cancers found that the highest versus lowest levels of sedentary time increased risks of these cancers by a statistically significant range of 20-35%. [10]
+Eat a healthful diet
+An overall  healthy dietary pattern  has the potential to lower cancer risk by 10-20%. [11] The association between diet and cancer incidence varies by cancer sites and also by sex, [12] but the recommended components of a healthy diet are often similar. The WCRF/AICR listed the following dietary recommendations to protect against cancer:
+Limit alcohol consumption.  [13] There is strong evidence that consumption of alcoholic drinks is a cause of cancers of the mouth, pharynx and larynx, esophagus (squamous cell carcinoma), liver, colorectum, and breast (particularly postmenopause). Every 10 grams of alcohol (as ethanol) consumed per day elevated the risks of these cancers by 4-25%. The evidence shows that alcoholic drinks of all types have a similar impact on cancer risk. This recommendation therefore covers all types of alcoholic drinks, whether beer, wine, spirits (liquors), or any other alcoholic drinks, as well as other  alcohol  sources.
+Eat a diet rich in whole grains, vegetables, fruit, and beans.  [14] Make  whole grains ,  vegetables ,  fruit , and  pulses (legumes)  such as beans and  lentils  a major part of your daily diet. There is strong evidence that eating whole grains protects against colorectal cancer, and that eating foods containing dietary fiber protects against colorectal cancer, weight gain, overweight, and obesity, which, as described above, increases the risk of many cancers.
+Limit “fast” foods.  [15] Fast foods are readily available convenience foods that tend to be energy-dense and are often consumed in large portions. Most of the evidence on fast foods is from studies looking at burgers, fried chicken, French fries, and  high-calorie drinks  (containing sugar, such as soda; or unhealthy fats, such as shakes). There is strong evidence that diets containing higher amounts of fast foods and other  processed foods  high in unhealthy fats, starches, or sugars, as well as consuming a “Western type” diet (characterized by a high amount of added sugars, meat, and fat), are causes of weight gain, overweight, and obesity, which are a risk factor for many cancers.
+Limit red and processed meat .  [16,17] Red meat includes all types of muscle meat from a mammal, including beef, veal, pork, lamb, mutton, horse, and goat. Processed meat has been transformed through salting, curing, fermentation, smoking, or other processes to enhance flavor or improve preservation. Although these products are often made from red meat (i.e., ham, salami, bacon, and some sausages such as frankfurters and chorizo), other meats can also be processed (i.e., turkey bacon, chicken sausage, and deli-sliced chicken). While both red and processed meat were suggested to  increase the risk of a number of other cancers , the evidence was most convincing for colorectal cancer. The risk of colorectal cancer increased by 16% with every 50g/day of processed meat intake, and by 12% with every 100g/day of red meat intake. Because meat can be a valuable source of nutrients, in particular protein, iron, zinc, and vitamin B12, the recommendation is to limit rather than completely avoid minimally processed red meat. However, poultry and seafood are generally healthier sources of  protein  as well as many of these other nutrients. Very little, if any, processed meat should be consumed.
+Limit sugar-sweetened drinks.  [18] There is convincing evidence that  sugar-sweetened drinks  is a cause of weight gain, overweight, and obesity in both children and adults, especially when consumed frequently or in large portions. As noted above, obesity increases the risk of many cancers.
+Avoiding tobacco and excess sun exposure
+The recommendations also emphasize that not smoking and avoiding other exposure to tobacco and excess sun are also important in reducing cancer risk.
+Cancer survivorship
+Although evidence is not strong enough to reach firm conclusions, there are indications of links between lifestyle factors and cancer survivorship with improved quality of life and longer survival, especially for more common cancers. For example, maintaining a healthy weight, being physically active, eating foods containing fiber, and having a lower intake of saturated fat appear to lead to better survival after a breast cancer diagnosis.[14] Unless otherwise advised, and if they can, all cancer patients and survivors are advised to follow the WCRF/AICR Cancer Prevention Recommendations as long as possible after the acute stage of treatment.
+These recommendations are also helpful for managing or preventing other  chronic diseases  after a cancer diagnosis. A study of survivors of the 20 most common cancers revealed that, even after controlling for the overlapped risk factors for cancer and cardiovascular disease such as excessive weight and smoking, survivors of most site-specific cancers had an increased risk for cardiovascular diseases compared with that of the general population. [15] Evidence has shown that certain cancer treatments, for example anthracycline and trastuzumab, can lead to a higher risk of disease and death from cardiovascular complications. [16-18]
+Related
+Cancer: Overview, Types, and Risk Factors
+Prevention Information  and  Cancer Fact Finder Tool  from the Zhu Family Center for Global Cancer Prevention at the Harvard Chan School of Public Health
+WHO – International Agency for Research on Cancer. “Latest global cancer data: Cancer burden rises to 18.1 million new cases and 9.6 million cancer deaths in 2018.”  https://www.who.int/cancer/PRGlobocanFinal.pdf
+Ullrich A.  Cancer Control: Knowledge Into Action: WHO Guide for Effective Programmes . World Health Organization, 2007.
+World Cancer Research Fund/American Institute for Cancer Research.  Continuous Update Project Expert Report 2018 . “ Recommendations and public health and policy implications. “
+World Cancer Research Fund/American Institute for Cancer Research.  Continuous Update Project Expert Report 2018 . “ Body fatness and weight gain and the risk of cancer. “
+Sung H, Siegel RL, Rosenberg PS, Jemal A. Emerging cancer trends among young adults in the USA: analysis of a population-based cancer registry.  The Lancet Public Health . 2019 Mar 1;4(3):e137-47.
+Wolin KY, Yan Y, Colditz GA, Lee IM. Physical activity and colon cancer prevention: a meta-analysis.  British journal of cancer . 2009 Feb;100(4):611-6.
+Wu Y, Zhang D, Kang S. Physical activity and risk of breast cancer: a meta-analysis of prospective studies.  Breast cancer research and treatment . 2013 Feb;137(3):869-82.
+Eliassen AH, Hankinson SE, Rosner B, Holmes MD, Willett WC. Physical activity and risk of breast cancer among postmenopausal women.  Archives of internal medicine . 2010 Oct 25;170(19):1758-64.
+Tremblay MS, Aubert S, Barnes JD, Saunders TJ, Carson V, Latimer-Cheung AE, Chastin SF, Altenburg TM, Chinapaw MJ. Sedentary behavior research network (SBRN)–terminology consensus project process and outcome.  International Journal of Behavioral Nutrition and Physical Activity . 2017 Dec;14(1):1-7.
+2018 Physical Activity Guidelines Advisory Committee. 2018 Physical Activity Guidelines Advisory Committee Scientific Report. Washington, DC: U.S. Department of Health and Human Services, 2018.
+Schwingshackl L, Hoffmann G. Diet quality as assessed by the Healthy Eating Index, the Alternate Healthy Eating Index, the Dietary Approaches to Stop Hypertension score, and health outcomes: a systematic review and meta-analysis of cohort studies.  Journal of the Academy of Nutrition and Dietetics . 2015 May 1;115(5):780-800.
+Grosso G, Bella F, Godos J, Sciacca S, Del Rio D, Ray S, Galvano F, Giovannucci EL. Possible role of diet in cancer: Systematic review and multiple meta-analyses of dietary patterns, lifestyle factors, and cancer risk.  Nutrition reviews . 2017 Jun 1;75(6):405-19.
+Ervik  M, Lam F,  Ferley  J, et al.  Cancer Today. 2016. International Agency for Research on Cancer.  Available from  http://gco.iarc.fr/taody .  Accessed on 2019/4/15.
+World Cancer Research Fund/American Institute for Cancer Research.  Continuous Update Project Expert Report 2018 . “ Diet, nutrition, physical activity and breast cancer survivors. “
+Strongman H, Gadd S, Matthews A, Mansfield KE, Stanway S, Lyon AR, dos-Santos-Silva I, Smeeth L, Bhaskaran K. Medium and long-term risks of specific cardiovascular diseases in survivors of 20 adult cancers: a population-based cohort study using multiple linked UK electronic health records databases.  The Lancet . 2019 Sep 21;394(10203):1041-54.
+Mehta LS, Watson KE, Barac A, Beckie TM, Bittner V, Cruz-Flores S, Dent S, Kondapalli L, Ky B, Okwuosa T, Piña IL. Cardiovascular disease and breast cancer: where these entities intersect: a scientific statement from the American Heart Association.  Circulation . 2018 Feb 20;137(8):e30-66.
+Bowles EJ, Wellman R, Feigelson HS, Onitilo AA, Freedman AN, Delate T, Allen LA, Nekhlyudov L, Goddard KA, Davis RL, Habel LA. Risk of heart failure in breast cancer patients after anthracycline and trastuzumab treatment: a retrospective cohort study.  Journal of the National Cancer Institute . 2012 Sep 5;104(17):1293-305.
+McGowan JV, Chung R, Maulik A, Piotrowska I, Walker JM, Yellon DM. Anthracycline chemotherapy and cardiotoxicity.  Cardiovascular drugs and therapy . 2017 Feb 1;31(1):63-75.
+Last reviewed March 2021
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/cancer/
+https://nutritionsource.hsph.harvard.edu/cancer/#screening
+https://nutritionsource.hsph.harvard.edu/cancer/#vaccines
+https://www.aicr.org/cancer-prevention/
+https://www.aicr.org/resources/media-library/10-cancer-prevention-recommendations/
+https://nutritionsource.hsph.harvard.edu/2019/02/04/incidence-of-obesity-related-cancers-is-rising-in-younger-adults/
+https://nutritionsource.hsph.harvard.edu/staying-active/
+https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/drinks-to-consume-in-moderation/alcohol-full-story/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/food-features/lentils/
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/sugary-drinks/
+https://nutritionsource.hsph.harvard.edu/processed-foods/
+https://nutritionsource.hsph.harvard.edu/elevate-your-plate/
+https://nutritionsource.hsph.harvard.edu/2015/11/03/report-says-eating-processed-meat-is-carcinogenic-understanding-the-findings/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/sugary-drinks/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/
+https://nutritionsource.hsph.harvard.edu/cancer/
+https://www.hsph.harvard.edu/cancer-prevention/prevention-information/
+https://cancerfactfinder.org/
+https://www.who.int/cancer/PRGlobocanFinal.pdf
+https://books.google.com/books?hl=en&lr=&id=3hVf8Ewh8xUC&oi=fnd&pg=PA2&dq=Ullrich+A.+Cancer+Control:+Knowledge+Into+Action:+WHO+Guide+for+Effective+Programmes%5BM%5D.+World+Health+Organization,+2007.&ots=a9vyYofUYg&sig=6lN6WfPyyWumEPY4kjuf691yvIQ
+https://www.wcrf.org/sites/default/files/Recommendations.pdf
+https://www.wcrf.org/dietandcancer/exposures/body-fatness
+https://www.sciencedirect.com/science/article/pii/S2468266718302676
+https://www.nature.com/articles/6604917
+https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10549-012-2396-7&casa_token=1wXo39FUOv8AAAAA:KuLYT7T4uiVfF48cvJlIWQQ_Fg3YZV2S7V9qQiVv8b4uQBu5rDegTOYq22J_r1NO_cCHBPVK3O3j836v
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/226133
+https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-017-0525-8
+https://www.sciencedirect.com/science/article/pii/S2212267214018711?casa_token=v3GItfNzok0AAAAA:E9yQXhzAe7oKQOrvRVEQqarihNN5Bp4miUhYJ5Bhl0Nd215L1NWc5w9n0fN_yE2WEJqcLwY_1Q
+https://academic.oup.com/nutritionreviews/article-abstract/75/6/405/3861189
+http://gco.iarc.fr/taody
+https://www.wcrf.org/dietandcancer/about
+https://www.sciencedirect.com/science/article/pii/S0140673619316745
+https://www.ahajournals.org/doi/abs/10.1161/CIR.0000000000000556
+https://academic.oup.com/jnci/article-abstract/104/17/1293/896226
+https://link.springer.com/content/pdf/10.1007/s10557-016-6711-0.pdf

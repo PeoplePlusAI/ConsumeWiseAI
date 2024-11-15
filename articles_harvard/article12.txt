@@ -1,0 +1,156 @@
+Title: Folate (Folic Acid) – Vitamin B9
+
+Folate is the natural form of vitamin B9, water-soluble and naturally found in many foods. It is also added to foods and sold as a supplement in the form of folic acid; this form is actually better absorbed than that from food sources—85% vs. 50%, respectively. Folate helps to form DNA and RNA and is involved in protein metabolism. It plays a key role in breaking down homocysteine, an amino acid that can exert harmful effects in the body if it is present in high amounts. Folate is also needed to produce healthy red blood cells and is critical during periods of rapid growth, such as during pregnancy and fetal development.
+
+Recommended Amounts
+RDA :  The Recommended Dietary Allowance for folate is listed as micrograms (mcg) of dietary folate equivalents (DFE). Men and women ages 19 years and older should aim for 400 mcg DFE. Pregnant and lactating women require 600 mcg DFE and 500 mcg DFE, respectively. People who regularly drink alcohol should aim for at least 600 mcg DFE of folate daily since alcohol can impair its absorption.
+UL :  A Tolerable Upper Intake Level (UL) is the maximum daily dose unlikely to cause adverse side effects in the general population. The UL for adults for folic acid from fortified food or supplements (not including folate from food) is set at 1,000 mcg a day.
+
+Folate and Health
+One of the advances that changed the way we look at vitamins was the discovery that too little folate is linked to birth defects of the spine (spina bifida) and brain (anencephaly). Fifty years ago, no one knew what caused these birth defects, which occur when the early development of tissues that eventually become the spinal cord, the tissues surrounding it, or the brain goes awry. More than 30 years ago, British researchers found that mothers of children with spina bifida had low vitamin levels. [1] Eventually, two large trials in which women were randomly assigned to take folic acid or a placebo showed that getting too little folate increased a woman’s chances of having a baby with spina bifida or anencephaly and that getting enough folate could greatly reduce the incidence of these birth defects. [2,3]
+Timing of folate is critical. For folate to be effective, it must be taken in the first few weeks after conception, often before a woman knows she is pregnant. Enough folate, at least 400 mcg daily, isn’t always easy to get from food that is not fortified. That is why women of childbearing age are urged to take extra folic acid as a supplement. It’s also why the U.S. Food and Drug Administration now requires that folic acid be added to most enriched breads, flour, cornmeal, pastas, rice, and other grain products, along with the iron and other micronutrients that have been added for years. [4] Since the advent of mandatory folic acid fortification in 1998, neural tube birth defects have dropped by 28%, and studies have shown that far fewer people have low levels of folate in their blood. [5]
+In 1968, a Boston pathologist investigated the deaths of two children from massive strokes. Both had inherited conditions that caused them to have extremely high levels of a protein breakdown product in their blood, and both had arteries as clogged with cholesterol as those of a 65-year-old fast food addict. [6] Putting one and one together, he hypothesized that elevated levels of this breakdown product—called homocysteine—would contribute to the artery-clogging process of atherosclerosis.
+How do B vitamins fit into the homocysteine picture? Folate and vitamin B12 play key roles in converting homocysteine into methionine, one of the 20 or so building blocks from which the body builds new proteins. Without enough folate,  vitamin B6 , and  vitamin B12 , this conversion process becomes inefficient and homocysteine levels increase. On the flip side, homocysteine levels drop with increasing intakes of folate, vitamin B6, and vitamin B12.
+Since these early observations about homocysteine, most but not all studies have linked high levels of homocysteine with a modest increase in risk of  heart disease and stroke . And some but not all observational studies, including the Nurses’ Health Study, show lower risks of cardiovascular disease, stroke, and hypertension among people with higher intakes of folate from food, those who use multivitamin supplements, or those with higher levels of serum folate. [7-12] But linking higher homocysteine levels—and lower folate levels—with heart disease risk does not necessarily mean that lowering homocysteine by taking folate and other B vitamins will lower risk. Ideally, this would be tested in randomized trials.
+Several large randomized trials of B vitamin supplements to lower homocysteine levels and prevent heart disease and stroke failed to find a benefit. [13-18] These trials had similar designs: adults who had a history of heart disease or stroke, or who were at high risk of heart disease, were given a pill containing high doses of vitamins B6, B12, and folic acid or a placebo. The studies found that taking high doses of the three B vitamins lowered homocysteine levels but did not lead to a reduction in coronary heart events.
+But looking at cardiovascular disease as a whole may have obscured a potential benefit of at least one of the B vitamins, and studying people who already have advanced vascular disease may be too late in the process. One analysis of multiple studies suggests that folic acid supplements can reduce the risk of stroke in people who have not already suffered a stroke, but they do not reduce the risk of second stroke in people who have already had one. [19] Folic acid supplements were most protective in studies that lasted at least three years and that combined folic acid with vitamins B6 and B12. Trials that enrolled more men than women also showed more of a benefit, perhaps because men are at higher risk of stroke in general. Ultimately, folic acid supplementation may only reduce the risk of heart disease in people who have lower levels of folate intake, most likely in countries that do not fortify their food supply with folic acid. In people who already get enough folate in their diets, further supplementation with high doses of folic acid supplements—much higher than what is found in a standard multivitamin—has not been found to be beneficial and might actually cause harm.
+Additional research highlights folate’s potential benefits:
+A study on stroke rates before and after mandatory folic acid fortification found that stroke death rates in the U.S. and Canada fell more rapidly after fortification than before fortification; the U.K., which does not yet require folic acid fortification, saw no such change in stroke death rates. [20]
+A meta-analysis of 26 randomized controlled trials found that folic acid supplementation was not associated with a decreased risk of cardiovascular disease, heart disease, or deaths from these conditions, but it was linked with a decreasing trend in risk of strokes. [21]
+A meta-analysis of 19 randomized controlled trials looked at the effects of supplements containing a mix of B vitamins, including folic acid, on blood levels of homocysteine and risk of cardiovascular diseases. [22] Although the review found that supplementation caused a decrease in homocysteine blood levels in all of the trials, it was associated with a reduced risk of stroke only, with no effect on heart disease, heart attacks, overall cardiovascular disease, and deaths from cardiovascular disease.
+A Cochrane review of 15 randomized controlled trials found that folic acid supplements, taken alone or with other B vitamins, compared with a placebo did not show a significant difference on rates of heart attack and cardiovascular disease deaths but it did reduce the risk of stroke. [23]
+A meta-analysis of 30 randomized controlled trials found a 10% lower risk of stroke and 4% lower risk of overall cardiovascular diseases with folic acid supplementation. There was no significant effect on heart disease alone. However, the greatest benefit was seen for people with lower blood levels of folate and without a history of cardiovascular diseases. The supplements also appeared to most benefit those whose homocysteine levels had the greatest drop. [24]
+Folate plays a key role in cell growth and building DNA, the complex molecule that forms our genetic blueprint. It is believed that folate may play a role in both suppressing some types of early cancer, as well as progressing established cancers if high doses of folic acid are used.
+Observational studies show that people who get higher than average amounts of folate from their diets or folic acid supplements for 15 years or more have lower risks of colon cancer [25] and breast cancer. [26] This could be especially important for those who drink alcohol, since alcohol interferes with the proper metabolism of folate and inactivates circulating folate. An interesting observation from the Nurses’ Health Study is that a higher intake of folate appears to blunt the increased risk of breast cancer seen among women who have more than one alcoholic drink a day. [26] Other studies have had similar findings, including one from Sweden that found that sufficient folate intake protected against breast cancer even in women who had only one drink a day or less. [27,28]
+But the relationship between folate and cancer is a complicated one, especially for people at high risk of colon cancer. [29] Colorectal adenomas, or polyps, are pre-cancerous growths in the large intestine. A multiyear trial looked at whether high-dose folic acid supplements could prevent new polyps in people who had a history of polyps. [30] The study found that taking a daily pill with 1,000 micrograms of folic acid offered no protection against new polyps, and, more worrisome, increased the risk of developing multiple or more serious polyps.
+Keep in mind that this study tested a high dose of folic acid, more than two times higher than what is found in a standard multivitamin; furthermore, study participants were already at a very high risk of developing new polyps. This may be another case where timing of folate intake is critical. Getting adequate folate may prevent polyps in people who do not have them, but high dose folic acid supplements may speed up polyp growth in people who do. And it is reassuring that other trials of high dose B vitamin supplementation, such as the Women’s Antioxidant and Folic Acid Cardiovascular Study, have not found higher rates of cancer in supplement users. [31]
+In the U.S., fortification itself has increased people’s daily folic acid intake, and one highly publicized study suggested that folic acid fortification might have caused a small increase in the incidence of colon cancer. [32] There is another equally plausible explanation for the increase—greater detection of existing tumors in the colon and rectum due to more widespread use of colonoscopy. The steady decline in deaths from colon cancer before and after the onset of folic acid fortification suggests that screening, not folic acid fortification, is responsible for the uptick in colon cancer rates. The overall evidence from studies in humans shows a lower risk of colon and breast cancer with greater intake of folate or folic acid, rather than increased risk. [28, 33, 34] A study of 1,400 older adults in the National Health and Nutrition Examination Survey (NHANES) found that a significant lower risk of overall cancer incidence in those people who had the highest levels of folate biomarkers (referred to as serum and red blood cell folate). The study did not find a negative impact of the folate fortification program on cancer risk and even suggested a protective role. [35]
+When teasing out the relationship between any vitamin supplement and cancer, it is important to remember that cancer cells are essentially our own cells on overdrive, growing and rapidly dividing, and they have a greater need for nutrients than most of our normal cells do. Studies done decades ago show that folate is needed for tumor cell growth. Indeed, one successful chemotherapy agent works as a folate antagonist, since rapidly dividing cells require folate to maintain their fast pace of cell division. So for people who have cancer or precancerous growths, nutritional supplements may be a double-edged sword. If you have cancer, make sure to check with your doctor before beginning any vitamin supplement regimen.
+Observational studies have found an association between high homocysteine levels and increased incidence of dementia and Alzheimer’s disease. [36, 37] Homocysteine can negatively affect the brain by causing a lack of blood to the brain and nerve cells. Some observational studies have found a link between low blood levels of folate and higher risk of dementia. However, clinical trials have not found that folic acid supplementation prevents the development of dementia or improves cognitive function even if it reduces homocysteine levels. [37] More clinical trials of longer duration are needed to see the effects of folic acid supplementation and effective dosages on cognitive function.
+
+Food Sources
+A wide variety of foods naturally contain folate, but the form that is added to foods and supplements, folic acid, is better absorbed. In January 1998, the U.S. Food and Drug Administration required food manufacturers to add folic acid to foods commonly eaten, including breads, cereals, pasta, rice, and other grain products, to reduce the risk of neural tube defects. This program has helped to increase the average folic acid intake by about 100 mcg/day. [38,39] Good sources of folate include:
+Dark green leafy vegetables (turnip greens, spinach, romaine lettuce, asparagus,  Brussels sprouts , broccoli)
+Beans
+Peanuts
+Sunflower seeds
+Fresh fruits , fruit juices
+Whole grains
+Liver
+Aquatic foods
+Eggs
+Fortified foods and supplements
+
+Signs of Deficiency and Toxicity
+Deficiency
+A folate deficiency is rare because it is found in a wide range of foods. However, the following conditions may put people at increased risk:
+Alcoholism . Alcohol interferes with the absorption of folate and speeds the rate that folate breaks down and is excreted from the body. People with alcoholism also tend to eat poor-quality diets low in folate-containing foods.
+Pregnancy.  The need for folate increases during pregnancy as it plays a role in the development of cells in the fetus.
+Intestinal surgeries or digestive disorders that cause malabsorption.  Celiac disease and inflammatory bowel disease can decrease the absorption of folate. Surgeries involving the digestive organs or that reduce the normal level of stomach acid may also interfere with absorption.
+Genetic variants.  People carrying a variant of the gene MTHFR cannot convert folate to its active form to be used by the body.
+Signs of deficiency can include: megaloblastic anemia (a condition arising from a lack of folate in the diet or poor absorption that produces less red blood cells, and larger in size than normal); weakness, fatigue; irregular heartbeat; shortness of breath; difficulty concentrating; hair loss; pale skin; mouth sores.
+Toxicity
+It is extremely rare to reach a toxic level when eating folate from food sources.
+However, an upper limit for folic acid is set at 1,000 mcg daily because studies have shown that taking higher amounts can mask a vitamin B12 deficiency. This  deficiency occurs most often in older adults or those eating a vegan diet in whom a B12 deficiency is more common. Both folate and B12 are involved in making red blood cells, and a shortage of either can result in anemia. A person taking high-dosage supplements of folic acid may be able to correct the anemia and feel better, but the B12 deficiency still exists. In this case, if high folate intake continues to “hide” the symptoms of B12 deficiency for a long time, a slow but irreversible damage to the brain and nervous system may occur. If you choose to use a folic acid supplement, stick with the lower range available of 400 mcg a day or less, as you will likely obtain additional folic acid from fortified foods like cereals and breads, as well as natural folate in food.
+Overall, the evidence suggests that the amount of folic acid in a typical multivitamin does not cause any harm—and may help prevent some diseases, especially among people who do not get enough folate in their diets, and among individuals who drink alcohol.
+
+Did You Know
+Folate is also referred to as vitamin B9. Despite the number, there are only eight  B vitamins  in total.
+
+Related
+B Vitamins Vitamins and Minerals
+Smithells RW, Sheppard S, Schorah CJ. Vitamin dificiencies and neural tube defects.  Archives of disease in childhood . 1976 Dec 1;51(12):944-50.
+Czeizel AE, Dudás I. Prevention of the first occurrence of neural-tube defects by periconceptional vitamin supplementation.  New England journal of medicine . 1992 Dec 24;327(26):1832-5.
+MRC Vitamin Study Research Group. Prevention of neural tube defects: results of the Medical Research Council Vitamin Study.  The Lancet . 1991 Jul 20;338(8760):131-7.
+Federal Register. Food Standards: Amendment of Standards of Identity For Enriched Grain Products to Require Addition of Folic Acid. Final rule, 5 March 1996.  Food and Drug Administration: Washington, DC,
+Pitkin RM. Folate and neural tube defects.  The American journal of clinical nutrition . 2007 Jan 1;85(1):285S-8S.
+McCully KS. Vascular pathology of homocysteinemia: implications for the pathogenesis of arteriosclerosis.  The American journal of pathology . 1969 Jul;56(1):111.
+Rimm EB, Willett WC, Hu FB, Sampson L, Colditz GA, Manson JE, Hennekens C, Stampfer MJ. Folate and vitamin B6 from diet and supplements in relation to risk of coronary heart disease among women.  JAMA . 1998 Feb 4;279(5):359-64.
+He K, Merchant A, Rimm EB, Rosner BA, Stampfer MJ, Willett WC, Ascherio A. Folate, vitamin B6, and B12 intakes in relation to risk of stroke among men.  Stroke . 2004 Jan 1;35(1):169-74.
+Ishihara J, Iso H, Inoue M, Iwasaki M, Okada K, Kita Y, Kokubo Y, Okayama A, Tsugane S, JPHC Study Group. Intake of folate, vitamin B6 and vitamin B12 and the risk of CHD: the Japan Public Health Center-Based Prospective Study Cohort I.  Journal of the American College of Nutrition . 2008 Feb 1;27(1):127-36.
+Larsson SC, Männistö S, Virtanen MJ, Kontto J, Albanes D, Virtamo J. Folate, vitamin B6, vitamin B12, and methionine intakes and risk of stroke subtypes in male smokers.  American journal of epidemiology . 2008 Feb 12;167(8):954-61.
+Forman JP, Stampfer MJ, Curhan GC. Diet and lifestyle risk factors associated with incident hypertension in women.  JAMA . 2009 Jul 22;302(4):401-11.
+Forman JP, Rimm EB, Stampfer MJ, Curhan GC. Folate intake and the risk of incident hypertension among US women.  JAMA . 2005 Jan 19;293(3):320-9.
+Toole JF, Malinow MR, Chambless LE, Spence JD, Pettigrew LC, Howard VJ, Sides EG, Wang CH, Stampfer M. Lowering homocysteine in patients with ischemic stroke to prevent recurrent stroke, myocardial infarction, and death: the Vitamin Intervention for Stroke Prevention (VISP) randomized controlled trial.  JAMA . 2004 Feb 4;291(5):565-75.
+Heart Outcomes Prevention Evaluation (HOPE) 2 Investigators. Homocysteine lowering with folic acid and B vitamins in vascular disease.  New England Journal of Medicine . 2006 Apr 13;354(15):1567-77.
+Bønaa KH, Njølstad I, Ueland PM, Schirmer H, Tverdal A, Steigen T, Wang H, Nordrehaug JE, Arnesen E, Rasmussen K. Homocysteine lowering and cardiovascular events after acute myocardial infarction.  New England Journal of Medicine . 2006 Apr 13;354(15):1578-88.
+Albert CM, Cook NR, Gaziano JM, Zaharris E, MacFadyen J, Danielson E, Buring JE, Manson JE. Effect of folic acid and B vitamins on risk of cardiovascular events and total mortality among women at high risk for cardiovascular disease: a randomized trial.  JAMA . 2008 May 7;299(17):2027-36.
+Armitage JM, Bowman L, Clarke RJ, Wallendszus K, Bulbulia R, Rahimi K, Haynes R, Parish S, Sleight P, Peto R, Collins R. Effects of homocysteine-lowering with folic acid plus vitamin B12 vs placebo on mortality and major morbidity in myocardial infarction survivors: a randomized trial.  JAMA . 2010 Jun;303(24):2486-94.
+VITATOPS Trial Study Group. B vitamins in patients with recent transient ischaemic attack or stroke in the VITAmins TO Prevent Stroke (VITATOPS) trial: a randomised, double-blind, parallel, placebo-controlled trial.  The Lancet Neurology . 2010 Sep 1;9(9):855-65.
+Lee M, Hong KS, Chang SC, Saver JL. Efficacy of homocysteine-lowering therapy with folic acid in stroke prevention: a meta-analysis.  Stroke . 2010 Jun 1;41(6):1205-12.
+Yang Q, Botto LD, Erickson JD, Berry RJ, Sambell C, Johansen H, Friedman JM. Improvement in stroke mortality in Canada and the United States, 1990 to 2002.  Circulation . 2006 Mar 14;113(10):1335-43.
+Yang HT, Lee M, Hong KS, Ovbiagele B, Saver JL. Efficacy of folic acid supplementation in cardiovascular disease prevention: an updated meta-analysis of randomized controlled trials.  European journal of internal medicine . 2012 Dec 1;23(8):745-54.
+Huang T, Chen Y, Yang B, Yang J, Wahlqvist ML, Li D. Meta-analysis of B vitamin supplementation on plasma homocysteine, cardiovascular and all-cause mortality.  Clinical nutrition . 2012 Aug 1;31(4):448-54.
+Martí‐Carvajal AJ, Sola I, Lathyris D, Dayer M. Homocysteine‐lowering interventions for preventing cardiovascular events.  Cochrane Database of Systematic Reviews . 2017(8).
+Li Y, Huang T, Zheng Y, Muka T, Troup J, Hu FB. Folic acid supplementation and the risk of cardiovascular diseases: a meta‐analysis of randomized controlled trials.  Journal of the American Heart Association . 2016 Aug 15;5(8):e003768.
+Giovannucci E, Stampfer MJ, Colditz GA, Hunter DJ, Fuchs C, Rosner BA, Speizer FE, Willett WC. Multivitamin use, folate, and colon cancer in women in the Nurses’ Health Study.  Annals of internal medicine . 1998 Oct 1;129(7):517-24.
+Zhang S, Hunter DJ, Hankinson SE, Giovannucci EL, Rosner BA, Colditz GA, Speizer FE, Willett WC. A prospective study of folate intake and the risk of breast cancer.  JAMA . 1999 May 5;281(17):1632-7.
+Larsson SC, Giovannucci E, Wolk A. Folate and risk of breast cancer: a meta-analysis.  Journal of the National Cancer Institute . 2007 Jan 3;99(1):64-76.
+Ericson U, Sonestedt E, Gullberg B, Olsson H, Wirfält E. High folate intake is associated with lower breast cancer incidence in postmenopausal women in the Malmö Diet and Cancer cohort.  The American journal of clinical nutrition . 2007 Aug 1;86(2):434-43.
+Ulrich CM. Folate and cancer prevention: a closer look at a complex picture.  Am J Clin Nutr . 2007; 86:271–273.
+Cole BF, Baron JA, Sandler RS, Haile RW, Ahnen DJ, Bresalier RS, McKeown-Eyssen G, Summers RW, Rothstein RI, Burke CA, Snover DC. Folic acid for the prevention of colorectal adenomas: a randomized clinical trial.  JAMA . 2007 Jun 6;297(21):2351-9.
+Zhang SM, Cook NR, Albert CM, Gaziano JM, Buring JE, Manson JE. Effect of combined folic acid, vitamin B6, and vitamin B12 on cancer risk in women: a randomized trial.  JAMA . 2008 Nov 5;300(17):2012-21.
+Mason JB, Dickstein A, Jacques PF, Haggarty P, Selhub J, Dallal G, Rosenberg IH. A temporal association between folic acid fortification and an increase in colorectal cancer rates may be illuminating important biological principles: a hypothesis.  Cancer Epidemiology and Prevention Biomarkers . 2007 Jul 1;16(7):1325-9.
+Sanjoaquin MA, Allen N, Couto E, Roddam AW, Key TJ. Folate intake and colorectal cancer risk: a meta‐analytical approach.  International Journal of Cancer . 2005 Feb 20;113(5):825-8.
+Ferrari P, Jenab M, Norat T, Moskal A, Slimani N, Olsen A, Tjønneland A, Overvad K, Jensen MK, Boutron‐Ruault MC, Clavel‐Chapelon F. Lifetime and baseline alcohol intake and risk of colon and rectal cancers in the European prospective investigation into cancer and nutrition (EPIC).  International journal of cancer . 2007 Nov 1;121(9):2065-72.
+Hu J, Juan W, Sahyoun NR. Intake and biomarkers of folate and risk of cancer morbidity in older adults, NHANES 1999-2002 with Medicare linkage.  PLoS One . 2016 Feb 10;11(2):e0148697.
+Ho RC, Cheung MW, Fu E, Win HH, Zaw MH, Ng A, Mak A. Is high homocysteine level a risk factor for cognitive decline in elderly? A systematic review, meta-analysis, and meta-regression.  The American Journal of Geriatric Psychiatry . 2011 Jul 1;19(7):607-17.
+Smith AD, Refsum H, Bottiglieri T, Fenech M, Hooshmand B, McCaddon A, Miller JW, Rosenberg IH, Obeid R. Homocysteine and dementia: an international consensus statement.  Journal of Alzheimer’s Disease . 2018 Jan 1;62(2):561-70.
+Pfeiffer CM, Caudill SP, Gunter EW, Osterloh J, Sampson EJ. Biochemical indicators of B vitamin status in the US population after folic acid fortification: results from the National Health and Nutrition Examination Survey 1999–2000–.  The American journal of clinical nutrition . 2005 Aug 1;82(2):442-50.
+Institute of Medicine.  Dietary reference intakes for thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12, pantothenic acid, biotin, and choline . Washington, DC: National Academy Press, 1999.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/vitamin-b6/
+https://nutritionsource.hsph.harvard.edu/vitamin-b12/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/food-features/brussels-sprouts/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://adc.bmj.com/content/51/12/944.short
+https://www.nejm.org/doi/full/10.1056/nejm199212243272602
+https://www.sciencedirect.com/science/article/pii/014067369190133A
+https://academic.oup.com/ajcn/article/85/1/285S/4649476
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2013581/
+https://jamanetwork.com/journals/jama/article-abstract/187209
+https://www.ahajournals.org/doi/abs/10.1161/01.STR.0000106762.55994.86
+https://www.tandfonline.com/doi/abs/10.1080/07315724.2008.10719684
+https://academic.oup.com/aje/article-abstract/167/8/954/85643
+https://jamanetwork.com/journals/jama/article-abstract/184309
+https://jamanetwork.com/journals/jama/article-abstract/200196
+https://jamanetwork.com/journals/jamapsychiatry/fullarticle/198139
+https://www.nejm.org/doi/full/10.1056/NEJMoa060900
+https://www.nejm.org/doi/full/10.1056/NEJMoa055227
+https://jamanetwork.com/journals/jama/article-abstract/181854
+https://europepmc.org/abstract/med/20571015
+https://www.sciencedirect.com/science/article/pii/S1474442210701873
+https://www.ahajournals.org/doi/abs/10.1161/strokeaha.109.573410
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.614.6570&rep=rep1&type=pdf
+https://www.sciencedirect.com/science/article/pii/S0953620512001793
+https://www.sciencedirect.com/science/article/pii/S0261561411000057
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006612.pub5/abstract
+https://www.ahajournals.org/doi/abs/10.1161/JAHA.116.003768
+http://annals.org/acp/content_public/journal/aim/19917/0000605-199810010-00002.pdf
+https://jamanetwork.com/journals/jama/article-abstract/189712
+https://academic.oup.com/jnci/article-abstract/99/1/64/2522100
+https://academic.oup.com/ajcn/article-abstract/86/2/434/4633005
+https://academic.oup.com/ajcn/article/86/2/271/4633129
+https://jamanetwork.com/journals/jama/article-abstract/207344
+https://jamanetwork.com/journals/jama/article-abstract/182828
+http://cebp.aacrjournals.org/content/16/7/1325.short
+https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.20648
+https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.22966
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148697
+https://www.sciencedirect.com/science/article/pii/S1064748112600347
+https://content.iospress.com/articles/journal-of-alzheimers-disease/jad171042
+https://academic.oup.com/ajcn/article-abstract/82/2/442/4862997
+https://www.ncbi.nlm.nih.gov/books/NBK114310/

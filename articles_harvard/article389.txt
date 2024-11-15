@@ -1,0 +1,93 @@
+Title: Selenium
+
+Selenium is a trace mineral, which means that the body only needs a small amount of it. It is found naturally in foods or as a supplement. Selenium is an essential component of various enzymes and proteins, called selenoproteins, that help to make DNA and protect against cell damage and infections; these proteins are also involved in reproduction and the metabolism of thyroid hormones. Most selenium in the body is stored in muscle tissue, although the thyroid gland holds the highest concentration of selenium due to various selenoproteins that assist with thyroid function.
+
+Recommended Amounts
+RDA:  The Recommended Dietary Allowance (RDA) for adult men and women 19+ years of age is 55 micrograms daily. Women who are pregnant and lactating need about 60 and 70 micrograms daily, respectively.
+UL:  The Tolerable Upper Intake Level (UL) for selenium for all adults 19+ years of age and pregnant and lactating women is 400 micrograms daily; a UL is the maximum daily intake unlikely to cause harmful effects on health.
+
+Selenium and Health
+Selenium is a component of selenoproteins and enzymes. These have antioxidant properties that help to break down peroxides, which can damage tissues and DNA, leading to inflammation and other health problems.
+A Cochrane review of 13 prospective observational studies showed a 31% reduced risk of cancer and 45% reduced risk of deaths from cancer in the groups with the highest selenium intakes or blood levels compared with the lowest selenium levels, particularly in men. [1] Yet, the authors cautioned about weaknesses in the meta-analysis since there were differences among the study populations and possible inaccuracy when assessing dietary selenium (regional differences in the selenium content of food was not accounted for).
+Another Cochrane review of 83 randomized placebo-controlled trials did not find that selenium supplementation reduced the risk of any cancer type. In addition, some of the trials noted a higher incidence of type 2 diabetes with long-term use of selenium supplements (about 7 years) who had normal selenium blood levels at the start the of study. Further research is needed to replicate this finding. [2]
+Additional research is needed on the association of selenium and cancer before making specific dietary recommendations.
+There are high concentrations of selenium in the thyroid gland, where there are several selenium-containing enzymes regulating thyroid function. If the body does not have enough selenium, it can lead to autoimmune thyroid conditions such as Hashimoto’s disease and Graves’ disease. Both of these conditions cause the body to create antibodies that attack the thyroid gland, leading to an overactive thyroid (hyperthyroidism) or underactive thyroid (hypothyroidism).
+Randomized controlled trials studying selenium supplementation show mixed results. Supplements have not been shown to significantly affect thyroid function in people with normal thyroid or mild hypothyroidism, despite causing increased blood levels of selenium. [3,4] Other studies have shown selenium to decrease the amount of these antibodies and promote the activity of selenoproteins, which work to decrease inflammation. [5]
+The role of selenium supplementations for people with autoimmune thyroid diseases (ATD) is still unclear.  A systematic review and meta-analysis of nine controlled trials did not find that selenium supplements changed thyroid hormone function in people with ATD, nor did a Cochrane review. [6]
+Selenoproteins help to protect cell membranes from damage by free radicals and keep blood platelets from becoming sticky, both of which can lead to heart disease. However, both cohort studies and clinical trials have shown mixed results regarding the relationship of selenium and  cardiovascular disease (CVD) .
+Observational studies have shown that people with both low and high selenium exposure (based on dietary intake and blood levels) have an increased risk of CVD. Others have found no association at all. [7] Clinical trials have not found that selenium supplements reduce the risk of CVD or cardiac death; however these trials were small and included people who were not likely selenium deficient at the start of the study. [7]
+Additional research is needed on the association of selenium and CVD before making specific dietary recommendations.
+
+Food Sources
+The amount of selenium in foods can vary widely depending on the selenium content of the soil in which it is grown. Soil content varies widely by region. Plant foods obtain selenium from soil, which will then affect the amount of selenium in animals eating those plants.  Protein foods  from animals are generally good sources of selenium. Seafood, organ meats, and Brazil nuts are the foods highest in selenium although Americans obtain most of their selenium from everyday staples, like breads, cereals, poultry, red meat, and  eggs .
+Brazil nuts
+Fin fish and shellfish
+Beef
+Turkey
+Chicken
+Fortified cereals
+Whole-wheat bread
+Beans ,  lentils
+
+Signs of Deficiency and Toxicity
+Deficiency
+A deficiency of selenium in the U.S. is rare as the soil throughout North America is generally rich in selenium. [7] Even if people live in areas with lower-selenium soil, the transport of food across the region as well as the use of fortified foods and supplements reduce the risk of deficiency.
+Two conditions are associated with severe selenium deficiency: 1) Keshan disease, a type of cardiomyopathy, or disease of heart muscle, and 2) Kashin-Beck disease, a form of osteoarthritis.
+Symptoms:
+Nausea, vomiting
+Headaches
+Altered mental state, confusion
+Lethargy
+Seizures
+Coma
+Groups at risk for deficiency:
+People living in low-selenium regions who also eat a primarily plant-based diet.  This is rarely seen in the U.S., but populations in China, Russia, and Europe are at risk as their soil is generally low in selenium. The risk is further increased in people living in these areas who eat a vegetarian or vegan diet
+People with HIV.  The virus can lead to diarrhea, malabsorption of nutrients, and decreased appetite.
+People with kidney failure undergoing dialysis.  This mechanical process of filtering the blood can remove some selenium. The dietary restrictions required with kidney failure can also decrease overall food intake, leading to a risk of selenium deficiency.
+Toxicity
+Chronically high intakes of selenium can lead to health problems, ranging from muscle tremors, hair loss, stomach upset, and lightheadedness, to more severe outcomes of heart attack, respiratory distress, or kidney failure. Brazil nuts are exceptionally high in selenium even when grown in low-selenium soil, with even one nut containing more than the RDA. Eating too many of these nuts on a daily basis can reach a toxic level, as well as using supplements that contain selenium in excess of the RDA.
+Early symptoms:
+Metallic taste, bad breath
+Nausea, diarrhea
+Hair loss
+Nail brittleness or discoloration
+Skin rash or lesions
+Skin flushing
+Fatigue
+Irritability
+Muscle tenderness
+
+Did You Know?
+Selenium and iodine have a synergistic relationship that is especially important for a healthy thyroid.  Iodine  is a component of thyroid hormone, and selenium as a selenoprotein helps to convert the thyroid hormone into its active form. Both minerals are needed by the thyroid in adequate amounts; too much of one can contribute to a deficiency of the other.
+Selenium supplements are promoted to offer several benefits, including boosting immune function, improving hair and nail health, and supporting a healthy thyroid. They are sometimes combined with other antioxidant vitamins such as vitamin E or C. These supplements usually contain between 100-400 micrograms of selenium per dose (the Tolerable Upper intake Level is 400 micrograms). However, if a person is not at high risk for a deficiency, there is no evidence that taking a higher amount of selenium promotes the health benefits shown on these supplement labels.
+
+Related
+Vitamins and Minerals
+Dennert G, Zwahlen M, Brinkman M, Vinceti M, Zeegers MP, Horneber M. Selenium for preventing cancer.  Sao Paulo Medical Journal . 2012;130(1).
+Vinceti M, Filippini T, Del Giovane C, Dennert G, Zwahlen M, Brinkman M, Zeegers MP, Horneber M, D’Amico R, Crespi CM. Selenium for preventing cancer.  Cochrane database of systematic reviews . 2018(1).
+Winther KH, Bonnema SJ, Cold F, Debrabant B, Nybo M, Cold S, Hegedüs L. Does selenium supplementation affect thyroid function? Results from a randomized, controlled, double-blinded trial in a Danish population.   Eur J Endocrinol . 2015 Jun 1;172(6):657-67.
+Rayman MP, Thompson AJ, Bekaert B, Catterick J, Galassini R, Hall E, Warren-Perry M, Beckett GJ. Randomized controlled trial of the effect of selenium supplementation on thyroid function in the elderly in the United Kingdom.  The American journal of clinical nutrition . 2008 Feb 1;87(2):370-8.
+Drutel A, Archambeaud F, Caron P. Selenium and the thyroid gland: more good news for clinicians.  Clinical endocrinology . 2013 Feb;78(2):155-64.
+Winther KH, Wichman JE, Bonnema SJ, Hegedüs L. Insufficient documentation for clinical efficacy of selenium supplementation in chronic autoimmune thyroiditis, based on a systematic review and meta-analysis.  Endocrine . 2017 Feb;55(2):376-385.
+National Institutes of Health Office of Dietary Supplements: Selenium Fact Sheet for Health Professionals.  https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/  Accessed 1/4/2020.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/food-features/lentils/
+https://nutritionsource.hsph.harvard.edu/iodine/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://www.cabdirect.org/globalhealth/abstract/20123100919
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005195.pub4/abstract
+http://www.tahomaclinic.com/Private/Articles3/Selenium/Winther%202015%20-%20Does%20selenium%20supplementation%20affect%20thyroid%20function.pdf
+https://academic.oup.com/ajcn/article-abstract/87/2/370/4633244
+https://onlinelibrary.wiley.com/doi/abs/10.1111/cen.12066
+https://link.springer.com/article/10.1007/s12020-016-1098-z
+https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/

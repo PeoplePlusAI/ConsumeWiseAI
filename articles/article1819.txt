@@ -1,0 +1,187 @@
+Title: 4 Hidden Dangers of Pork
+
+
+Among foods that inspire a cult-like following, pork often leads the pack, as evidenced by the  65% of Americans  eager to name bacon the country’s national food.
+Unfortunately, that popularity comes at a cost. Along with being the most commonly consumed meat in the world, pork may also be one of the most dangerous, carrying some important and under-discussed risks that any consumer should be aware of ( 1 ).
+
+1. Hepatitis E
+Thanks to the revival of nose-to-tail eating,  offal  has redeemed itself among health enthusiasts, especially liver, which is prized for its vitamin A content and massive mineral lineup.
+But when it comes to pork,  liver  might be risky business.
+In developed nations, pork liver is the top food-based transmitter of hepatitis E, a virus that infects 20 million people each year and can lead to acute illness (fever, fatigue, jaundice, vomiting, joint pain and stomach pain), enlarged liver and sometimes liver failure and death ( 2 ,  3 ).
+Most hepatitis E cases are stealthily symptom-free, but pregnant women can experience violent reactions to the virus, including fulminant hepatitis (rapid-onset liver failure) and a high risk of both maternal and fetal mortality ( 4 ). In fact, mothers who get infected during their third trimester face a death rate of up to 25% ( 5 ).
+In rare cases, hepatitis E infection can lead to myocarditis (an inflammatory heart disease), acute pancreatitis (painful inflammation of the pancreas), neurological problems (including Guillain-Barré syndrome and neuralgic amyotrophy), blood disorders and musculoskeletal problems, such as elevated creatine phosphokinase, indicating muscle damage, and multi-joint pain (in the form of polyarthralgia) ( 6 ,  7 ,  8 ).
+People with compromised immune systems, including organ transplant recipients on immunosuppressive therapy and people with HIV, are more likely to suffer from these severe hepatitis E complications ( 9 ).
+So, just how alarming are pork’s contamination stats? In America, about 1 out of every 10 store-bought pig livers tests positive for hepatitis E, which is slightly higher than the 1 in 15 rate in the Netherlands and 1 in 20 rate in the Czech Republic ( 10 ,  11 ). One study in Germany found that about 1 in 5 pork sausages were contaminated ( 12 ).
+France’s traditional  figatellu , a pig liver sausage that’s often consumed raw, is a confirmed hepatitis E carrier ( 13 ). In fact, in regions of France where raw or rare pork is a common delicacy, over half the local population shows evidence of hepatitis E infection ( 14 ).
+Japan, too, is facing rising hepatitis E concerns as pork gains popularity ( 15 ). And in the UK? Hepatitis E shows up in pork sausages, in pork liver and at pork slaughterhouses, indicating the potential for widespread exposure among pork consumers ( 16 ).
+It might be tempting to blame the hepatitis E epidemic on commercial farming practices, but in the case of the pig, wilder doesn’t mean safer. Hunted boars, too, are frequent hepatitis E carriers, capable of passing on the virus to game-eating humans ( 17 ,  18 ).
+Apart from total pork abstinence, the best way to slash hepatitis E risk is in the kitchen. This stubborn virus can survive the temperatures of rare-cooked meat, making high heat the best weapon against infection ( 19 ). For virus deactivation, cooking pork products for at least 20 minutes to an internal temperature of 71°C (160°F) seems to do the trick ( 20 ).
+However, fat can protect hepatitis viruses from heat destruction, so fattier cuts of pork might need extra time or toastier temperatures ( 21 ).
+Pork products, particularly liver, frequently carry hepatitis E, which can cause severe complications and even death in vulnerable populations. Thorough cooking is necessary to deactivate the virus.
+
+2. Multiple Sclerosis
+One of the most surprising risks associated with pork — one that’s received remarkably little airtime — is multiple sclerosis (MS), a devastating autoimmune condition involving the central nervous system.
+The robust link between pork and MS has been known at least since the 1980s, when researchers analyzed the relationship between per capita pork consumption and MS across dozens of countries ( 22 ).
+While pork-averse nations like Israel and India were nearly spared from MS’s degenerative grips, more liberal consumers, such as West Germany and Denmark, faced sky-high rates.
+In fact, when all countries were considered, pork intake and MS showed a whopping correlation of 0.87 (p<0.001), which is much higher and more significant than the relationship between MS and fat intake (0.63, p<0.01), MS and total meat intake (0.61, p<0.01) and MS and beef consumption (no significant relationship).
+For perspective, a similar study of diabetes and per capita sugar intake found a correlation of just under 0.60 (p<0.001) when analyzing 165 countries ( 23 ).
+As with all epidemiological findings, the correlation between pork consumption and MS can’t prove that one  causes  the other (or even that, within MS-stricken countries, the most enthusiastic pork consumers were the most diseased). But as it turns out, the evidence vault goes much deeper.
+Earlier, a study of inhabitants of the Orkney and Shetland Islands of Scotland, a region teeming with unusual delicacies, including seabird eggs, raw milk and undercooked meat, found only one dietary association with MS — consumption of “potted head,” a dish made from boiled pig’s brain ( 24 ).
+Among Shetland residents, a significantly higher proportion of MS patients had consumed potted head in their youth, compared to healthy, age and sex-matched controls ( 25 ).
+This is particularly relevant because — per other research — MS that strikes in adulthood might stem from environmental exposures during adolescence ( 26 ).
+The potential for pig brain to trigger nerve-related autoimmunity isn’t just an observational hunch, either. Between 2007 and 2009, a cluster of 24 pork plant workers mysteriously fell ill with  progressive inflammatory neuropathy , which is characterized by MS-like symptoms such as fatigue, numbness, tingling and pain ( 27 ,  28 ).
+The source of the outbreak? So-called “pig brain mist” — tiny particles of brain tissue blasted into the air during carcass processing ( 29 ).
+When workers inhaled these tissue particles, their immune systems, per standard protocol, formed antibodies against the foreign porcine antigens.
+But those antigens happened to bear an uncanny resemblance to certain neural proteins in humans. And the result was a biological calamity: confused about who to fight, the workers’ immune systems launched a guns-blazing attack on their own nerve tissue ( 30 ,  31 ).
+Although the resulting autoimmunity wasn’t identical to multiple sclerosis, that same process of molecular mimicry, where foreign antigens and self-antigens are similar enough to trigger an autoimmune response, has been implicated in the pathogenesis of MS ( 32 ,  33 ).
+Of course, unlike pig brain mist, hot dogs and ham aren’t  literally  inhaled (teenage boys notwithstanding). Could pork still transmit problematic substances through ingestion? The answer is a speculative yes. For one, certain bacteria, particularly  Acinetobacter , are involved in molecular mimicry with myelin, the nerve-sheathing substance that becomes damaged in MS ( 34 ,  35 ).
+Although the role of pigs as  Acinetobacter  carriers hasn’t been exhaustively studied, the bacteria has been found in pig feces, on pig farms and in bacon, pork salami and ham, where it serves as a spoilage organism ( 36 ,  37 ,  38 ,  39 ). If pork acts as a vehicle for  Acinetobacter  transmission (or in any way increases the risk of human infection), a link with MS would make sense.
+Two, pigs may be silent and under-studied carriers of  prions , misfolded proteins that drive neurodegenerative disorders like Creutzfeldt-Jakob disease (the human version of mad cow) and Kuru (found among cannibal societies) ( 40 ).
+Some researchers suggest MS itself could be a prion disease, one that targets oligodendrocytes, the cells that produce myelin ( 41 ). And since prions — and their associated diseases— are transmitted by consuming infected nerve tissue, it’s possible that prion-harboring pork products could be one link in the MS chain ( 42 ).
+A causative role of pork in MS is far from a closed case, but the unusually strong epidemiological patterns, biological plausibility and documented experiences make further research imperative.
+
+3. Liver Cancer and Cirrhosis
+Liver problems tend to trail closely on the heels of some predictable risk factors, namely hepatitis B and C infection, exposure to aflatoxin (a carcinogen produced by mold) and excessive alcohol intake ( 43 ,  44 ,  45 ).
+But buried in the scientific literature is another potential scourge of liver health — pork.
+For decades, pork consumption has faithfully echoed liver cancer and cirrhosis rates around the world. In multi-country analyses, the correlation between pork and cirrhosis mortality clocked in at 0.40 (p<0.05) using 1965 data, 0.89 (p<0.01) using mid-1970s data, 0.68 (p=0.003) using 1996 data and 0.83 (p=0.000) using 2003 data ( 46 ,  47 ).
+In those same analyses, among the 10 Canadian provinces, pork bore a correlation of 0.60 (p<0.01) with death from liver cirrhosis, while alcohol, perhaps due to an overall low intake, showed no significant link.
+And in statistical models incorporating known perils for the liver (alcohol consumption, hepatitis B infection and hepatitis C infection), pork remained independently associated with liver disease, suggesting the association isn’t just due to pork piggybacking, as the case may be, on a different causative agent ( 48 ).
+Beef, by contrast, remained liver-neutral or protective in these studies.
+
+One of the biggest dietary sources of nitrosamines is processed pork, which, along with being a frequent visitor to the frying pan, typically contains nitrites and nitrates as curing agents. (Vegetables are also rich in naturally occurring nitrates, but their antioxidant content and dearth of protein help thwart the process of  N -nitrosation, preventing them from becoming cancer-causing agents ( 62 ).
+
+Liver cancer, too, tends to follow in the hoof steps of the pig. A 1985 analysis showed that pork intake correlated with hepatocellular carcinoma deaths as strongly as alcohol did (0.40, p<0.05 for both) ( 49 ). (Considering liver cirrhosis is often a prelude to cancer, this connection shouldn’t be surprising ( 50 ).)
+So, what’s behind these eerie associations?
+At first glance, the most likely explanations don’t pan out. Although pork-transmitted hepatitis E can lead to liver cirrhosis, this happens almost exclusively in immunosuppressed people, a subset of the population that’s too small to account for the global correlation ( 51 ).
+Relative to other meat, pork tends to be high in omega-6 fatty acids, including linoleic acid and arachidonic acid, which may play a role in liver disease ( 52 ,  53 ,  54 ). But vegetable oils, whose polyunsaturated fatty acid content blows pork out of the water, don’t dance the same liver disease tango that pork does, calling into question whether fat is really to blame ( 55 ,  56 ).
+Heterocyclic amines, a class of carcinogens formed by cooking meat (including pork) at high temperatures, contribute to liver cancer in a variety of animals ( 57 ). But these compounds are also readily formed in beef, according to the same studies that indicated pork has no positive relationship with liver disease ( 58 ,  59 ).
+With all that in mind, it’d be easy to dismiss the pork-liver disease link as an epidemiological fluke. However, some plausible mechanisms do exist.
+The most likely contender involves  nitrosamines , which are carcinogenic compounds created when  nitrites and nitrates  react with certain amines (from protein), particularly in high heat ( 60 ). These compounds have been linked to damage and cancer in a variety of organs, including the liver ( 61 ).
+One of the biggest dietary sources of nitrosamines is processed pork, which, along with being a frequent visitor to the frying pan, typically contains nitrites and nitrates as curing agents. (Vegetables are also rich in naturally occurring nitrates, but their antioxidant content and dearth of protein help thwart the process of  N -nitrosation, preventing them from becoming cancer-causing agents ( 62 ).
+Significant levels of nitrosamines have been found in pork liver pâté, bacon, sausage, ham and other cured meats ( 63 ,  64 ,  65 ). The fatty portion of pork products, in particular, tends to accumulate much higher levels of nitrosamines than the lean bits, making bacon a particularly abundant source ( 66 ).
+The presence of fat can also turn vitamin C into a nitrosamine promoter instead of a nitrosamine inhibitor, so pairing pork with veggies might not confer much protection ( 67 ).
+Although much of the nitrosamine-liver cancer research has focused on rodents, where certain nitrosamines produce liver injury with remarkable ease, the effect appears in humans as well ( 68 ,  69 ). In fact, some researchers suggest humans may be even more sensitive to nitrosamines than mice and rats ( 70 ).
+In Thailand, for instance, nitrosamines have been strongly linked to liver cancer in areas where other risk factors are low ( 71 ). A 2010 analysis of the NIH-AARP cohort found red meat (including pork),  processed meat  (including processed pork), nitrates and nitrites to be positively associated with chronic liver disease. Rubber workers, occupationally exposed to nitrosamines, have faced extremely high rates of non-alcohol-related liver disease and cancer ( 72 ).
+Do nitrosamines prove a chain of causation between pork, liver-harming compounds and liver disease? The evidence is currently too patchy to make that claim, but the risk is plausible enough to justify limiting nitrosamine-containing (or nitrosamine-producing) pork products, including bacon, ham, hot dogs and sausages made with sodium nitrite or potassium nitrate.
+Strong epidemiological links exist between pork consumption and liver disease. If these links reflect cause and effect, one culprit might be  N -nitroso compounds, which are found abundantly in processed pork products cooked at high temperatures.
+
+4. Yersinia
+For years, pork’s precautionary motto was “well-done or bust,” a consequence of fears about trichinosis, a type of roundworm infection that ravaged pork consumers throughout much of the 20 th  century ( 73 ).
+Thanks to changes in feeding practices, farm hygiene and quality control, pig-borne trichinosis has dropped off the radar, inviting pink pork back onto the menu.
+But pork’s relaxed heat rules may have opened the doors for a different type of infection — yersiniosis, which is caused by  Yersinia  bacteria. In the US alone,  Yersinia  causes 35 deaths and almost 117,000 cases of food poisoning each year ( 74 ). Its chief entry route for humans? Undercooked pork.
+Yersiniosis’s acute symptoms are rough enough — fever, pain, bloody diarrhea — but its long-term consequences are what should really ring alarm bells. Victims of  Yersinia  poisoning face a 47-times higher risk of reactive arthritis, a type of inflammatory joint disease triggered by infection ( 75 ).
+Even children become post- Yersinia  arthritis targets, sometimes requiring chemical synovectomy (the injection of osmic acid into a troubled joint) to relieve persistent pain ( 76 ,  77 ).
+And in the less-common instances where  Yersinia  doesn’t bring the typical feverish, diarrheic unpleasantries? Reactive arthritis can develop even when the original infection was asymptomatic, leaving some victims unaware that their arthritis is a consequence of food-borne illness ( 78 ).
+Although reactive arthritis usually subsides on its own over time,  Yersinia  victims remain at higher risk of chronic joint problems, including ankylosing spondylitis, sacroiliitis, tenosynovitis and rheumatoid arthritis, for years on end ( 79 ,  80 ,  81 ).
+Some evidence suggests that  Yersinia  can lead to neurological complications ( 82 ). Infected individuals with iron overload may be at higher risk of multiple liver abscesses, potentially leading to death ( 83 ,  84 ,  85 ). And among people who are genetically susceptible, anterior uveitis, inflammation of the eye’s iris, is also more likely following a bout of  Yersinia  ( 86 ,  87 ).
+Lastly, via molecular mimicry,  Yersinia  infection could also raise the risk of Graves’ disease, an autoimmune condition characterized by excessive thyroid hormone production ( 88 ,  89 ).
+The solution?  Bring on the heat.  The majority of pork products (69% of tested samples, according to a  Consumer Reports analysis ) are contaminated with  Yersinia  bacteria, and the only way to safeguard against infection is through  proper cooking . An internal temperature of at least 145°F for whole pork and 160°F for ground pork is necessary to decimate any lingering pathogen.
+Undercooked pork can transmit  Yersinia  bacteria, causing short-term illness and raising the risk of reactive arthritis, chronic joint conditions, Graves’ disease and other complications.
+
+In Conclusion
+So, should health-savvy omnivores scrap pork from the menu?
+The jury’s still out. For two of pork’s problems — hepatitis E and  Yersinia  — aggressive cooking and safe handling are enough to minimize the risk. And due to a shortage of controlled, pork-centric research capable of establishing causation, pork’s other red flags spring from epidemiology — a field rife with confounders and unjustified confidence.
+Worse, many diet-and-disease studies lump pork together with other types of red meat, diluting whatever associations might exist with pork alone.
+These issues make it hard to isolate the health effects of pig-derived products and determine the safety of their consumption.
+That being said, caution is probably warranted. The sheer magnitude, consistency and mechanistic plausibility of pork’s connection with several serious diseases make the chances of a true risk more likely.
+Until further research is available, you might want to think twice about going hog-wild on pork.
+
+References:
+
+http://www.marketwatch.com/story/bacon-sales-sizzle-to-all-time-high-2014-02-11
+http://www.fao.org/ag/againfo/themes/en/meat/backgr_sources.html
+https://www.healthline.com/nutrition/organ-meats
+https://www.healthline.com/nutrition/why-liver-is-a-superfood
+http://www.who.int/mediacentre/factsheets/fs280/en/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5035967/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4501603/
+https://www.ncbi.nlm.nih.gov/pubmed/12490422/
+https://www.hindawi.com/journals/crihep/2015/458056/
+http://www.nature.com/nrneurol/journal/v12/n2/abs/nrneurol.2015.234.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4760069/
+https://www.ncbi.nlm.nih.gov/pubmed/23564390
+https://www.ncbi.nlm.nih.gov/pubmed/17325364
+https://www.ncbi.nlm.nih.gov/pubmed/18095450/
+https://www.ncbi.nlm.nih.gov/pubmed/26433460
+https://www.ncbi.nlm.nih.gov/pubmed/20695796/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3311200/
+https://www.ncbi.nlm.nih.gov/pubmed/15745163/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3414023/
+https://www.ncbi.nlm.nih.gov/pubmed/16485490
+https://www.ncbi.nlm.nih.gov/pubmed/15567444
+https://www.ncbi.nlm.nih.gov/pubmed/16088844/
+https://www.healthline.comhttp://aem.asm.org/content/78/15/5153.full
+https://www.ncbi.nlm.nih.gov/pubmed/10772219
+https://www.ncbi.nlm.nih.gov/pubmed/3638477
+https://www.healthline.comhttps://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-14-186
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1052086/pdf/jepicomh00261-0012.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1052086//pdf/jepicomh00261-0012.pdf
+https://www.healthline.comhttps://academic.oup.com/brain/article-abstract/86/2/315/322610/FAMILIAL-AND-CONJUGAL-MULTIPLE-SCLEROSIS?redirectedFrom=PDF
+https://www.ncbi.nlm.nih.gov/pubmed/19945916
+https://www.ncbi.nlm.nih.gov/pubmed/19787653
+https://www.ncbi.nlm.nih.gov/pubmed/21696495
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3315155/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2841649/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC203030/
+https://www.ncbi.nlm.nih.gov/pubmed/17531840
+http://www.medical-hypotheses.com/article/S0306-9877(12)00092-8/fulltext
+https://www.ncbi.nlm.nih.gov/pubmed/16014559
+https://www.ncbi.nlm.nih.gov/pubmed/21831604
+https://www.healthline.comhttp://journals.plos.org/plosone/article?id=10.1371/journal.pone.0037152
+https://www.researchgate.net/publication/285693787_Research_regarding_the_psychrotrophic_microbial_load_and_configuration_from_meat_products
+https://www.healthline.comhttps://books.google.com/books?id=C0sO1gNFWLAC&pg=PA108&lpg=PA108&dq=acinetobacter+ham&source=bl&ots=mqFwB5iHYp&sig=71ycKq5IyDAl8Sp1mUoutIMZPjs&hl=en&sa=X&ved=0ahUKEwipp5PZyLHUAhUJzGMKHb54D3cQ6AEIKzAB#v=onepage&q=acinetobacter%20ham&f=false
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4601310/
+https://www.ncbi.nlm.nih.gov/pubmed/8455467
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631690/
+http://www.sciencedirect.com/science/article/pii/S0016508504015902
+http://www.sciencedirect.com/science/article/pii/S0168827806002972
+https://www.healthline.comhttps://link.springer.com/chapter/10.1007/978-1-4615-0629-4_24
+https://www.ncbi.nlm.nih.gov/pubmed/2858627
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760419/
+https://www.ncbi.nlm.nih.gov/pubmed/19563698
+https://www.ncbi.nlm.nih.gov/pubmed/19439460
+https://www.ncbi.nlm.nih.gov/pubmed/2996744
+https://www.healthline.comhttp://esmoopen.bmj.com/content/1/2/e000042
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5114516/
+https://www.ncbi.nlm.nih.gov/pubmed/9590632
+https://www.ncbi.nlm.nih.gov/pubmed/10347702
+https://www.ncbi.nlm.nih.gov/pubmed/26443688
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1002/ijc.29643/full
+http://www.sciencedirect.com/science/article/pii/S0959804907005473
+https://www.ncbi.nlm.nih.gov/pubmed/7598010
+https://www.ncbi.nlm.nih.gov/pubmed/22910802
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760419/
+https://www.healthline.com/nutrition/are-nitrates-and-nitrites-harmful
+https://www.ncbi.nlm.nih.gov/pubmed/6831466
+http://www.sciencedirect.com/science/article/pii/B9780123864543005236
+https://www.ncbi.nlm.nih.gov/pubmed/19439460
+https://www.healthline.comhttps://bib.irb.hr/datoteka/697067.AAlim_2013_04_03_Jurak.pdf
+https://www.ncbi.nlm.nih.gov/pubmed/10415436
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4609975/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4609975/
+https://www.ncbi.nlm.nih.gov/pubmed/17785370
+https://www.ncbi.nlm.nih.gov/pubmed/25835739
+https://www.ncbi.nlm.nih.gov/pubmed/4056351/
+https://www.ncbi.nlm.nih.gov/pubmed/10415436
+http://www.sciencedirect.com/science/article/pii/S0278691599000174
+https://www.healthline.com/nutrition/why-processed-meat-is-bad
+https://www.ncbi.nlm.nih.gov/pubmed/9987559
+https://www.aphis.usda.gov/vs/trichinae/docs/fact_sheet.htm
+https://www.cdc.gov/yersinia/faq.html
+https://www.healthline.comhttps://wwwnc.cdc.gov/eid/article/14/1/07-0524_article
+http://www.tandfonline.com/doi/abs/10.3109/03009748009112357
+https://www.healthline.comhttp://journals.lww.com/pidj/Abstract/1995/09000/Yersinia_enterocolitica_infection_in_children.8.aspx
+https://www.healthline.comhttp://journals.sagepub.com/doi/abs/10.1177/003693308002500418
+http://www.bmj.com/content/283/6284/101.short
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.0954-6820.1979.tb06095.x/full
+http://www.tandfonline.com/doi/abs/10.3109/03009748009098143
+http://www.neurology.org/content/33/1/95.short
+https://www.ncbi.nlm.nih.gov/pubmed/3616822
+https://www.ncbi.nlm.nih.gov/pubmed/11252417
+https://www.ncbi.nlm.nih.gov/pubmed/16282898
+https://www.healthline.comhttp://jamanetwork.com/journals/jamaophthalmology/article-abstract/638270
+https://www.ncbi.nlm.nih.gov/pubmed/3539842
+https://www.ncbi.nlm.nih.gov/pubmed/18284638
+https://www.ncbi.nlm.nih.gov/pubmed/23630351
+http://www.consumerreports.org/media-room/press-releases/2012/11/my-entry-4/
+https://www.healthline.com/nutrition/healthiest-way-to-cook-meat

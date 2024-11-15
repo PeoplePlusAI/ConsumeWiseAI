@@ -1,0 +1,238 @@
+Title: "How Not to Die" by Dr. Michael Greger: A Critical Review
+
+
+
+As a child, Michael Greger watched his heart-diseased grandmother return from the brink of promised death.
+Her cure was the low-fat Pritikin diet, and her Lazarusian return — a miracle to both young Greger and the entourage of doctors who’d sent her home to die — launched him on a mission to promote the healing power of foods.
+Decades later, Greger hasn’t slowed down. Now an international lecturer, doctor, and voice behind the science-parsing website  Nutrition Facts , Greger recently added “bestselling author” to his résumé. His book,  How Not to Die , is a 562-page user’s guide for thwarting our biggest and most preventable killers.
+His weapon of choice? The same one that saved his grandmother: a whole-food, plant-based diet.
+Like many books advocating plant-based eating,  How Not to Die  paints nutritional science with a broad, suspiciously uncomplicated brush. Unprocessed plant foods are good, Greger hammers home, and everything else is a blight on the dietary landscape.
+To his credit, Greger distinguishes  plant-based  from the less flexible terms  vegan  and  vegetarian , and allows some freedom for humans to be human — “don’t beat yourself up if you really want to put edible bacon-flavored candles on your birthday cake,” he advises readers (page 265).
+But the science, he asserts, is clear: any foray outside the proverbial broccoli forest is for pleasure rather than for health.
+Despite its biases,  How Not to Die  contains treasures for members of any dietary persuasion. Its references are sprawling, its scope is vast, and its puns aren’t always bad. The book makes an exhaustive case for food as medicine and reassures readers that — far from tinfoil hat territory — being wary of the profit-driven “medical-industrial complex” is justified.
+These perks are almost enough to make up for the book’s biggest liability: its repeated misrepresentation of research to fit the  plant-based  ideology.
+What follows is a review of  How Not to Die’s  highlights and hiccups alike — with the premise that benefiting from the book’s strengths requires navigating around its weaknesses. Readers who approach the book as a starting place rather than incontrovertible truth will stand the best chance of doing both.
+
+Cherry-Picked Evidence
+Throughout  How Not to Die , Greger distills a vast body of literature into a simple, black-and-white narrative — a feat only possible through  cherry picking , one of the nutrition world’s most gainfully employed fallacies.
+Cherry picking is the act of selectively choosing or suppressing evidence to fit a predefined framework. In Greger’s case, that means presenting research when it supports plant-based eating and ignoring it (or creatively spinning it) when it doesn’t.
+In many cases, spotting Greger’s picked cherries is as simple as checking the book’s claims against their cited references. These foibles are small but frequent.
+For example, as evidence that high-oxalate vegetables aren’t a problem for kidney stones (a bold claim, given the wide acceptance of foods like rhubarb and beets as risky for stone formers), Greger cites a paper that doesn’t actually look at the effects of high-oxalate vegetables — only total vegetable intake (pages 170-171).
+Along with stating “there is some concern that greater intake of some vegetables … might increase the risk of stone formation as they are known to be rich in oxalate,” the researchers suggest the inclusion of high-oxalate veggies in participants’ diets could have diluted the positive results they found for vegetables as a whole: “It is also possible that some of the [subjects’] intake is in the form of high-oxalate containing foods which may offset some of the protective association demonstrated in this study” ( 1 ).
+In other words, Greger selected a study that not only couldn’t support his claim, but where the researchers suggested the opposite.
+Similarly, citing the EPIC-Oxford study as evidence that  animal protein  increases kidney stone risk, he states: “subjects who didn’t eat meat at all had a significantly lower risk of being hospitalized for kidney stones, and for those who did eat meat, the more they ate, the higher their associated risks” (page 170).
+The study actually found that, while heavy meat eaters did have the highest risk of kidney stones, people who ate small amounts of meat fared better than those who ate none at all — a hazard ratio of 0.52 for low meat eaters versus 0.69 for vegetarians ( 2 ).
+In other cases, Greger seems to redefine what “plant-based” means in order to collect more points for his dietary home team.
+For instance, he credits a reversal of diabetic vision loss to two years of plant-based eating — but the program he cites is Walter Kempner’s Rice Diet, whose foundation of  white rice , refined sugar, and fruit juice hardly supports the healing power of whole plants (page 119) ( 3 ).
+Later, he again references the Rice Diet as evidence that “plant-based diets have been successful in treating chronic kidney failure” — with no caveat that the highly processed, vegetable-free diet in question is a far cry from the one Greger recommends (page 168) ( 4 ).
+In other instances, Greger cites anomalous studies whose only virtue, it seems, is that they vindicate his thesis.
+These cherry-picks are hard to spot even for the most dutiful reference checker, since the disconnect isn’t between Greger’s summary and the studies, but between the studies and reality.
+As one example: in discussing cardiovascular disease, Greger challenges the idea that  omega-3 fats  from fish offer disease protection, citing a 2012 meta-analysis of fish oil trials and studies advising people to load up on the ocean’s fattiest bounty (page 20) ( 5 ).
+Greger writes that the researchers “found no protective benefit for overall mortality, heart disease mortality, sudden cardiac death, heart attack, or stroke” — effectively showing that  fish oil  is, perhaps, just snake oil (page 20).
+The catch? This meta-analysis is one of the most heavily criticized publications in the omega-3 sea — and other researchers wasted no time calling out its errors.
+In an editorial letter, one critic pointed out that among the studies included in the meta-analysis, the average omega-3 intake was 1.5 g per day — only half the amount recommended to reduce the risk of heart disease ( 6 ). Because so many studies used a clinically irrelevant dosage, the analysis might have missed the cardioprotective effects seen at higher omega-3 intakes.
+Another respondent wrote that the results “should be interpreted with caution” due to the study’s numerous shortcomings — including the use of an unnecessarily stringent cutoff for statistical significance (P < 0.0063, instead of the more common P < 0.05) ( 7 ). At more widely used P-values, the study might have deemed some of its findings significant — including a 9% reduction in cardiac death, a 13% reduction in sudden death, and an 11% reduction in heart attack associated with fish oil from food or supplements.
+And yet another critic noted that any benefit of omega-3 supplementation would be hard to demonstrate among people using statin drugs, which have pleiotropic effects that resemble — and possibly mask — the mechanisms involved with omega-3s ( 7 ). This is important, because in several of the no-benefit omega-3 trials, up to 85% of the patients were on statins ( 8 ).
+In the spirit of accuracy, Greger could have cited a more recent omega-3 review that dodges the previous study’s errors and — quite intelligently — explains the inconsistent outcomes among omega-3 trials ( 8 ).
+In fact, the authors of this paper encourage the consumption of two to three servings of oily fish per week — recommending that “physicians continue to recognize the benefits of omega-3 PUFAs to reduce cardiovascular risk in their high risk patients” ( 8 ).
+Maybe that’s why Greger didn’t mention it!
+Beyond misrepresenting individual studies (or accurately citing questionable ones),  How Not to Die  features pages-long slogs through the fallacious cherry orchard. In some cases, entire discussions of a topic are built on incomplete evidence.
+Some of the most egregious examples include:
+In discussing how not to die from lung diseases, Greger offers a litany of references showing that plant-based diets are the best way to breathe easy (literally), while animal products are the best way to breathe wheezy.
+But do his citations support the claim that foods are only lung-helpful if they photosynthesize? Summarizing a population study spanning 56 different countries, Greger states that adolescents consuming local diets with more starchy foods,  grains , vegetables, and nuts were “significantly less likely to exhibit chronic symptoms of wheezing, allergic rhinoconjunctivitis, and allergic eczema” (page 39) ( 9 ).
+That’s technically accurate, but the study also found an association less amenable to the plant-based cause: total seafood, fresh fish, and frozen fish were  inversely  associated with all three conditions. For severe wheezing, fish consumption was significantly protective.
+Describing another study of asthmatics in Taiwan, Greger relays an association that popped up between eggs and childhood asthma attacks, wheezing, shortness of breath, and exercise-induced coughing (page 39) ( 10 ). While not untrue (bearing in mind that correlation doesn’t equal causation), the study also found that seafood was negatively associated with official asthma diagnosis and dyspnea, AKA shortness of breath. In fact, seafood topped  all other foods measured  — including soy, fruit, and vegetables — in protecting (in a mathematical sense) against both diagnosed and suspected asthma.
+Meanwhile, vegetables — a fibrous star of the previous study — didn’t appear helpful on any account.
+Despite the radio silence in  How Not to Die , these fish findings are hardly anomalies. A number of studies suggest the omega-3 fats in seafood can reduce the synthesis of proinflammatory cytokines and help soothe troubled lungs ( 11 ,  12 ,  13 ,  14 ,  15 ,  16 ).
+Perhaps the question, then, isn’t plant versus animal, but “albacore or albuterol?”
+Another lung-assuager buried in Greger’s references? Milk. Maintaining the assertion that “foods of animal origin have been associated with increased asthma risk,” he describes one publication:
+“A study of more than one hundred thousand adults in India found that those who consumed meat daily, or even occasionally, were significantly more likely to suffer from asthma than those who excluded meat and eggs from their diets altogether” (page  39) ( 17 ).
+Again, this is only part of the story. The study also found that — along with leafy greens and fruit —  milk consumption  seemed to chop down asthma risk. As the researchers explained, “respondents who never consumed milk/milk products … were more likely to report asthma than those who consumed them every day.”
+Indeed, a milkless diet was a risk factor right alongside unhealthy BMI, smoking, and alcohol consumption.
+While dairy may also be a trigger for some asthmatics (though perhaps less often than commonly believed ( 18 ,  19 )), the scientific literature points to an overall protective effect from different components of dairy. Some evidence suggests dairy fat should get the credit ( 20 ), and raw farm milk appears powerfully protective against asthma and allergies — possibly due to heat-sensitive compounds in its  whey protein  fraction ( 21 ,  22 ,  23 ,  24 ,  25 ).
+While many of the studies in question are limited by their observational nature, the idea that animal foods are categorical lung hazards is hard to justify — at least without taking a machete to the available literature’s integrity.
+As with all health problems discussed in  How Not to Die , if the question is “disease,” the answer is “plant foods.” Greger makes a case for using plant-based eating to outsmart one of our most devastating cognitive ills: Alzheimer’s disease.
+In discussing why genetics aren’t the end-all, be-all factor for Alzheimer’s susceptibility, Greger cites a paper showing that Africans eating a traditional plant-based diet in Nigeria have far lower rates than African Americans in Indianapolis, where omnivory reigns supreme (26).
+That observation is true, and numerous migration studies confirm that moving to America is a great way to ruin your health.
+But the paper — which is actually a broader analysis of diet and Alzheimer’s risk in 11 different countries — uncovered another important finding: fish, not just plants, is a guardian of the mind.
+This was particularly true among Europeans and North Americans. In fact, when all measured variables were analyzed — cereals, total calories, fat, and fish — the brain benefits of cereal grains diminished, while fish took the lead as a  protective force .
+Likewise, Greger cites Japan and China’s meatward dietary shifts — and concurrent rise in Alzheimer’s diagnoses — as more evidence that animal foods are a threat to the brain. He writes:
+“In Japan, the prevalence of Alzheimer’s has shot up over the past few decades, thought to be due to the shift from a traditional rice-and-vegetable-based diet to one featuring triple the dairy and six times the meat … A similar trend linking diet  and dementia was found in China” (page 94) ( 27 ).
+Indeed, in Japan, animal fat earned the trophy for most robust correlate with dementia — with animal fat intake skyrocketing by nearly 600 percent between 1961 and 2008 ( 28 ).
+Yet even here, there might be more to the story. A deeper analysis of Alzheimer’s disease in East Asia shows that dementia rates got an artificial boost when diagnostic criteria was revamped — resulting in more diagnoses without much change in prevalence ( 29 ).
+The researchers confirmed that “animal fat per capita per day increased considerably over the last 50 years” — no question there. But after taking those diagnostic changes into account, the picture changed considerably:
+“The positive relationship between the intake of total energy, animal fat, and prevalence of dementia disappeared after stratifying by newer and older diagnostic criteria.”
+In other words, the link between animal foods and dementia, at least in Asia, appeared to be a technical artifact rather than a reality.
+Greger also raises the topic of Seventh-day Adventists, whose religiously mandated  vegetarianism  appears to help their brains. “Compared to those eating meat more than four times a week,” he writes, “those who have eaten vegetarian diets for thirty years or more had three times lower risk of becoming demented” (page 54) ( 30 ).
+Reading the study’s fine print, this trend only appeared in a matched analysis of a small number of people — 272. In the larger group of almost 3000 unmatched Adventists, there wasn’t any significant difference between meat eaters and meat avoiders in terms of dementia risk.
+Similarly, in another study looking at elderly members of the same cohort, vegetarianism didn’t bless its adherents with any brain benefits: meat consumption showed up neutral for cognitive decline ( 31 ).
+And across the pond, vegetarians from the United Kingdom exhibited startlingly high mortality from neurological diseases compared to non-vegetarians, though the small sample size makes that finding a bit tenuous ( 32 ).
+But what about genetics? Here, too, Greger serves up a plant-based solution with a bowl of picked cherries.
+In recent years, the E4 variant of apolipoprotein E — a major player in lipid transport — has emerged as a fearsome risk factor for Alzheimer’s disease. In the West, being an apoE4 carrier can hike up the odds of getting Alzheimer’s tenfold or more ( 33 ).
+But as Greger points out, the apoE4-Alzheimer’s connection doesn’t always hold up beyond the industrialized world. Nigerians, for example, have a high prevalence of apoE4 but rock-bottom rates of Alzheimer’s disease — a head-scratcher dubbed the “Nigerian paradox” (26,  34 ).
+The explanation? According to Greger, Nigeria’s traditional plant-based diet — rich in starches and vegetables, low in all things animal — confers protection against genetic misfortune (page 55). Greger speculates that Nigerians’ low cholesterol levels, in particular, are a saving grace, due to the potential role of abnormal cholesterol accumulation in the brain with Alzheimer’s disease (page 55).
+To readers unfamiliar with apoE4 literature, Greger’s explanation might sound compelling: plant-based diets smash the chain linking apoE4 to Alzheimer’s disease. But on a global level, the argument is hard to support.
+With few exceptions, apoE4 prevalence is highest among hunter-gatherers and other indigenous groups — the Pygmies, the Greenland Inuit, the Alaskan Inuit, the Khoi San, Malaysian aborigines, Australian Aborigines, Papuans, and the Sami people of northern Europe — all of whom benefit from apoE4’s ability to conserve lipids in times of food scarcity,  improve fertility  when infant mortality is high, ease the physical burden of cyclical famines, and generally boost survival in non-agrarian environments ( 35 ,  36 ).
+Although some of these groups have deviated from their traditional diets (and faced hefty disease burdens as a result), those consuming their native fare — wild game, reptiles, fish, birds, and insects included — may be protected from Alzheimer’s disease in a way similar to Nigerians.
+For example, hunter-gatherer groups in sub-Saharan Africa are rife with apoE4, yet Alzheimer’s rates for the region as a whole are incredibly low ( 37 ,  38 ).
+So, deactivating apoE4 as a ticking Alzheimer’s bomb may have less to do with plant-based eating and more to do with common features of hunter-gatherer lifestyles: feast-famine cycles, high physical activity, and unprocessed diets that aren’t necessarily limited to plants ( 39 ).
+When it comes to soy, the “dream of the 90s” is alive in  How Not to Die.  Greger resurrects a long-retired argument that this former superfood is kryptonite for breast cancer.
+Explaining soy’s purported magic, Greger points to its high concentration of isoflavones — a class of  phytoestrogens  that interact with estrogen receptors throughout the body ( 40 ).
+Along with blocking more powerful human estrogen within breast tissue (a theoretical scourge for cancer growth), Greger proposes that soy isoflavones can reactivate our cancer-suppressing BRCA genes, which play a role in repairing DNA and preventing the metastatic spread of tumors (pages 195-196).
+To make the case for soy, Greger provides several references suggesting this humble legume not only protects against breast cancer, but also boosts survival and reduces recurrence in women who go gung-soy-ho in the wake of their diagnosis (pages 195-196) ( 41 ,  42 ,  43 ,  44 ).
+The problem? These citations are hardly representative of soy’s larger body of literature — and nowhere does Greger disclose how controversial, polarized, and case-not-closed the soy story is ( 45 ,  46 ).
+For example, to support his statement that “soy seems to lower breast cancer risk,” Greger cites a review of 11 observational studies looking exclusively at Japanese women (page 195).
+While the researchers did conclude that soy “possibly” decreases the risk of breast cancer in Japan, their wording was necessarily cautious: the protective effect was “suggested in some but not all studies” and was “limited to certain food items or subgroups” ( 41 ).
+What’s more, the review’s Japan-centrism casts major doubt on how global its findings are.
+Why? A common theme with soy research is that the protective effects seen in Asia — when they do appear at all — fail to make it across the Atlantic ( 47 ).
+One paper noted that four epidemiological meta-analyses unanimously concluded that “soy isoflavone/soy food intake was inversely associated with breast cancer risk among Asian women, but this association did not exist among Western women” ( 48 ).
+Another meta-analysis that  did  find a small protective effect of soy among Westerners ( 49 ) had so many errors and limitations that its results were deemed “not credible” ( 50 ,  51 ).
+Reviews of clinical trials, too, have been disappointing in their quest for soy’s fabled anti-cancer perks — finding no significant benefit of soy isoflavones on risk factors like breast density or circulating hormone concentrations ( 52 ,  53 ).
+What explains these population-specific differences? Nobody knows for sure, but one possibility is that certain genetic or microbiomic factors mediate the effects of soy.
+For example, about twice as many Asians as non-Asians harbor the type of intestinal bacteria that converts isoflavones into  equol  — a metabolite some researchers believe is responsible for soy’s health benefits ( 54 ).
+Other theories include differences in the types of soy products consumed in Asia versus the West, residual confounding from other diet and lifestyle variables, and a critical role for early soy exposure — in which childhood intake matters more than a late-in-life bender of soymilk lattes ( 55 ).
+What about the ability for soy isoflavones to reactivate the so-called “caretaker” BRCA genes — in turn helping the body ward off breast cancer?
+Here, Greger cites one  in vitro  study suggesting certain soy isoflavones can decrease DNA methylation in BRCA1 and BRCA2 — or, as Greger phrases it, remove the “methyl straitjacket” that prevents these genes from doing their job ( 56 ).
+While interesting on a preliminary level (the researchers note that their findings need to be replicated and expanded before anyone gets too excited), this study can’t promise that  eating  soy will have the same effect as incubating human cells next to isolated soy components in a lab.
+Plus, battles of  in vitro  research never end well. Along with the recent BRCA discovery, other cell studies (as well as studies of tumor-injected rodents) have shown that soy isoflavones can  enhance  breast cancer growth — raising the question of which contradictory finding is worth believing ( 57 ,  58 ,  59 ).
+That question, in fact, is at the crux of the issue. Whether at the micro level (cell studies) or macro level (epidemiology), the research surrounding soy on cancer risk is highly conflicted — a reality Greger fails to disclose.
+
+Sound Science
+As we’ve seen, Greger’s references don’t always support his claims, and his claims don’t always match reality. But when they do, it’d be smart to listen up.
+Throughout  How Not to Die , Greger explores many oft-ignored and myth-shrouded issues in the nutrition world — and in most cases, fairly represents the science he draws from.
+Amid mounting fears about sugar, Greger helps  vindicate fruit  — discussing the potential for low-dose fructose to benefit blood sugar, the lack of fruit-induced harm for diabetics, and even a study in which 17 volunteers ate twenty  servings of fruit per day  for several months, with “no overall adverse effects for body weight, blood pressure, insulin, cholesterol, and triglyceride levels” (pages 291-292) ( 60 ,  61 ).
+He rescues phytates — antioxidant compounds that can bind to certain minerals — from the vast mythology about their harm, discussing the many ways they can protect against cancer (pages 66-67).
+He casts doubt on fears surrounding legumes — sometimes maligned for their carbohydrate and antinutrient content — by exploring their clinical effects on weight maintenance, insulin,  blood sugar control  and cholesterol (page 109).
+And, most importantly to omnivores, his penchant for cherry picking occasionally pauses long enough to make room for a legitimate concern about meat. Two examples:
+Beyond the dead, ever-beaten horses of  saturated fat  and  dietary cholesterol , meat carries a legitimate risk that  How Not to Die  drags into the spotlight: human-transmissible viruses.
+As Greger explains, many of humanity’s most loathed infections originated from animals — ranging from goat-given tuberculosis to measles from cattle (page 79). But a growing body of evidence suggests humans can acquire diseases not just from living in close proximity to farm animals, but also from eating them.
+For many years,  urinary tract infections  (UTIs) were believed to originate from our own renegade  E. coli  strains finding their way from the gut to the urethra. Now, some researchers suspect UTIs are a form of  zoonosis  — that is, an animal-to-human disease.
+Greger points to a recently discovered clonal link between  E. coli  in chicken and  E. coli  in human UTIs, suggesting that at least one source of infection is chicken meat that we handle or eat —  not  our resident bacteria (page 94) ( 62 ).
+Worse yet, chicken-derived  E. coli  appears resistant to most antibiotics, making its infections particularly hard to treat (page 95) ( 63 ).
+Pork, too, can serve as a source of multiple human illnesses.  Yersinia  poisoning — linked almost universally to contaminated pork — brings more than a brief fling with digestive distress: Greger notes that within one year of infection,  Yersinia  victims have a 47-times higher risk of developing autoimmune arthritis, and may also be more likely to develop Graves’ disease (page 96) ( 64 ,  65 ).
+Recently, pork has come under fire for another health hazard as well: hepatitis E. Now considered potentially zoonotic, hepatitis E infection is routinely traced to pig liver and other pork products, with about one in ten pig livers from American grocery stores testing positive for the virus (page 148) ( 66 ,  67 ).
+Although most viruses (hepatitis E included) are deactivated by heat, Greger warns that hepatitis E can survive the temperatures reached in rare-cooked meat — making pink pork a no-go (page 148) ( 68 ).
+And when the virus survives,  it means business . Areas with high pork consumption have consistently elevated rates of liver disease, and while that can’t prove cause and effect, Greger notes that the relationship between pork consumption and death from liver disease “correlates as tightly as per capita alcohol consumption and liver fatalities” (page 148) ( 69 ). In a statistical sense, each devoured pork chop raises the risk of dying from liver cancer as much as drinking two cans of beer (page 148) ( 70 ).
+All that said, animal-derived infections are far from a strike against omnivory,  per se .  Plant foods  offer plenty of transmissible illnesses of their own ( 71 ). And the animals at highest risk of transmitting pathogens are — in nearly every case — raised in overcrowded, unhygienic, poorly ventilated commercial operations that serve as cesspools for pathogens ( 72 ).
+Although  How Not to Die  remains tight-lipped on any benefits of humanely raised livestock, this is one area where quality can be a lifesaver.
+Meat and heat make a flavorful duo, but as Greger points out,  high-temperature cooking  poses some unique risks for animal foods.
+In particular, he cites what the  Harvard Health Letter  called a meat-preparation paradox: “Cooking meat thoroughly reduces the risk of contracting foodborne infections, but cooking meat  too  thoroughly may increase the risk of foodborne carcinogens” (page 184).
+A number of these foodborne carcinogens exist, but the ones exclusive to animal foods are called heterocyclic amines (HCAs).
+HCAs form when muscle meat — whether from creatures of the land, the sea, or the sky — is exposed to high temperatures, roughly 125-300 degrees C or 275-572 degrees F. Because a critical component of HCA development,  creatine , is found only in muscle tissue, even the most woefully overcooked veggies won’t form HCAs ( 73 ).
+As Greger explains, HCAs were quite whimsically discovered in 1939 by a researcher who gave mice breast cancer by “painting their heads with extracts of roasted horse muscle” (page 184) ( 74 ).
+In the decades since, HCAs have proven to be a legitimate hazard for omnivores who like their meat high up on the “done” spectrum.
+Greger provides a solid list of studies — decently conducted, equitably described — showing a link between high-temperature-cooked meat and breast cancer, colon cancer, esophageal cancer, lung cancer, pancreatic cancer, prostate cancer, and stomach cancer (page 184) ( 75 ). In fact, cooking method appears to be a major mediator for the association between meat and various cancers that pop up in epidemiological studies — with grilled, fried, and well-done meat boosting risk significantly ( 76 ).
+And the link is far from just observational. PhIP, a well-studied type of HCA, has been shown to spur breast cancer growth almost as potently as estrogen — while also acting as a “complete” carcinogen that can initiate, promote, and spread cancer within the body (page 185) ( 77 ).
+The solution for meat eaters?  A cooking method revamp.  Greger explains that roasting, pan frying, grilling, and baking are all common HCA makers, and the longer a food hangs out in the heat, the more HCAs emerge (page 185). Low-temperature cooking, on the other hand, appears  dramatically safer .
+In what might be the closest thing to an animal food endorsement he ever offers, Greger writes, “Eating boiled meat is probably the safest” (page 184).
+
+Conclusion
+Greger’s goal, sparked in his youth and galvanized over the course of his medical career, is to bypass the middlemen and feed important — and often lifesaving — information to the public.
+“With the democratization of information, doctors no longer hold a monopoly as gatekeepers of knowledge about health,” he writes. “I’m realizing it may be more effective to empower individuals directly” (page xii).
+And that’s what  How Not to Die  ultimately accomplishes. While the book’s biases prevent it from being a fully caveat-free resource, it offers more than enough fodder to keep health-seekers questioning and engaged.
+Readers willing to listen when challenged and fact-check when skeptical will gain much from Greger’s passionate, albeit imperfect, tome.
+
+References:
+
+https://www.healthline.comhttps://nutritionfacts.org/
+https://www.healthline.com/nutrition/vegan-diet-guide
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4241174/
+https://www.healthline.com/nutrition/animal-vs-plant-protein
+https://www.ncbi.nlm.nih.gov/pubmed/24752465
+https://www.healthline.com/nutrition/brown-vs-white-rice
+http://www.tandfonline.com/doi/abs/10.1080/00325481.1958.11692236
+https://www.ncbi.nlm.nih.gov/pubmed/15393016
+https://www.healthline.com/nutrition/17-health-benefits-of-omega-3
+https://www.ncbi.nlm.nih.gov/pubmed/22968891
+https://www.healthline.com/nutrition/13-benefits-of-fish-oil
+https://www.ncbi.nlm.nih.gov/pubmed/23280208
+https://www.healthline.comhttp://jamanetwork.com/journals/jama/article-abstract/1555116
+https://www.healthline.comhttp://jamanetwork.com/journals/jama/article-abstract/1555118
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147772/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147772/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147772/
+https://www.healthline.com/nutrition/grains-good-or-bad
+https://www.healthline.comhttp://erj.ersjournals.com/content/17/3/436
+https://www.ncbi.nlm.nih.gov/pubmed/17943568
+https://www.ncbi.nlm.nih.gov/pubmed/8628130
+https://www.healthline.comhttp://erj.ersjournals.com/content/16/5/861.short
+https://www.ncbi.nlm.nih.gov/pubmed/16424411
+http://www.tandfonline.com/doi/abs/10.1081/JAS-120018633
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.1365-2222.2007.02821.x/full
+http://www.ingentaconnect.com/content/iuatld/ijtld/2007/00000011/00000001/art00017
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4284294/
+http://www.sciencedirect.com/science/article/pii/S0091674998701927
+http://www.tandfonline.com/doi/abs/10.1080/07315724.2005.10719503
+https://www.healthline.comhttp://thorax.bmj.com/content/58/7/567.short
+https://www.healthline.com/nutrition/whey-protein-101
+https://www.ncbi.nlm.nih.gov/pubmed/16751000
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.1365-2222.2006.02640.x/full
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.1365-2222.2010.03665.x/full
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/all.12147/full
+http://www.sciencedirect.com/science/article/pii/S0091674911012346
+https://www.healthline.com/nutrition/11-health-benefits-of-fish
+https://www.ncbi.nlm.nih.gov/pubmed/23746902
+https://www.ncbi.nlm.nih.gov/pubmed/24037034
+https://www.ncbi.nlm.nih.gov/pubmed/25380587
+https://www.healthline.com/nutrition/vegan-vs-vegetarian
+https://www.ncbi.nlm.nih.gov/pubmed/8327020
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3463954/
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1368980002000058
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3132088/
+https://www.ncbi.nlm.nih.gov/pubmed/2491016
+https://www.healthline.com/nutrition/17-fertility-tips-to-get-pregnant
+https://www.ncbi.nlm.nih.gov/pubmed/10738542
+https://www.ncbi.nlm.nih.gov/pubmed/1450169
+https://www.ncbi.nlm.nih.gov/pubmed/9198315
+https://www.healthline.comhttps://link.springer.com/article/10.1007/BF00225073
+https://www.ncbi.nlm.nih.gov/pubmed/10738542
+https://www.healthline.com/nutrition/phytoestrogens-and-men
+https://www.ncbi.nlm.nih.gov/pubmed/12638461
+https://www.ncbi.nlm.nih.gov/labs/articles/24453272/
+https://www.ncbi.nlm.nih.gov/pubmed/23725149
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3374736/
+https://www.ncbi.nlm.nih.gov/pubmed/22631686
+https://www.healthline.comhttp://jn.nutrition.org/content/131/11/3095S.short
+https://www.ncbi.nlm.nih.gov/pubmed/16985246
+https://www.ncbi.nlm.nih.gov/labs/articles/24453272/
+https://www.ncbi.nlm.nih.gov/pubmed/21113655
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3930722/
+https://www.ncbi.nlm.nih.gov/pubmed/16595782
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.1741-6787.2008.00128.x/full
+https://www.ncbi.nlm.nih.gov/pubmed/16595782
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2953939/
+https://www.ncbi.nlm.nih.gov/pubmed/19299447
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2884333/
+https://www.ncbi.nlm.nih.gov/pubmed/20155618
+https://www.ncbi.nlm.nih.gov/pubmed/22339411
+https://www.ncbi.nlm.nih.gov/pubmed/9731492
+https://www.ncbi.nlm.nih.gov/pubmed/11694625
+https://www.ncbi.nlm.nih.gov/pubmed/11431339
+https://www.healthline.com/nutrition/is-fruit-good-or-bad-for-your-health
+https://www.healthline.com/nutrition/how-much-fruit-per-day
+https://www.ncbi.nlm.nih.gov/pubmed/4928686
+https://www.ncbi.nlm.nih.gov/pubmed/5573330
+https://www.healthline.com/nutrition/15-ways-to-lower-blood-sugar
+https://www.healthline.com/nutrition/5-studies-on-saturated-fat
+https://www.healthline.com/nutrition/dietary-cholesterol-does-not-matter
+https://www.healthline.com/nutrition/uti-home-remedies
+https://www.ncbi.nlm.nih.gov/pubmed/22377351
+https://www.ncbi.nlm.nih.gov/pubmed/21658865
+https://www.healthline.comhttps://wwwnc.cdc.gov/eid/article/14/1/07-0524_article
+https://www.ncbi.nlm.nih.gov/pubmed/18284638
+https://www.ncbi.nlm.nih.gov/pubmed/20002688
+https://www.ncbi.nlm.nih.gov/pubmed/17325364
+https://www.ncbi.nlm.nih.gov/pubmed/16088844
+https://www.ncbi.nlm.nih.gov/pubmed/19563698
+https://www.ncbi.nlm.nih.gov/pubmed/19563698
+https://www.healthline.com/nutrition/foods-vegans-eat
+http://www.jfoodprotection.org/doi/abs/10.4315/0362-028X-67.10.2342?code=fopr-site
+https://www.healthline.comhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=1533535
+https://www.healthline.com/nutrition/healthiest-way-to-cook-meat
+https://www.healthline.com/nutrition/what-is-creatine
+https://www.ncbi.nlm.nih.gov/pubmed/9737435
+http://www.nature.com/nature/journal/v143/n3632/abs/143984a0.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2769029/
+https://www.healthline.comhttp://cancerres.aacrjournals.org/content/canres/65/17/8034.full.pdf
+https://www.ncbi.nlm.nih.gov/pubmed/15319301
+https://www.healthline.com/nutrition/how-to-make-your-meat-as-healthy-as-possible

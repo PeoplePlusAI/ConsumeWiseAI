@@ -1,0 +1,99 @@
+Title: Iron
+
+Iron is an important mineral that helps maintain healthy blood. A lack of iron is called iron-deficiency anemia, which affects about 4-5 million Americans yearly. [1] It is the most common nutritional deficiency worldwide, causing extreme fatigue and lightheadedness. It affects all ages, with children, women who are pregnant or menstruating, and people receiving kidney dialysis among those at highest risk for this condition.
+Iron is a major component of hemoglobin, a type of protein in red blood cells that carries oxygen from your lungs to all parts of the body. Without enough iron, there aren’t enough red blood cells to transport oxygen, which leads to fatigue. Iron is also part of myoglobin, a protein that carries and stores oxygen specifically in muscle tissues. Iron is important for healthy brain development and growth in children, and for the normal production and function of various cells and hormones.
+Iron from food comes in two forms: heme and non-heme. Heme is found only in animal flesh like meat, poultry, and seafood. Non-heme iron is found in plant foods like whole grains, nuts, seeds, legumes, and leafy greens. Non-heme iron is also found in animal flesh (as animals consume plant foods with non-heme iron) and fortified foods.
+Iron is stored in the body as ferritin (in the liver, spleen, muscle tissue, and bone marrow) and is delivered throughout the body by transferrin (a protein in blood that binds to iron). A doctor may sometimes check blood levels of these two components if anemia is suspected.
+
+Recommended Amounts
+RDA:   The Recommended Dietary Allowance (RDA) for adults 19-50 years is 8 mg daily for men, 18 mg for women, 27 mg for pregnancy, and 9 mg for lactation. [2] The higher amounts in women and pregnancy are due to blood loss through menstruation and because of the rapid growth of the fetus requiring extra blood circulation during pregnancy. Adolescents 14-18 years actively growing also need higher iron: 11 mg for boys, 15 mg for girls, 27 mg for pregnancy, and 10 mg for lactation. The RDA for women 51+ years drops to 8 mg with the assumption that cessation of menstruation has occurred with menopause. It may be noted that menopause occurs later for some women, so they should continue to follow the RDA for younger women until menopause is confirmed.
+UL:    The Tolerable Upper Intake Level is the maximum daily intake unlikely to cause harmful effects on health. The UL for iron is 45 mg daily for all males and females ages 14+ years.  For younger ages, the UL is 40 mg.
+
+Food Sources
+Meats, poultry, and seafood are richest in heme iron. Fortified grains, nuts, seeds, legumes, and vegetables contain non-heme iron. In the U.S. many breads, cereals, and infant formulas are fortified with iron.
+Heme iron is better absorbed by the body than non-heme iron. Certain factors can improve or inhibit the absorption of non-heme iron. Vitamin C and heme iron taken at the same meal can improve the absorption of non-heme iron. Bran fiber, large amounts of calcium particularly from supplements, and plant substances like  phytates and tannins  can inhibit the absorption of non-heme iron. [3]
+Sources of heme iron:
+Oysters, clams, mussels
+Beef or chicken liver
+Organ meats
+Canned sardines
+Beef
+Poultry
+Canned light tuna
+Sources of non-heme iron:
+Fortified breakfast cereals
+Beans
+Dark chocolate  (at least 45%)
+Lentils
+Spinach
+Potato with skin
+Nuts , seeds
+Enriched rice or bread
+What about iron supplements?
+Confusion with iron supplements
+There are several types of iron available as over-the-counter supplements, e.g., ferrous sulfate, ferrous fumarate, ferrous gluconate. Confusion is also caused by two number amounts listed on the label, a higher number and a lower number. What is the difference among supplement forms and which number should you refer to for the right amount to take?
+Elemental versus chemical form of iron.  If two iron amounts are listed on the label, the larger number is the chemical compound form because iron is bound to salts (e.g., ferrous sulfate), whereas the smaller number refers only to the amount of iron in the compound, also called the elemental iron. Elemental iron is the more important number because this is the amount available for the body to absorb. However, a physician may not specify in a prescription if the iron amount is the chemical form or the elemental iron. For example, a ferrous sulfate iron supplement may list a total of 325 mg of ferrous sulfate on the front of the label but 65 mg of elemental iron in smaller print on the back. If a physician prescribed 65 mg of iron, would you take five pills to equal 325 mg, or just one pill, assuming the prescription referred to elemental iron?
+Different types.  All types of supplemental iron help to increase red blood cell production but vary in cost and amounts of elemental iron. Ferrous gluconate is usually sold in liquid form and some clinical studies have shown that it is better absorbed than ferrous sulfate tablets. However, ferrous gluconate contains less elemental iron than ferrous sulfate, so a greater dosage may be needed to correct a deficiency. It is also more expensive than ferrous sulfate. Newer slow-release forms of iron have been introduced, which may help reduce gastrointestinal side effects, but they are more expensive and usually contain less iron.
+Any confusion with iron supplement types and amounts can be resolved by asking your doctor to specify both the elemental amount and the chemical compound amount. You can also ask a store pharmacist for assistance in interpreting a doctor’s prescription or to recommend an appropriate amount if you do not have a prescription.
+
+Signs of Deficiency and Toxicity
+Deficiency
+An iron deficiency is seen most commonly in children, women who are menstruating or pregnant, and those eating a diet lacking in iron.
+Iron deficiency occurs in stages. [4] The mild form begins with a decrease in stored iron, usually either from a low-iron diet or from excessive bleeding. If this does not resolve, the next stage is a greater depletion of iron stores and a drop in red blood cells. Eventually this leads to iron-deficiency anemia (IDA) where iron stores are used up and there is significant loss of total red blood cells. Typically, a doctor screens for anemia by first checking a complete blood count (including hemoglobin, hematocrit, and other factors that measure red blood cell volume and size). If this is below normal, ferritin and transferrin levels may be measured to determine if the type of anemia is IDA (there are other forms of anemia not caused specifically by an iron deficiency). All of these measures would decrease with IDA.
+Signs of IDA:
+Fatigue, weakness
+Lightheadedness
+Confusion, loss of concentration
+Sensitivity to cold
+Shortness of breath
+Rapid heartbeat
+Pale skin
+Hair loss, brittle nails
+Pica: cravings for dirt, clay, ice, or other non-food items
+IDA is usually corrected with oral iron supplements of up to 150-200 mg of elemental iron daily. Those at high risk of IDA may be prescribed 60-100 mg daily. Blood levels should be rechecked periodically, and supplements discontinued or taken at a lower dosage if levels return to normal, as long-term high dosages can lead to constipation or other digestive upset.
+Groups at risk for IDA:
+Pregnant women —during pregnancy a woman produces much greater amounts of red blood cells for the fetus, increasing the need for additional dietary or supplemental iron. IDA during pregnancy can lead to premature birth or low birth weight so iron is routinely included in prenatal vitamins. The Centers for Disease Control and Prevention recommend that all pregnant women begin taking 30 mg daily of supplemental iron. [3]
+Menstruating women —women who experience heavy bleeding during menstruation (lasting longer than 7 days or soaking through tampons or pads once every hour) can develop IDA.
+Children —infants and children have high iron needs due to their rapid growth.
+Elderly —older ages are associated with a higher risk of poor nutrition and chronic inflammatory diseases that can lead to anemia. [1]
+Vegetarians —those who eat a diet without heme iron from meats, fish, and poultry may develop IDA if they do not include adequate non-heme iron foods in the diet. Because non-heme iron is not well-absorbed, either greater quantities of these foods my be required or careful attention is needed in how they are eaten to improve absorption (consuming with vitamin C-rich foods while avoiding eating with  calcium-rich foods , calcium supplements, or tea).
+Endurance athletes —running can cause trace amounts of gastrointestinal bleeding and a condition called “foot-strike” hemolysis that breaks down red blood cells at a faster rate. Female endurance athletes who are also menstruating are at greatest risk for IDA. [4]
+People with chronic kidney failure on dialysis —the kidneys make a hormone called erythropoietin (EPO) that signals the body to make red blood cells. Kidney failure reduces the production of EPO and therefore blood cells. In addition, there is some blood loss during hemodialysis.
+Anemia of chronic disease (AOCD) occurs not from a low iron intake but with conditions that cause inflammation in the body, such as infections, cancer, kidney disease, inflammatory bowel disease, heart failure, lupus, and rheumatoid arthritis. The body may actually contain normal amounts of iron, but levels in the blood are very low. Inflammation changes the body’s immune function, preventing the body from being able to use available stored iron to make red blood cells and also causing blood cells to die out more quickly.
+Treatment for AOCD focuses on treating the inflammatory condition. Increasing iron in the diet typically does not help. If the inflammation or condition improves, the anemia will usually decrease as well. In rare severe cases, a blood transfusion can be given to quickly boost the amount of hemoglobin in the blood.
+Toxicity
+Toxicity is rare because the body regulates iron absorption and will absorb less if iron stores are adequate. [2] Excessive iron occurs most often from taking high-dosage supplements when not needed or from having a genetic condition that stores too much iron.
+Common signs:
+Constipation
+Upset stomach
+Nausea, vomiting
+Abdominal pain
+Some people have a hereditary condition called hemochromatosis that causes an excessive buildup of iron in the body. Treatments are given periodically to remove blood or excess iron in the blood. People with hemochromatosis are educated to follow a low-iron diet and to avoid iron and vitamin C supplements. If left untreated, iron can build up in certain organs so that there is a higher risk of developing conditions like liver cirrhosis, liver cancer, or heart disease.
+
+Did You Know?
+It is possible to obtain enough iron in a vegetarian/vegan diet with careful planning. Try this easy dish that can boost iron levels by combining foods rich in non-heme iron and vitamin C:
+In a large bowl, combine cooked beans or lentils with diced fresh tomatoes, raw baby spinach, pumpkin seeds or cashews, and raisins or dried chopped apricots. Drizzle with a simple lemon vinaigrette made from 2 tablespoons lemon juice, ½ teaspoon Dijon mustard, 3 tablespoons olive oil, and 1 teaspoon of honey (optional). Stir ingredients well and allow to sit for at least 15 minutes to incorporate the flavors.
+
+Related
+Vitamins and Minerals
+Le CH. The prevalence of anemia and moderate-severe anemia in the US population (NHANES 2003-2012).  PLoS One . 2016 Nov 15;11(11):e0166635.
+Institute of Medicine. Food and Nutrition Board.  Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc : a Report of the Panel on Micronutrients . Washington, DC: National Academy Press; 2001.
+National Institutes of Health Office of Dietary Supplements: Iron Fact Sheet for Health Professionals  https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/ . Accessed 9/2/2019.
+Powers JM, Buchanan GR. Disorders of Iron Metabolism: New Diagnostic and Treatment Approaches to Iron Deficiency.  Hematology/Oncology Clinics . 2019 Jun 1;33(3):393-408.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/food-features/dark-chocolate/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/calcium/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166635
+https://www.ncbi.nlm.nih.gov/books/NBK222310/
+https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/
+https://www.hemonc.theclinics.com/article/S0889-8588(19)30022-X/abstract

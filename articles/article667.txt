@@ -1,0 +1,203 @@
+Title: How Short-Chain Fatty Acids Affect Health and Weight
+
+Short-chain fatty acids are produced by the friendly bacteria in your gut.
+In fact, they are the main source of nutrition for the cells in your colon.
+Short-chain fatty acids may also play an important role in health and disease.
+They may reduce the risk of inflammatory diseases, type 2 diabetes, obesity, heart disease, and other conditions ( 1 ).
+This article explores how short-chain fatty acids affect health.
+
+What are short-chain fatty acids?
+Short-chain fatty acids are fatty acids with fewer than 6 carbon atoms ( 2 ).
+They are produced when the friendly gut bacteria ferment  fiber  in your colon and are the main source of energy for the cells lining your colon.
+For this reason, they play an important role in colon health ( 1 ).
+Excess short-chain fatty acids are used for other functions in the body. For example, they may provide roughly 10% of your daily calorie needs ( 3 ).
+Short-chain fatty acids are also involved in the  metabolism  of important nutrients like  carbs  and fat ( 4 ).
+About 95% of the short-chain fatty acids in your body are:
+acetate (C2)
+propionate (C3)
+butyrate (C4)
+Propionate is mainly involved in producing glucose in the liver and small intestine, acetate is important for energy production and synthesis of lipids, and butyrate is the preferred energy source for cells that line the colon ( 5 ,  6 ).
+Many factors affect the amount of short-chain fatty acids in your colon, including how many microorganisms are present, the food source, and the time it takes food to travel through your digestive system ( 7 ,  8 ).
+Short-chain fatty acids are produced when fiber is fermented in the colon. They act as a source of energy for the cells lining the colon.
+
+Food sources of short-chain fatty acids
+Eating a lot of fiber-rich foods, such as  fruits , vegetables, and  legumes , is linked to an increase in short-chain fatty acids ( 9 ).
+One study involving 153 individuals found positive associations between a higher intake of plant foods and increased levels of short-chain fatty acids in stools ( 10 ).
+However, the amount and type of fiber you eat affects the composition of bacteria in your gut, which affects what short-chain fatty acids are produced ( 11 ).
+For example, studies have shown that eating more fiber increases butyrate production, while decreasing your fiber intake reduces production ( 12 ).
+The following types of fiber are best for the production of short-chain fatty acids in the colon ( 13 ,  14 ,  15 ):
+Inulin.  You can get inulin from artichokes,  garlic , leeks,  onions ,  wheat , rye, and asparagus.
+Fructooligosaccharides (FOS).  FOS are found in various fruits and vegetables, including bananas, onions, garlic, and asparagus.
+Resistant starch.  You can get  resistant starch  from  grains , barley, rice,  beans , green  bananas , legumes, and  potatoes  that have been cooked and then cooled.
+Pectin.  Good sources of pectin include  apples , apricots,  carrots ,  oranges , and others.
+Arabinoxylan.  Arabinoxylan is found in cereal grains. For example, it is the most common fiber in wheat bran, making up about 70% of the total fiber content.
+Guar gum.  Guar gum can be extracted from guar beans, which are legumes.
+Some types of  cheese ,  butter , and cow’s  milk  also contain small amounts of butyrate.
+High fiber foods, such as fruits, veggies, legumes, and whole grains encourage the production of short-chain fatty acids.
+
+Short-chain fatty acids and digestive disorders
+Short-chain fatty acids may be protective against some digestive disorders.
+For example, butyrate has  anti-inflammatory  effects in the gut ( 16 ).
+Your gut bacteria convert resistant starch and pectin to short-chain fatty acids. Eating them has been shown to reduce diarrhea in children ( 17 ).
+Ulcerative colitis and Crohn’s disease are the two main types of inflammatory bowel disease (IBD). Both are characterized by chronic bowel inflammation.
+Because of its anti-inflammatory properties, butyrate has been used to treat both of these conditions.
+Studies in mice have shown that butyrate supplements reduce bowel inflammation, and acetate supplements had similar benefits. Additionally, lower levels of short-chain fatty acids were linked to worsened ulcerative colitis ( 8 ,  18 ).
+Human studies also suggest that short-chain fatty acids, especially butyrate, can improve symptoms of ulcerative colitis and Crohn’s disease ( 19 ,  20 ).
+A study involving 25 people with ulcerative colitis found that consuming 15 grams of oligofructose-enriched inulin daily for 9 weeks significantly improved symptoms and increased the number of butyrate-producing bacteria in the gut ( 21 ). Furthermore, improvements in inflammation were associated with an increase in butyrate production.
+In another in vitro study of the fecal microbial communities of 10 people with Crohn’s disease, supplementing with butyrate-producing bacteria significantly increased butyrate production and improved epithelial barrier integrity ( 22 ).
+For people with ulcerative colitis in remission, an enema of butyrate for 20 days induced minor effects on inflammation of the colon compared to placebo ( 23 ).
+Furthermore, production of short-chain fatty acids is associated with reduced risk of inflammatory bowel disease ( 23 ).
+Short-chain fatty acids may reduce diarrhea and help treat inflammatory bowel diseases.
+
+Short-chain fatty acids and colon cancer
+Short-chain fatty acids may play a key role in the prevention and treatment of certain cancers, mainly colon cancer ( 24 ,  25 ,  26 ,  27 ).
+Lab studies show that butyrate helps keep colon cells healthy, prevents the growth of tumor cells, and encourages cancer cell destruction in the colon ( 28 ).
+While the mechanism behind this is not yet fully understood, it appears short-chain fatty acids increase the expression of epithelial barrier-forming molecules and influence the production of certain immune cells in the colon ( 28 ).
+Studies show a convincing association between high fiber diets and a reduced risk of colon cancer. Many experts suggest the production of short-chain fatty acids may be partly responsible for this ( 29 ,  30 ,  31 ,  32 ,  33 ).
+Some animal studies also report a positive link between high fiber diets and a reduced risk of colon cancer ( 34 ).
+In one study, mice on a high fiber diet, whose guts contained butyrate-producing bacteria, got 75% fewer tumors than the mice who did not have the bacteria ( 34 ).
+Interestingly, the high fiber diet alone — without the bacteria to make butyrate — did not have protective effects against colon cancer. A low fiber diet — even with the butyrate-producing bacteria — was also ineffective ( 34 ).
+This suggests that the anti-cancer benefits only exist when a high fiber diet is combined with the correct bacteria in the gut.
+Short-chain fatty acids have been shown to protect against colon cancer in animal and lab studies. However, more research is required.
+
+Short-chain fatty acids and diabetes
+A review of the evidence reported that butyrate can have positive effects in both animals and humans with type 2 diabetes ( 35 ).
+The same review also highlighted that there appears to be an imbalance in gut microorganisms in people with diabetes ( 35 ,  36 ).
+Short-chain fatty acids may help control blood glucose levels and improve insulin resistance in people with type 2 diabetes ( 37 ,  38 ).
+Short-chain fatty acids have been shown to increase enzyme activity in the liver and muscle tissue, resulting in better blood sugar management ( 39 ).
+In one small study, adults with overweight and obesity who did not have diabetes received 20 grams of inulin propionate ester daily for 42 days. Their insulin resistance significantly improved, and markers of systemic inflammation decreased compared to the control group ( 40 ).
+Another study found that propionate may improve beta-cell function and stimulate production of insulin ( 41 ).
+Supplementation with butyrate has also been shown to improve insulin sensitivity ( 25 ).
+Other human studies have also reported associations between fermentable fiber and improved blood sugar management and insulin sensitivity ( 42 ).
+Short-chain fatty acids seem to help regulate blood sugar levels and improve insulin resistance, especially in people with diabetes or insulin resistance.
+
+Short-chain fatty acids and weight loss
+The composition of microorganisms in the gut can affect nutrient absorption and energy regulation, thus influencing the development of  obesity  ( 43 ,  44 ).
+Studies have shown that short-chain fatty acids also regulate fat metabolism by increasing fat burning and decreasing fat storage ( 39 ,  45 ,  46 ).
+When this occurs, the quantity of free fatty acids in the blood is reduced, and it may also help protect against weight gain ( 47 ).
+Several animal studies have examined this effect. In one older study, after a 5-week treatment with butyrate, obese mice lost 10.2% of their original body weight, and  body fat  was reduced by 10%. In rats, acetate supplements reduced fat storage ( 48 ).
+However, the evidence linking short-chain fatty acids to weight loss is based mainly on animal and test-tube studies.
+Animal and test-tube studies indicate that short-chain fatty acids may help prevent and treat obesity. However, human studies are needed.
+
+Short-chain fatty acids and heart health
+Many observational studies have linked high fiber diets to a reduced risk of heart disease.
+However, the strength of this association often depends on the fiber type and source ( 49 ).
+In humans, fiber intake has also been linked to  reduced inflammation  ( 50 ,  51 ).
+One of the reasons fiber reduces heart disease risk may be due to the production of short-chain fatty acids in the colon ( 52 ).
+Studies in both animals and humans have reported that short-chain fatty acids reduced cholesterol levels ( 53 ,  54 ,  55 ).
+Short chain fatty acids lower the rate of cholesterol production, thereby lowering blood cholesterol ( 53 ).
+Butyrate is thought to interact with key genes that make cholesterol, possibly reducing cholesterol production ( 53 ).
+In one animal study, hamsters were fed a high cholesterol diet alone or combined with one of four short-chain fatty acids (acetate, propionate, butyrate, or valerate). The addition of acetate, propionate, and butyrate all significantly decreased total cholesterol ( 55 ).
+This same effect was seen in humans with obesity, as acetate in  vinegar  decreased the amount of excess cholesterol in the bloodstream ( 56 ).
+Short-chain fatty acids may decrease the risk of heart disease by reducing inflammation and blocking cholesterol production.
+
+Should you take a supplement?
+Short-chain fatty acid supplements are most commonly found as butyric acid salts.
+These are generally referred to as  sodium , potassium, calcium, or  magnesium  butyrate. They are available over the counter and can be purchased online.
+However, supplements may not be the best way to increase your levels of short-chain fatty acids. Butyrate supplements are absorbed before they reach the colon, usually in the small intestine, which means all the benefits for colon cells will be lost.
+Additionally, there is very little scientific evidence about the effectiveness of short-chain fatty acid supplements.
+Butyrate reaches the colon best when it’s fermented from fiber. Therefore, increasing the amount of  high fiber foods  in your diet is a much better way to improve your short-chain fatty acid levels. It is always best practice to consult a healthcare professional before taking supplements.
+Eating high fiber foods is the best way to increase short-chain fatty acid levels, as supplements are absorbed before reaching the colon.
+
+The bottom line
+Due to their anti-inflammatory properties, short-chain fatty acids may have a wide range of beneficial effects on your body.
+One thing is for certain: Looking after your friendly gut bacteria can lead to a whole host of health benefits.
+The best way to feed the good bacteria in your gut is to eat plenty of foods high in fermentable fiber.
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pubmed/26925050
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32082260/
+https://www.healthline.com/nutrition/why-is-fiber-good-for-you
+https://www.ncbi.nlm.nih.gov/pubmed/26925050
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6628845/
+https://www.healthline.com/nutrition/10-ways-to-boost-metabolism
+https://www.healthline.com/nutrition/how-many-carbs-per-day-to-lose-weight
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27080715/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27259147/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6699882/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4939913/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33813134/
+https://www.healthline.com/nutrition/is-fruit-good-or-bad-for-your-health
+https://www.healthline.com/nutrition/legumes-good-or-bad
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31927581/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26416813/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071260/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5390821/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29953876/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33337097/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32326175/
+https://www.healthline.com/nutrition/11-proven-health-benefits-of-garlic
+https://www.healthline.com/nutrition/foods/onions
+https://www.healthline.com/nutrition/foods/wheat
+https://www.healthline.com/nutrition/resistant-starch-101
+https://www.healthline.com/nutrition/grains-good-or-bad
+https://www.healthline.com/nutrition/beans-101
+https://www.healthline.com/nutrition/11-proven-benefits-of-bananas
+https://www.healthline.com/nutrition/foods/potatoes
+https://www.healthline.com/nutrition/foods/apples
+https://www.healthline.com/nutrition/foods/carrots
+https://www.healthline.com/nutrition/foods/oranges
+https://www.healthline.com/nutrition/foods/cheese
+https://www.healthline.com/nutrition/foods/butter
+https://www.healthline.com/nutrition/foods/milk
+https://www.healthline.com/nutrition/anti-inflammatory-diet-101
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29438462/
+https://www.ncbi.nlm.nih.gov/pubmed/20148677
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33813134/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29627390/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30915065/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30277149/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30395776/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28904372/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6883404/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6883404/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30888065/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29231905/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27113407/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29848266/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30862015/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30862015/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31792624/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7468768/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27848961/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4588743/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560290/
+https://www.ncbi.nlm.nih.gov/pubmed/25266735
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258155/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258155/
+https://www.ncbi.nlm.nih.gov/pubmed/24833634
+https://www.ncbi.nlm.nih.gov/pubmed/24833634
+https://www.ncbi.nlm.nih.gov/pubmed/24325907
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/25214711/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30713129/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31426593/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30971437/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27761989/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29231905/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29037268/
+https://www.healthline.com/nutrition/10-causes-of-weight-gain
+https://www.ncbi.nlm.nih.gov/pubmed/25274213
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4734206/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31426593/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32887215/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26260141/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31004166/
+https://www.healthline.com/nutrition/calories-in-a-pound-of-fat
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5748798/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27807734/
+https://www.healthline.com/nutrition/13-anti-inflammatory-foods
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31750916/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34140026/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31126110/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34360839/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34436472/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29190422/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34360839/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8347163/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29190422/
+https://www.healthline.com/nutrition/6-proven-health-benefits-of-apple-cider-vinegar
+https://www.ncbi.nlm.nih.gov/pubmed/19661687
+https://www.healthline.com/nutrition/how-much-sodium-per-day
+https://www.healthline.com/nutrition/10-proven-magnesium-benefits
+https://www.healthline.com/nutrition/22-high-fiber-foods

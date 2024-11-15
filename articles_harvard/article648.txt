@@ -1,0 +1,37 @@
+Title: Cholesterol
+
+
+Cholesterol
+The biggest influence on blood cholesterol level is the mix of fats and carbohydrates in your diet—not the amount of cholesterol you eat from food.
+Although it remains important to limit the amount of cholesterol you eat, especially if you have diabetes, for most people dietary cholesterol is not as problematic as once believed.
+The body uses cholesterol as the starting point to make estrogen, testosterone, vitamin D, and other vital compounds.
+Cholesterol in the bloodstream, specifically the bad LDL cholesterol, is what’s most important in determining health risk.
+
+How Fat Moves from Food to the Bloodstream
+Fat and cholesterol can’t dissolve in water or blood. Instead, the body packages fat and cholesterol into tiny, protein-covered particles called lipoproteins. Lipoproteins can transport a lot of fat; they mix easily with blood and flow with it. Some of these particles are big and fluffy, while others are small and dense. The most important ones are low-density lipoproteins (LDL), high-density lipoproteins (HDL) , and triglycerides.
+Low Density lipoproteins
+Low-density lipoproteins (LDL) carry cholesterol from the liver to the rest of the body. Cells latch onto these particles and extract fat and cholesterol from them. When there is too much LDL cholesterol in the blood, these particles can form deposits in the walls of the coronary arteries and other arteries throughout the body. Such deposits, called plaque, can narrow arteries and limit blood flow. When plaque breaks apart, it can cause a heart attack or stroke. Because of this, LDL cholesterol is often referred to as bad, or harmful, cholesterol.
+High-density lipoproteins
+High-density lipoproteins (HDL) scavenge cholesterol from the bloodstream, from LDL, and from artery walls and ferry it back to the liver for disposal. Think of HDL as the garbage trucks of the bloodstream. HDL cholesterol is often referred to as good, or protective, cholesterol.
+Triglycerides
+Triglycerides make up most of the fat that you eat and that travels through the bloodstream. As the body’s main vehicle for transporting fats to cells, triglycerides are important for good health, though high levels of triglycerides can be unhealthy.
+In general, the lower your LDL and the higher your HDL, the better your chances of preventing heart disease and other chronic conditions.
+
+How Fat and Cholesterol in Food Affect Blood Cholesterol Levels
+The types of fat in the diet help determine the amount of total, HDL, and LDL cholesterol in the bloodstream. The types and amount of carbohydrate in the diet also play a role. Cholesterol in food matters, too, but not nearly as much.
+The discovery half a century ago that high blood cholesterol levels were strongly associated with an increased risk for heart disease triggered numerous warnings to avoid foods that contain cholesterol, especially  eggs  and liver. However, scientific studies show a weak relationship between the amount of cholesterol a person consumes and his or her blood cholesterol levels ( 22 )
+In studies of more than 80,000 female nurses, Harvard researchers found that consuming about an egg a day was not associated with higher risk of heart disease. ( 4 ,  23 ) However, people who have heart disease or diabetes should monitor  egg consumption .
+For most people, the amount of cholesterol eaten has only a modest impact on the amount of cholesterol circulating in the blood. (24) For some people, though, blood cholesterol levels rise and fall very strongly in relation to the amount of cholesterol eaten. For these “responders,” avoiding cholesterol-rich foods can have a substantial effect on blood cholesterol levels. Unfortunately, at this point there is no way other than by trial and error to identify responders from non-responders to dietary cholesterol.
+
+References
+4. Hu, F.B., et al., Dietary fat intake and the risk of coronary heart disease in women. N Engl J Med, 1997. 337(21): p. 1491-9. 22. Kratz, M., Dietary cholesterol, atherosclerosis and coronary heart disease. Handb Exp Pharmacol, 2005(170): p. 195-213. 23. Hu, F.B., et al., A prospective study of egg consumption and risk of cardiovascular disease in men and women. JAMA, 1999. 281(15): p. 1387-94. 24. Fernandez, M.L., Dietary cholesterol provided by eggs and plasma lipoproteins in healthy populations. Curr Opin Clin Nutr Metab Care, 2006. 9(1): p. 8-12.
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/eggs/
+#ref22
+#ref4
+#ref23
+//boone.cool/hsph/the-nutrition-source/eggs/

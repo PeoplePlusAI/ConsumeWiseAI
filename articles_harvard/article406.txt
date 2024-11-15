@@ -1,0 +1,38 @@
+Title: Ask the Expert: Does being overweight really decrease mortality? No!
+
+The Expert:  Dr. Walter Willett
+
+Fredrick John Stare Professor of Epidemiology and Nutrition, Departments of Nutrition and Epidemiology, and Chair, Department of Nutrition, Harvard School of Public Health
+
+A recent JAMA study  got major media attention when it claimed that grade 1 obesity (BMI 30-<35) was not associated with any greater mortality, than being normal weight (BMI 18.5-<25).   The authors also concluded that people who are up to 30 pounds overweight appear to have a lower risk of death than those who are within the normal BMI range for healthy weight. Many news articles or segments claimed that the study should come as a relief to those constantly struggling to lose weight because their extra pounds could actually be helping their health! Other sources have suggested that we need to re-organize our BMI ranges to reflect the study’s results, moving grade 1 obesity into a normal or healthy range. But our expert, HSPH’s Nutrition Department Chair,  Dr. Walter Willett , explained that the study’s results are flawed and extremely misleading. In the following questions and responses, partially published by  USAToday , Willett details the study’s weaknesses and provides advice to those who are overweight and possibly confused by these new findings. Read more about maintaining a  healthy weight , what the  BMI  means, and explore ways to  prevent obesity .
+
+1. Why do you think the research indicates that people who are overweight may actually have a lower risk of premature death?
+The most serious problem in the Flegal paper is that their normal weight group included a mix of lean and active people, heavy smokers, patients with cancer or other conditions that cause weight loss, and frail elderly people who had lost weight due to rapidly declining health.  Because the overweight and obese groups were compared to this mix of healthy and ill persons who have a very high risk of death, this led to the false conclusions that being overweight is beneficial, and that grade 1 obesity carries no extra risk.  Also, because the Flegal study did not use the original data from the published papers, they could not look separately at different age groups, and we know that the relation between body weight and mortality is much stronger before age 65 than at older ages.
+2. Do you think the new statistics are accurate? If not, why?
+The new statistics are completely misleading for anyone interested in knowing about their optimal weight.  As discussed above, the fundamental reason is that the authors did not adequately separate people who are lean because they are ill from those who lean because they are active and healthy.   This will inevitably lead to wrong conclusions about the effects of body weight on risk of premature death.  Stated politely, the paper is a pile of rubbish.
+3. Do we need to rethink the definition of what constitutes being overweight? Are the BMI charts accurate enough?
+The JAMA study provides no reason to rethink our definition of being overweight.  However, in addition to looking at the weight chart, we should keep track of our change in weight and waistline over time.  Some of us, particularly men, shift our weight from muscle to belly fat as we age, even if we don’t gain weight, and this is also a sign that we need to become more active and improve our diet.
+4. Some have suggested that the problem with the study was with BMI itself because it is not a good measure of body fat.  What do you think of the BMI measure?
+Although not perfect, BMI works remarkably well. We have compared BMI with other “gold standard” measures of obesity such as underwater weighing and DEXA, and these are not superior to BMI in predicting obesity-related abnormalities. The problem with the JAMA paper was way the data were treated, not with BMI itself.
+5. How do you think this study compares with other studies that look at this issue?
+In the last several years two other major analyses,  one published in the New England Journal of Medicine , and  the other in the Lancet , have been conducted on the relation of body weight to mortality. These involved the collaborative efforts of over 150 scientists and were far superior to the recent JAMA paper because they combined the original data from over 70 studies.  After eliminating distortions due to the effects of serious disease on body weight, these studies showed clearly that both overweight and all grades of obesity are associated with increased mortality.
+6. So if you are a few pounds to 30 pounds over a normal weight, should you try to lose that extra weight?
+The large majority of overweight people have gotten there because they have added weight as adults, and almost all will have some metabolic abnormalities because of this.  Thus, most people who are overweight people will benefit from some weight loss, even if it is only a five percent loss.  Even more importantly, for those who are not yet overweight, a weight gain of 5 pounds after age 20, even in the normal range, is a signal to pay more attention to daily physical activity and diet to prevent becoming overweight.
+7. What is your advice to people who are 60 or more pounds overweight?
+This amount of overweight is a major threat to health and greatly increases risks of diabetes, heart disease, cancer, arthritis, and many other conditions.  It will be important to consult with your health care provider to find the best approach, but in most cases this will be a combination of increased physical activity and healthier eating.  Often group support will be helpful, and in a few situations the addition of medication or surgery will be appropriate.
+It is clear that the Flegal study is misleading and should be ignored by health professionals and the general public. The evidence that  obesity can cause metabolic abnormalities and many diseases  is backed by decades of research. Maintaining a normal weight and losing weight is definitely challenging in  our current food environment , but following a healthy weight plan like  this checklist , can help you take small but important steps towards health.
+
+References:
+https://www.hsph.harvard.edu/faculty/walter-willett/
+https://www.hsph.harvard.edu/walter-willett
+http://jama.jamanetwork.com/article.aspx?articleid=1555137
+https://www.hsph.harvard.edu/walter-willett/
+http://www.usatoday.com/story/news/nation/2012/12/31/overweight-early-death-risk/1799359/
+https://nutritionsource.hsph.harvard.edu/healthy-weight/
+https://www.hsph.harvard.edu/obesity-prevention-source/obesity-definition/
+https://www.hsph.harvard.edu/obesity-prevention-source/obesity-prevention/
+http://www.ncbi.nlm.nih.gov/pubmed/21121834
+http://www.ncbi.nlm.nih.gov/pubmed/21397319
+https://nutritionsource.hsph.harvard.edu/nutrition-news/excess-weight/index.html
+https://www.hsph.harvard.edu/obesity-prevention-source/obesity-causes/food-environment-and-obesity/index.html
+https://www.hsph.harvard.edu/obesity-prevention-source/diet-lifestyle-to-prevent-obesity/

@@ -1,0 +1,21 @@
+Title: HSPH Researchers Make Case for Removing Trans Fats from Industrial Food Supply
+
+Removing trans fats from the industrial food supply could prevent tens of thousands of heart attacks and cardiac deaths each year in the U.S., according to researchers at the Harvard School of Public Health and Wageningen University.
+In a review article published in the  New England Journal of Medicine   on April 13, 2006,( 1 ) the researchers detail evidence linking trans fats consumption to increased risk of coronary heart disease, sudden cardiac death, and diabetes. Trans fats from partially hydrogenated oils have harmful effects on blood lipids, promote inflammation, and cause blood-vessel abnormalities, all of which are risk factors for heart disease.
+“The effect and magnitude of adverse health effects of trans fatty acids are in fact far stronger on average than those of food contaminants or pesticide residues, which have in some cases received considerable attention,” the authors write. “Complete or near-complete avoidance of industrially produced trans fats…may be necessary to avoid adverse health effects and would be prudent to minimize risks.”
+The U.S. now requires food manufacturers to  list trans fat content on nutrition labels . But foods labeled “zero trans fat” may still contain up to 0.5 grams per serving of trans fat from partially hydrogenated oils. Restaurants, bakeries, and other food establishments are not required to have nutrition labels on the foods they sell, and trans fat content of commercially-prepared foods may be substantial: French fries and chicken nuggets from U.S. fast food restaurants have 5 to 10 g of trans fats per serving, according to research  published in the same issue of  New England Journal of Medicine .( 2 )
+In Denmark, where the government has sharply restricted the use of industrially-produced trans fats, similar foods have negligible amounts of trans fats. The authors conclude that that the health risks posed by industrially-produced trans fats “can be eliminated without any noticeable effect for the consumer.” ( 2 )
+References
+1. Mozaffarian D, Katan MB, Ascherio A, Stampfer MJ, Willett WC. Trans fatty acids and cardiovascular disease.  N Engl J Med . 2006 Apr 13;354(15):1601-13.
+2. Stender S, Dyerberg J, Astrup A. High levels of trans fat in popular fast foods.  N Engl J Med 2006;354:1650-1652.
+
+References:
+
+http://content.nejm.org/cgi/content/short/354/15/1601
+https://nutritionsource.hsph.harvard.edu/industrial-transfats/#1
+https://nutritionsource.hsph.harvard.edu/industrial-transfats/what-should-you-eat/fats-full-story
+http://content.nejm.org/cgi/content/short/354/15/1650
+https://nutritionsource.hsph.harvard.edu/industrial-transfats/#2
+https://nutritionsource.hsph.harvard.edu/industrial-transfats/#2
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16611951&query_hl=1&itool=pubmed_docsum
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16611965&query_hl=3&itool=pubmed_docsum

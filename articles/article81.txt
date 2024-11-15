@@ -1,0 +1,366 @@
+Title: The 8 Best Calorie Counter Apps
+
+
+A quick look at the best calorie counter apps
+Best overall:   MyFitnessPal
+Best free features:  Lose It!
+Best fully free:   FatSecret
+Best for specific diets:   Cronometer
+Best for weight loss:   Noom
+Best for building healthy habits:   Lifesum
+Best for diet quality:   MyNetDiary
+Best for simplicity:  Calory
+For some people, keeping track of food and calorie intake can be helpful for promoting weight loss.
+Research shows that people who log calories lose more weight and are more likely to keep the weight off in the long run ( 1 ,  2 ).
+These days, counting calories is very easy. There are many useful websites and apps that help you log your meals and track your intake.
+Most are accessible online, and signing up takes less than a minute. All these apps are available for:
+iPhone
+iPad
+Android
+Plus, most offer at least a basic version for free.
+This article reviews the 8 best calorie counters available today.
+While logging calories can be a helpful weight loss tool for some, it’s important to note that tracking food and calories can lead to unhealthy behaviors such as food obsession and disordered eating patterns.
+Tracking foods and logging calories are not always necessary for healthy weight loss. If you’re trying to gain or lose weight, it’s important to find methods that are effective and don’t have a negative impact on your physical or mental health ( 3 ,  4 ).
+
+How we chose
+Here’s what we took into account to select the best calorie counter apps:
+Transparency:  We selected apps with websites that are transparent about the apps’ features, frequently asked questions, and subscription or billing options to help you avoid unwanted surprises on your calorie-tracking journey.
+User reviews:  We focused on highly rated apps with user reviews no more than a few months old.
+User-friendliness:  We did our best to choose the most user-friendly apps to ensure that you’d have the best possible experience.
+Price:  We included options suitable for all budgets, from fully free to subscription-only apps.
+Features:  We carefully chose apps that offer the best possible features in their free versions or have features worth paying for.
+Reviews:  We did a deep dive into customer reviews to see whether each app is useful and effective and whether it lacks something you may be looking for.
+Vetting:  The apps on our list have been vetted to ensure that they align with Healthline’s brand integrity standards and approach to well-being. You can read more about  our vetting process .
+
+Healthline’s picks of the best calorie counter apps
+Price:  $20 per month or $80 per year; basic version available for free
+iPhone rating :  4.6
+Android rating :  4.1
+MyFitnessPal is one of the most popular calorie counters right now.
+It tracks your weight and calculates a recommended daily  calorie intake . It also has a well-designed food diary and an exercise log.
+The home page provides a clear picture of how many calories you’ve consumed during the day. In addition, it shows your remaining recommended intake and how many calories you’ve burned by  exercising .
+If you’re using a fitness tracking device, MyFitnessPal can likely sync with it to include its data in the exercise log.
+The app tracks your progress toward your goals and offers chat forums with fellow users. The forums include:
+conversations
+recipes
+tips
+personal success stories
+MyFitnessPal’s nutrition database is extensive, containing more than 11 million foods. You can also download recipes from the internet or create custom foods and dishes.
+The app even saves your favorite meals for convenient logging.
+Additionally, MyFitnessPal’s barcode scanner allows you to enter the nutritional information of some packaged foods instantly.
+Each day is presented as a pie chart, showing your breakdown of carbs, protein, and fat. You can also write a note for each day, recording how things went or how you were feeling.
+MyFitnessPal does offer a free version. However, some features are available only in the premium version, such as:
+meal prep and recipes
+macronutrient  counters
+guided fitness
+largest database available in a diet tracker
+includes many restaurant foods
+ability to download recipes online and calculate the calorie content of each serving
+ability to “quick add” calories when you don’t have time to log the whole meal
+Since users upload most foods, calorie counts may not always be entirely accurate.
+Multiple entries may exist for the same product.
+Serving sizes in the database may be hard to edit, creating difficulties if your serving is smaller or larger than the one listed.
+Studies have linked MyFitnessPal usage to eating disorders ( 3 ,  4 ).
+Price:  $40 per year; basic version available for free
+iPhone rating :  4.8
+Android rating :  4.5
+Lose It! is another health tracker that includes an easy-to-use food diary and an exercise log. You can also connect a pedometer or another fitness device.
+Lose It! provides a personalized recommendation for calorie intake based on your:
+weight
+height
+age
+goals
+It then tracks your calories on the home page.
+The app features a comprehensive food database and an icon representing each food entry. The food diary is simple and user-friendly. Adding new foods is not complicated.
+Additionally, Lose It! has a barcode scanner for packaged foods, and it saves your common foods for quick entry later on.
+Lose It! keeps a daily and weekly total of your intake and presents your weight changes on a graph. It also offers you access to an active chat community.
+The tab called “Challenges” allows you to participate in dietary challenges or make your own.
+With a  premium  membership, you can:
+set more goals
+log additional information
+get some extra features
+food database complete with popular restaurant, grocery store, and brand-name foods, all of which are verified by the app’s team of experts
+lets you set reminders to log your meals and  snacks
+does not make it easy to log home-cooked meals or calculate their nutritional value
+can be tricky to navigate
+doesn’t track  micronutrients
+Price:  free
+iPhone rating :  4.8
+Android rating :  4.6
+FatSecret is a free calorie counter that includes:
+a food diary
+a nutrition database
+healthy recipes
+an exercise log
+a  weight chart
+a journal
+A barcode scanner helps you track packaged foods.
+The home page displays your total calorie intake and the breakdown of carbs, protein, and fat, both for the day and for each meal.
+FatSecret also offers a monthly summary view, which displays total calories consumed each day and averages for each month. This feature may be convenient for tracking your overall progress.
+This calorie counter is very user-friendly. The app also has a chat community where users can swap success stories and get tips, recipes, and more.
+FatSecret offers a feature called “Challenges,” which allows users to create or participate in dietary challenges in a closed group of people.
+The website is full of information and tips, as well as articles on a variety of topics.
+comprehensive food database, including many supermarket and restaurant foods
+highlights foods submitted by other users so you can verify whether the information is accurate
+can present  net carbs , which may come in handy for people following a low carb diet
+cluttered, possibly confusing interface
+Price:  $50 per year; basic version available for free
+iPhone rating :  4.7
+Android rating :  4.5
+Cronometer lets you easily keep track of your:
+diet
+exercise
+weight
+It offers exact serving sizes and a useful exercise database. If you’re pregnant or lactating, you can select a customized profile based on higher calorie needs.
+You can also tell Cronometer if you’re following a specific diet such as:
+paleo
+low carb
+low fat vegetarian
+This changes the macronutrient recommendations.
+The food diary is very simple and user-friendly. Below it, you’ll find the total calories consumed for that day alongside a bar chart showing the breakdown of carbs, fat, and protein.
+Cronometer is particularly useful for tracking  micronutrients  such as vitamins and minerals.
+The app offers a Gold upgrade, which has:
+no ads
+advanced analysis
+some extra features
+easy to use
+allows you to sync data from health devices to the app and import weight, body fat percentage,  sleep  data, and activities
+tracks all micronutrients, such as vitamins, minerals, and trace elements
+offers voiceover support to make the app accessible for people with low vision
+allows you to add home-cooked recipes only on the website, not the app — but these entries will be available in the app after that
+no social community of users
+Price:  $209 per year, although price may vary depending on the length of the suggested weight loss plan
+iPhone rating :  4.7
+Android rating :  4.2
+Noom is not only a calorie counter but also an app designed to help you lose weight and sustain weight loss using psychological approaches such as  cognitive behavioral therapy .
+The app asks for specific information, such as your:
+age
+height
+weight
+gender
+lifestyle
+It uses this information to create a calorie budget — an estimate of the number of calories you should consume each day. It then uses your calorie budget to help you reach a calorie deficit.
+Noom  encourages you to track the number of calories you consume each day and to check your weight at least once a day.
+It also helps you create diet plans without limiting or restricting certain food items. Instead, the app focuses on calories and nutrients as a way to promote weight loss.
+Noom’s price varies depending on the length of the suggested plan. No free version is available, but it does offer a free trial.
+no off-limits foods or food types
+promotes lifestyle changes instead of temporary changes
+no free version
+Price:  $30 for 3 months, $50 for 6 months, or $100 per year; basic version available for free
+iPhone rating :  4.7
+Android rating :  4.3
+Lifesum is a calorie counter app that focuses on teaching you how to lead a healthier lifestyle.
+Aside from tracking your calories and macros, Lifesum provides a food and meal rating system that explains whether a food is nutritious and whether your meal is healthy or unbalanced.
+However, no food is off-limits, and the app uses constructive language that does not categorize foods as “good” or “bad.”
+In addition, Lifesum tracks:
+water intake
+body measurements
+exercise
+It adjusts your daily calorie goal based on calories burned during physical activity.
+Lifesum is very easy to use. Its home page shows total calorie and macro intake and a breakdown of foods and calories per meal, which you can log manually or with a barcode scanner. You can also create food entries, meals, and recipes.
+Upgrading to premium unlocks more features, such as:
+a more detailed nutrient breakdown
+recipes
+insights
+educational content to help you learn how to make healthier food choices
+It also gives you access to meal plans suitable for various diets, including:
+paleo
+keto
+intermittent fasting
+vegan
+Scandinavian
+Mediterranean
+food and meal rating system designed to encourage healthier choices
+easy food logging and a clean, decluttered interface
+educational content
+possible inaccuracies in food entries uploaded by users
+automatically syncs with health apps such as Apple Health and Google Fit, but an upgrade to premium is required to sync with other fitness apps
+free recipes available on the website, but premium subscription is required to access them through the app
+no online community
+Price:  $60 per year; basic version available for free
+iPhone rating :  4.8
+Android rating :  4.7
+MyNetDiary is an intuitive and comprehensive calorie tracker that provides advice and feedback to motivate you on your health journey.
+Logging your food is quick and easy. You can do it manually or by using a voice log or a barcode scanner. The food log includes a picture-based portion guide to help you measure food quantities more accurately.
+It also has a food scoring system that grades foods by imitating how a nutrition expert would score their healthfulness based on the nutrition label or profile and serving size. This feature is meant to help you compare foods to choose the best option and improve your diet quality.
+MyNetDiary lets you fully customize your daily calorie and macro targets and can be used to support:
+weight loss
+weight maintenance
+special diets, including the dietary needs of people who are pregnant or lactating
+The app provides:
+daily nutrient and meal analysis
+macro charts
+access to numerous recipes, including options for vegan, vegetarian, and gluten-free diets
+MyNetDiary even allows you to import recipes and calculate their nutrition information.
+The premium version also tracks micronutrients and grants you access to:
+meal planners
+diet plans
+blood pressure and cholesterol tracking
+a diabetes-focused dashboard that tracks blood sugar and medication
+has a food grading system meant to help improve your diet quality
+includes meals, weigh-ins, water, blood glucose reminders, and medication tracking
+syncs with health apps
+provides access to an online community that connects you to users and MyNetDiary’s dietitians
+syncs with health apps such as Apple Health, but integration with fitness apps is available only by upgrading to a premium account
+Price:  $15 per year; basic version available for free
+iPhone rating :  4.6
+Android rating :  4.2
+If you’re looking for the simplest calorie tracker app, then Calory may be just the one for you.
+With Calory, you can log either calories or foods, but it tracks only your calorie intake.
+The home page displays a bar chart with the percentage of calories consumed and remaining calories for the day, which the app calculates when you set your goals. However, you can also manually customize your calorie target.
+The history tab shows a breakdown of the foods and calories consumed per meal, along with weekly, monthly, and yearly charts of your total calorie intake and weight changes.
+Calory’s food database is linked to the  U.S. Department of Agriculture (USDA) food database . Logging your food is relatively easy, although the database may be tricky to use.
+Additionally, the app saves your most recent food logs and provides a list of common foods to make future entries easier.
+Upgrading to premium unlocks macro and water tracking, a barcode scanner, recipes, and access to a premium food database.
+includes reminders to log your calories
+food database linked to the basic USDA food database
+tracks daily calories only; premium upgrade required to track macros
+USDA database may be tricky to use
+syncs with Apple Health only
+no social community
+
+A word of caution
+Trying to “do it right” when it comes to nutrition may feel tempting, but it can backfire.
+If you are preoccupied with food or your weight, feel guilt surrounding your food choices, or routinely engage in restrictive diets, consider reaching out for support. These behaviors may indicate a  disordered relationship with food  or an eating disorder.
+Disordered eating and eating disorders can affect anyone, regardless of:
+gender identity
+race
+age
+body size
+socioeconomic status
+other identities
+They can be caused by any combination of biological, social, cultural, and environmental factors — not just by exposure to diet culture.
+Feel empowered to talk with a qualified healthcare professional, such as a registered dietitian, if you’re having a hard time.
+You can also chat, call, or text anonymously with trained volunteers at the  National Eating Disorders Association  helpline for free or explore the organization’s free and low cost resources.
+
+A comparison of the best calorie counter websites and apps
+We do the work so you don’t have to. Our evidence-driven  reviews and brand comparisons  make your search simple and help you live your healthiest life.
+
+Why use a calorie counter app?
+Calorie-counting apps and other self-monitoring technologies are great tools that allow users to monitor their food intake and dietary choices.
+While most research on the impact of calorie counter apps and body weight centers on their beneficial effects for weight loss, some studies also point out other highly valuable benefits.
+For instance, food logging may also encourage behavior changes that help modify unhealthy habits — one of the main goals of nutrition interventions ( 5 ).
+In addition, just as it recommends a maximum number of calories to consume to reach your target weight, a calorie monitor can help you find out whether you’re eating too little, which could cause your resting metabolic rate (RMR) to slow down after weight loss ( 6 ).
+Your RMR is the number of calories your body burns at rest. A slowing of this rate helps prevents excessive weight loss, which may lead to weight regain ( 6 ).
+Lastly, some apps also provide accountability, which is key when aiming for consistency, a determining factor for weight loss success ( 7 ).
+Aside from helping you reach your weight goals, calorie-counting apps are a great tool to help you modify unhealthy habits and find out whether you’re eating too little or too much. They also provide accountability, which helps with consistency.
+
+How to choose
+Here are some important factors to consider when choosing a calorie counter app:
+Preferences:  Every calorie counter app is different. Some are more individualistic and straightforward, while others connect you with a community of users. Be sure to choose the app that best suits your needs.
+Special diets:  Some apps are specially designed to help you reach your dietary goals when following a specific dietary pattern, such as keto, vegan, vegetarian, paleo, or low carb.
+Membership billing:  Take the app’s billing method into account if you decide to upgrade to a premium version. While most apps list their monthly fees, some may charge you annually.
+Compatibility:  Some apps automatically integrate data from other devices or apps, which can further help you achieve your goals.
+
+Frequently asked questions about calorie counter apps
+Most people have a negative perception of the word “calorie,” but a calorie is simply a unit of measure for energy.
+A splash of milk in your coffee might have 5 calories — that’s 5  energies,  in other words. If you consume enough energy, your body uses it as fuel. If you consume more energy than your body needs, your body stores the extra.
+Scientifically, a calorie is an estimate of the amount of energy required to raise the temperature of 1 gram of water by 1 degree Celsius. You consume calories through food, and they provide you with energy to maintain life and fuel physical work ( 8 ,  9 ).
+The calories you consume each day make up your calorie intake, while the ones your body burns through physical activity, digestion, or basal metabolic rate are your calorie expenditure ( 10 ).
+“Energy balance” is a term used to indicate that your calorie intake matches your expenditure. According to the “calories in, calories out” paradigm, energy balance helps maintain your body weight ( 9 ,  10 ).
+But weight loss is sometimes difficult because your body has mechanisms to protect you from losing weight.
+A  calorie deficit  can lead to weight loss, while a calorie excess or surplus leads to weight gain ( 9 ,  10 ).
+You can reach a calorie deficit by reducing your calorie intake or increasing your expenditure — or both. In contrast, you can create a calorie surplus by increasing intake, reducing expenditure, or both.
+Research shows that  calorie counting  by logging your food intake may be a helpful weight loss strategy because it helps increase awareness of current and desired eating behaviors ( 1 ).
+However, studies also note that people who use apps to self-monitor diet and physical activity are more likely to engage in disordered eating behaviors ( 11 ,  12 ,  13 ).
+Counting calories may be especially unsafe for people with a history of disordered eating.
+In fact, one study found that calorie-counting apps may increase the desire to be underweight, and some users even acknowledge the apps’ role in worsening their disordered eating behaviors ( 12 ).
+If you’re concerned about safety, shifting the focus from counting calories for weight loss to eating intuitively to improve well-being may be a healthier and more beneficial approach in the long run ( 14 ).
+Among weight loss apps, one such as Noom may be preferred because it focuses on the psychology behind personal food consumption and making lifestyle changes.
+Calorie counter apps often have millions of foods to choose from, with different available serving sizes to match what’s on your plate. But they are not 100% accurate for multiple reasons, which ultimately come down to human error.
+Food logging requires time and effort. While technology has made it easier, the process still relies on users’ discipline — and even their memory, if they log their intake afterward.
+Additionally, users may incorrectly track their food intake, either by inaccurately logging or estimating amounts or by neglecting to track some ingredients, which may add or subtract calories from their calorie budget.
+Restaurant food preparation methods can vary greatly as well. Chain restaurants will often have calorie and nutrition information on their websites and on actual menus.
+Before calorie counter apps existed, people used multiple techniques or tools to account for a day’s worth of calories. You may want to try one of these if you find calorie-counting apps too tedious or burdensome.
+Common tools include ( 15 ):
+food photos
+portion lists
+measuring tools such as tablespoons and measuring cups
+food scales
+hand measures such as the size of your palm or fist or the width of your fingers
+food models that help compare food with different-sized objects such as golf balls or decks of cards
+Still, keep in mind that whether you rely on an app or not, calorie counting is more of an estimation than an exact measurement. In either case, it will take practice and patience to improve your estimates.
+Calorie counting apps may be safe for some people but are not recommended for those with a history of disordered eating. They’re also not 100% accurate, primarily due to human error. You can always try other tools to estimate your calorie intake.
+
+The bottom line
+Calorie counters and nutrient trackers are incredibly useful if you’re trying to lose, maintain, or even  gain weight .
+They can also help you make specific changes to your diet, such as eating more protein or  fewer carbs .
+However, there is no need to track your intake constantly.
+You can try tracking it occasionally or for a few days or weeks to get a more nuanced view of your diet.
+That way, you’ll know exactly where to make adjustments to achieve your goals.
+
+References:
+
+https://www.healthline.com#overall
+https://www.healthline.com#features
+https://www.healthline.com#free
+https://www.healthline.com#diets
+https://www.healthline.com#weight
+https://www.healthline.com#lifesum
+https://www.healthline.com#mynetdiary
+https://www.healthline.com#calory
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32624481/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5446667/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28214452/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30772765/
+https://www.healthline.com/about/vet-brands-and-products
+https://www.healthline.comhttps://itunes.apple.com/us/app/calorie-counter-diet-tracker/id341232718
+https://www.healthline.comhttps://play.google.com/store/apps/details?id=com.myfitnesspal.android
+https://www.healthline.com/nutrition/how-many-calories-per-day
+https://www.healthline.com/nutrition/10-benefits-of-exercise
+https://www.healthline.com/nutrition/what-are-macronutrients
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28214452/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30772765/
+https://www.healthline.comhttps://itunes.apple.com/us/app/lose-it!-weight-loss-program/id297368629
+https://www.healthline.comhttps://play.google.com/store/apps/details?id=com.fitnow.loseit
+https://www.healthline.comhttps://loseit.com/how-it-works/#premium?correlationId=null
+https://www.healthline.com/nutrition/healthy-high-protein-snacks
+https://www.healthline.com/nutrition/micronutrients
+https://www.healthline.comhttps://apps.apple.com/us/app/calorie-counter-by-fatsecret/id347184248?correlationId=null
+https://www.healthline.comhttps://play.google.com/store/apps/details?id=com.fatsecret.android
+https://www.healthline.com/nutrition/how-to-lose-weight-as-fast-as-possible
+https://www.healthline.com/nutrition/net-carbs
+https://www.healthline.comhttps://apps.apple.com/app/cronometer-nutrition-tracker/id1145935738?correlationId=null
+https://www.healthline.comhttps://play.google.com/store/apps/details?id=com.cronometer.android.gold&hl=en_CA
+https://www.healthline.com/nutrition/paleo-diet-meal-plan-and-menu
+https://www.healthline.com/nutrition/micronutrients
+https://www.healthline.com/nutrition/10-reasons-why-good-sleep-is-important
+https://www.healthline.comhttps://apps.apple.com/us/app/noom/id634598719?correlationId=null
+https://www.healthline.comhttps://play.google.com/store/apps/details?id=com.wsl.noom&hl=en_US&gl=US
+https://www.healthline.comhttps://psychcentral.com/lib/in-depth-cognitive-behavioral-therapy
+https://www.healthline.com/nutrition/noom-diet-review/
+https://www.healthline.comhttps://apps.apple.com/us/app/lifesum-healthy-eating/id286906691?correlationId=null
+https://www.healthline.comhttps://play.google.com/store/apps/details?id=com.sillens.shapeupclub&referrer=adjust_reftag%3DcDMi2AHx3QhRM%26utm_source%3DLifesum%2BWeb
+https://www.healthline.com/nutrition/paleo-diet-review
+https://www.healthline.com/nutrition/intermittent-fasting-and-weight-loss
+https://www.healthline.com/nutrition/ketogenic-diet-101
+https://www.healthline.comhttps://apps.apple.com/us/app/calorie-counter-mynetdiary/id287529757?correlationId=null
+https://www.healthline.comhttps://play.google.com/store/apps/details?id=com.fourtechnologies.mynetdiary.ad&referrer=utm_source%3Dindex_page%26utm_campaign%3Dindex_page_link
+https://www.healthline.comhttps://apps.apple.com/us/app/calory/id1441252752?&correlationId=null
+https://www.healthline.comhttps://play.google.com/store/apps/details?id=com.funnmedia.calory
+https://www.healthline.comhttps://fdc.nal.usda.gov/
+https://www.healthline.com/health/disordered-eating-vs-eating-disorder
+https://www.nationaleatingdisorders.org/help-support/contact-helpline
+https://www.healthline.com/reviews
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4985610/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4989512/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4989512/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/36432509/
+https://www.ncbi.nlm.nih.gov/books/NBK499909/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568065/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28765272/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568065/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28765272/
+https://www.healthline.com/nutrition/calorie-deficit
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568065/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28765272/
+https://www.healthline.com/nutrition/does-calorie-counting-work
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32624481/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/35065981/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29025694/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33991833/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29025694/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6360478/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31999347/
+https://www.healthline.com/nutrition/how-to-gain-weight
+https://www.healthline.com/nutrition/how-many-carbs-per-day-to-lose-weight

@@ -1,0 +1,160 @@
+Title: Methionine vs. Glycine — Is Too Much Muscle Meat Bad?
+
+Muscle meat is rich in the amino acid methionine but relatively low in glycine.
+In the online health community, there has been a lot of speculation that a high intake of methionine — along with too little glycine — may promote disease by causing an imbalance in your body.
+This article takes a detailed look at methionine and glycine, as well as their potential health effects.
+
+What Are Methionine and Glycine?
+Methionine and glycine are amino acids.
+They make up the structure of proteins, along with 20 other amino acids. They’re found in dietary protein and have many important functions in your body.
+Methionine is an  essential amino acid . This means that your body needs it to function properly but cannot produce it on its own.
+You can fulfill your needs through your diet, as methionine is found in varying amounts in most dietary protein — especially  animal protein .
+It’s abundant in egg whites, seafood, meat, and certain nuts and seeds.
+Here are some examples of foods that are high in methionine ( 1 ):
+Dried egg whites:  2.8 grams per 3.5 ounces (100 grams)
+Dried spirulina:  1.2 grams per 3.5 ounces (100 grams)
+Lean beef:  1.1 grams per 3.5 ounces (100 grams)
+Brazil nuts:  1.1 grams per 3.5 ounces (100 grams)
+Lean lamb:  1.1 grams per 3.5 ounces (100 grams)
+Bacon:  1.1 grams per 3.5 ounces (100 grams)
+Parmesan cheese:  1.0 gram per 3.5 ounces (100 grams)
+Chicken breast:  0.9 grams per 3.5 ounces (100 grams)
+Tuna:  0.9 grams per 3.5 ounces (100 grams)
+One of methionine’s main functions is to serve as a “methyl donor,” speeding up or maintaining chemical reactions within your body.
+Similarly to methionine, glycine is found in varying amounts in most dietary protein.
+The richest dietary source is the animal protein  collagen , which is the most abundant protein in humans and many animals ( 2 ).
+However, the meat you buy at the supermarket usually doesn’t provide a lot of collagen — unless you prefer cheaper cuts.
+It’s found in connective tissue, tendons, ligaments, skin, cartilage, and bones — all of which are usually associated with low-quality meat.
+Glycine is also abundant in  gelatin , a substance made from collagen. Gelatin is commonly used as a gelling agent in cooking and food production.
+Dietary sources of gelatin include gelatin desserts and gummy bears. It’s also an additive in various food products, such as yogurt, cream cheese, margarine, and ice cream.
+Below are some examples of glycine-rich foods ( 1 ):
+Dry gelatin powder:  19.1 grams per 3.5 ounces (100 grams)
+Pork skin snacks:  11.9 grams per 3.5 ounces (100 grams)
+Low-fat sesame flour:  3.4 grams per 3.5 ounces (100 grams)
+Chicken skin:  3.3 grams per 3.5 ounces (100 grams)
+Dried egg whites:  2.8 grams per 3.5 ounces (100 grams)
+Bacon:  2.6 grams per 3.5 ounces (100 grams)
+Lean beef:  2.2 grams per 3.5 ounces (100 grams)
+Cuttlefish:  2.0 grams per 3.5 ounces (100 grams)
+Lean lamb:  1.8 grams per 3.5 ounces (100 grams)
+Glycine is not an essential amino acid. This means that you don’t need to get it from your diet to survive. In fact, your body can produce it from the amino acid serine.
+Still, evidence suggests that glycine synthesis from serine may not fulfill all of your body’s need for this amino acid. That’s why you may need to get a certain amount through your diet ( 3 ,  4 ).
+Methionine is an essential amino acid, abundant in eggs, seafood, and meat. Glycine is a non-essential amino acid found in high amounts in skin, connective tissue, ligaments, tendons, cartilage, and bones.
+
+What’s the Problem With Methionine?
+Muscle meat is relatively high in  methionine , which can be turned into another amino acid: homocysteine.
+Unlike methionine, homocysteine is not found in food. It’s formed in your body when dietary methionine is metabolized, mainly in your liver ( 5 ).
+Excessive consumption of methionine may lead to elevated blood levels of homocysteine — especially if you’re deficient in certain nutrients, such as  folate  ( 6 ).
+Homocysteine is highly reactive within your body. High intake of methionine from supplements or animal protein may have adverse effects on the function of blood vessels ( 9 ).
+High blood levels of homocysteine have been associated with several chronic conditions, such as heart disease ( 7 ,  8 ).
+However, evidence that elevated homocysteine, in itself, causes heart disease is weak.
+In fact, studies show that reducing homocysteine levels with folate or other B vitamins after a heart attack does not decrease the frequency of recurrent events in the heart or circulatory system ( 10 ,  11 ,  12 ).
+Additionally, other studies suggest that strategies to reduce homocysteine levels have little or no effects on heart disease events or your risk of death ( 13 ,  14 ).
+High amounts of methionine may lead to elevated homocysteine levels. Homocysteine has been linked to heart disease and other chronic conditions. Yet, whether it really causes them is a matter of debate.
+
+Maintenance of Homocysteine Balance
+Your body has a system to keep homocysteine levels within a healthy range.
+This mainly involves recycling homocysteine and turning it into the amino acid cysteine or back to methionine.
+When this system fails, homocysteine levels increase. Levels of methionine may also run low when homocysteine recycling is impaired.
+There are three ways by which your body can reduce homocysteine levels. They are called folate-dependent remethylation, folate-independent remethylation, and trans-sulphuration.
+Different nutrients are required for each of these to work.
+This process converts homocysteine back into methionine and helps keep base levels of homocysteine low ( 15 ).
+Three nutrients are needed to keep this system running smoothly:
+Folate.  This B vitamin is probably the most important nutrient for maintaining homocysteine levels within normal limits ( 16 ,  17 ,  18 ).
+Vitamin B12.   Vegetarians and vegans  are often low in vitamin B12, which may cause an increase in homocysteine levels ( 19 ,  20 ).
+Riboflavin.  Though riboflavin is also necessary to make this process work, riboflavin supplements have limited effects on homocysteine levels ( 18 ,  21 ).
+This is an alternative pathway that changes homocysteine back into methionine or dimethylglycine, keeping base levels of homocysteine within a healthy range ( 15 ).
+Several nutrients are needed for this pathway to work:
+Trimethylglycine or choline.  Also called betaine, trimethylglycine is found in many plant foods. It can also be produced from  choline  ( 22 ,  23 ,  24 ).
+Serine and glycine.  These two amino acids also seem to play a role in this process ( 25 ).
+This process lowers homocysteine levels by turning it into the amino acid cysteine. It does not lower base levels of homocysteine but may reduce the spike in homocysteine levels after meals.
+The nutrients required to keep this process running include:
+Vitamin B6.  When people are deficient in folate and riboflavin, low-dose  vitamin B6  supplements may effectively lower homocysteine levels ( 20 ,  26 ).
+Serine and glycine.  Dietary serine may also reduce homocysteine levels after meals. Glycine has similar effects ( 27 ,  28 ).
+If these systems don’t work efficiently, circulating homocysteine levels may rise.
+However, nutrients are not the only factors that may affect homocysteine levels.
+Age, certain drugs, conditions like liver disease and metabolic syndrome, and genetics — such as the MTHFR gene — also play a role.
+Under normal circumstances, your body keeps homocysteine levels within a healthy range. This requires several nutrients, such as folate, vitamin B12, vitamin B6, trimethylglycine, serine, and glycine.
+
+Does Too Much Muscle Meat Increase Homocysteine Levels?
+After eating a  high-protein  meal — or taking methionine supplements — circulating homocysteine increases within hours. The level of increase depends on the dose ( 9 ).
+However, this increase only occurs temporarily after meals and is perfectly normal. On the other hand, an increase in your base level of homocysteine is more of a concern.
+To increase base levels of homocysteine, a high dose of pure methionine is needed. This dose has been estimated to be equivalent to about five times the normal daily intake of methionine, which is about 1 gram per day ( 6 ,  28 ,  29 ,  30 ).
+Conversely, lower doses do not increase base levels of homocysteine ( 31 ).
+Simply put, evidence is lacking to suggest that a diet high in muscle meat increases base levels of homocysteine in healthy people.
+Though homocysteine is a product of methionine metabolism, dietary methionine intake is generally not the cause of elevated base homocysteine levels.
+The underlying causes of elevated homocysteine levels involve the body’s inability to keep it within a healthy range. These include  nutrient deficiencies , unhealthy lifestyle habits, diseases, and genetics.
+A high dose of supplemental methionine may increase base levels of homocysteine. On the other hand, eating muscle meat only leads to a temporary increase in homocysteine levels that subsides soon afterward.
+
+What Are the Effects of Glycine?
+Glycine may reduce homocysteine levels following high-protein meals ( 27 ).
+However, it’s currently unknown whether eating a lot of glycine has any effects on the base levels of homocysteine. More studies are needed.
+Still, glycine supplements may have other  health benefits .
+For example, it has been shown to decrease oxidative stress in older adults, along with cysteine. Additionally, studies suggest that glycine supplements improve  sleep quality  ( 32 ,  33 ).
+Dietary glycine may help reduce the temporary rise in homocysteine levels after a high-protein meal. The health relevance of this is unclear.
+
+The Bottom Line
+There is no good evidence to suggest that getting too much methionine from muscle meat — or other dietary sources — causes a harmful rise in homocysteine in healthy people.
+However, this may depend on several factors. For example, some people with homocystinuria — a rare genetic mutation in the MTHFR gene — may respond differently.
+Though glycine appears to play an important role in reducing the temporary rise in homocysteine after a high-protein meal, its health relevance remains unclear.
+Several other nutrients are also important for keeping homocysteine levels under control, most prominently folate,  vitamin B12 , vitamin B6, choline, and trimethylglycine.
+If you eat a lot of methionine-rich food, such as  eggs , fish, or meat, be sure you’re getting plenty of these nutrients as well.
+
+References:
+
+https://www.healthline.com/nutrition/essential-amino-acids
+https://www.healthline.com/nutrition/animal-vs-plant-protein
+https://www.healthline.comhttps://ndb.nal.usda.gov/ndb/search
+https://www.healthline.com/nutrition/collagen
+https://www.ncbi.nlm.nih.gov/pubmed/11704682
+https://www.healthline.com/nutrition/gelatin-benefits
+https://www.healthline.comhttps://ndb.nal.usda.gov/ndb/search
+https://www.ncbi.nlm.nih.gov/pubmed/20093739
+https://www.ncbi.nlm.nih.gov/pubmed/24999386/
+https://www.healthline.com/nutrition/methionine
+https://www.ncbi.nlm.nih.gov/pubmed/11711526
+https://www.healthline.com/nutrition/folic-acid-vs-folate
+https://www.ncbi.nlm.nih.gov/pubmed/16155267
+https://www.ncbi.nlm.nih.gov/pubmed/10591670
+https://www.ncbi.nlm.nih.gov/pubmed/12446535
+https://www.ncbi.nlm.nih.gov/pubmed/16487911
+https://www.ncbi.nlm.nih.gov/pubmed/16531614
+https://www.ncbi.nlm.nih.gov/pubmed/16531613
+https://www.ncbi.nlm.nih.gov/pubmed/22695899
+https://www.ncbi.nlm.nih.gov/pubmed/20937919
+https://www.ncbi.nlm.nih.gov/pubmed/22363213
+https://www.ncbi.nlm.nih.gov/pubmed/17237303
+https://www.ncbi.nlm.nih.gov/pubmed/9569395
+https://www.ncbi.nlm.nih.gov/pubmed/12122551
+https://www.ncbi.nlm.nih.gov/pubmed/16047264
+https://www.healthline.com/nutrition/vegetarian-and-vegan-mistakes
+https://www.ncbi.nlm.nih.gov/pubmed/23298782
+https://www.ncbi.nlm.nih.gov/pubmed/15321804
+https://www.ncbi.nlm.nih.gov/pubmed/16047264
+https://www.ncbi.nlm.nih.gov/pubmed/12791609
+https://www.ncbi.nlm.nih.gov/pubmed/17237303
+https://www.healthline.com/nutrition/what-is-choline
+https://www.ncbi.nlm.nih.gov/pubmed/19346114
+https://www.ncbi.nlm.nih.gov/pubmed/12730412
+https://www.ncbi.nlm.nih.gov/pubmed/16002808
+https://www.ncbi.nlm.nih.gov/pubmed/11101483
+https://www.healthline.com/nutrition/vitamin-b6-benefits
+https://www.ncbi.nlm.nih.gov/pubmed/15321804
+https://www.ncbi.nlm.nih.gov/pubmed/11273851
+https://www.ncbi.nlm.nih.gov/pubmed/17031061
+https://www.ncbi.nlm.nih.gov/pubmed/15321808
+https://www.healthline.com/nutrition/20-delicious-high-protein-foods
+https://www.ncbi.nlm.nih.gov/pubmed/10591670
+https://www.ncbi.nlm.nih.gov/pubmed/16155267
+https://www.ncbi.nlm.nih.gov/pubmed/15321808
+https://www.ncbi.nlm.nih.gov/pubmed/12450883
+https://www.ncbi.nlm.nih.gov/pubmed/11276928
+https://www.ncbi.nlm.nih.gov/pubmed/2261699
+https://www.healthline.com/nutrition/7-common-nutrient-deficiencies
+https://www.ncbi.nlm.nih.gov/pubmed/17031061
+https://www.healthline.com/nutrition/glycine
+https://www.healthline.com/nutrition/17-tips-to-sleep-better
+https://www.ncbi.nlm.nih.gov/pubmed/21795440
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.1479-8425.2007.00262.x/abstract
+https://www.healthline.com/nutrition/vitamin-b12-benefits
+https://www.healthline.com/nutrition/10-proven-health-benefits-of-eggs

@@ -1,0 +1,33 @@
+Title: Research Roundup
+
+Noteworthy nutrition studies highlighted by members of The Chan School’s  Department of Nutrition 
+ 
+Glyphosate, the primary active ingredient in the herbicide  “Roundup,” is a broad-spectrum, non-selective, systemic herbicide, which effectively kills all plant types. Glyphosate-based herbicide was introduced to the US in 1974 and now has become the world’s most common herbicide.
+1) Guyton KZ, Loomis D, Grosse Y, et al. (2015)  Carcinogenicity of tetrachlorvinphos, parathion, malathion, diazinon, and glyphosate .  The Lancet Oncology  16(5): 490-1.
+In March, 2015, 17 experts from 11 countries assessed the carcinogenicity of five pesticides including glyphosate at the International Agency for Research on Cancer. A summary of the final evaluations was published in  The Lancet Oncology .
+In this report, glyphosate was classified as “probably carcinogenic to humans” (Group 2A) for non-Hodgkin lymphoma, indicating there was limited evidence of carcinogenicity in humans and sufficient evidence of carcinogenicity in animals. Specifically, increased risk of non-Hodgkin lymphoma was consistent across case-control studies of occupational exposure in the USA, Canada, and Sweden. However, no evidence of increased risk of non-Hodgkin lymphoma was observed in the large Agricultural Health Study cohort (AHS).
+The evidence of other cancer sites (skin tumors, renal tubule carcinoma, haemangiosarcoma, and pancreatic islet-cell adenoma) was limited to animal studies.
+Evidence suggested the potential mechanisms for cancer were primarily through two pathways: First, the chemicals damaged DNA, which caused mutations or alterations in their gene codes. Second, glyphosate could induce oxidative stress. Oxidative stress happens when highly reactive chemicals overwhelm the capacity of cells to deactivate them. Often, free radicals will be produced during this process, and they can interact with molecules in the body and damage various cell components. If the cells cannot effectively counteract this production, cells can become necrotic and die.
+2) Mesnage R, Arno M, Costanzo M, et al. (2015)  Transcriptome profile analysis reflects rat liver and kidney damage following chronic ultra-low dose Roundup exposure .  Environmental Health  14(1): 70.
+An experimental study published in  Environmental Health  showed that chronic exposure to an ultra-low dose of glyphosate resulted in liver and kidney damage in rats.
+In this study, researchers administered 2-year minute doses (0.1ppb) of Roundup via drinking water, which was representative of what could be found in contaminated tap water.
+First, the authors observed the signs of pathological and biochemical changes in the liver and kidneys of the exposed rats.
+Then, they analyzed the changes in gene expression of these organs. Compared to the control group, more than 4000 gene transcript clusters in the liver and kidneys showed alterations in the exposed rats.
+The findings demonstrated that chronic exposure to glyphosate at an environmental level resulted in liver and kidney damage in an animal toxicity model, which may potentially have health implications for both animal and human populations.
+3) Balbuena MS, Tison L, Hahn ML, et al. (2015)  Effects of sublethal doses of glyphosate on honeybee navigation .  The Journal of Experimental Biology  218(Pt 17): 2799-805.
+An experimental study published in  The Journal of  Experimental Biology  showed that exposure to sublethal doses of glyphosate affect the homeward flight path of honeybees in an open field.
+The authors performed an experiment in which forager honeybees were fed with a sugar solution containing traces of glyphosate in three sublethal concentrations (2.5, 5, and 10 mg/l) and released from a new site.
+The honeybees treated with a higher glyphosate concentration (10mg/l) spent more time performing homeward flights than control bees or bees treated with lower concentrations.
+The results suggest that exposure to glyphosate in a level commonly found in agricultural settings impaired the honeybees’ navigation, with potential long-term negative consequences for the foraging success of honeybees.
+Due to widespread use of glyphosate, the residues are found in American’s urine, breast milk, and drinking water. The IARC has concluded that glyphosate is probably carcinogenic for non-Hodgkin lymphoma, and the risk of other cancer sites is inconclusive. In addition to health concerns, weed resistance to glyphosate has been increasing, which will adversely affect farm production. Due to the developing weed resistance, the Environmental Protection Agency is planning to place new restrictions on glyphosate. However, the details of the regulations have not yet been released at this time.
+This month’s Research Roundup was compiled by Yu-Han Chiu, a third year doctoral student who has been researching dietary factors in relation to semen quality and other reproductive outcomes. Dr. Chiu has been working with her advisor  Dr. Jorge Chavarro  and her colleagues on developing a dietary pesticide burden score to estimate an individual’s pesticide exposure from food intake. Using this method, they recently presented  important new data  on pesticide exposure via fruit and vegetable intake in relation to semen quality in the journal Human Reproduction.
+
+References:
+https://www.hsph.harvard.edu/nutrition/
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2015/10/grass.jpg
+http://www.ncbi.nlm.nih.gov/pubmed/?term=25801782
+http://www.ncbi.nlm.nih.gov/pubmed/?term=26302742
+http://www.ncbi.nlm.nih.gov/pubmed/?term=26333931
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2015/10/bee_on_leaf.jpg
+https://www.hsph.harvard.edu/jorge-chavarro/
+https://www.hsph.harvard.edu/news/press-releases/eating-fruits-and-vegetables-with-high-pesticide-residues-linked-with-poor-semen-quality/

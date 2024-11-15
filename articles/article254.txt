@@ -1,0 +1,130 @@
+Title: Titanium Dioxide in Food — Should You Be Concerned?
+
+Titanium dioxide is a whitening ingredient in foods, cosmetics, and other products. The FDA considers it safe, but high intake could be harmful.
+From dyes to flavorings, many people are becoming increasingly aware of the ingredients in their food.
+One of the most widely used food pigments is titanium dioxide, an odorless powder that enhances the white color or opacity of foods and over-the-counter products, including coffee creamers, candies, sunscreen, and toothpaste ( 1 ,  2 ).
+Variations of titanium dioxide are added to enhance the whiteness of paint, plastics, and paper products, though these variations differ from the food-grade ones for things we eat ( 1 ,  2 ).
+Still, you may wonder whether it’s safe for consumption.
+This article reviews the uses, benefits, and safety of titanium dioxide.
+
+Uses and benefits
+Titanium dioxide has many purposes in both food and product development.
+Due to its light-scattering properties, small amounts of titanium dioxide are added to certain foods to enhance their white color or opacity ( 1 ,  3 ).
+Most food-grade titanium dioxide is around 200–300 nanometers (nm) in diameter. This size allows for ideal light scattering, resulting in the best color ( 1 ).
+To be added to food, this additive must achieve 99% purity. However, this leaves room for small amounts of potential contaminants like lead, arsenic, or mercury ( 1 ).
+The most common foods containing titanium dioxide are  chewing gum , candies, pastries, chocolates, coffee creamers, and cake decorations ( 1 ,  3 ).
+Titanium dioxide is added to some food packaging to preserve the shelf life of a product.
+Packaging containing this additive has been shown to decrease ethylene production in fruit, thus delaying the ripening process and prolonging shelf life ( 4 ).
+Furthermore, this packaging has been shown to have both antibacterial and photocatalytic activity, the latter of which reduces ultraviolet (UV) exposure ( 5 ,  6 ).
+Titanium dioxide is widely used as a color-enhancer in cosmetic and over-the-counter products like lipsticks, sunscreens, toothpaste, creams, and powders. It’s usually found as nano-titanium dioxide, which is much smaller than the food-grade version ( 7 ).
+It’s particularly useful in  sunscreen  as it has impressive UV resistance and helps block the sun’s UVA and UVB rays from reaching your skin ( 6 ).
+However, since it’s photosensitive — meaning it can stimulate free radical production — it’s usually coated in silica or alumina to prevent potential cell damage without reducing its UV-protective properties ( 7 ).
+Although cosmetics are not meant for consumption, there are concerns that titanium dioxide in lipstick and toothpaste may be swallowed or absorbed through the skin.
+Due to its excellent light-reflecting abilities, titanium dioxide is used in many food and cosmetic products to improve their white color and block ultraviolet rays.
+
+Risks
+In recent decades, concerns for the risks of titanium dioxide consumption have grown.
+Though the Food and Drug Administration (FDA) categorizes titanium dioxide as Generally Recognized as Safe ( 8 ), other organizations have issued warnings.
+The European Food Safety Authority (EFSA) has concluded that titanium oxide should not be considered safe as a food additive, due to uncertainties about possible inflammation and neurotoxicity ( 9 ).
+The Scientific Committee on Consumer Safety (SCCS) warns against sprayable products and powders that may expose users’ lungs to titanium dioxide through inhalation ( 10 ).
+The International Agency for Research on Cancer (IARC) has listed titanium dioxide as a Group 2B carcinogen — an agent that may be  carcinogenic  but lacks sufficient animal and human research. This has caused concern for its safety in food products ( 11 ,  12 ).
+This classification was given, as some animal studies found that inhaling titanium dioxide dust might cause the development of lung tumors. However, IARC concluded that food products containing this additive do not pose this risk ( 11 ).
+Therefore, today, they only recommend limiting titanium dioxide inhalation in industries with high dust exposure, such as paper production ( 11 ).
+There is some concern regarding skin and intestinal absorption of titanium dioxide nanoparticles, which are less than 100 nm in diameter.
+Some small test-tube research has shown that these nanoparticles are absorbed by intestinal cells and may lead to  oxidative stress  and cancer growth. However, other research has found limited to no effects ( 13 ,  14 ,  15 ).
+Moreover, a 2019 study noted that food-grade titanium dioxide was larger and not nanoparticles. Hence, the authors concluded that any titanium dioxide in food is absorbed poorly, posing no risk to human health ( 3 ).
+Finally, research has shown that titanium dioxide nanoparticles do not pass the first layer of the skin — the stratum corneum — and are not carcinogenic ( 7 ,  15 ).
+Some research in rats has observed titanium dioxide accumulation in the liver, spleen, and kidneys. That said, most studies use doses higher than what you would typically consume, making it difficult to know if these effects would happen in humans ( 16 ).
+A 2016 review by the European Food Safety Authority concluded that titanium dioxide absorption is extremely low and any absorbed particles are mostly excreted through feces ( 17 ).
+However, they did find that minor levels of 0.01% were absorbed by  immune cells  — known as gut-associated lymphoid tissue — and may be delivered to other organs. Currently, it’s unknown how this may affect human health ( 17 ).
+Although most studies to date show no harmful effects of titanium dioxide consumption, few long-term human studies are available. Therefore, more research is needed to better understand its role in human health ( 16 ,  18 ).
+Titanium dioxide is classified as a Group 2B carcinogen as animal studies have linked its inhalation to lung tumor development. However, no research has shown that titanium dioxide in food harms your health.
+
+Toxicity
+In the United States, products can contain no more than 1% titanium dioxide in weight, and due to its excellent light-scattering abilities, food manufacturers only need to use small amounts to achieve desirable results ( 1 ).
+Children under 10 years old consume the most of this additive, with an average of 0.08 mg per pound (0.18 mg per kg) of body weight per day.
+Comparatively, the average adult consumes around 0.05 mg per pound (0.1 mg per kg) per day, although these numbers vary ( 1 ,  17 ).
+This is due to the higher intake of pastries and candies by children, as well as their small body size ( 1 ).
+Due to the limited research available, there is no Acceptable Daily Intake (ADI) for titanium dioxide. However, an in-depth review by the European Food Safety Authority found no adverse effects in rats that consumed 1,023 mg per pound (2,250 mg per kg) per day ( 17 ).
+Still, more human research is needed.
+Children consume the most titanium dioxide due to its high prevalence in candies and pastries. More research is needed before an ADI can be established.
+
+Side effects
+There is limited research on the side effects of titanium dioxide, and it largely depends on the route of access ( 2 ,  7 ,  15 ):
+Oral consumption.  There are no known side effects.
+Eyes.  The compound may cause minor irritation.
+Inhalation.  Breathing in titanium dioxide dust has been linked to lung cancer in animal studies.
+Skin.  It may cause minor irritation.
+Most side effects are related to inhalation of titanium dioxide dust. Therefore, there are industry standards in place to limit exposure ( 19 ).
+There are no known side effects of consuming titanium dioxide. However, animal studies suggest that inhalation of its dust may be linked to lung cancer.
+
+Should you avoid it?
+To date, titanium dioxide is considered safe for consumption.
+Most research concludes that the amount consumed from food is so low that it poses no risk to human health ( 1 ,  3 ,  7 ,  17 ).
+However, if you still want to avoid this additive, be sure to read food and drink labels carefully. Chewing gum, pastries, candies,  coffee creamers , and cake decorations are the most common foods with titanium dioxide.
+Keep in mind that there may be different trade or generic names for the compound that manufacturers may list instead of “titanium dioxide,” so be sure to get informed ( 20 ).
+Considering titanium dioxide is present in mostly processed foods, it’s easy to avoid by opting for a diet of whole, unprocessed food.
+Although titanium dioxide is generally recognized as safe, you may still wish to avoid it. The most common foods with the additive include chewing gum, pastries, coffee creamers, and cake decorations.
+
+The bottom line
+Titanium dioxide is an ingredient used to whiten many food products in addition to cosmetic, paint, and paper products.
+Foods with titanium dioxide are typically candies, pastries, chewing gum, coffee creamers, chocolates, and cake decorations.
+Although there are some safety concerns, the FDA generally recognizes titanium dioxide as safe. Moreover, most people do not consume nearly enough to cause any potential harm.
+If you still want to avoid titanium dioxide, be sure to read labels carefully and stick to minimally processed whole food.
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pubmed/29859103
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3423755/
+https://www.ncbi.nlm.nih.gov/pubmed/29859103
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3423755/
+https://www.ncbi.nlm.nih.gov/pubmed/29859103
+https://www.ncbi.nlm.nih.gov/pubmed/31426388
+https://www.ncbi.nlm.nih.gov/pubmed/29859103
+https://www.ncbi.nlm.nih.gov/pubmed/29859103
+https://www.healthline.com/nutrition/chewing-gum-good-or-bad
+https://www.ncbi.nlm.nih.gov/pubmed/29859103
+https://www.ncbi.nlm.nih.gov/pubmed/31426388
+https://www.ncbi.nlm.nih.gov/pubmed/29410369
+https://www.ncbi.nlm.nih.gov/pubmed/28703753
+https://www.researchgate.net/publication/348297674_Application_of_Titanium_Dioxide_TiO2_Nanoparticles_in_Packaging_and_Coating_of_Food_Products
+https://www.ncbi.nlm.nih.gov/pubmed/31588611
+https://www.healthline.com/health/beauty-skin-care/best-sunscreen-ingredients#titanium-dioxide
+https://www.ncbi.nlm.nih.gov/pubmed/31588611
+https://www.ncbi.nlm.nih.gov/pubmed/31588611
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCFR/CFRSearch.cfm?fr=73.575
+https://www.healthline.comhttps://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2021.6585
+https://www.mdpi.com/1420-3049/22/7/1170/htm
+https://www.healthline.com/health/cancer/cancer-causing-foods
+https://www.healthline.comhttps://publications.iarc.fr/111
+https://www.healthline.comhttps://monographs.iarc.fr/agents-classified-by-the-iarc/
+https://www.healthline.comhttps://publications.iarc.fr/111
+https://www.healthline.comhttps://publications.iarc.fr/111
+https://www.healthline.com/health/oxidative-stress
+https://www.ncbi.nlm.nih.gov/pubmed/24051123
+https://www.ncbi.nlm.nih.gov/pubmed/26996620
+https://www.ncbi.nlm.nih.gov/pubmed/23587290
+https://www.ncbi.nlm.nih.gov/pubmed/31426388
+https://www.ncbi.nlm.nih.gov/pubmed/31588611
+https://www.ncbi.nlm.nih.gov/pubmed/23587290
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4309481/
+https://www.healthline.comhttps://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5760
+https://www.healthline.com/health/cold-flu/fun-facts
+https://www.healthline.comhttps://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5760
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4309481/
+https://www.ncbi.nlm.nih.gov/pubmed/31420585
+https://www.ncbi.nlm.nih.gov/pubmed/29859103
+https://www.ncbi.nlm.nih.gov/pubmed/29859103
+https://www.healthline.comhttps://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5760
+https://www.ncbi.nlm.nih.gov/pubmed/29859103
+https://www.healthline.comhttps://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5760
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3423755/
+https://www.ncbi.nlm.nih.gov/pubmed/31588611
+https://www.ncbi.nlm.nih.gov/pubmed/23587290
+https://www.cdc.gov/niosh/npg/npgd0617.html
+https://www.ncbi.nlm.nih.gov/pubmed/29859103
+https://www.ncbi.nlm.nih.gov/pubmed/31426388
+https://www.ncbi.nlm.nih.gov/pubmed/31588611
+https://www.healthline.comhttps://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5760
+https://www.healthline.com/nutrition/cream-vs-half-and-half-vs-coffee-creamer
+https://www.healthline.comhttp://pubchem.ncbi.nlm.nih.gov/compound/Titanium-dioxide#section=Depositor-Supplied-Synonyms

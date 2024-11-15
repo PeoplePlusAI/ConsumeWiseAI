@@ -1,0 +1,177 @@
+Title: What Are Obesogens, and Should We Be Concerned?
+
+Obesogens are chemicals that could influence or promote obesity in humans or animals ( 1 ).
+According to some research, obesity rates are on the rise. Recent studies are beginning to look at the environmental factors that may contribute to this — including obesogens ( 2 ).
+These chemicals are found in everyday household items like food containers, toys, cookware, personal care products, cleaning agents, and medical supplies ( 2 ,  3 ).
+Because they’re present in such a wide range of sources, they may contaminate food, water, or air, thereby further increasing their routes of exposure ( 2 ).
+When these chemicals enter your body, they may alter the energy balance regulation to favor weight gain ( 2 ).
+It is important to note that the research on the effects of obeseogens on human health is lacking thus far, and much of their purported effects are based on animal studies.
+This article covers 5 of the most common obesogens, how they may affect you, and how to minimize your exposure to these chemicals.
+
+How do obesogens function?
+Obesogens are considered endocrine-disrupting chemicals (EDCs). This means that they can interfere with your endocrine system, and thus, with your hormones ( 1 ,  4 ).
+Perhaps surprisingly, of all the chemicals registered in commerce — about 1,000 types — can be classified as EDCs ( 2 ).
+Because  endocrine organs  and hormones help regulate your metabolism and body weight, your endocrine system plays an essential role in energy balance and fat storage ( 1 ).
+Obesogens may promote obesity by ( 1 ,  2 ):
+increasing the number of fat cells
+increasing the storage of fat in existing fat cells
+altering the rate of fat cell production versus destruction
+shifting energy balance to favor calorie storage
+changing the basal metabolic rate (BMR), which is how many calories your body needs to fulfill its basic functions
+altering gut microbiota to promote food storage
+modifying hormonal control of appetite and fullness
+Research has found evidence of EDCs in the placenta, amniotic fluid, and umbilical cord blood, suggesting that human exposure to obesogens starts as early as in the mother’s womb ( 2 ,  3 ).
+Exposure to EDCs in such early stages of development may influence obesity later in life. Further, it could increase the risk of diseases like diabetes, metabolic syndrome, and cancer because the enzymes involved in their elimination are not yet fully functional ( 1 ,  2 ,  3 ,  5 ).
+The impact of prenatal exposure to EDCs on a fetus’ metabolism may even be transmitted to future generations, a finding known as the transgenerational effects of EDCs ( 4 ,  5 ).
+Obesogens are chemicals that may promote obesity by interfering with your metabolism and hormones. Evidence shows that human exposure may start as early as in the womb. Their impact may even affect future generations.
+
+Common types
+There are many types of obesogens or EDCs. Here are 5 of the most common ones.
+BPA  is a synthetic compound used to make polycarbonate plastic and epoxy resins that line food and beverage cans. Thus, it’s found in numerous food and beverage containers ( 2 ,  6 ).
+It has a similar structure to estradiol, which is the main female sex hormone. Since estradiol is a type of estrogen, BPA easily binds to estrogen-related receptors in the body ( 3 ,  6 ).
+According to test-tube and animal studies, this may induce insulin resistance, inflammation, oxidative stress, and promote the formation of fat cells ( 3 ,  6 ).
+Humans are largely exposed to BPA when eating food stored or reheated in BPA-lined containers. Because the compound is not fully attached to plastic, it can leach into your food as a result of changes in pH and temperature ( 3 ,  6 ).
+BPA has been found in newborns, children, and adults. It can be measured in bodily fluids and tissues such as blood, urine, saliva, breast milk, and fatty tissue ( 6 ).
+While research suggests that BPA may cause harm at high levels, the Food and Drug Administration (FDA) considers BPA safe, given that the amounts that migrate from food packaging to foods and beverages are small ( 7 ).
+However, BPA at levels found in the general population is linked with increased prevalence of obesity, diabetes, and high blood pressure ( 6 ).
+Nevertheless, more studies in humans are needed to better understand the impact of BPA on human health.
+BPA is found in plastic and canned food. Its intake has been associated with an increased prevalence of obesity and other chronic diseases. Nevertheless, more human studies are needed to learn more.
+Phthalates  are a group of man-made chemicals used to make plastics more durable and flexible ( 2 ,  3 ).
+They’re present in toys, medical devices, food packaging, detergents, soaps, shampoo, nail polish, lotions, and perfumes ( 3 ,  8 ).
+The most common phthalate is Di-2-ethyhexyl-phthalate (DEHP), a chemical that binds to receptors of androgen, the main male sex hormone. This impairs testosterone synthesis, resulting in anti-androgen effects that may contribute to the development of obesity ( 2 ,  3 ).
+In addition, phthalates may affect hormone receptors called PPARs and other cell signaling pathways involved in your metabolism ( 2 ,  9 ).
+The primary form of exposure is consuming food and beverages that have been in contact with phthalate-containing products. Phthalate particles in dust are also a significant source of exposure ( 8 ).
+Most test-tube and animal studies support that DEHP and other phthalates affect the development of obesity and type 2 diabetes ( 9 ).
+Similarly, studies in children have linked these compounds to increased body mass index (BMI) and obesity risk ( 2 ,  10 ,  11 ).
+Phthalates are found almost everywhere, and their metabolites — or end products — have been detected in over 75% of the U.S. population ( 3 ).
+Nevertheless, the Centers for Disease Control and Prevention (CDC) states that the levels found won’t necessarily cause harmful health effects ( 8 ).
+Likewise, the FDA states that there is insufficient evidence to claim that phthalates pose a safety risk. However, it only refers to their use in cosmetics ( 12 ).
+Thus, as with BPA, more data is still needed to learn more about how phthalates may affect human health.
+Phthalates are present in many plastic and personal care items. Test-tube, animal, and human studies have linked them to an increased risk of obesity and type 2 diabetes. However, more research is still needed.
+Atrazine is a widely used herbicide in the United States ( 12 ).
+Though drinking water is not a frequent source of human exposure, atrazine is one of the most commonly found pesticides in surface and ground waters in regions where it is used ( 13 ).
+Like BPA and phthalates, atrazine has anti-androgenic and estrogenic effects. It also reduces the production of luteinizing hormone, a hormone involved in sexual development and functioning ( 13 ,  14 ).
+In addition, animal studies show that long-term exposure to atrazine may increase the risk of obesity and insulin resistance, especially when linked to high fat diets ( 2 ,  14 ).
+Furthermore, research shows that herbicide exposure has a potential effect on chronic diseases such as diabetes, cancer, and birth disabilities, as well as increased risk of gestational diabetes in those who are pregnant ( 14 ,  15 ).
+While evidence points toward atrazine having obesogenic effects, studies are still a long way from proving its contribution to the obesity epidemic.
+Atrazine is a herbicide associated with an increased risk of obesity in animals. Yet, human research is lacking.
+Organotins are a class of industrial compounds used as polyvinyl chloride (PVC) stabilizers, antifouling paints, and  pesticides  ( 14 ).
+One of them is called tributyltin (TBT), an active ingredient in antifungal paint applied to boats and ships to prevent the growth of marine organisms on the hull ( 14 ).
+As a result, it’s released into the water and deposited in sediments, contaminating many lakes and coastal waters ( 14 ,  16 ,  17 ).
+Scientists have discovered that marine waters contaminated with TBT have caused imposex in some sea snails, meaning that female snails develop male sex organs. This is considered the best example of an EDC in wildlife ( 16 ,  17 ).
+In addition, test-tube studies have shown that TBT promotes the formation of fat cells, while animal studies have demonstrated that its exposure results in increased fat accumulation and reduced muscle mass ( 1 ,  2 ).
+Animal studies also show that when mice are exposed to TBT throughout pregnancy and lactation, third- and fourth-generation male offspring have more and larger fat cells, suggesting a sex-specific transgenerational predisposition to obesity ( 18 ).
+In mammals, including humans, the adverse effects of organotins are varied, ranging from obesity to heart-, brain-, and immunotoxicity ( 17 ).
+Human exposure may occur through dietary sources like contaminated seafood and shellfish. However, due to limited data in humans, the topic requires further investigation ( 1 ).
+Organotins such as TBT have a clear endocrine-disrupting effect in animals. They’re also believed to promote obesity in humans, although further research is still needed.
+PFOA is a surfactant used in waterproof clothing,  nonstick cookware , stain repellent, and microwaveable food items ( 14 ).
+The main source of human exposure to PFOA is contaminated water sources. Once ingested, it can remain in your body for long periods of time ( 19 ).
+Like phthalates, PFOA activates PPAR receptors in your body, which are involved in fat metabolism ( 14 ).
+Studies in mice suggest that those exposed to PFOAs before birth had higher chances of developing obesity when they reached adulthood, as well as increased insulin, leptin, and body weight ( 2 ,  14 ).
+However, whether PFOAs contribute to obesity in humans remains unclear.
+PFOA is a chemical used to make heat, oil, stains, grease, and water-resistant products. It’s associated with an increased risk of obesity in mice. Yet, human studies are lacking.
+
+How to minimize your exposure
+Little is known about the effect of obesogens on human health. Much less is known about the extent of their interaction with other established risk factors for obesity like inflammation, diet, the timing of eating, and appetite regulation ( 1 ).
+According to animal studies, some EDCs can accumulate in tissues, while others may predispose future generations to obesity and other metabolic disorders ( 2 ,  18 ,  20 ).
+While it’s unlikely you’ll be able to avoid obesogens altogether, there are a few simple things you can do to reduce your exposure, including ( 5 ):
+opting for organic foods such as fruits, vegetables, corn, wheat, and rice when possible
+minimizing the use of EDC-containing cosmetics and personal care products by choosing organic options
+preferring stainless steel, aluminum, or glass containers over plastic ones for foods and beverages
+avoiding heating foods in plastic containers
+if using plastic containers, opt for ones featuring the BPA-free and phthalate-free labels
+These recommendations may be especially important if you’re pregnant or planning to become pregnant.
+Of course,  eating a well-balanced diet , exercising, getting enough high quality sleep, and managing stress remain the most important factors when it comes to your health.
+Choosing organic products and avoiding plastic containers are easy ways to minimize exposure to obesogens.
+
+The bottom line
+Obesogens are chemicals that may promote obesity by disrupting endocrine organs and hormones in your body.
+Nevertheless, keep in mind that the speculated effects of these chemicals are mainly based on animal studies. Research on their impact on human health is lacking.
+Since most obesogens are present in everyday household items, they may be easily transferred to your food and beverages.
+Therefore, choosing organic products and avoiding plastic containers are easy ways to minimize your exposure if you’re worried about potential negative health effects.
+Try this today:  Look for the BPA-free and phthalate-free labels on your plastic containers to ensure they don’t contain these compounds.
+
+References:
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6559802/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8393470/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6559802/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33966978/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.healthline.com/health/the-endocrine-system
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6559802/
+http://https//www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6559802/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8393470/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6559802/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8393470/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4851574/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33966978/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4851574/
+https://www.healthline.com/nutrition/what-is-bpa
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4472611/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8393470/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4472611/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8393470/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4472611/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8393470/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4472611/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4472611/
+https://www.fda.gov/food/food-additives-petitions/questions-answers-bisphenol-bpa-use-food-contact-applications
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4472611/
+https://www.healthline.com/health-news/what-are-phthalates-and-why-are-they-in-mac-and-cheese
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8393470/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8393470/
+https://www.cdc.gov/biomonitoring/Phthalates_FactSheet.html
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8393470/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27822670/
+https://www.cdc.gov/biomonitoring/Phthalates_FactSheet.html
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27822670/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28426647/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4862064/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8393470/
+https://www.cdc.gov/biomonitoring/Phthalates_FactSheet.html
+https://www.fda.gov/cosmetics/cosmetic-ingredients/phthalates
+https://www.cdc.gov/biomonitoring/Atrazine_BiomonitoringSummary.html
+https://www.cdc.gov/biomonitoring/Atrazine_BiomonitoringSummary.html
+https://www.cdc.gov/biomonitoring/Atrazine_BiomonitoringSummary.html
+https://www.sciencedirect.com/science/article/pii/S2666086520300126
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.sciencedirect.com/science/article/pii/S2666086520300126
+https://www.sciencedirect.com/science/article/pii/S2666086520300126
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4833532/
+https://www.healthline.com/health-news/dont-let-a-fear-of-pesticides-stop-you-from-eating-fruits-and-veggies
+https://www.sciencedirect.com/science/article/pii/S2666086520300126
+https://www.sciencedirect.com/science/article/pii/S2666086520300126
+https://www.sciencedirect.com/science/article/pii/S2666086520300126
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28986082/
+https://www.sciencedirect.com/science/article/pii/B9780128096659099869
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28986082/
+https://www.sciencedirect.com/science/article/pii/B9780128096659099869
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6559802/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8716683/
+https://www.sciencedirect.com/science/article/pii/B9780128096659099869
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6559802/
+https://www.healthline.com/nutrition/nonstick-cookware-safety
+https://www.sciencedirect.com/science/article/pii/S2666086520300126
+https://www.cdc.gov/biomonitoring/PFOA_FactSheet.html
+https://www.sciencedirect.com/science/article/pii/S2666086520300126
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.sciencedirect.com/science/article/pii/S2666086520300126
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6559802/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5365353/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8716683/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30801972/
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4851574/
+https://www.healthline.com/nutrition/how-to-eat-healthy

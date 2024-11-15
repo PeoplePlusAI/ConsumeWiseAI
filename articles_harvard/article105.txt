@@ -1,0 +1,31 @@
+Title: Leanness combined with healthy lifestyle factors found to be most protective against early death
+
+The Takeaway:  An increase in healthy lifestyle factors (never smoking, exercise, moderate alcohol intake, and an overall healthy diet) is associated with a reduced risk of early death at any BMI, though lowest risk was found in lean individuals (BMI of 18.5-22.4) practicing at least three of these habits.
+
+When a heavily-publicized 2013  JAMA  study suggested that being overweight or mildly obese was associated with a reduced risk of death— confusion ensued . Could carrying a little extra weight  really  be protective? A review of the evidence revealed serious  problems in the study’s methods , such as including participants who entered the study at a lower  body mass index (BMI)  due to underlying disease or history of smoking. A more recent study of over 10.6 million participants from around the world (which excluded smokers and individuals with existing chronic diseases) indicated that  being overweight or obese  is  associated with a higher risk of dying prematurely , compared to those who are normal weight.
+Beyond just BMI, a new study in the  British Medical Journal  finds that healthy lifestyle factors may play a larger role in promoting longevity than weight alone. (1) Again, the authors point out that certain people may be classified as “normal weight” but have unhealthy behaviors or disease conditions that promote a lower body weight, such as smoking, chronic diseases like cancer and heart disease, or frailty and other age-related weight loss as seen in the elderly. In comparison, someone who is overweight may appear healthier if they are free of disease and practice healthy lifestyle habits.
+To address the combined effects of body weight and lifestyle factors, the authors analyzed more than 113,000 women and men who did not have cancer or heart disease at the start of the study, and evaluated not only BMI, but  quality of diet ,  physical activity  levels, smoking habits, and alcohol intake. The participants were followed for more than 32 years as part of the ongoing  Nurses’ Health Study and Health Professionals’ Follow-up Study , and deaths were measured from all causes as well as specifically from cancer and heart disease.
+“Low-risk” lifestyle factors included never smoking, exercise of greater than 30 minutes a day at moderate to vigorous intensity,  moderate alcohol intake  of up to 1 drink a day in women and up to 2 drinks a day in men, and a high healthy eating score using a validated questionnaire. According to the Centers for Disease Control and Prevention, a BMI of 18.5-24.9 is classified as normal weight, 25.0-29.9 is overweight, and 30 or higher is obese. (2)
+The authors found that the risk of death decreased significantly as the number of low-risk lifestyle factors increased. Participants having at least three low-risk lifestyle factors and a BMI between 18.5-22.4 had the lowest risk of death from heart disease, cancer, and total mortality. Among those who were overweight or obese, increasing the number of low-risk lifestyle factors significantly reduced their risk of early death. Interestingly, among those with no low-risk lifestyle factors, participants with a lower BMI were found to be at significantly higher risk of death than those who were overweight. These results indicate that the leanness among these high-risk individuals may be induced by unhealthy behaviors (such as smoking) and undiagnosed diseases or frailty.
+“The relationship between body and mortality continues to be debated, but few studies have examined this relationship in the context of diet and lifestyle,” said Frank Hu, senior author of the study. “Our findings indicate that leanness combined with healthy lifestyles is an optimal way to reduce risk of premature death and promote longevity.”
+Related
+Ask the Expert: Does being overweight really decrease mortality? No!
+As overweight and obesity increase, so does risk of dying prematurely
+References
+Veronese, N., Li, Y., Manson J.E., Willett W.C., Fontana L., Hu, F.B. Combined associations of body weight and lifestyle factors with all cause and cause specific mortality in men and women: prospective cohort study. BMJ. 2016;355:i5855.
+Centers for Disease Control and Prevention. About Adult BMI.  https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html . Accessed 11/30/2016
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/2013/01/09/ask-the-expert-does-being-overweight-really-decrease-mortality-no/
+https://nutritionsource.hsph.harvard.edu/2013/01/09/ask-the-expert-does-being-overweight-really-decrease-mortality-no/
+https://nutritionsource.hsph.harvard.edu/measuring-fat/
+https://www.hsph.harvard.edu/news/press-releases/overweight-obesity-mortality-risk/
+http://www.bmj.com/content/355/bmj.i5855
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/
+https://nutritionsource.hsph.harvard.edu/staying-active/
+https://nutritionsource.hsph.harvard.edu/nurses-health-study/
+https://nutritionsource.hsph.harvard.edu/alcohol/
+https://nutritionsource.hsph.harvard.edu/2013/01/09/ask-the-expert-does-being-overweight-really-decrease-mortality-no/
+https://www.hsph.harvard.edu/news/press-releases/overweight-obesity-mortality-risk/
+https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html

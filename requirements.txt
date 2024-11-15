@@ -1,0 +1,4 @@
+openai
+pymongo
+sentence_transformers
+openpyxl

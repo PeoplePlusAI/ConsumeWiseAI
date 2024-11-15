@@ -1,0 +1,10 @@
+Title: Beverage Recipes
+
+Fruit Cooler
+Sparkling Iced Tea with Lemon, Cucumber and Mint
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+recipes/fruit-cooler
+http://hsph.harvard.edu/nutritionsource/home-cooking/recipes/iced-tea-with-lemon-and-mint

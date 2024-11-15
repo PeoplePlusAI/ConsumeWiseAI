@@ -1,0 +1,69 @@
+Title: Iodine
+
+Iodine is an essential trace mineral not made by the body so must be obtained by food or supplements. It is found naturally in some foods and is added to supplements and some salt seasonings. Iodine is needed to make the thyroid hormones thyroxine and triiodothyronine, which assist with the creation of proteins and enzyme activity, as well as regulating normal metabolism. Without enough iodine, these thyroid hormones do not work properly and can lead to an under-active or overactive thyroid gland, causing the medical conditions of hypothyroidism and hyperthyroidism with various negative side effects in the body.
+
+Recommended Amounts
+RDA:  The Recommended Dietary Allowance for iodine is 150 micrograms (mcg) daily for adult men and women 19+ years, and 220 and 290 mcg daily for pregnant and lactating women, respectively. [1,2]
+UL:  A Tolerable Upper Intake Level (UL) is the maximum daily dose unlikely to cause adverse side effects in the general population. The UL for iodine for adults 19+ years and pregnant and lactating women is 1,100 mcg daily.
+
+Iodine and Health
+Production of thyroid hormones increases during pregnancy, requiring higher intakes of iodine. Both the fetus and infant require enough iodine for normal physical growth and brain development. Breast milk contains iodine, though the amount will depend on the mother’s diet, and many infant formulas contain iodine. However, not all prenatal multivitamins contain iodine. The American Academy of Pediatrics recommends that prenatal and lactating women take supplemental iodine by using iodized salt. [2] High-dose iodine supplements are not always advised, as they can cause thyroid problems in some women.
+Moderate to severe iodine deficiency in children can cause a lower IQ and stunted growth. Iodine supplementation in these children appears to improve both their physical and mental development.
+These conditions occur when the body produce too little (hypothyroidism) or too much (hyperthyroidism) thyroid hormone. An early sign of hypothyroidism is having an elevated blood level of of thyroid stimulating hormone (TSH). This may occur with low intakes of iodine. It may also occur in people with a history of iodine deficiency who take high doses of iodine such as in supplements. [1] Goiter, a lump in the front of the neck from an enlarged inflamed thyroid gland, can result from hypothyroidism, hyperthyroidism, or an excessive iodine intake (usually involves taking very high doses of more than 18,000 mcg a day for a prolonged time). [1] Relatedly,  goitrogens  in some cruciferous vegetables can prevent the absorption of iodine, which may then interfere with thyroid function and cause goiter. Those already with an iodine deficiency or hypothyroidism are most susceptible.
+
+Food Sources
+Iodine is found in soil and the ocean, which varies in amount and will affect how much of the mineral is contained in a food. Iodine is found mainly in animal protein foods and sea vegetables, and to a lesser extent in fortified foods like breads, cereals, and milk.
+Seaweed (nori, kelp, kombu, wakame)
+Fish, shellfish  (cod, canned tuna, oysters, shrimp)
+Table  salts  labeled “iodized”
+Dairy  ( milk ,  cheese ,  yogurt )
+Eggs
+Beef liver
+Chicken
+Fortified infant formula
+
+Signs of Deficiency and Toxicity
+Deficiency
+Iodine regulates metabolism, the conversion of energy obtained from food into energy to help cells function and grow. A deficiency of iodine can therefore prevent normal growth and development. This is especially dangerous in pregnant women and infants, in which miscarriage, stillbirth, stunted growth, and cognitive impairments (difficulties with reading, writing, talking, problem solving, social skills) can occur. In adults, an iodine deficiency of less than 10-20 mcg a day can lead to inadequate thyroid hormone production, called hypothyroidism, which disrupts normal metabolic functions like regulating heart rate, body temperature, and body weight. [2] A lump or swelling in the neck, called goiter, often accompanies hypothyroidism. Other signs of hypothyroidism include:
+Fatigue, lethargy
+Weakness
+Sensitivity to cold
+Constipation
+Dry skin and hair
+Weight gain
+People at risk for iodine deficiency include those who do not use iodized salt or supplements containing iodine, pregnant women, vegans who do not eat any animal foods, and those living in areas with low levels of iodine in the soil (e.g., mountainous regions).
+Toxicity
+High iodine intakes are usually well-tolerated in most healthy people and do not cause problems. [1] This has been observed in countries such as Japan and Korea that eat iodine-rich seaweed regularly. [3] But some people with autoimmune thyroid disease or who have a history of chronic iodine deficiency can be sensitive to receiving extra iodine, inducing conditions of iodine deficiency like hypothyroidism and goiter. [2,4] Excess iodine can also lead to too much thyroid hormone production, causing hyperthyroidism; signs of this condition are an increased metabolism that promotes weight loss, fast or irregular heartbeat, hand tremors, irritability, fatigue, and sweatiness. Sometimes even just a slight increase in dietary iodine above the RDA can cause iodine-induced hyperthyroidism in sensitive individuals. [4]
+Some epidemiologic studies have shown that high seaweed intakes are associated with an increased risk of certain types of thyroid cancer, particularly in postmenopausal women, but the exact mechanism is unclear. [2,3]
+Excess iodine intake may come from use of high-dose supplements or overeating certain seaweeds and salts that contain iodine. Severe iodine poisoning is rare, but symptoms include fever; stomach pain; nausea; vomiting; a burning sensation of the mouth, throat, and stomach; and even coma. [2] Children, infants, the elderly, and those with existing thyroid disease are particularly vulnerable to iodine toxicity and iodine-induced hypothyroidism and hyperthyroidism. [3,4]
+
+Did You Know?
+In the U.S., people obtain most of their dietary iodine from iodized salt and milk.
+Iodine supplements can interact with certain blood pressure medications and diuretics, including lisinopril, spironolactone, and amiloride, causing a dangerous buildup of  potassium  in the blood called hyperkalemia.
+Iodine is an ingredient in contrast agents that a person may take before having an X-ray or computed tomography (CT scan). It helps to absorb the rays so that clearer pictures of the body’s organs can be seen.
+
+Related
+Vitamins and Minerals
+Institute of Medicine Panel on Micronutrients. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc.  National Academy Press , Washington, DC, 2001.
+U.S. Department of Health and Human Services.  Iodine Fact Sheet for Health Professionals .  https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/  Accessed 9/20/21.
+Murai U, Yamagishi K, Kishida R, Iso H. Impact of seaweed intake on health.  European Journal of Clinical Nutrition . 2021 Jun;75(6):877-89.
+Farebrother J, Zimmermann MB, Andersson M. Excess iodine intake: sources, assessment, and effects on thyroid function.  Annals of the New York Academy of Sciences . 2019 Jun;1446(1):44-65.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/salt-and-sodium/
+https://nutritionsource.hsph.harvard.edu/dairy/
+https://nutritionsource.hsph.harvard.edu/milk/
+https://nutritionsource.hsph.harvard.edu/cheese/
+https://nutritionsource.hsph.harvard.edu/food-features/yogurt/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/potassium/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/
+https://idp.nature.com/authorize/casa?redirect_uri=https://www.nature.com/articles/s41430-020-00739-8&casa_token=skepqdxm9wAAAAAA:iqv8-rvyle3vghAFZwa8SoabvpMByIL-GBNxNqq7GqUXlDC8-lMAJeiQ1a9seDI3VNEwP3L3w-w52cHQ
+https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.14041

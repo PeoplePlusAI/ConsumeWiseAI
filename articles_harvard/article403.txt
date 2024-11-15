@@ -1,0 +1,27 @@
+Title: Ask the expert: Sugary drinks and genetic risk for obesity
+
+The Expert:  Dr. Lu Qi
+
+Assistant Professor in the Department of Nutrition, Harvard School of Public Health
+We asked Dr. Lu Qi of the Harvard School of Public Health to explain the importance of considering genetic factors when approaching your diet. His recently published study suggests a link between sugary drinks and a genetic risk of obesity, and highlights the importance of gene-environment interaction in determining health outcomes. In the study of 33,097 individuals, those with a genetic predisposition to obesity were likely to be more adversely impacted by drinking sugary beverages; and the detrimental effects of sugary drink on body weight appeared to be amplified by high genetic risk. Read more about the study  here .
+
+1. What’s ground-breaking about this research?
+I think that this is the first study to show reproducible evidence for the gene-environment interaction on obesity, in three large prospective cohorts. This kind of study has never been done before. Dr. Francis Collins, director of the National Institutes of Health (NIH), said that “genetics loads the gun, and environment pulls the trigger.” So this means that genetic factors and environmental factors may not work on their own, but through an interactive way. We are trying to combine them together and do more comprehensive study to explore the interaction between genes and environment. I think this is definitely the future direction. I think the new concept of “systems epidemiology” should consider not only environmental factors, but also genomic factors.
+2. How can someone know if he/she is at genetic risk of obesity? Should people get tested?
+Currently, some companies provide this genotyping service to customers, but it may be not the best way to have a company provide this service. This service is a very important one and should be a matter of public health. I think that it should be clinical and scientific centers doing the tests and providing information to patients. In the near future, we should get genetic information with a cheaper and more efficient method.
+3. Is there something unique about  drinking  calories in the form of sugar that leads to obesity?
+Sugar-sweetened beverages are definitely not the only food or factor contributing to obesity, but they have the most solid evidence so far compared to other factors. Compared with solid foods, energy from sugar-sweetened beverages may produce incomplete compensatory reduction of subsequent energy intake. If you eat energy-rich, unhealthy solid food, you are more likely to reduce your energy intake next time you eat, but if you drink sugar-sweetened beverages, it doesn’t reduce your subsequent intake. This is why people drinking sugar-sweetened beverages still intake extra energy. Obesity is the result of the imbalance of energy intake and energy expenditure, so this is the primary mechanism and balance that is destabilized when people are drinking sugar-sweetened beverages and taking in too many calories.
+4. Do you hope to do similar studies across ethnic groups?
+This study is restricted to Caucasian adults, but future studies will focus on other ethnic groups and on children. Soda is a very important issue in children and we definitely need to explore this. Overall, I think the genetic risk for different racial groups should be very similar; however, we need solid evidence to support any conclusion on this issue.
+5. Do you think that cities should institute similar laws to the NYC large-sized soda ban?
+I support the soda ban and our data also support the soda ban. We should push policy-makers across society to use other methods very similar to what we have done for smoking. For example, we can raise taxes and we can label bottles to tell people that drinking sugar-sweetened beverages is harmful. So we definitely have many other ways to reduce the consumption of soda, not just to ban the intake.
+6. What’s your message to the public?
+An important message is, regardless of your genes, you need to reduce consumption of sugary drinks because data shows that they relate to obesity and other diseases such as diabetes and cardiovascular disease for the whole population. For those at higher genetic risk, drinking sugary beverages becomes even more harmful. The study was done in adults, but  two other recently published clinical trials  have shown strong evidence that these drinks affect children as well, so we should recommend to parents to push children to reduce sugary drink consumption. By making healthy beverage choices, you can reduce your risk no matter what genetic risk you carry.
+7. What’s next for your research about genetics and obesity?
+Our next step is to look at other diet and lifestyle factors, and expand analysis of sugar-sweetened beverages to other populations and children. We didn’t include fruit juice in this study’s analysis, but there is evidence that fruit juice increases weight gain, so we need to look into it. It is probably less of a strong effect compared with sugar-sweetened beverages like soda, sports drinks, energy drinks, etc.
+
+References:
+https://www.hsph.harvard.edu/lu-qi/
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/11/qi1.jpg
+https://www.hsph.harvard.edu/news/press-releases/2012-releases/sugary-beverages-genetic-risk-obesity.html
+https://www.hsph.harvard.edu/obesity-prevention-source/obesity-causes/cutting-out-sugary-drinks-for-kids/index.html

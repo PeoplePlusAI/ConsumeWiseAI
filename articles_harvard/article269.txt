@@ -1,0 +1,72 @@
+Title: Manganese
+
+Manganese is a trace mineral that is essential to our bodies in small amounts. Because we cannot make it, we must obtain it in food or supplements. Manganese is a coenzyme that assists many enzymes involved in breaking down carbohydrates, proteins, and cholesterol. [1] It also assists enzymes in building bones and keeping the  immune  and reproductive systems running smoothly. [2] Manganese works with  vitamin K  to assist in wound healing by clotting the blood.
+Manganese is absorbed in the small intestine. Most of the mineral is stored in bone, with smaller amounts in the liver, brain, kidneys, and pancreas. Manganese levels are difficult to measure in the body as dietary intakes do not always correlate with blood levels.
+Recommended Amounts
+RDA:  The Recommended Dietary Allowance (RDA) for adults 19+ years is 2.3 mg a day for men and 1.8 mg for women. For women who are pregnant or lactating, the RDA is 2.0 mg and 2.6 mg, respectively.
+UL:  The Tolerable Upper Intake Level (UL) for manganese for all adults 19+ years of age and pregnant and lactating women is 11 mg daily; a UL is the maximum daily intake unlikely to cause harmful effects on health.
+Manganese and Health
+Manganese plays a role in the metabolism of  carbohydrates  and specifically glucose. In animal studies, a manganese deficiency can impair the action of insulin and disrupt normal blood levels of glucose. However, human studies have shown mixed results on its connection with diabetes. [2] Case-control studies have shown an association of very high and very low blood levels of manganese and an increased risk of  type 2 diabetes . [3,4] Other studies have found no association at all. [5] Therefore, it is still unclear if higher manganese intakes or manganese supplementation may protect against type 2 diabetes.
+Manganese assists enzymes that build bone. Animal studies show that a deficiency of the mineral can reduce bone density and the formation of bone. Human studies have been few and small in size, and have shown conflicting conclusions. [2] Some observational studies found lower blood levels of manganese in women with osteoporosis versus those without osteoporosis; other studies found no difference. There have been no clinical trials studying the effects of manganese supplementation on bone health.
+Food Sources
+Manganese is found in a wide variety of foods, from shellfish to grains to legumes, and even spices. Drinking  water  contains small amounts of manganese.
+Shellfish : mussels, oysters, clams
+Nuts , especially hazelnuts and pecans
+Brown rice
+Oatmeal
+Legumes :  soybeans , kidney beans,  chickpeas ,  lentils , peanuts
+Black tea
+Black pepper
+Spinach
+Pineapple
+Signs of Deficiency and Toxicity
+Deficiency
+A deficiency of manganese is very rare, and there are no groups of people known to be at risk for developing a deficiency. Therefore, symptoms showing a deficiency have not been clearly established. The absorption of manganese may decrease if eaten with iron-rich foods, as these minerals compete for the same proteins that help with their absorption in the intestines.
+Toxicity
+There are no reports of reaching toxic levels of manganese from the diet. However, there have been isolated case reports of toxicity shown in people who drank water contaminated with unusually high levels of manganese and in industrial mining and welding workers who inhaled excess amounts of manganese in dust. [2] Because  iron  and manganese rely on the same proteins that help with their absorption, having low iron stores (e.g., anemia) can increase manganese absorption and heighten a toxicity if excess manganese is present.
+A manganese toxicity targets the central nervous system. Symptoms include:
+Tremors
+Muscle spasms
+Decreased hand-eye coordination
+Decreased balance
+Hearing loss
+Headaches
+Depression, mood changes
+Did You Know?
+The main food sources of manganese in the U.S. diet are  tea ,  vegetables , and  whole grains .
+Manganese is a component of an antioxidant called superoxide dismutase (SOD), which can protect against cell damage caused by free radical molecules. SOD is an enzyme that breaks down the free radical superoxide into smaller, less harmful molecules.
+Related
+Vitamins and Minerals
+Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc Washington, DC: National Academy Press; 2001.
+National Institutes of Health Office of Dietary Supplements: Manganese Fact Sheet for Health Professionals.  https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/  Accessed 12/17/2021.
+Forte G, Bocca B, Peruzzu A, Tolu F, Asara Y, Farace C, Oggiano R, Madeddu R. Blood metals concentration in type 1 and type 2 diabetics.  Biological trace element research . 2013 Dec;156(1):79-90.
+Shan Z, Chen S, Sun T, Luo C, Guo Y, Yu X, Yang W, Hu FB, Liu L. U-shaped association between plasma manganese levels and type 2 diabetes.  Environmental health perspectives . 2016 Dec;124(12):1876-81.
+Simić A, Hansen AF, Åsvold BO, Romundstad PR, Midthjell K, Syversen T, Flaten TP. Trace element status in patients with type 2 diabetes in Norway: The HUNT3 Survey.  Journal of Trace Elements in Medicine and Biology . 2017 May 1;41:91-8.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/nutrition-and-immunity/
+https://nutritionsource.hsph.harvard.edu/vitamin-k/
+https://nutritionsource.hsph.harvard.edu/carbohydrates/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/
+https://nutritionsource.hsph.harvard.edu/water/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/food-features/rice/
+https://nutritionsource.hsph.harvard.edu/food-features/oats/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/soy/
+https://nutritionsource.hsph.harvard.edu/food-features/chickpeas-garbanzo-beans/
+https://nutritionsource.hsph.harvard.edu/food-features/lentils/
+https://nutritionsource.hsph.harvard.edu/food-features/tea/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/food-features/tea/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/
+https://link.springer.com/article/10.1007/s12011-013-9858-6
+https://ehp.niehs.nih.gov/doi/abs/10.1289/ehp176
+https://www.sciencedirect.com/science/article/pii/S0946672X16304047

@@ -1,0 +1,35 @@
+Title: Precision Nutrition and Type 2 Diabetes Management: Is It Ready for Prime Time?
+
+When it comes to the prevention and management of  type 2 diabetes , a combination of regular exercise, maintaining a healthy body weight, and following evidenced-based  dietary recommendations  remains sound guidance for the general population. However, in combination with recent technological advances, the emerging field of precision nutrition offers a novel approach to tailor prevention and treatment of this chronic disease to individual characteristics—such as genetic background or gut  microbiome . So just how close are we to applying precision nutrition effectively in our clinical and public health settings, to tackle a disease affecting nearly 425 million adults worldwide? (1)
+What is precision nutrition?
+In the February 2018 issue of  The Lancet Diabetes & Endocrinology , Drs. Dong Wang and Frank Hu from the  Department of Nutrition  at the Harvard T. H. Chan School of Public Health reviewed recent advances and challenges in the applications of precision nutrition to diabetes prevention and management. (2)
+“It is well-known that the response to the same dietary intervention varies considerably across individuals,” said  Dr. Wang , a research fellow in the  Department and lead author of the paper. “Thus, the concept of personalized or precision nutrition in disease prevention and management has attracted a great deal of attention in the scientific community and the general public. However, it is important to assess current evidence before widespread applications in clinical and public health settings.”
+Several areas of research in the application of precision nutrition in diabetes prevention and management were reviewed by the authors, including:
+Gene-types that are related to food intake and the breakdown of certain nutrients, which can predict potential differences in the way a person responds to dietary intake and a person’ risk of diabetes.
+The two-way interaction between food intake and the gut microbiota (our food intake shapes the gut microbiota, and the composition, type, and actions of microbes in the digestive tract play a role in the way that food is broken down). Certain bacteria that respond to dietary interventions have been associated with improved glucose control, and therefore introducing dietary interventions that can change one’s gut microbiota in favor of these bacteria may be beneficial.
+Measuring metabolites that can paint a picture of one’s long-term dietary patterns such as a higher intake of fruits, vegetables, and lean meats; and furthermore, associating a particular pattern with one’s risk for developing type 2 diabetes and explaining the health effects of this dietary pattern.
+Mobile apps and wearable devices that provide real-time information on one’s food intake, exercise, and blood sugar level that can be integrated with other information from omics data and traditional dietary questionnaires.
+As ideal as this technology seems for improving patient care and health outcomes, it is teamed with obstacles that prevent it from being easily embraced in clinical, public health, or research settings. These include the high cost of collecting and analyzing omics information, challenges in interpreting the big data, and a lack of well-designed clinical intervention studies. Research is also needed to see if precision nutrition interventions are more effective than the standard approach of providing general diabetes nutrition education focused on behavioral change.
+The study authors also note that although genetic and microbiota data add some value, an individual’s food choices are strongly influenced by environmental factors such as level of income and education, social support systems, and lifestyle habits (sleep, amount of screen time). These influences may play a larger role than genetic and biochemical measures in determining what a person will eat, and therefore remain key considerations when developing a program to prevent and manage diabetes.
+“Despite recent advances in technologies and some promising data from precision nutrition studies, this area of research remains at an early stage,” said  Dr. Hu , Professor and Chair of the Department of Nutrition, and senior author of the paper. “We should manage unrealistically high expectations or overpromise of precision nutrition. To address major public health problems like diabetes, we need to combine public health strategies with precision nutrition technologies.”
+Related
+Precision Nutrition
+Precision nutrition: Hype or hope?   (Harvard Chan News)
+Preventing Diabetes
+References
+International Diabetes Federation.  IDF diabetes atlas, 8th edn . Brussels: International Diabetes Federation, 2017.
+Wang DD, Hu FB. Precision nutrition for prevention and management of type 2 diabetes.  The Lancet Diabetes & Endocrinology .  2018 Feb 9.
+
+References:
+https://nutritionsource.hsph.harvard.edu/diabetes-prevention/
+https://nutritionsource.hsph.harvard.edu/diabetes-prevention/
+https://nutritionsource.hsph.harvard.edu/microbiome/
+http://www.thelancet.com/journals/landia/article/PIIS2213-8587(18)30037-8/fulltext
+https://www.hsph.harvard.edu/nutrition/
+https://www.hsph.harvard.edu/dong-wang/
+https://www.hsph.harvard.edu/frank-hu/
+https://nutritionsource.hsph.harvard.edu/precision-nutrition/
+https://www.hsph.harvard.edu/news/features/precision-nutrition-hype-or-hope/
+https://www.hsph.harvard.edu/news/features/precision-nutrition-hype-or-hope/
+https://nutritionsource.hsph.harvard.edu/diabetes-prevention/
+http://www.thelancet.com/journals/landia/article/PIIS2213-8587(18)30037-8/fulltext

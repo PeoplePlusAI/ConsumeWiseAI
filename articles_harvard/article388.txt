@@ -1,0 +1,124 @@
+Title: Nutrition and Immunity
+
+During the flu season or times of illness, people often seek special foods or vitamin supplements that are believed to boost immunity. Vitamin C and foods like citrus fruits, chicken soup, and tea with honey are popular examples. Yet the design of our immune system is complex and influenced by an ideal balance of many factors, not just diet, and especially not by any one specific food or nutrient. However, a balanced diet consisting of a range of vitamins and minerals, combined with healthy lifestyle factors like adequate sleep and exercise and low stress, most effectively primes the body to fight infection and disease.
+What Is Our Immune System?
+On a daily basis, we are constantly exposed to potentially harmful microbes of all sorts. Our immune system, a network of intricate stages and pathways in the body, protects us against these harmful microbes as well as certain diseases. It recognizes foreign invaders like bacteria, viruses, and parasites and takes immediate action. Humans possess two types of immunity: innate and adaptive.
+Innate immunity  is a first-line defense from pathogens that try to enter our bodies, achieved through protective barriers. These barriers include:
+Skin that keeps out the majority of pathogens
+Mucus that traps pathogens
+Stomach acid that destroys pathogens
+Enzymes in our sweat and tears that help create anti-bacterial compounds
+Immune system cells that attack all foreign cells entering the body
+Adaptive or acquired immunity  is a system that learns to recognize a pathogen. It is regulated by cells and organs in our body like the spleen, thymus, bone marrow, and lymph nodes. When a foreign substance enters the body, these cells and organs create antibodies and lead to multiplication of immune cells (including different types of white blood cells) that are specific to that harmful substance and attack and destroy it. Our immune system then adapts by remembering the foreign substance so that if it enters again, these antibodies and cells are even more efficient and quick to destroy it.
+Other conditions that trigger an immune response
+Antigens  are substances that the body labels as foreign and harmful, which triggers immune cell activity. Allergens are one type of antigen and include grass pollen, dust, food components, or pet hair. Antigens can cause a hyper-reactive response in which too many white cells are released. People’s sensitivity to antigens varies widely. For example, an allergy to mold triggers symptoms of wheezing and coughing in a sensitive individual but does not trigger a reaction in other people.
+Inflammation  is an important, normal step in the body’s innate immune response. When pathogens attack healthy cells and tissue, a type of immune cell called mast cells counterattack and release proteins called histamines, which cause inflammation. Inflammation may generate pain, swelling, and a release of fluids to help flush out the pathogens. The histamines also send signals to discharge even more white blood cells to fight pathogens. However, prolonged inflammation can lead to tissue damage and may overwhelm the immune system.
+Autoimmune disorders  like lupus, rheumatoid arthritis, or type 1 diabetes are partly hereditary and cause hypersensitivity in which immune cells attack and destroy healthy cells.
+Immunodeficiency disorders  can depress or completely disable the immune system, and may be genetic or acquired. Acquired forms are more common and include AIDS and cancers like leukemia and multiple myeloma. In these cases, the body’s defenses are so reduced that a person becomes highly susceptible to illness from invading pathogens or antigens.
+What factors can depress our immune system?
+Older age:  As we age, our internal organs may become less efficient; immune-related organs like the thymus or bone marrow produce less immune cells needed to fight off infections. Aging is sometimes associated with micronutrient deficiencies, which may worsen a declining immune function.
+Environmental toxins (smoke and other particles contributing to air pollution, excessive alcohol):  These substances can impair or suppress the normal activity of immune cells.
+Excess weight:  Obesity is associated with low-grade chronic inflammation. Fat tissue produces adipocytokines that can promote inflammatory processes. [1] Research is early, but obesity has also been identified as an independent risk factor for the influenza virus, possibly due to the impaired function of T-cells, a type of white blood cell. [2]
+Poor diet:  Malnutrition or a diet lacking in one or more nutrients can impair the production and activity of immune cells and antibodies.
+Chronic diseases:  Autoimmune and immunodeficiency disorders attack and potentially disable immune cells.
+Chronic mental stress:   Stress releases hormones like cortisol  that suppresses inflammation (inflammation is initially needed to activate immune cells) and the action of white blood cells.
+Lack of sleep and rest:  Sleep is a time of restoration for the body , during which a type of cytokine is released that fights infection; too little sleep lowers the amount of these cytokines and other immune cells.
+Does an Immune-Boosting Diet Exist?
+Eating enough nutrients as part of a varied diet is required for the health and function of all cells, including immune cells. Certain  dietary patterns  may better prepare the body for microbial attacks and excess inflammation, but it is unlikely that individual foods offer special protection. Each stage of the body’s immune response relies on the presence of many micronutrients. Examples of nutrients that have been identified as critical for the growth and function of immune cells include vitamin C, vitamin D, zinc, selenium, iron, and protein (including the amino acid glutamine). [3,4] They are found in a variety of plant and animal foods.
+Diets that are limited in variety and lower in nutrients, such as consisting primarily of  ultra-processed foods  and lacking in minimally processed foods, can negatively affect a healthy immune system. It is also believed that a Western diet high in refined sugar and red meat and low  in fruits and vegetables can promote disturbances in healthy intestinal microorganisms, resulting in chronic inflammation of the gut, and associated suppressed immunity. [5]
+The  microbiome  is an internal metropolis of trillions of microorganisms or microbes that live in our bodies, mostly in the intestines. It is an area of intense and active research, as scientists are finding that the microbiome plays a key role in immune function. The gut is a major site of immune activity and the production of antimicrobial proteins. [6,7] The diet plays a large role in determining what kinds of microbes live in our intestines. A high-fiber plant-rich diet with plenty of fruits, vegetables, whole grains, and legumes appear to support the growth and maintenance of beneficial microbes. Certain helpful microbes break down fibers into short chain fatty acids, which have been shown to stimulate immune cell activity. These fibers are sometimes called prebiotics because they feed microbes. Therefore, a diet containing probiotic and prebiotic foods may be beneficial. Probiotic foods contain live helpful bacteria, and prebiotic foods contain fiber and oligosaccharides that feed and maintain healthy colonies of those bacteria.
+Probiotic foods  include kefir,  yogurt  with live active cultures, fermented vegetables, sauerkraut, tempeh, kombucha tea, kimchi, and miso.
+Prebiotic foods  include garlic, onions, leeks, asparagus, Jerusalem artichokes, dandelion greens,  bananas , and seaweed. However, a more general rule is to eat a variety of  fruits, vegetables ,  beans , and  whole grains  for dietary prebiotics.
+Chicken soup as medicine?
+Do Vitamin or Herbal Supplements Help?
+A deficiency of single nutrients can alter the body’s immune response. Animal studies have found that deficiencies in  zinc ,  selenium ,  iron , copper,  folic acid , and vitamins  A ,  B6 ,  C ,  D , and  E  can alter immune responses. [8] These nutrients help the immune system in several ways: working as an antioxidant to protect healthy cells, supporting growth and activity of immune cells, and producing antibodies. Epidemiological studies find that those who are  poorly nourished are at greater risk  of bacterial, viral, and other infections.
+Spotlight on vitamin D
+Eating a good quality diet, as depicted by the Healthy Eating Plate, can prevent deficiencies in these nutrients. However, there are certain populations and situations in which one cannot always eat a variety of nutritious foods, or who have increased nutrient needs. In these cases a  vitamin and mineral supplement  may help to fill nutritional gaps. Studies have shown that vitamin supplementation can improve immune responses in these groups. [8-10] Low-income households, pregnant and lactating women, infants and toddlers, and the critically ill are examples of groups at risk.
+The elderly are a particularly high-risk group. The immune response generally declines with increasing age as the number and quality of immune cells decreases. This causes a higher risk of poorer outcomes if the elderly develop chronic or acute diseases. In addition, about one-third of elderly in industrialized countries have nutrient deficiencies. [8] Some reasons include a poorer appetite due to chronic diseases, depression, or loneliness; multiple medications that can interfere with nutrient absorption and appetite; malabsorption due to intestinal issues; and increased nutrient needs due to hypermetabolic states with acute or chronic conditions. Diet variety may also be limited due to budget constraints or lower interest in cooking for one person; poor dentition; mental impairment; or lack of transportation and community resources to obtain healthy food.
+A general  multivitamin/mineral supplement  providing the recommended dietary allowances (RDA) may be used in these cases, unless otherwise directed by one’s physician. Megadose supplements (many times the RDA) do not appear justified, and can sometimes be harmful or even suppress the immune system (e.g., as with zinc). Remember that vitamin supplements should not be considered a substitute for a good diet because no supplements contain all the benefits of healthful foods.
+Herbals
+Several herbal supplements have been suggested to boost immune function. What does the research say?
+Echinacea:  Cell studies have shown that echinacea can destroy influenza viruses, but limited research in humans has been inconclusive in determining echinacea’s active components. Taking echinacea after catching a cold has not been shown to shorten its duration, but taking it while healthy may offer a small chance of protection from catching a cold. [11,12]
+Garlic:  The active ingredient in garlic, allicin sativum, is proposed to have antiviral and antimicrobial effects on the common cold, but high-quality clinical trials comparing garlic supplements to placebo are lacking. A Cochrane review identified only one trial of reasonable quality following 146 participants. Those taking the garlic supplement for 3 months had fewer occurrences of the common cold than those taking a placebo, but after contracting the cold virus, both groups had a similar duration of illness. [13] Note that these findings are from a single trial, which needs to be replicated.
+Tea catechins:  Cell studies have shown that tea catechins such as those found in green  tea  can prevent flu and some cold viruses from replicating and can increase immune activity. Human trials are still limited. Two randomized controlled trials found that green tea capsules produced less cold/flu symptoms or incidence of flu than a placebo; however both studies were funded or had author affiliations with tea industries. [14]
+8 Steps to Help Support a Healthy Immune System
+Eat a  balanced diet  with whole fruits, vegetables, lean proteins, whole grains, and plenty of water. A  Mediterranean Diet  is one option that includes these types of foods.
+If a balanced diet is not readily accessible, taking a  multivitamin  containing the  RDA for several nutrients  may be used.
+Don’t smoke (or stop smoking if you do).
+Drink  alcohol in moderation .
+Perform moderate regular  exercise .
+Aim for 7-9 hours of sleep nightly. Try to keep a sleep schedule, waking up and going to bed around the same time each day. Our body clock, or circadian rhythm, regulates feelings of sleepiness and wakefulness, so having a consistent sleep schedule maintains a balanced circadian rhythm so that we can enter deeper, more restful sleep.
+Aim to  manage stress . This is easier said than done, but try to find some healthy strategies that work well for you and your lifestyle—whether that be exercise, meditation, a particular hobby, or talking to a trusted friend. Another tip is to practice regular, conscious breathing throughout the day and when feelings of stress arise. It doesn’t have to be long—even a few breaths can help. If you’d like some guidance, try this  short mindful breathing exercise .
+Wash hands throughout the day: when coming in from outdoors, before and after preparing and eating food, after using the toilet, after coughing or blowing your nose.
+Related
+Diet Review: Anti-Inflammatory Diet
+A note on COVID-19
+Food Safety, Nutrition, and Wellness during COVID-19
+Ask the Expert: The role of diet and nutritional supplements during COVID-19
+Childs CE, Calder PC, Miles EA. Diet and Immune Function.  Nutrients . 2019 Aug 16;11(8).
+Green WD, Beck MA. Obesity impairs the adaptive immune response to influenza virus.  Annals of the American Thoracic Society . 2017 Nov;14(Supplement 5):S406-9.
+Guillin OM, Vindry C, Ohlmann T, Chavatte L. Selenium, selenoproteins and viral infection.  Nutrients . 2019 Sep;11(9):2101.
+Wessels I, Maywald M, Rink L. Zinc as a gatekeeper of immune function.  Nutrients . 2017 Dec;9(12):1286.
+Molendijk I, van der Marel S, Maljaars PW. Towards a Food Pharmacy: Immunologic Modulation through Diet.  Nutrients . 2019 Jun;11(6):1239.
+Caballero S, Pamer EG. Microbiota-mediated inflammation and antimicrobial defense in the intestine.  Annual review of immunology . 2015 Mar 21;33:227-56.
+Li XV, Leonardi I, Iliev ID. Gut mycobiota in immunity and inflammatory disease.  Immunity . 2019 Jun 18;50(6):1365-79.
+Chandra RK. Nutrition and the immune system: an introduction.  The American journal of clinical nutrition . 1997 Aug 1;66(2):460S-3S.
+Hemilä H, Louhiala P. Vitamin C for preventing and treating pneumonia.  Cochrane database of systematic reviews . 2013(8).
+Martineau AR, Jolliffe DA, Hooper RL, Greenberg L, Aloia JF, Bergman P, Dubnov-Raz G, Esposito S, Ganmaa D, Ginde AA, Goodall EC. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data.  BMJ . 2017 Feb 15;356:i6583.
+National Center for Complementary and Integrative Health. Echinacea.  https://www.nccih.nih.gov/health/echinacea . Accessed 4/2/20.
+Karsch‐Völk M, Barrett B, Kiefer D, Bauer R, Ardjomand‐Woelkart K, Linde K. Echinacea for preventing and treating the common cold.  Cochrane Database of Systematic Reviews . 2014(2).
+Lissiman E, Bhasale AL, Cohen M. Garlic for the common cold.  Cochrane Database of Systematic Reviews . 2014(11).
+Furushima D, Ide K, Yamada H. Effect of tea catechins on influenza infection and the common cold with a focus on epidemiological/clinical studies.  Molecules . 2018 Jul;23(7):1795.
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/stress-and-health/
+https://nutritionsource.hsph.harvard.edu/sleep/
+https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/
+https://nutritionsource.hsph.harvard.edu/processed-foods/
+https://nutritionsource.hsph.harvard.edu/microbiome/
+https://nutritionsource.hsph.harvard.edu/food-features/yogurt/
+https://nutritionsource.hsph.harvard.edu/food-features/bananas/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/zinc/
+https://nutritionsource.hsph.harvard.edu/selenium/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/folic-acid/
+https://nutritionsource.hsph.harvard.edu/vitamin-a/
+https://nutritionsource.hsph.harvard.edu/vitamin-b6/
+https://nutritionsource.hsph.harvard.edu/vitamin-c/
+https://nutritionsource.hsph.harvard.edu/vitamin-d/
+https://nutritionsource.hsph.harvard.edu/vitamin-e/
+https://nutritionsource.hsph.harvard.edu/2020/04/01/ask-the-expert-the-role-of-diet-and-nutritional-supplements-during-covid-19/
+https://nutritionsource.hsph.harvard.edu/multivitamin/
+https://nutritionsource.hsph.harvard.edu/multivitamin/
+https://nutritionsource.hsph.harvard.edu/food-features/tea/
+https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/
+https://nutritionsource.hsph.harvard.edu/healthy-weight/diet-reviews/mediterranean-diet/
+https://nutritionsource.hsph.harvard.edu/multivitamin/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/drinks-to-consume-in-moderation/alcohol-full-story/
+https://nutritionsource.hsph.harvard.edu/2013/11/20/physical-activity-guidelines-how-much-exercise-do-you-need/
+https://nutritionsource.hsph.harvard.edu/stress-and-health/
+https://www.youtube.com/watch?v=8c-1Ylieg3g
+https://nutritionsource.hsph.harvard.edu/healthy-weight/diet-reviews/anti-inflammatory-diet/
+https://nutritionsource.hsph.harvard.edu/2020/03/25/food-safety-nutrition-and-wellness-during-covid-19/
+https://nutritionsource.hsph.harvard.edu/2020/04/01/ask-the-expert-the-role-of-diet-and-nutritional-supplements-during-covid-19/
+https://www.mdpi.com/2072-6643/11/8/1933
+https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.201706-447AW
+https://www.mdpi.com/2072-6643/11/9/2101
+https://www.mdpi.com/2072-6643/9/12/1286
+https://www.mdpi.com/2072-6643/11/6/1239
+https://www.annualreviews.org/doi/abs/10.1146/annurev-immunol-032713-120238
+https://www.sciencedirect.com/science/article/pii/S1074761319302432
+https://academic.oup.com/ajcn/article-abstract/66/2/460S/4655769
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005532.pub3/abstract
+https://www.bmj.com/content/356/bmj.i6583
+https://www.nccih.nih.gov/health/echinacea
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000530.pub2/abstract
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006206.pub4/abstract
+https://www.mdpi.com/1420-3049/23/7/1795

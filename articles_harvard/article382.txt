@@ -1,0 +1,72 @@
+Title: Pantothenic Acid – Vitamin B5
+
+Vitamin B5, or pantothenic acid, is naturally present in foods, added to foods, and available as a supplement. It is used to make coenzyme A (CoA), a chemical compound that helps enzymes to build and break down fatty acids as well as perform other metabolic functions, and acyl carrier protein, which is also involved in building fats. [1] Pantothenic acid is found in a wide variety of foods. Bacteria in the gut can also produce some pantothenic acid but not enough to meet dietary needs.
+
+Recommended Amounts
+RDA:  The Recommended Dietary Allowance (RDA) for men and women ages 19+ years is 5 mg daily. For pregnancy and lactation, the amount increases to 6 mg and 7 mg daily, respectively.
+UL:  A Tolerable Upper Intake Level (UL) is the maximum daily dose unlikely to cause adverse side effects in the general population. A UL has not been established for pantothenic acid, because a toxic level has not been observed from high intakes. [2]
+
+Vitamin B5 and Health
+Because pantothenic acid helps to break down fats, it has been studied for a potential role in reducing cholesterol levels in people who have dyslipidemia. This is a condition in which there is an abnormally high concentration of fat or lipids in the blood (e.g., LDL “bad” cholesterol, triglycerides), and low levels of HDL “good” cholesterol. Low levels of CoA may prevent the breakdown and clearance of fats in the blood. [3] It has also been proposed that pantothenic acid may have an antioxidant effect that reduces low-grade inflammation, which is present in the early stages of  heart disease . [4] However, research in this area is still limited, and it is unclear if pantothenic acid supplements can lower blood fats independently of (or enhance the cholesterol-lowering effects of) eating a heart-healthy diet.
+A double-blinded randomized trial following 216 men and women with moderate dyslipidemia were given supplements of 400 mg CoA or 600 mg pantethine daily for 8 weeks (pantethine is another form of pantothenic acid that has been studied to control dyslipidemia). [3] The participants were also counseled on a cholesterol-lowering diet. After 8 weeks, the CoA group had a 33% reduction in triglycerides compared with baseline levels. Total cholesterol also decreased, and HDL cholesterol increased from baseline. The pantethine group showed smaller reductions in total cholesterol and triglycerides. No negative side effects from the supplements were observed.
+
+Food Sources
+Pantothenic acid is found in almost all plant and animal foods to some degree, because the vitamin is found in all living cells. The best sources are beef, chicken, organ meats, fortified cereals, and some vegetables. [2]
+Fortified cereals
+Organ meats (liver, kidney)
+Beef
+Chicken breast
+Mushrooms
+Avocados
+Nuts , seeds
+Dairy milk
+Yogurt
+Potatoes
+Eggs
+Brown rice
+Oats
+Broccoli
+
+Signs of Deficiency and Toxicity
+Deficiency
+Because pantothenic acid is found in a wide variety of foods, a deficiency is rare except in people who have other nutrient deficiencies, as seen with severe malnutrition. Other rare cases are seen in persons with genetic mutations in which pantothenic acid cannot be metabolized.
+Symptoms of deficiency may include:
+Headache
+Fatigue
+Irritability, restlessness
+Disturbed sleep
+Nausea, vomiting, stomach cramps
+Numbness or burning sensation in hands or feet
+Muscle cramps
+Toxicity
+A toxic level of pantothenic acid has not been observed from food sources. With very large daily doses of 10 grams a day, stomach upset or mild diarrhea has been reported. [2] However, this is rare and a Tolerable Upper Intake Level for pantothenic acid has not been established.
+
+Did You Know?
+Pantothenic acid is sold as a supplement purported to help dozens of conditions, from allergies and dandruff to leg cramps and arthritis. Unfortunately there is little evidence to support these claims.
+
+Related
+B Vitamins Vitamins and Minerals
+Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes: Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline. Washington, DC: National Academy Press; 1998.
+U.S. Department of Health and Human Services. Pantothenic Acid Fact Sheet for Health Professionals.  https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/ . Accessed 2/3/20.
+Chen YQ, Zhao SP, Zhao YH. Efficacy and tolerability of coenzyme A vs pantethine for the treatment of patients with hyperlipidemia: A randomized, double-blind, multicenter study.  Journal of clinical lipidology . 2015 Sep 1;9(5):692-7.
+Jung S, Kim MK, Choi BY. The long-term relationship between dietary pantothenic acid (vitamin B5) intake and C-reactive protein concentration in adults aged 40 years and older.  Nutrition, Metabolism and Cardiovascular Diseases . 2017 Sep 1;27(9):806-16.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/food-features/mushrooms/
+https://nutritionsource.hsph.harvard.edu/avocados/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/milk/
+https://nutritionsource.hsph.harvard.edu/food-features/yogurt/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/food-features/rice/
+https://nutritionsource.hsph.harvard.edu/food-features/oats/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/PantothenicAcid-HealthProfessional/
+https://www.sciencedirect.com/science/article/pii/S1933287415003025
+https://www.sciencedirect.com/science/article/pii/S0939475317301187

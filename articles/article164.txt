@@ -1,0 +1,190 @@
+Title: How to Count Macros: A Step-By-Step Guide
+
+Counting macros may support weight loss, improve diet quality, and help you reach certain health-related goals. It involves determining your nutrient needs and using a food journal or app to track your intake.
+If you belong to a gym or tune in to the health community, chances are you’ve heard the term “counting macros.”
+Popularly used by people looking to shed weight or gain muscle mass, counting  macronutrients  (macros) can help you reach various health goals.
+It entails keeping track of the calories and types of foods you eat in order to achieve certain macronutrient and calorie goals.
+Though counting macros is relatively simple, it can be confusing if you’re just starting out.
+This article explains the benefits of counting macros and provides a step-by-step guide on how to get started.
+
+What are macronutrients?
+In order to successfully count macronutrients, it’s important to know what they are and why some people need different macronutrient ratios than others.
+Carbohydrates include sugars, starches, and  fibers  ( 1 ).
+Most types of carbs get broken down into glucose, or sugar, which your body either uses for immediate energy or stores as glycogen — the storage form of glucose — in your liver and muscles.
+Carbs provide 4 calories per gram (g) and typically make up the largest portion of people’s calorie intake.
+Carb intake is among the most hotly debated of all macronutrient recommendations, but major health organizations suggest consuming 45%–65% of your daily calories from carbs ( 1 ).
+Carbohydrates  are found in foods like grains, vegetables, beans, dairy products, and fruits.
+Fats have the most calories of all macronutrients, providing 9 calories per g.
+Your body needs fat for energy and critical functions, such as hormone production, nutrient absorption, and body temperature maintenance ( 2 ).
+Though typical macronutrient recommendations for fats range from 20%–35% of total calories, many people find success following a diet higher in fat ( 3 ).
+Fats  are found in foods like oils, butter, avocado, nuts, seeds, meat, and fatty fish.
+Like carbs, proteins provide 4 calories per g.
+Proteins  are vital for processes like cell signaling, immune function, and the building of tissues, hormones, and enzymes ( 4 ).
+It’s recommended that proteins comprise 10%–35% of your total calorie intake ( 5 ).
+However,  protein recommendations  vary depending on body composition goals, age, health, and more.
+Examples of protein-rich foods include meat, eggs, poultry, fish, tofu, and lentils.
+The three macronutrients to keep track of are carbohydrates, fats, and proteins. Macronutrient recommendations vary depending on many factors.
+
+How to count them
+Learning how to count macronutrients does take some effort, but it’s a method that anyone can use.
+The following steps will get you started.
+In order to calculate your overall  calorie needs , you need to determine resting energy expenditure (REE) and non-resting energy expenditure (NREE).
+REE refers to the number of calories a person burns at rest, while NREE indicates calories burned during activity and digestion ( 6 ).
+Adding REE and NREE gives you the total number of calories burned in a day, also known as total daily energy expenditure (TDEE) ( 6 ).
+In order to determine your overall calorie needs, you can either use a simple online calculator or the Mifflin-St. Jeor equation:
+Males:  calories/day = 10 x weight (kilograms, or kg) + 6.25 x height (centimeters, or cm) – 5 x age (years) + 5
+Females:  calories/day = 10 x weight (kg) + 6.25 x height (cm) – 5 x age (years) – 161
+Then, multiply your result by an activity factor — a number that represents different levels of activity ( 7 ):
+Sedentary:  x 1.2 (limited exercise)
+Lightly active:  x 1.375 (light exercise less than 3 days per week)
+Moderately active:  x 1.55 (moderate exercise most days of the week)
+Very active:  x 1.725 (hard exercise every day)
+Extra active:  x 1.9 (strenuous exercise two or more times per day)
+The end result gives you your TDEE.
+Calories  can either be added or subtracted from your total expenditure in order to reach different goals.
+In other words, those trying to lose weight should consume fewer calories than they expend, while those looking to gain muscle mass should increase calories.
+After determining how many calories to consume each day, the next step is to decide what macronutrient ratio works best for you.
+Typical macronutrient recommendations are as follows ( 8 ):
+Carbs:  45%–65% of total calories
+Fats:  20%–35% of total calories
+Proteins:  10%–35% of total calories
+Keep in mind that these recommendations may not fit your specific needs.
+Your ratio can be fine-tuned in order to achieve specific objectives.
+For example, a person who wants to obtain better blood sugar control and lose excess body fat may excel on a meal plan consisting of 35% carbs, 30% fat, and 35% protein.
+Someone pursuing a  ketogenic diet  would need much more fat and fewer carbs, while an endurance athlete may need higher carb intake ( 9 ,  10 ).
+As you can see,  macronutrient ratios  can vary depending on dietary preferences, weight loss goals, and other factors.
+Next, it’s time to start tracking your macros.
+The term “tracking macros” simply means logging the foods you eat on a website, app, or food journal.
+The most convenient way to track macros may be through a  nutrition app  like MyFitnessPal, Lose It!, or My Macros +.
+These apps are user-friendly and specifically designed to simplify tracking macros.
+In addition, a digital food scale may help you track your macros — though it isn’t necessary. If you invest in one, weigh each food item you eat before logging it into your app of choice.
+Several apps feature a barcode scanner that automatically inputs a serving of a scanned food into your macro log.
+You can also hand-write macros into a  physical journal . The method depends on your individual preference.
+Keep in mind that it’s not necessary to hit your macro targets exactly. You can still meet your goals even if you go a few grams over or under each day.
+Here’s an example of how to calculate macronutrients for a 2,000-calorie diet consisting of 40% carbs, 30% protein, and 30% fat.
+Carbs:
+4 calories per g
+40% of 2,000 calories = 800 calories of carbs per day
+Total g of carbs allowed per day = 800/4 = 200 g
+Proteins:
+4 calories per g
+30% of 2,000 calories = 600 calories of protein per day
+Total grams of protein allowed per day = 600/4 = 150 g
+Fats:
+9 calories per g
+30% of 2,000 calories = 600 calories of protein per day
+Total grams of fat allowed per day = 600/9 = 67 g
+In this scenario, your ideal daily intake would be 200 g of carbs, 150 g of protein, and 67 g of fat.
+To count macros, determine your calorie and macronutrient needs, then log macros into an app or food journal.
+
+Benefits
+Macronutrient counting may provide several benefits.
+Counting macros can focus your attention on food quality rather than calorie content.
+For example, a bowl of sugary cereal may have a similar number of calories as a bowl of oats topped with berries and pumpkin seeds, but these meals vary widely in macronutrient content.
+Counting macros may lead you to choose more  nutrient-dense foods  in order to fulfill set macronutrient ranges.
+However, less nutritious foods may still fit into your macros and calories — so it’s important to make nutrient-dense foods a priority.
+Counting macros may be particularly  effective for weight loss  because it sets out specific dietary recommendations.
+For instance, tracking macros can help those following high protein, low carb diets, which are linked to weight loss ( 11 ).
+Plus, research shows that tracking food intake may aid long-term weight maintenance ( 12 ).
+Macronutrient counting is popular among athletes and those with specific health goals other than weight loss.
+Anyone looking to  build muscle mass  may have greater protein needs than people simply looking to drop excess body fat.
+Counting macros is essential for people who need to consume specific amounts of macronutrients in order to boost performance and gain lean body mass.
+For example, research shows that resistance-trained athletes may need as much as 1.4 g of protein per pound (lb) (3.1 g per kg) of body weight per day to maintain muscle mass ( 13 ).
+Counting macros may ensure that your macronutrient needs are being met.
+Macronutrient counting is an excellent tool for those looking to lose weight or build muscle. It can promote healthier eating and improved diet quality.
+
+How to meet your needs
+Depending on macronutrient ranges, those counting macros may need to add or reduce foods rich in carbohydrates, fats, or proteins.
+For example, someone transitioning to a macronutrient range of 40% carbs, 35% fat, and 25% protein may need to replace some of their carbs with sources of healthy fats and protein.
+The following are examples of healthy foods for each macronutrient.
+Some foods are high in more than one macronutrient and can fulfill different macro needs.
+grains, including oats, brown rice, and quinoa
+whole-wheat pasta
+whole-grain bread
+starchy vegetables , such as potatoes, sweet potatoes, and winter squash
+fruits like berries, bananas, pineapple, and apples
+beans, lentils, and peas
+milk and yogurt
+egg whites
+meats
+poultry
+fish
+shellfish
+tofu
+beans
+lentils
+seitan
+tempeh
+milk and yogurt
+protein powders
+egg yolks
+olive and avocado oils
+butter
+nuts and  nut butters
+coconut oil and coconut flakes
+avocado
+full-fat milk and yogurt
+full-fat cheese
+flaxseeds and  chia seeds
+fatty fish like salmon and sardines
+When trying to reach specific macronutrient goals, focus on foods rich in the macronutrients you need to consume the most.
+
+Not for everyone
+People who thrive on structure may find that counting macros is ideal for their health goals.
+Counting macros can increase your awareness of the quality and amount of food you are consuming.
+Plus, it may be a good tool for those following ketogenic or  high protein diets .
+That said, counting macros isn’t for everyone.
+Because macro counting puts so much emphasis on tracking calories and logging intake, anyone with a history of eating disorders should steer clear of counting macros ( 14 ).
+Focusing on food intake this intently could even lead to disordered eating patterns in those without a history of these behaviors ( 15 ).
+Keep in mind that it’s also possible to eat poorly while engaging in macro counting because it permits all foods as long as the item fits into set macronutrient ranges.
+Those using macro counting should aim — depending on their goals — to follow a nutritious, well-rounded diet rich in fresh produce, healthy fats,  complex carbs , and protein sources.
+Counting macros may help people lose weight and reach health goals. However, it’s not appropriate for those with a history of eating disorders.
+
+The bottom line
+When first counting macros, it’s easy to feel overwhelmed.
+However, following the steps above can streamline the process and set you up for success.
+The most important steps in  counting macros  are setting a calorie goal and macronutrient range for carbs, protein, and fat that works best for you.
+Then, log your food intake and aim to stay within your macros by eating a diet rich in fresh produce, healthy fats, complex carbs, and protein sources.
+Before you know it, counting macros will feel natural.
+
+References:
+
+https://www.healthline.com/nutrition/iifym-guide
+https://www.healthline.com/nutrition/why-is-fiber-good-for-you
+https://www.ncbi.nlm.nih.gov/books/NBK459280/
+https://www.ncbi.nlm.nih.gov/books/NBK459280/
+https://www.healthline.com/nutrition/good-carbs-bad-carbs
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4960974/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5577766/
+https://www.healthline.com/nutrition/10-super-healthy-high-fat-foods
+https://www.healthline.com/nutrition/functions-of-protein
+https://www.ncbi.nlm.nih.gov/books/NBK555990/
+https://www.ncbi.nlm.nih.gov/pubmed/28298271
+https://www.healthline.com/nutrition/how-much-protein-per-day
+https://www.healthline.com/nutrition/how-many-calories-per-day
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3943438/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3943438/
+https://www.k-state.edu/paccats/Contents/PA/PDF/Physical%20Activity%20and%20Controlling%20Weight.pdf
+https://www.healthline.com/nutrition/counting-calories-101
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7468865/
+https://www.healthline.com/nutrition/ketogenic-diet-101
+https://www.ncbi.nlm.nih.gov/books/NBK499830/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6628334/
+https://www.healthline.com/nutrition/best-macronutrient-ratio
+https://www.healthline.com/nutrition/top-iphone-android-apps
+https://www.healthline.com/nutrition/food-journaling-instructions-and-tips
+https://www.healthline.com/nutrition/11-most-nutrient-dense-foods-on-the-planet
+https://www.healthline.com/nutrition/iifym-guide
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8017325/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5568610/
+https://www.healthline.com/nutrition/26-muscle-building-foods
+https://www.ncbi.nlm.nih.gov/pubmed/28642676
+https://www.healthline.com/nutrition/starchy-vs-non-starchy-vegetables
+https://www.healthline.com/nutrition/best-protein-powder
+https://www.healthline.com/health/nut-butters
+https://www.healthline.com/nutrition/11-proven-health-benefits-of-chia-seeds
+https://www.healthline.com/nutrition/high-protein-diet-plan
+https://www.ncbi.nlm.nih.gov/pubmed/28843591
+https://www.ncbi.nlm.nih.gov/pubmed/28214452
+https://www.healthline.com/health/food-nutrition/simple-carbohydrates-complex-carbohydrates
+https://www.healthline.com/nutrition/flexible-dieting

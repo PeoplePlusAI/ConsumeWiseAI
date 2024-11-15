@@ -1,0 +1,69 @@
+Title: Thiamin – Vitamin B1
+
+Thiamin (thiamine), or vitamin B1, is a water-soluble vitamin found naturally in some foods, added to foods, and sold as a supplement. Thiamin plays a vital role in the growth and function of various cells. [1] Only small amounts are stored in the liver, so a daily intake of thiamin-rich foods is needed.
+Although symptoms of thiamin deficiency were first recorded in ancient texts of Chinese medicine, the symptoms were not connected with diet until the late 19 th  century. In 1884, a Japanese physician noted very high rates of illness and death among Japanese sailors eating a limited diet of only rice for months while at sea. When given a more varied diet with whole grains, meats, beans, and vegetables, rates of illness and death nearly disappeared. Around the same time, two Dutch scientists observed that chickens fed white polished rice developed leg paralysis, whereas chickens fed brown unpolished rice did not. Their observations led to the discovery of thiamin present in the outer layers of rice that were removed with polishing. [2]
+
+Recommended Amounts
+RDA:  The Recommended Dietary Allowance (RDA) for men ages 19 and older is 1.2 mg daily, and for women in the same age range 1.1 mg daily. For pregnancy and lactation, the amount increases to 1.4 mg daily.
+UL:  A Tolerable Upper Intake Level (UL) is the maximum daily dose unlikely to cause adverse side effects in the general population. There is no UL for thiamin due to a lack of reports showing negative effects from high thiamin intakes.
+
+Vitamin B1 and Health
+Because thiamin is involved in several basic cell functions and the breakdown of nutrients for energy, a deficiency can lead to various problems in the brain and heart that require a constant supply of energy.
+A deficiency of thiamin can lead to abnormal motor functions in the heart. Congestive heart failure is a condition that prevents the heart from properly pumping blood to the rest of the body. The rate of thiamine deficiency in people with congestive heart failure ranges from 21%-98%. [3] It occurs particularly in the elderly, those with a poor nutritional intake, or with the use of high doses of diuretics. Some clinical trials have found that thiamin supplementation compared with a placebo can significantly improve heart function in people with heart failure. [3]
+Research has shown that thiamin deficiency can lead to neurological problems such as cognitive decline. [4,5] One form of thiamin deficiency called Wernicke-Korsakoff syndrome exhibits mental status changes similar to Alzheimer’s disease. Animal studies suggest that a lack of thiamin may cause oxidative stress or the death of nerve cells, memory loss, formation of plaque, and reduced glucose metabolism, which are all risk factors for Alzheimer’s disease. Research in humans has been limited, so it is not yet clear if thiamin supplementation can help this condition.
+
+Food Sources
+Thiamin is found naturally in meats, fish, and  whole grains . It is also added to breads, cereals, and baby formulas.
+Fortified breakfast cereals
+Pork
+Fish
+Beans ,  lentils
+Green peas
+Enriched cereals, breads, noodles,  rice
+Sunflower seeds
+Yogurt
+
+Signs of Deficiency and Toxicity
+Deficiency
+A thiamin deficiency in the U.S. is rare, as most people meet the RDA through their diets. It can occur from a low intake of foods containing thiamin, decreased absorption in the gut, or increased losses in urine such as with alcohol abuse or certain medications like diuretics.
+A more severe thiamin deficiency can lead to beriberi, which causes muscle loss and diminished feeling in the hands and feet (peripheral neuropathy). Because beriberi impairs reflexes and motor function, it can eventually lead to deadly fluid build-up in the heart and lower limbs. Another result of serious thiamin deficiency often seen with alcohol abuse is Wernicke-Korsakoff syndrome that may cause confusion, loss of muscle coordination, and peripheral neuropathy. Both types of deficiency are also seen with compromised gastrointestinal conditions such as celiac disease or bariatric surgery, or those with HIV/AIDs. Treatment is high- dose supplements or injections through a vein along with a balanced diet.
+Symptoms appearing with mild to moderate deficiency:
+Weight loss
+Confusion, memory loss
+Muscle weakness
+Peripheral neuropathy
+Lowered immunity
+Toxicity
+It is unlikely to reach a toxic level of thiamin from food sources alone. In the setting of very high intakes, the body will absorb less of the nutrient and flush out any excess amount through the urine. There is no established toxic level of thiamin.
+
+Did You Know?
+Thiamin is destroyed with high-heat cooking or long cooking times. It also leaches into water and will be lost in any cooking or soaking water that is thrown out. It may also be removed during  food processing , such as with refined white bread and rice. This is why thiamin is enriched, or added back to many breads, cereals, and grains that have undergone processing.
+Certain foods and beverages like tea, shellfish, clams, and raw fish contain thiaminases, or enzymes that deactivate thiamine, but developing a thiamin deficiency due to eating these foods is extremely rare.
+
+Related
+B Vitamins Vitamins and Minerals
+National Institutes of Health; Office of Dietary Supplements. Thiamine: Fact Sheet for Health Professionals.  https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional Accessed 5/20/2019 . Accessed 5/27/19
+Carpenter KJ. The discovery of thiamin.  Annals of Nutrition and Metabolism . 2012;61(3):219-23.
+DiNicolantonio JJ, Lavie CJ, Niazi AK, O’Keefe JH, Hu T. Effects of thiamine on cardiac function in patients with systolic heart failure: systematic review and meta-analysis of randomized, double-blind, placebo-controlled trials.  Ochsner Journal . 2013 Dec 21;13(4):495-9.
+Gibson GE, Hirsch JA, Fonzetti P, Jordon BD, Cirio RT, Elder J. Vitamin B1 (thiamine) and dementia.  Annals of the New York Academy of Sciences . 2016 Mar;1367(1):21.
+Gibson GE, Hirsch JA, Cirio RT, Jordan BD, Fonzetti P, Elder J. Abnormal thiamine-dependent processes in Alzheimer’s Disease. Lessons from diabetes.  Molecular and Cellular Neuroscience . 2013 Jul 1;55:17-25.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/fish/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/food-features/lentils/
+https://nutritionsource.hsph.harvard.edu/food-features/rice/
+https://nutritionsource.hsph.harvard.edu/food-features/yogurt/
+https://nutritionsource.hsph.harvard.edu/processed-foods/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional%20Accessed%205/20/2019
+https://www.karger.com/Article/Abstract/343109
+http://www.ochsnerjournal.org/content/13/4/495.abstract
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4846521/
+https://www.sciencedirect.com/science/article/pii/S1044743112001777

@@ -1,0 +1,108 @@
+Title: Comment on the IOM Vitamin D and Calcium Recommendations
+
+
+For Adult Bone Health, Too Low on Vitamin D—and Too Generous on Calcium
+By Heike Bischoff-Ferrari and Walter Willett
+Vitamin D and Bone Health
+Most evidence on  vitamin D  and calcium is available for bone health. Thus the recommendations of the Institute of Medicine (IOM) panel released on November 30, 2010 ( 1 ) are largely based on bone health and call for 600 IU of vitamin D daily for all ages up to age 70 and 800 IU after age 71. This assumes that most people get little sun exposure. The panel raised the safe upper limit of 2,000 IU daily to 4,000 IU for adults, and declares a safe upper limit of 1,000 to 3,000 IU per day in children depending on their age. According to the IOM, a serum concentration of 50 nmol/l (20 ng/ml) is sufficient for 97 percent of the population, including bone health as the main endpoint.
+While the IOM recommendation of an increase in vitamin D intake is supported by the available data from double-blind randomized controlled trials (RCTs) of fracture risk, a threshold of 50 nmol/l (20 ng/ml) for its 25(OH)D blood level is not. In two 2009 meta-analyses of double-blind RCTs, a threshold of 50 nmol/l (20 ng/ml) was insufficient for fracture or fall reduction based on achieved 25(OH)D levels in the treatment groups. ( 2 ,  3 ) Also, in the very large population-based NHANES analysis, bone density increased with higher 25(OH)D levels far beyond 50 nmol/l (20 ng/ml) in younger and older adults suggesting that the IOM threshold recommendation is too low for optimal bone health in adults. ( 4 ) In contrast to the IOM report, the IOF recommended in their 2010 position paper on vitamin D a threshold of 75 nmol/l for optimal fall and fracture reduction and recommended 800 to 1,000 IU of vitamin D per day for seniors age 60 years and older. ( 5 )
+With the IOM recommendation of 600 to 800 IU of vitamin D, most healthy adults will reach 50 nmol/l (20 ng/ml) 25(OH)D but not optimal bone health with respect to hip bone density or fracture reduction. Despite evidence from several double-blind RCTs and a meta-analysis summarizing these data, ( 3 ) the IOM report concluded that there is inconsistent evidence on vitamin D and fall prevention. In contrast to the IOM report, the evidence of the effect of vitamin D supplementation at a dose of 700 to 1,000 IU of vitamin D per day on fall reduction was acknowledged by the 2010 IOF position paper on vitamin D. ( 5 )
+Although benefits of serum concentrations of 25(OH)D higher than 50 nmol/l (20 ng/ml) on endpoints other than bone health have not been documented by randomized trials, the evidence for benefit is quite strong for some, especially colorectal cancer. ( 6 ) The IOM conclusion that intakes of vitamin D are adequate for most of the US population assumes that lack of randomized trials means lack of benefit, which seems illogical.  At a minimum, the conclusion should indicate uncertainty about benefit of higher intakes and blood levels. In support of a greater safety margin in research and supplementation strategies, the IOM doubled the safe upper limit from 2,000 IU to 4,000 IU of vitamin D per day, which is appropriate.
+Calcium and Bone Health
+The new recommendations of the IOM call for a calcium intake from all sources ranging from 700 milligrams for children ages 1 to 3 up to 1,200 milligrams for women 51 and older. Compared to the last IOM report, calcium recommendations remained largely the same with a small reduction for men age 50 to 70 to 1,000 from 1,200 milligrams per day. The panel confirms a safe upper limit of 2,000 to 3,000 milligrams of calcium per day for adults.
+The calcium recommendations in different age groups are largely based on calcium balance studies lasting only 7 to 12 days, which is likely to be misleading with respect to long term calcium needs. Less data is available to substantiate recommendations with respect to clinical endpoints including bone density and fracture reduction. Notably, in the large population-based NHANES study, there was no overall relation between intake of calcium and hip bone density. Only at 25(OH)D levels below 50 nmol/l (20 ng/ml), a greater calcium intake was associated with hip bone density among women. ( 7 )  Further, in two meta-analyses of randomized trials of calcium supplements alone compared with placebo there was no significant effect on fracture risk. ( 8 ,  9 ) Notably, however, in one meta-analysis of four double-blind RCTs an adverse effect of calcium supplementation at a dose between 1,000 and 1,200 milligrams per day on hip fracture risk could not be excluded and no dose-response relation between dietary calcium intake and risk of hip fractures was documented in a meta-analysis of large cohort studies. ( 9 )
+Further, the apparent lack of benefit for high calcium intake on bone density increase or fracture reduction together with recent data on the possible adverse effects of calcium supplements on cardiovascular health ( 10 ) and nephrolithiasis (kidney stones), ( 11 ) may make the IOM safe upper limit for calcium intake appear too high. We note that the WHO has suggested that 500 milligrams of calcium per day is an adequate intake.
+The Interaction of Vitamin D and Calcium
+The IOM states that more data regarding the interaction of vitamin D and calcium on bone health are needed and no recommendation was provided on their combination.
+Notably, several data suggest that vitamin D increases calcium absorption ( 12 ) and that a higher intake of calcium beyond 800 milligrams per day may not contribute to parathyroid hormone suppression ( 13 ) and hip bone density ( 7 ) if 25(OH)D levels are above 40 to 50 nmol/l (16 to 20 ng/ml). In the trials that tested vitamin D plus calcium for fracture reduction, confounding by calcium intake cannot be completely eliminated, but two observations are important: In one 2009 meta-analysis of double-blind RCTs, fracture reduction was the same for the main effect of vitamin D and trials that combined vitamin D with calcium if the adherence-adjusted vitamin D dose was more than 480 IU per day; ( 2 ) furthermore, calcium supplementation by itself did not reduce risk of fractures. ( 9 ) As noted in the IOM review, in the analysis of NHANES data with more than 9,000 subjects, calcium intake was associated with hip bone density only among women with low 25(OH)D levels; in all other groups there was no relation between calcium intake and bone density.  In contrast, 25(OH)D levels were consistently and positively associated with hip bone density. ( 7 )  Thus, with adequate 25(OH)D levels or sufficient vitamin D intake, higher calcium intakes may not be correlated with bone health. In sum, calcium recommendations could be adjusted downward with vitamin D supplementation; they could also possibly be adjusted downward for safety reasons. This has not been considered by the IOM report.
+
+Prof. Heike A. Bischoff-Ferrari, MD, DrPH 
+ Director, Centre on Aging and Mobility, University of Zurich 
+ SNF-Professor Dept. of Rheumatology, University Hospital Zurich 
+ Gloriastrasse 15 
+ 8091 Zurich 
+ Switzerland
+Prof. Walter C. Willett, MD, DrPH 
+ Chair, Department of Nutrition; Fredrick John Stare Professor of Epidemiology and Nutrition 
+ Department of Nutrition 
+ Department of Epidemiology 
+ 651 Huntington Avenue 
+ Boston, Massachusetts 02115 
+ USA
+References
+Institute of Medicine.  Dietary Reference Intakes for Calcium and Vitamin D . Washington, D.C.: National Academies Press, 2010.
+Institute of Medicine.  Dietary Reference Intakes for Calcium and Vitamin D . Washington, D.C.: National Academies Press, 2010.
+Bischoff-Ferrari HA, Willett WC, Wong JB, et al. Prevention of nonvertebral fractures with oral vitamin D and dose dependency: a meta-analysis of randomized controlled trials.  Arch Intern Med . 2009; 169:551-61.
+Bischoff-Ferrari HA, Willett WC, Wong JB, et al. Prevention of nonvertebral fractures with oral vitamin D and dose dependency: a meta-analysis of randomized controlled trials.  Arch Intern Med . 2009; 169:551-61.
+Bischoff-Ferrari HA, Dawson-Hughes B, Staehelin HB, et al. Fall prevention with supplemental and active forms of vitamin D: a meta-analysis of randomised controlled trials.  BMJ . 2009; 339:b3692.
+Bischoff-Ferrari HA, Dawson-Hughes B, Staehelin HB, et al. Fall prevention with supplemental and active forms of vitamin D: a meta-analysis of randomised controlled trials.  BMJ . 2009; 339:b3692.
+Bischoff-Ferrari HA, Dietrich T, Orav EJ, Dawson-Hughes B. Positive association between 25-hydroxy vitamin D levels and bone mineral density: a population-based study of younger and older adults.  Am J Med . 2004; 116:634-9.
+Bischoff-Ferrari HA, Dietrich T, Orav EJ, Dawson-Hughes B. Positive association between 25-hydroxy vitamin D levels and bone mineral density: a population-based study of younger and older adults.  Am J Med . 2004; 116:634-9.
+Dawson-Hughes B, Mithal A, Bonjour JP, et al. IOF position statement: vitamin D recommendations for older adults.  Osteoporos Int . 2010;21:1151-4.
+Dawson-Hughes B, Mithal A, Bonjour JP, et al. IOF position statement: vitamin D recommendations for older adults.  Osteoporos Int . 2010;21:1151-4.
+Giovannucci E. Epidemiological evidence for vitamin D and colorectal cancer.  J Bone Miner Res . 2007; 22 Suppl 2:V81-5.
+Giovannucci E. Epidemiological evidence for vitamin D and colorectal cancer.  J Bone Miner Res . 2007; 22 Suppl 2:V81-5.
+Bischoff-Ferrari HA, Kiel DP, Dawson-Hughes B, et al. Dietary calcium and serum 25-hydroxyvitamin D status in relation to BMD among U.S. adults.  J Bone Miner Res . 2009; 24:935-42.
+Bischoff-Ferrari HA, Kiel DP, Dawson-Hughes B, et al. Dietary calcium and serum 25-hydroxyvitamin D status in relation to BMD among U.S. adults.  J Bone Miner Res . 2009; 24:935-42.
+Tang BM, Eslick GD, Nowson C, Smith C, Bensoussan A. Use of calcium or calcium in combination with vitamin D supplementation to prevent fractures and bone loss in people aged 50 years and older: a meta-analysis.  Lancet . 2007; 370:657-66.
+Tang BM, Eslick GD, Nowson C, Smith C, Bensoussan A. Use of calcium or calcium in combination with vitamin D supplementation to prevent fractures and bone loss in people aged 50 years and older: a meta-analysis.  Lancet . 2007; 370:657-66.
+Bischoff-Ferrari HA, Dawson-Hughes B, Baron JA, et al. Calcium intake and hip fracture risk in men and women: a meta-analysis of prospective cohort studies and randomized controlled trials.  Am J Clin Nutr .  2007; 86:1780-90.
+Bischoff-Ferrari HA, Dawson-Hughes B, Baron JA, et al. Calcium intake and hip fracture risk in men and women: a meta-analysis of prospective cohort studies and randomized controlled trials.  Am J Clin Nutr .  2007; 86:1780-90.
+Bolland MJ, Avenell A, Baron JA, et al. Effect of calcium supplements on risk of myocardial infarction and cardiovascular events: meta-analysis.  BMJ . 341:c3691.
+Bolland MJ, Avenell A, Baron JA, et al. Effect of calcium supplements on risk of myocardial infarction and cardiovascular events: meta-analysis.  BMJ . 341:c3691.
+Jackson RD, LaCroix AZ, Gass M, et al. Calcium plus vitamin D supplementation and the risk of fractures.  N Engl J Med . 2006; 354:669-83.
+Jackson RD, LaCroix AZ, Gass M, et al. Calcium plus vitamin D supplementation and the risk of fractures.  N Engl J Med . 2006; 354:669-83.
+Heaney RP, Dowell MS, Hale CA, Bendich A. Calcium absorption varies within the reference range for serum 25-hydroxyvitamin D.  J Am Coll Nutr .  2003; 22:142-6.
+Heaney RP, Dowell MS, Hale CA, Bendich A. Calcium absorption varies within the reference range for serum 25-hydroxyvitamin D.  J Am Coll Nutr .  2003; 22:142-6.
+Steingrimsdottir L, Gunnarsson O, Indridason OS, Franzson L, Sigurdsson G. Relationship between serum parathyroid hormone levels, vitamin D sufficiency, and calcium intake.  JAMA . 2005; 294:2336-41.
+Steingrimsdottir L, Gunnarsson O, Indridason OS, Franzson L, Sigurdsson G. Relationship between serum parathyroid hormone levels, vitamin D sufficiency, and calcium intake.  JAMA . 2005; 294:2336-41.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vitamins/vitamin-d/
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+http://www.iom.edu/Reports/2010/Dietary-Reference-Intakes-for-Calcium-and-Vitamin-D.aspx
+http://www.iom.edu/Reports/2010/Dietary-Reference-Intakes-for-Calcium-and-Vitamin-D.aspx
+http://www.ncbi.nlm.nih.gov/pubmed/19307517
+http://www.ncbi.nlm.nih.gov/pubmed/19307517
+http://www.ncbi.nlm.nih.gov/pubmed/19797342
+http://www.ncbi.nlm.nih.gov/pubmed/19797342
+http://www.ncbi.nlm.nih.gov/pubmed/15093761
+http://www.ncbi.nlm.nih.gov/pubmed/15093761
+http://www.ncbi.nlm.nih.gov/pubmed/20422154
+http://www.ncbi.nlm.nih.gov/pubmed/20422154
+http://www.ncbi.nlm.nih.gov/pubmed/18290728
+http://www.ncbi.nlm.nih.gov/pubmed/18290728
+http://www.ncbi.nlm.nih.gov/pubmed/19113911
+http://www.ncbi.nlm.nih.gov/pubmed/19113911
+http://www.ncbi.nlm.nih.gov/pubmed/17720017
+http://www.ncbi.nlm.nih.gov/pubmed/17720017
+http://www.ncbi.nlm.nih.gov/pubmed/18065599
+http://www.ncbi.nlm.nih.gov/pubmed/18065599
+http://www.ncbi.nlm.nih.gov/pubmed/20671013
+http://www.ncbi.nlm.nih.gov/pubmed/20671013
+http://www.ncbi.nlm.nih.gov/pubmed/16481635
+http://www.ncbi.nlm.nih.gov/pubmed/16481635
+http://www.ncbi.nlm.nih.gov/pubmed/12672710
+http://www.ncbi.nlm.nih.gov/pubmed/12672710
+http://www.ncbi.nlm.nih.gov/pubmed/16278362
+http://www.ncbi.nlm.nih.gov/pubmed/16278362

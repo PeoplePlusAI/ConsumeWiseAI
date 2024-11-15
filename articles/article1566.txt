@@ -1,0 +1,129 @@
+Title: The Dark Side of Iron - Why Too Much is Harmful
+
+Having too much or not enough iron in your body can cause health issues, including raising your risk of infection. Taking too much iron can cause toxicity and organ damage.
+Iron is an essential mineral.
+However, like many other nutrients, it is harmful in high amounts.
+In fact, iron is so toxic that its absorption from the digestive tract is tightly controlled.
+For the most part, this minimizes the harmful effects of excess iron.
+It is when these safety mechanisms fail that health issues arise.
+This article discusses the potentially harmful effects of consuming too much iron.
+
+What is Iron?
+Iron is an essential dietary mineral, mostly used by red blood cells.
+It is a crucial part of hemoglobin, a protein found in red blood cells. Hemoglobin is responsible for delivering oxygen to all of the body’s cells.
+There are two types of dietary iron:
+Heme iron:  This type of iron is only found in animal foods, mostly in  red meat . It is absorbed more easily than non-heme iron.
+Non-heme iron:  Most dietary iron is in the non-heme form. It is found in both animals and plants. Its absorption can be enhanced with organic acids, such as vitamin C, but is decreased by plant compounds like  phytate  ( 1 ,  2 ).
+People who get little or no heme iron in their diet are at an increased risk of iron deficiency ( 3 ,  4 ).
+Many people are iron deficient, especially women. In fact, iron deficiency is the world’s most common mineral deficiency ( 5 ).
+Iron is an essential dietary mineral that plays an important role in transporting oxygen throughout the body. Iron deficiency is common among women.
+
+Regulation of iron stores
+There are two reasons why iron levels are tightly regulated within the body:
+Iron is an essential nutrient that plays a role in many basic body functions, so we must get a  small amount .
+High levels of iron are potentially toxic, so we should avoid getting  too much .
+The body regulates iron levels by adjusting the rate of iron absorption from the digestive tract ( 6 ).
+Hepcidin, the body’s iron-regulatory hormone, is responsible for keeping iron stores in balance. Its main function is to suppress the absorption of iron.
+Basically, this is how it works ( 7 ):
+High iron stores -> Levels of hepcidin increase -> Iron absorption decreases.
+Low iron stores -> Levels of hepcidin decrease -> Iron absorption increases.
+Most of the time, this system works quite well. However, a few disorders that suppress hepcidin production can lead to iron overload.
+On the other hand, conditions that stimulate hepcidin formation may cause iron deficiency.
+Iron balance is also affected by the amount of iron in our diet. Over time, diets low in iron may cause a deficiency. Likewise, an overdose of iron supplements may cause severe iron poisoning.
+The rate of iron absorption from the digestive tract is tightly regulated by the hormone hepcidin. However, several iron overload disorders may disrupt this fragile balance.
+
+Iron toxicity
+Iron toxicity can be either sudden or gradual.
+Many serious health problems may be caused by accidental overdoses, taking high-dose supplements for a long time, or chronic iron overload disorders.
+Under normal circumstances, very little free iron circulates in the bloodstream.
+It is safely bound to proteins, such as transferrin, which keep it from causing harm.
+However, iron toxicity can significantly increase the levels of “free” iron in the body.
+Free iron is a pro-oxidant – the opposite of an  antioxidant  – and may cause damage to cells ( 8 ).
+Several conditions may cause this to happen. These include:
+Iron poisoning:  Poisoning can occur when people, usually children, overdose on iron supplements ( 9 ).
+Hereditary hemochromatosis:  A genetic disorder characterized by excessive absorption of iron from food ( 10 ).
+Acute iron poisoning happens when people overdose on iron supplements. Amounts below 20 mg/kg are usually safe but may cause mild digestive symptoms. Amounts between 20-60 mg/kg are mildly to moderately toxic. Doses higher than 60 mg/kg can cause circulatory collapse and bring on serious symptoms ( 11 ).
+Similarly, repeated high-dose iron supplementation may cause serious problems. Make sure to follow the instructions on iron supplements, and never take more than your doctor recommends.
+Early symptoms of iron poisoning may include stomach pain, nausea and vomiting.
+Gradually, the excess iron accumulates in internal organs, causing potentially fatal damage to the brain and liver.
+The long-term ingestion of high-dose supplements may gradually cause symptoms similar to iron overload, which is discussed more below.
+Iron toxicity refers to the harmful effects of excess iron. It may occur when 1) people overdose on iron supplements, 2) take high-dose supplements for too long or 3) suffer from a chronic iron overload disorder.
+
+Iron overload
+Iron overload refers to the gradual build up of too much iron in the body. It is caused by the body’s regulatory system failing to keep iron levels within healthy limits ( 12 ).
+For most people, iron overload is not a concern. However, it is a problem for those who are genetically predisposed to excessive absorption of iron from the digestive tract.
+The most common iron overload disorder is hereditary  hemochromatosis . This leads to the build up of iron in tissues and organs ( 13 ).
+Over time, untreated hemochromatosis increases the risk of arthritis, cancer, liver problems, diabetes and heart failure ( 13 ).
+The body has no easy way to dispose of extra iron. The most effective way to get rid of excess iron is blood loss.
+Therefore, menstruating women are less likely to experience iron overload. Likewise, those who donate blood frequently are at lower risk.
+If you are prone to iron overload, you can minimize the risk of health problems by:
+Reducing your intake of iron-rich foods, such as red meat.
+Donating blood regularly.
+Avoiding taking vitamin C with foods that are rich in iron.
+Avoid using iron cookware.
+However, if you have not been diagnosed with iron overload, reducing your iron intake is generally not recommended ( 14 ).
+Iron overload is characterized by excessive amounts of iron in the body. The most common disorder is hereditary hemochromatosis, which may lead to many health problems. This is not a concern for most people.
+
+Iron and cancer risk
+There is no doubt that iron overload may lead to cancer in both animals and humans ( 1 5 ,  16 ).
+It appears that regular blood donation or blood loss may reduce this risk ( 1 7 ).
+Observational studies suggest that a high intake of heme iron may increase the risk of colon cancer ( 1 8 ,  19 ).
+Clinical trials in humans have shown that heme iron from supplements or red meat may increase the formation of cancer-causing N-nitroso compounds in the digestive tract ( 2 0 ,  21 ).
+The association of red meat and cancer is a hotly-debated topic. Although there are some plausible mechanisms explaining this link, most of the evidence is based on observational studies.
+Iron overload disorders have been linked with an increased risk of cancer. Studies also suggest that heme-iron may raise the risk of colon cancer.
+
+Iron and risk of infection
+Both iron overload and iron deficiency appear to make people more susceptible to infection ( 2 2 ,  23 ).
+There are two reasons for this:
+The immune system uses iron to kill harmful bacteria, so some amount of iron is needed to fight infections.
+Elevated levels of free iron stimulate the growth of bacteria and viruses, so too much iron can have the opposite effect and  increase  the risk of infections.
+Several studies indicate that iron supplementation may increase the frequency and severity of infections, although a few studies found no effects ( 2 4 ,  25 ).
+People with hereditary hemochromatosis are also more susceptible to infections ( 13 ).
+For patients at a high risk of infection, iron supplementation should be a well-grounded decision. All potential risks should be taken into account.
+Iron overload and high-dose iron supplementation may increase the risk of infection in certain individuals.
+
+The bottom line
+In short, iron can be dangerous in high quantities.
+However, unless you have an iron overload disorder, you generally do not need to worry about getting too much iron from your diet.
+Iron supplementation is another story. It benefits those who suffer from iron deficiency, but may cause harm in those who are not iron-deficient.
+Never take iron supplements unless recommended by your doctor.
+
+References:
+
+https://www.healthline.com/nutrition/is-red-meat-bad-for-you-or-good
+https://www.healthline.com/nutrition/phytic-acid-101
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/Iron-HealthProfessional/
+https://www.ncbi.nlm.nih.gov/books/NBK540969/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6367879/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27880062/
+https://www.ncbi.nlm.nih.gov/books/NBK560876/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7012465/
+https://www.ncbi.nlm.nih.gov/books/NBK538257/
+https://www.healthline.com/nutrition/antioxidants-explained
+https://www.ncbi.nlm.nih.gov/books/NBK459224/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29587543/
+https://www.ncbi.nlm.nih.gov/books/NBK430862/
+https://www.ncbi.nlm.nih.gov/books/NBK557376/
+https://www.ncbi.nlm.nih.gov/books/NBK526131/
+http://www.mayoclinic.org/diseases-conditions/hemochromatosis/basics/definition/con-20023606
+https://www.ncbi.nlm.nih.gov/books/NBK430862/
+https://www.ncbi.nlm.nih.gov/books/NBK430862/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29722188/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8118195/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8118195/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7160331/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/35847363/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/35847363/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26823477/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26823477/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/25592152/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6678524/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6678524/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4724256/
+https://www.ncbi.nlm.nih.gov/books/NBK448065/
+https://www.ncbi.nlm.nih.gov/books/NBK448065/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6056487/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34767026/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34767026/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30828821/
+https://www.ncbi.nlm.nih.gov/books/NBK430862/

@@ -1,0 +1,103 @@
+Title: Fluoride
+
+Fluoride is a trace mineral naturally found in small amounts in a variety of foods. It is most recognized for its role in preventing and reversing dental caries and building strong teeth and bones. [1] Most fluoride is absorbed in the gut and stored in bones and teeth. Unabsorbed fluoride is excreted in urine. Children absorb fluoride more efficiently than adults, as their teeth and bones are rapidly forming.
+
+Recommended Amounts
+AI:  There is not a Recommended Dietary Allowance for fluoride as nutritional requirements have not been established. However, adequate intakes (AI), or the amount assumed to ensure adequate nutrition, have been established for adults 19+ years at 4 mg a day for men and 3 mg for women. For women who are pregnant or lactating, the AI is 3 mg.
+UL:  The Tolerable Upper Intake Level (UL) for fluoride for all adults 19+ years of age and pregnant and lactating women is 10 mg daily; a UL is the maximum daily intake unlikely to cause harmful effects on health.
+
+Fluoride and Health
+Dental caries occur when a tooth decays from damage caused by bacteria or an infection. Bacteria digest and ferment food that remains in teeth, producing acid. The acid gradually wears down the outer protective tooth enamel. Over time, the decay can extend into the inner layer of the tooth, or dentin. Bacterial acid quickly damages the softer dentin, causing an indent or “cave,” forming a cavity.
+If left untreated, cavities can lead to infections, tooth pain, and tooth loss, and are associated with weight gain, impaired quality of life, and even negative school performance. [2] Obtaining adequate fluoride lowers the risk of developing dental caries as it has antibacterial effects, protects tooth enamel from breaking down, and supports healthy growth of the tooth.
+Community tap water has been fluoridated in the United States since 1945 for the prevention of dental caries. The current recommended amount is 0.7 mg per liter, which helps to reduce the risk of caries but is also low enough to reduce the risk of developing fluorosis (see  Toxicity ). Cohort studies have shown that fluoridated water lowers the risk of tooth decay and premature tooth loss in children and adults. [2-4] Fluoride supplements, toothpastes, and mouthwashes are also effective in preventing dental caries in children, and may be used if fluoridated water is not available. The U.S. Preventive Services Task Force and the American Dental Association provide guidelines for fluoride supplements in children 6 months to 16 years ranging from 0.25 mg to 1 mg a day, if the tap water supply contains little or no fluoride. [5]
+Obtaining fluoride topically, such as brushing or rinsing with toothpaste or mouthwash containing fluoride, also effectively strengthens tooth enamel and protects against dental caries. [6,7] Learn more about  nutrition and oral health .
+Fluoride in trace amounts is essential for normal bone growth. It stimulates bone-building cells called osteoblasts and hormones such as insulin-like growth factor. [8] A chronic deficiency, especially in children, can lead to weak or brittle bones. In adults, however, the research does not support the use of fluoride supplements to prevent fractures or improve bone density such as for osteopenia or osteoporosis. A randomized double-blind placebo-controlled trial of 180 postmenopausal women with osteopenia (early bone loss) followed for one year found that compared with the placebo, fluoride supplements of varying amounts showed no changes in bone mineral density. [9] A meta-analysis of 25 studies looking at bone mineral density and fluoride supplements found increased spine and hip bone density with longer treatments of fluoride supplements, but no significant effects on reducing fractures. [10]
+Chronic excessive intakes of fluoride can lead to skeletal fluorosis, a condition that causes bone changes ranging from osteoporosis (significant bone loss) to osteosclerosis (abnormal hardening of bone that occurs from an increase in bone-building osteoblast cells) and increased risk of fractures. [8] However, this type of fluorosis is rarely seen in the U.S. [2] It is mainly observed in countries where water sources naturally contain high fluoride levels of more than 4 mg per liter; the risk is even greater if these areas have hot climates where people tend to drink more water. [11]
+
+Food Sources
+Trace amounts of fluoride are found naturally in various foods, though people obtain most fluoride from fluoridated water and toothpastes. Brewed black tea and coffee naturally contain fluoride as the plants absorb the mineral in soil. Shellfish may contain fluoride that collects in their shells and muscles.
+Brewed  black tea  and  coffee
+Fluoridated water
+Canned  shellfish  like shrimp and blue crab
+Oatmeal
+Raisins
+Potatoes
+Questions have been posed about the continued need for and safety of community fluoridated water, with concerns about ingesting excessive fluoride and potential negative health effects. Adding fuel to the fire, a top medical journal labeled fluoride as a human developmental neurotoxicant, placing it in the same category as toxic metals like lead and arsenic. [12]
+One known condition is dental fluorosis, in which the teeth of children exposed to excess fluoride develop permanent white spots on the tooth’s surface. Most cases are mild and, although changing the tooth’s appearance, do not affect tooth function or have negative health effects.
+A more contentious claim suggests that ingesting excess fluoride (largely from community fluoridated water) causes cognitive deficits and lowered intelligence in children. A comprehensive review of epidemiological, animal, and laboratory studies found an association, but the authors noted various confounding factors present that may have contributed to cognitive deficits, including low birth weight, socioeconomic status, and exposure to other neurotoxic chemicals. [11] An association was also found in animal studies between deficits in learning and memory when rats were given more than 100 mg per liter of fluoride. However, these high levels were considered toxic and a likely contributor to the deficits. Lower fluoride amounts of 2-50 mg per liter in other animal studies are still much higher than that provided in community fluoridated water. A widely cited analysis of cross-sectional studies of children that found lowered IQ in those exposed to fluoridated water was criticized for lack of data, use of unvalidated IQ tests, and confounders, such as the children’s exposure to other toxic substances (lead, mercury) from living in highly polluted areas. [12] Most of these studies included rural populations experiencing low income that also likely had lower access to healthcare and nutritious diets. Another criticism is that cross-sectional observational studies are not intended to make direct cause-and-effect conclusions. Some scientists argue that IQs overall have increased since introducing community fluoridated water, although improved education and early intervention services are other likely contributors. [11]
+In adults, there is concern of the accumulation of excess fluoride in bones that may increase the risk of fractures. Research has shown mixed results, from a positive association, to no association, to even a protective effect of fluoride. A meta-analysis looking at 13 cohort studies did not find an association of exposure to fluoride from drinking water (ranging from 7 to 44 years) and an increased risk of hip fractures in older adults. [13] The authors noted potential confounding factors, such as increased calcium supplement use in this age group, which can decrease fluoride absorption. Bone formation also decreases with age, so less fluoride is absorbed and needed by bone tissue. In contrast, a cohort study published in 2021 looking at the association of fractures in postmenopausal women and fluoride as measured in urine and dietary intakes found higher rates of hip fractures when comparing the highest to lowest intakes of fluoride and urinary fluoride. The mean dietary intake was about 2 mg daily that included drinking water fluoridated at about 1 mg per liter. [14] With these inconclusive findings, additional large studies are needed in this area.
+There also remains a question of potential health risks with specific conditions, such as kidney disease in which people may not be able to excrete excess fluoride if exposed, increasing the risk of toxicity. There is also a risk of fluoride causing chronic kidney disease (CKD), as shown in studies of people exposed to excessive fluoride due to unusually high levels in the groundwater who develop CKD. [15,16] It is noted that these scenarios are not seen with community fluoridated water but where local water naturally contains excessive levels. Still, fluoride is required by the body in only trace amounts, and it is unclear of the effects of lifetime exposure to fluoride through community water and fluoride-supplemented dental products in specific situations such as CKD. More research is needed to see the health effects of fluoride in people with CKD and if they may benefit from limiting the ingestion of fluoride.
+Water has been fluoridated in the U.S. and in other countries since the 1940s, and research to date has not shown negative health consequences for the general population that outweigh its protective benefits. Because of the known risk of severe health problems in children and adults associated with dental caries, national health organizations such as the Centers for Disease Control and Prevention (CDC), the American Academy of Pediatrics (AAP) and the American Dental Association (ADA) continue to support the safety, effectiveness, and cost effectiveness of community fluoridated water. The current recommended amount is 0.7 mg of fluoride per liter of water, which helps to reduce the risk of caries but is also low enough to reduce the risk of developing fluorosis.
+See also:
+Is Fluoridated Drinking Water Safe? 
+ 
+ Letters in response to Is Fluoridated Drinking Water Safe?
+Letters in response to Is Fluoridated Drinking Water Safe?
+
+Signs of Deficiency and Toxicity
+Deficiency
+Fluoride is not considered an essential nutrient but plays an important role in dental and possibly bone health. A deficiency of fluoride can lead to dental caries and potentially bone problems. See the section on  Fluoride and Health .
+Toxicity
+Infants and children who ingest more fluoride than needed can cause dental fluorosis. This condition only occurs as teeth are forming, producing permanent white spots or lines on teeth. In more severe cases, enamel may be lost and cause a brown staining of teeth; cases like these rarely occur in communities where community fluoridated water contains less than 2 mg per liter (U.S. consumers can check fluoride levels in their tap water via the Center for Disease Control and Prevention’s  My Water’s Fluoride tool ). [17] It is more of a cosmetic issue and not harmful to health. It can be prevented by having children brush no more than twice a day with a pea-sized amount of fluoride toothpaste, and to spit out fluoride toothpaste and mouthwashes rather than swallow. This is especially important for children younger than 6 years old, who are at increased risk of dental fluorosis, and for children younger than 2 years old, who are more likely to swallow toothpastes and mouthwashes. [17] The risk of fluorosis decreases around 8 years old when the formation of tooth enamel is complete. [11]
+A true fluoride toxicity is rare but may occur from excessive fluoride in water, whether occurring naturally or added, or accidental overconsumption of fluoride supplements. Symptoms include:
+Nausea, vomiting
+Abdominal pain
+Diarrhea
+Joint pain
+Skeletal fluorosis, or bone loss (from chronically excessive intakes)
+
+Did You Know?
+Most bottled water does not contain fluoride, as the mineral must be added. Therefore, drinking only bottled water can increase the risk of tooth decay. Include some tap water, which has been fortified with fluoride, in the diet. It can be filtered or used in tea or coffee. Carbon or charcoal water filters do not change the amount of fluoride in tap water. Learn more about  nutrition and oral health .
+
+Related
+Vitamins and Minerals
+Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc Washington, DC: National Academy Press; 2001.
+National Institutes of Health Office of Dietary Supplements:  Fluoride Fact Sheet for Health Professionals . Accessed 1/6/2022.
+Iheozor-Ejiofor Z, Worthington HV, Walsh T, O’Malley L, Clarkson JE, Macey R, Alam R, Tugwell P, Welch V, Glenny AM. Water fluoridation for the prevention of dental caries.  Cochrane database of systematic reviews . 2015(6).
+Slade GD, Sanders AE, Do L, Roberts-Thomson K, Spencer AJ. Effects of fluoridated drinking water on dental caries in Australian adults.  Journal of dental research . 2013 Apr;92(4):376-82.
+Moyer VA. Prevention of dental caries in children from birth through age 5 years: US Preventive Services Task Force recommendation statement.  Pediatrics . 2014 Jun;133(6):1102-11.
+Walsh T, Worthington HV, Glenny AM, Marinho VC, Jeroncic A. Fluoride toothpastes of different concentrations for preventing dental caries.  Cochrane database of systematic reviews . 2019(3).
+Marinho VC, Chong LY, Worthington HV, Walsh T. Fluoride mouthrinses for preventing dental caries in children and adolescents.  Cochrane Database of Systematic Reviews . 2016(7).
+Ciosek Ż, Kot K, Kosik-Bogacka D, Łanocha-Arendarczyk N, Rotter I. The effects of calcium, magnesium, phosphorus, fluoride, and lead on bone tissue.  Biomolecules . 2021 Mar 28;11(4):506.
+Grey A, Garg S, Dray M, Purvis L, Horne A, Callon K, Gamble G, Bolland M, Reid IR, Cundy T. Low-dose fluoride in postmenopausal women: a randomized controlled trial.  The Journal of Clinical Endocrinology & Metabolism . 2013 Jun 1;98(6):2301-7.
+Vestergaard P, Jorgensen NR, Schwarz P, Mosekilde L. Effects of treatment with fluoride on bone mineral density and fracture risk-a meta-analysis.  Osteoporosis international . 2008 Mar;19(3):257-68.
+Guth S, Hüser S, Roth A, Degen G, Diel P, Edlund K, Eisenbrand G, Engel KH, Epe B, Grune T, Heinz V. Toxicity of fluoride: critical evaluation of evidence for human developmental neurotoxicity in epidemiological studies, animal experiments and in vitro analyses.  Archives of toxicology . 2020 May;94(5):1375-415.
+Grandjean P, Landrigan PJ. Neurobehavioural effects of developmental toxicity.  The lancet neurology . 2014 Mar 1;13(3):330-8.
+Yin XH, Huang GL, Lin DR, Wan CC, Wang YD, Song JK, Xu P. Exposure to fluoride in drinking water and hip fracture risk: a meta-analysis of observational studies.  PLoS One . 2015 May 28;10(5):e0126488.
+Helte E, Donat Vargas C, Kippler M, Wolk A, Michaëlsson K, Åkesson A. Fluoride in drinking water, diet, and urine in relation to bone mineral density and fracture incidence in postmenopausal women.  Environmental health perspectives . 2021 Apr 6;129(4):047005.
+Dharmaratne RW. Fluoride in drinking water and diet: the causative factor of chronic kidney diseases in the North Central Province of Sri Lanka.  Environmental health and preventive medicine . 2015 Jul;20(4):237-42.
+Dharmaratne RW. Exploring the role of excess fluoride in chronic kidney disease: a review.  Human & experimental toxicology . 2019 Mar;38(3):269-79.
+National Center for Chronic Disease Prevention and Health Promotion, Division of Oral Health.  Fluorosis . Accessed 1/14/2022.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/oral-health/
+https://nutritionsource.hsph.harvard.edu/food-features/tea/
+https://nutritionsource.hsph.harvard.edu/food-features/coffee/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/food-features/oats/
+https://www.hsph.harvard.edu/magazine/magazine_article/fluoridated-drinking-water/
+https://www.hsph.harvard.edu/news/letters-in-response-to-is-fluoridated-drinking-water-safe/
+https://www.hsph.harvard.edu/news/letters-in-response-to-is-fluoridated-drinking-water-safe/
+https://nccd.cdc.gov/doh_mwf/default/default.aspx
+https://nutritionsource.hsph.harvard.edu/oral-health/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/Fluoride-HealthProfessional/
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010856.pub2/abstract
+https://journals.sagepub.com/doi/abs/10.1177/0022034513481190
+https://publications.aap.org/pediatrics/article-abstract/133/6/1102/76111
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007868.pub3/abstract
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002284.pub2/abstract
+https://www.mdpi.com/1051424
+https://academic.oup.com/jcem/article-abstract/98/6/2301/2537015
+https://link.springer.com/article/10.1007/s00198-007-0437-6
+https://link.springer.com/article/10.1007/s00204-020-02725-2
+https://www.sciencedirect.com/science/article/pii/S1474442213702783
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126488
+https://ehp.niehs.nih.gov/doi/abs/10.1289/EHP7404
+https://environhealthprevmed.biomedcentral.com/articles/10.1007/s12199-015-0464-4
+https://journals.sagepub.com/doi/abs/10.1177/0960327118814161
+https://www.cdc.gov/fluoridation/faqs/dental_fluorosis/index.htm

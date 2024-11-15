@@ -1,0 +1,174 @@
+Title: Is BMI an Accurate Predictor of Health?
+
+Body mass index (BMI) is a standard health assessment tool in most healthcare facilities.
+Though it has been used for decades as the go-to measurement for health based on body size, it has been widely criticized for its oversimplification of what being healthy really means.
+In fact, many claim BMI is outdated and inaccurate and shouldn’t be used in medical and fitness settings.
+This article tells you all you need to know about BMI, its history, whether it’s an accurate predictor of health, and the alternatives to it.
+
+What is BMI?
+“BMI” stands for “ body mass index .” The BMI was developed in 1832 by a Belgian mathematician named Lambert Adolphe Jacques Quetelet ( 1 ).
+He developed the BMI scale to quickly estimate the degree of overweight and obesity in a given population to help governments decide where to allocate health and financial resources ( 1 ).
+Interestingly, Quetelet stated that BMI was not useful in studying single individuals but rather in giving a snapshot of a population’s overall health. Nevertheless, it’s widely used to measure individuals’ health ( 1 ).
+The BMI scale is based on a mathematical formula that determines whether a person is of a “healthy” weight by dividing their weight in kilograms by their height in meters squared ( 1 ):
+BMI = weight (kg) / height (m 2 )
+Alternatively, BMI can be calculated by dividing weight in pounds by height in inches squared and multiplying by 703:
+BMI = (weight (lbs) / height (in 2 )) x 703
+You can also use an online BMI calculator, such as the one provided by the  National Institutes of Health .
+Once BMI is calculated, it’s then compared to the BMI scale to determine whether you fall within the “normal” weight range ( 2 ):
+According to this calculation, a healthcare professional may suggest health and lifestyle changes if you don’t fall within the “normal” weight category.
+Some countries have adopted this BMI scale to better represent the size and stature of their populations. For example, Asian men and women have been shown to be at a higher risk of heart disease at a lower BMI, compared with non-Asians ( 3 ).
+Though this can give the healthcare professional a snapshot of a person’s health based on a person’s weight, it doesn’t consider other factors, such as age, sex, race, genetics, fat mass, muscle mass, and bone density.
+Body mass index (BMI) is a calculation that estimates a person’s body fat using their height and weight. A BMI of 18.5–24.9 is considered “normal” weight with a low risk of poor health, while anything above or below may indicate a higher risk of poor health.
+
+Is it a good indicator of health?
+Despite concerns that BMI doesn’t accurately identify whether a person is healthy, most studies show that a person’s risk of chronic disease and premature death does increase with a BMI lower than 18.5 (“underweight”) or of 30.0 or greater (“obese”) ( 4 ,  5 ).
+For example, a 2017 retrospective study of 103,218 deaths found that the people who had a BMI of 30.0 or greater (“obese”) had 1.5–2.7 times greater risk of death after a 30-year follow-up ( 4 ).
+Another study of 16,868 people showed that those in the “obese” BMI category had a 20% increased risk of death from all causes and heart disease, compared with those in the “normal” BMI category ( 6 ).
+The researchers also found that those who were in the “underweight” category and the “severely obese” or “extremely obese” categories died an average of 6.7 years and 3.7 years earlier, respectively, than those in the “normal” BMI category ( 6 ).
+Other studies have shown that a BMI greater than 30.0 begins to significantly increase the risk of chronic health issues such as  type 2 diabetes , heart disease, breathing difficulties, kidney disease, non-alcoholic fatty liver disease, and mobility issues ( 7 ,  8 ,  9 ,  10 ,  11 ,  12 ,  13 ).
+Furthermore, a 5–10% reduction in a person’s BMI has been associated with decreased rates of  metabolic syndrome , heart disease, and type 2 diabetes ( 14 ,  15 ,  16 ,  17 ).
+Due to most research showing an increased chronic disease risk among people who have obesity, many health professionals can use BMI as a general snapshot of a person’s risk. Still, it should not be the only diagnostic tool used ( 18 ,  19 ).
+Although studies often suggest that obesity is a risk factor for certain health conditions, they rarely account for the role  weight stigma  and discrimination play in health. Discrimination is one of the  social determinants of health  — the conditions in daily life that affect our health — and it can and does contribute to health inequities.
+Weight discrimination  in healthcare  can prevent people at high body weights from seeking medical care — and those who do may not receive accurate diagnoses or treatment, because doctors may attribute their health concerns solely to their weight.
+As a result, any health condition a person may have may be more advanced by the time they receive a diagnosis.
+Meanwhile, experiences of weight stigma in daily life, even outside of medical settings,  are associated  with negative mental and physical health outcomes.
+Everyone deserves appropriate and compassionate medical care. If you’re interested in finding weight-inclusive healthcare professionals, you may want to follow the work of the  Association for Size Diversity and Health , which is developing a directory that will launch in 2022.
+Though BMI has been criticized for its oversimplification of health, most research supports its ability to estimate a person’s risk of chronic disease, particularly one’s risk of early death and metabolic syndrome.
+
+Downsides of BMI
+Despite research associating a low (below 18.5) and high (30 or greater) BMI with increased health risks, there are numerous flaws with its use.
+BMI only answers “yes” or “no” regarding whether a person is of “normal” weight, without any context of their age, sex, genetics, lifestyle, medical history, or other factors.
+Relying only on BMI may miss other important measurements of health, such as cholesterol, blood sugar, heart rate, blood pressure, and inflammation levels, and overestimate or underestimate a person’s true health.
+What’s more, despite men’s and women’s varying body compositions — with men having more muscle mass and less fat mass than women — BMI uses the same calculation for both groups ( 20 ).
+Plus, as a person ages, their body fat mass naturally increases and muscle mass naturally declines. Numerous studies have shown that a higher BMI of 23.0–29.9 in older adults can be protective against early death and disease ( 21 ,  22 ).
+Finally, simply using BMI to determine a person’s health ignores other aspects of health, including  mental well-being  and complicated sociological factors such as income, access to affordable and nutritious food, food skills and knowledge, and living environment.
+Though 1 pound or kilogram of muscle weighs the same as 1 pound or kilogram of fat,  muscle is denser  and takes up less space. As a result, a person who is very lean but has high muscle mass may be heavier on the scale.
+For example, a 200-pound (97-kg) person who is 5 feet 9 inches (175 cm) tall has a BMI of 29.5, which classifies them as “overweight.”
+However, two people of the same height and weight could look completely different. One may be a bodybuilder with high muscle mass, while the other may have higher fat mass.
+If only BMI is considered, this could easily misclassify a person as “overweight” or “obese” despite their low fat mass. Therefore, it’s important to consider a person’s muscle, fat, and bone mass in addition to their weight ( 23 ,  24 ,  25 ).
+Though a greater BMI is linked to poorer health outcomes, the location of fat on the body may make a bigger difference.
+Those with fat stored around their stomach area, known as android or apple-shaped body types, have a greater risk of chronic disease than those with fat stored in their hips, buttocks, and thighs, known as gynoid or pear-shaped  body types  ( 26 ,  27 ,  28 ,  29 ).
+For example, in a review of 72 studies that included data from more than 2.5 million people, researchers found that those with apple-shaped fat distribution had a significantly higher all-cause mortality risk, while those with pear-shaped fat distribution had a lower risk ( 30 ).
+In fact, the authors highlighted that BMI doesn’t consider where fat is stored on the body, which can misclassify a person as being unhealthy or at risk of disease ( 30 ).
+It’s expected that a medical professional uses their best judgment, meaning they would take the BMI result and consider their patient as a unique individual.
+However, some health professionals use only BMI to measure a person’s health before providing medical recommendations, which can lead to  weight bias  and poor quality healthcare ( 31 ,  32 ).
+Those with higher BMIs more often report that their doctors focus only on their BMI, even if their appointment is for an unrelated concern. Often, serious medical issues go unnoticed or are incorrectly seen as weight-related problems ( 31 ).
+In fact, studies have shown that the higher a person’s BMI is, the less likely they are to attend regular health checkups due to fear of being judged, distrust of the healthcare professional, or a previous negative experience. This can lead to late diagnoses, treatment, and care ( 33 ).
+Despite the wide use of BMI among all adults, it may not accurately reflect the health of certain racial and ethnic populations.
+For example, numerous studies have shown that people of Asian descent have an increased risk of chronic disease at lower BMI cut-off points, compared with white people ( 34 ,  35 ,  36 ).
+In fact, the World Health Organization developed Asian-Pacific BMI guidelines, which provide alternative BMI cut-off points ( 2 ,  37 ,  38 ):
+Numerous studies have shown that these alternative cut-off points better identify health risk among Asian populations. Still, more research is needed to compare these cut-off points with multi-generation Asian Americans ( 39 ,  40 ,  41 ).
+Also, Black people may be misclassified as  overweight  despite having lower fat mass and higher muscle mass. This may suggest that chronic disease risk occurs at a higher BMI cut-off point than in people of other races, especially among Black women ( 35 ,  42 ,  43 ,  44 ).
+In fact, one 2011 study found that Black women were considered metabolically healthy at cut-off points 3.0 kg/m 2  higher than people who are not Black, which further puts into question the usefulness of BMI for all racial and ethnic groups ( 45 ).
+Finally, relying only on BMI ignores the cultural importance of body size to different groups. In some cultures, higher fat mass is viewed as healthier and more desirable. Healthcare professionals should consider what “health” means to each individual ( 46 ,  47 ,  48 ).
+Considering that significant health decisions, such as surgical procedures and weight loss interventions, are based on BMI and weight, it’s important that all health professionals go beyond BMI to ensure they’re making patient-centered recommendations.
+BMI considers only a person’s weight and height as a measure of health, rather than the individual. Age, sex, race, body composition, medical history, and other factors may affect a person’s weight and health status.
+
+Better alternatives
+Despite the many flaws of BMI, it’s still used as a primary assessment tool because it’s convenient, cost-effective, and accessible in all healthcare settings.
+However, there are alternatives to BMI that may be better indicators of a person’s health — though each one comes with its own set of advantages and disadvantages ( 49 ,  50 ,  51 ,  52 ).
+A larger waist circumference — one greater than 35 inches (85 cm) in women or 40 inches (101.6 cm) in men — indicates greater body fat in the abdominal area, which is associated with a higher risk of chronic disease.
+It’s easy to measure, requiring only a measuring tape.
+It doesn’t consider different body types (e.g., apple-shaped vs. pear-shaped) and builds (e.g., muscle and bone mass).
+A  high ratio  (greater than 0.80 in women or greater than 0.95 in men) indicates higher fat stores in the stomach area and is linked to a greater risk of heart and chronic disease.
+A low ratio (lower than or equal to 0.80 in women or lower than or equal to 0.95 in men) suggests higher hip fat storage, which is associated with better health.
+It’s easy to measure, requiring only a measuring tape and calculator.
+It doesn’t consider different body types (e.g., apple-shaped vs. pear-shaped) and builds (e.g., muscle and bone mass).
+Body fat percentage  is the relative amount of body fat a person has.
+It distinguishes between fat mass and fat-free mass and is a more accurate representation of health risk than BMI.
+Convenient assessment tools (such as skinfold measurements, portable bioelectrical impedance analysis, and at-home scales) come with a high risk of error.
+More accurate tools (such as dual-energy X-ray absorptiometry, underwater weighing, and BodPod) are expensive and inaccessible for many.
+Lab tests  are various blood and vital sign measurements that can indicate chronic disease risk (e.g., blood pressure, heart rate, cholesterol, blood glucose levels, inflammation).
+These tests provide a more detailed review of a person’s metabolic health and don’t rely only on body fat as a measurement of health.
+Most of the time, a single lab value is not sufficient to diagnose or indicate risk.
+Regardless of the assessment tool used, it’s important for healthcare professionals to not rely on one test alone. For example, a healthcare professional may measure a person’s BMI and waist circumference, and if concern arises, a blood test may follow.
+It’s important to treat each patient as an individual to determine what health means to them — physically, mentally, emotionally, and spiritually.
+Other body assessment tools can be used instead of BMI, such as waist circumference, body fat percentage, and blood tests. However, each comes with its own set of advantages and disadvantages.
+
+The bottom line
+Body mass index (BMI) is a highly controversial health assessment tool designed to estimate a person’s body fat and risk of poor health.
+Research typically shows a greater risk of chronic disease as BMI increases above the “normal” range. Furthermore, a low BMI (below 18.5) is also linked to poor health outcomes.
+That said, BMI fails to consider other aspects of health, such as age, sex, fat mass,  muscle mass , race, genetics, and medical history. What’s more, using it as a sole predictor of health has been shown to increase weight bias and health inequities.
+Though BMI can be useful as a starting point, it should not be the only measurement of your health.
+
+References:
+
+https://www.healthline.com/health/body-mass-index
+https://www.ncbi.nlm.nih.gov/books/NBK535456/
+https://www.ncbi.nlm.nih.gov/books/NBK535456/
+https://www.ncbi.nlm.nih.gov/books/NBK535456/
+https://www.ncbi.nlm.nih.gov/books/NBK535456/
+https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmi-m.htm
+https://www.ncbi.nlm.nih.gov/books/NBK541070/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4217157/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5499607/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4856854/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5499607/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3953803/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3953803/
+https://www.healthline.com/health/type-2-diabetes
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5401682/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29490333/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/22530540/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/25580754/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29281762/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323521/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26672639/
+https://www.healthline.com/health/metabolic-syndrome
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4780070/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29117506/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3693443/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987606/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4821662/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469873/
+https://www.medicalnewstoday.com/articles/half-of-adults-have-experienced-weight-stigma-large-survey-shows
+https://www.medicalnewstoday.com/articles/social-determinants-of-health
+https://www.medicalnewstoday.com/articles/obesity-discrimination-in-healthcare
+https://www.healthline.comhttps://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1116-5
+https://www.healthline.comhttps://asdah.org/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4890841/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/24452240/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4510467/
+https://www.healthline.com/health/mental-health/how-to-take-a-mental-health-day
+https://www.healthline.com/health/does-muscle-weigh-more-than-fat
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4985185/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29641540/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6028901/
+https://www.healthline.com/health/women-body-shapes
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5690984/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/24974911/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/20467889/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5935926/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32967840/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32967840/
+https://www.healthline.com/health-news/my-doctor-fat-shamed-me
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4381543/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3492331/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4381543/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6650789/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4008249/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4555479/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4968570/
+https://www.ncbi.nlm.nih.gov/books/NBK541070/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/14726171/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5571887/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4392932/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6618189/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3953786/
+https://www.healthline.com/health-news/5-ways-to-tell-you-are-overweight
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4555479/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3844096/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3076634/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2886596/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3933952/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4713035/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6308207/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4698459/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7027970/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771660/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5992366/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/22249224/
+https://www.healthline.com/health/waist-to-hip-ratio
+https://www.healthline.com/nutrition/ways-to-measure-body-fat
+https://www.healthline.com/health/blood-tests
+https://www.healthline.com/health/muscle-mass-percentage

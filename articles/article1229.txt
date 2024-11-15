@@ -1,0 +1,85 @@
+Title: Methylcobalamin vs. Cyanocobalamin: What’s the Difference?
+
+Both cyanocobalamin and methylcobalamin are forms of vitamin B12. Cyanocobalamin is synthetic while methylcobalamin is natural. But the body can convert synthetic forms into natural ones.
+Vitamin B12, also known as cobalamin, is an important water-soluble vitamin involved in red blood cell production, brain health, and DNA synthesis ( 1 ).
+A deficiency in this key vitamin can cause serious symptoms, including fatigue, nerve damage, digestive issues, and neurological problems like depression and memory loss ( 1 ).
+Therefore, many people turn to vitamin B12 supplements to help meet their needs and prevent a deficiency.
+This article examines the main differences between methylcobalamin and cyanocobalamin — two of the most common sources of vitamin B12 found in supplements.
+
+Synthetic vs. Natural
+Vitamin B12 supplements are typically derived from two sources: cyanocobalamin or methylcobalamin.
+Both are nearly identical and contain a cobalt ion surrounded by a corrin ring.
+However, each have a different molecule attached to the cobalt ion. While methylcobalamin contains a methyl group, cyanocobalamin contains a cyanide molecule.
+Cyanocobalamin is a synthetic form of vitamin B12 that’s not found in nature ( 2 ).
+It’s used more frequently in supplements, as it’s considered more stable and cost effective than other forms of vitamin B12.
+When cyanocobalamin enters your body, it’s converted into either methylcobalamin or adenosylcobalamin, which are the two active forms of vitamin B12 in humans ( 1 ).
+Unlike cyanocobalamin, methylcobalamin is a naturally occurring form of vitamin B12 that can be obtained through supplements, as well as food sources like  fish , meat,  eggs , and milk ( 3 ,  4 ).
+Cyanocobalamin is a synthetic form of vitamin B12 found only in supplements, while methylcobalamin is a naturally occurring form that you can get through either food sources or supplements.
+
+May be absorbed and retained differently
+Another major difference between methylcobalamin and cyanocobalamin is the way they’re absorbed and retained within your body.
+Some studies suggest that your body may absorb cyanocobalamin slightly better than methylcobalamin.
+In fact, one study found that people’s bodies absorbed about 49% of a 1-mcg dose of cyanocobalamin, compared to 44% of the same dose of methylcobalamin ( 5 ).
+Conversely, another study comparing the two forms reported that about three times as much cyanocobalamin was excreted through urine, indicating that methylcobalamin may be retained better within your body ( 6 ).
+However, some research suggests that differences in bioavailability between the two forms may be insignificant and that absorption could be influenced by factors such as  age  and genetics ( 7 ,  8 ).
+Unfortunately, recent research directly comparing these two forms of  vitamin B12  is limited.
+Additional studies are needed to measure the absorption and retention of methylcobalamin versus cyanocobalamin in healthy adults.
+Research shows that cyanocobalamin may be absorbed better in your body, while methylcobalamin likely has a higher retention rate. Other studies have found that the differences in absorption and retention are minimal.
+
+Both methylcobalamin and cyanocobalamin can be converted to other forms of vitamin B12
+When you ingest cyanocobalamin, it can be converted to both of the active forms of vitamin B12, methylcobalamin and adenosylcobalamin.
+Much like methylcobalamin, adenosylcobalamin is essential to many aspects of your health.
+It’s involved in the metabolism of fats and  amino acids , as well as the formation of myelin, which creates a protective sheath around your nerve cells ( 9 ).
+Deficiencies in both forms of vitamin B12 can increase your risk of neurological issues and adverse side effects ( 10 ).
+Both cyanocobalamin and methylcobalamin are reduced to a cobalamin molecule that’s converted to the active forms of this vitamin within the cells of the body ( 11 ).
+Some researchers recommended treating vitamin B12 deficiencies with either cyanocobalamin or a combination of methylcobalamin and adenosylcobalamin due to distinct properties of these latter two forms ( 9 ).
+While they differ in some aspects, both cyanocobalamin and methylcobalamin can be converted to other forms of cobalamin within the body.
+
+Both forms have health benefits
+Although distinct differences exist between methylcobalamin and cyanocobalamin, both have beneficial effects on health and can prevent B12 deficiencies ( 12 ).
+In fact, one study found that treating seven B12-deficient people with oral methylcobalamin normalized vitamin B12 levels in their blood within just 2 months ( 13 ).
+Similarly, another study showed that taking cyanocobalamin capsules for 3 months also increased vitamin B12 levels in 10 people with  pernicious anemia , a condition caused by impaired B12 absorption ( 14 ).
+Both types of the vitamin may also provide other health benefits.
+One review of seven studies showed that both methylcobalamin and a  vitamin B-complex  containing cyanocobalamin were effective in reducing symptoms of diabetic neuropathy, a complication of diabetes that leads to nerve damage ( 15 ).
+Additionally, several animal studies have found that each form could have neuroprotective effects and may be beneficial in treating conditions that affect your nervous system ( 16 ,  17 ).
+Both methylcobalamin and cyanocobalamin can treat vitamin B12 deficiency. Animal and human studies have found that they could reduce symptoms of diabetic neuropathy and may have neuroprotective effects as well.
+
+The bottom line
+If you think you may have a vitamin B12 deficiency, talk to your doctor to determine the best course of treatment.
+However, if you’re just looking to fill in the nutritional gaps in your diet, a vitamin B12 supplement may help.
+Cyanocobalamin is a synthetic form of vitamin B12 that can be converted to the natural forms methylcobalamin and adenosylcobalamin.
+The body may absorb cyanocobalamin better, while methylcobalamin has a higher retention rate.
+Both can prevent B12 deficiency, but methylcobalamin should be combined with adenosylcobalamin for best results.
+Regardless of which form of vitamin B12 you choose, be sure to combine it with a healthy,  well-balanced diet  to meet your nutritional needs and  optimize your health .
+
+References:
+
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/
+https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0063030/
+https://www.bmj.com/content/349/bmj.g5226/rr/764190
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/
+https://www.healthline.com/nutrition/11-health-benefits-of-fish
+https://www.healthline.com/nutrition/10-proven-health-benefits-of-eggs
+https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/forms-of-vitamin-b12-in-foods/D0391C340D6A638D1A5C86F60EB83129
+https://www.nature.com/articles/204188a0
+https://www.ncbi.nlm.nih.gov/pubmed/5560708
+https://www.ncbi.nlm.nih.gov/pubmed/4696188
+https://www.healthline.com/nutrition/nutritional-needs-and-aging
+https://www.ncbi.nlm.nih.gov/pubmed/28223907
+https://www.ncbi.nlm.nih.gov/pubmed/25820384
+https://www.healthline.com/nutrition/vitamin-b12-benefits
+https://www.healthline.com/nutrition/essential-amino-acids
+https://www.ncbi.nlm.nih.gov/pubmed/25117994/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3875920/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312744/
+https://www.ncbi.nlm.nih.gov/pubmed/25117994/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3875920
+https://www.ncbi.nlm.nih.gov/pubmed/11979747
+https://www.healthline.com/health/pernicious-anemia
+https://www.ncbi.nlm.nih.gov/pubmed/24672108/
+https://www.healthline.com/nutrition/vitamin-b-complex
+https://www.ncbi.nlm.nih.gov/pubmed/16008162/
+https://www.ncbi.nlm.nih.gov/pubmed/25982504
+https://www.ncbi.nlm.nih.gov/pubmed/28968230
+https://www.healthline.com/nutrition/healthy-eating-for-beginners
+https://www.healthline.com/nutrition/5-simple-rules-for-amazing-health

@@ -1,0 +1,91 @@
+Title: Choline
+
+Choline is an essential nutrient that is naturally present in certain foods and available as a supplement. The body can also produce small amounts on its own in the liver, but not enough to meet daily needs. Choline is converted into a neurotransmitter called acetylcholine, which helps muscles to contract, activates pain responses, and plays a role in brain functions of memory and thinking. Most choline is metabolized in the liver where it is converted into phosphatidylcholine, which assists in building fat-carrying proteins and breaking down cholesterol. It is also “food” for  beneficial gut bacteria . [1]
+
+Recommended Amounts
+There is not enough data to establish a Recommended Dietary Allowance for choline. [2] The Food and Nutrition Board established an Adequate Intake (AI) for choline based on the prevention of liver damage.
+AI:  The Adequate Intake for men and women ages 19+ years is 550 mg and 425 mg daily, respectively. For pregnancy and lactation, the AI is 450 mg and 550 mg daily, respectively.
+UL:  A Tolerable Upper Intake Level (UL) is the maximum daily dose unlikely to cause adverse side effects in the general population. A UL has not been established for choline, because a toxic level has not been observed from food sources or from longer-term intakes of high-dose supplements.
+
+Choline and Health
+Choline has been suggested to both protect and increase the risk of  cardiovascular disease (CVD) . Choline, along with the  B vitamin folate , helps to lower blood levels of homocysteine by converting it to methionine. High homocysteine levels are a risk factor for CVD. Choline may also help to reduce blood pressure and stroke. In a study of almost 4,000 African-American participants followed for 9 years, higher choline intakes were associated with a lower risk of ischemic strokes. [3]
+But choline may also act negatively toward the heart. Choline is converted by gut bacteria into a byproduct called trimethylamine (TMA), which is then converted in the liver to trimethylamine-N-oxide (TMAO). Higher blood levels of TMAO have been associated with a higher risk of CVD in animal studies. [4,5] However, it is unclear what is TMAO’s relationship to CVD, or if it is just a marker of an underlying disease process that leads to CVD. A large cohort of men and women from the Nurses’ Health Study and Health Professionals Follow-up Study, followed for 20-25 years, found that higher phosphatidylcholine intakes were associated with an increased risk of deaths from CVD and other causes. [6] There was a 26% increased risk of CVD deaths when combining data from both cohorts comparing the highest intakes of phosphatidylcholine with the lowest. Furthermore, having diabetes heightened that risk. It is believed that circulating TMAO may promote atherosclerosis by preventing the removal of cholesterol in the liver. However, it was noted that TMAO blood levels were not measured in this study, only choline from foods reported in diet questionnaires.
+Other earlier, large epidemiological studies found the contrary, with no association of high choline intakes with a higher risk of cardiovascular diseases, though these studies also did not specifically measure TMAO blood levels. [7,8]
+There appears to be an association with diets high in choline-rich foods and cardiovascular disease, but the reasons for this link need further study.
+In three large cohorts of men and women, higher intakes of phosphatidylcholine were associated with an increased risk of  type 2 diabetes mellitus  (T2DM). [9] Those who had the highest dietary intakes of choline showed a 34% increased risk of T2DM compared with the lowest intakes. The exact mechanism of this association is unclear and warrants further research.
+There is a link between choline deficiency and liver disease. Phosphatidylcholine carries fats away from the liver, so a choline deficiency can cause the liver to store too much fat. This increases the risk for nonalcoholic fatty liver disease (NAFLD), which may then progress to cirrhosis (an inflammation of liver cells, followed by thickening and hardening of liver tissue), liver cancer, or liver failure. This ultimately interferes with normal liver function. Changes in the metabolism of choline or phosphatidylcholine can also negatively impact certain biochemical pathways that lead to NAFLD. [10] NAFLD occurs most often in  individuals with excess weight or obesity, and the main treatment is to reduce body fat with calorie restriction and exercise. Although a choline deficiency can lead to liver dysfunction, it is not yet clear if dietary choline or choline supplementation can treat NAFLD.
+Choline is associated with brain health because it is converted into acetylcholine, which plays a role in memory and thinking. Studies have found that people with Alzheimer’s disease have lower levels of an enzyme that converts choline into acetylcholine, and therefore theorize that higher dietary intakes of choline may prevent cognitive decline. [11] Although some  observational studies have found that higher intakes of choline are associated with higher levels of cognitive function like memory, clinical trials have not found that choline supplementation significantly improves these cognitive measures. [1]
+
+Food Sources
+Choline is found in a variety of foods. The richest sources are meat, fish, poultry, dairy, and eggs.
+Beef, beef liver
+Egg yolks
+Chicken breast
+Fish
+Shiitake mushrooms
+Potatoes
+Legumes (beans, peanuts)
+Milk
+Yogurt
+Cruciferous vegetables (broccoli, cauliflower,  Brussels sprouts , cabbage)
+Sunflower seeds
+
+Signs of Deficiency and Toxicity
+Deficiency
+Most Americans eat less than the AI for choline but a deficiency is very rare in healthy persons, as the body can make some choline on its own. Also, the amount of dietary choline an individual needs can vary widely and depends on various factors. For example, premenopausal women may have lower requirements for dietary choline because higher estrogen levels stimulate the creation of choline in the body. A higher choline requirement may be needed in persons who have a genetic variation that interferes with the normal metabolism of choline. [10] A true choline deficiency can lead to muscle or liver damage, and nonalcoholic fatty liver disease. [12]
+Groups at higher risk of deficiency:
+Pregnant women—In addition to low average dietary intakes in the general public, prenatal supplements do not typically contain choline.
+Patients dependent on intravenous nutrition—Total parenteral nutrition (TPN) is administered through a vein to people whose digestive tracts cannot tolerate solid food due to disease, surgery, or other digestive conditions. Choline is not typically included in TPN formulas unless specified. [13] NAFLD has been observed in long-term TPN patients. [1]
+Toxicity
+Very high intakes of choline can lead to low blood pressure (hypotension) and liver toxicity. It may also lead to the excess production of TMAO, which is associated with a higher risk of cardiovascular disease. Other symptoms include excessive sweating, fishy body odor, or nausea/vomiting. The Tolerable Upper Intake Level (UL) for choline for adults 19 years and older is 3,500 mg daily and is based on the amount that has been shown to produce these side effects. [1] Reaching this high amount would most likely be caused by taking very high dose supplements rather than from diet alone.
+
+Did You Know?
+Multivitamins do not typically contain choline.
+Although foods rich in choline—liver, egg yolks, and red meat—tend to be higher in  saturated fat , choline can also be found in foods lower in saturated fat including salmon, cod, tilapia, chicken breast, and legumes.
+
+Related
+B Vitamins Vitamins and Minerals
+S. Department of Health and Human Services. Vitamin B2 Fact Sheet for Health Professionals.  https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/  Accessed 2/9/20.
+Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes: Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline. Washington, DC: National Academy Press; 1998.
+Millard HR, Musani SK, Dibaba DT, Talegawkar SA, Taylor HA, Tucker KL, Bidulescu A. Dietary choline and betaine; associations with subclinical markers of cardiovascular disease risk and incidence of CVD, coronary heart disease and stroke: the Jackson Heart Study.  European journal of nutrition . 2018 Feb 1;57(1):51-60.
+Wang Z, Klipfell E, Bennett BJ, Koeth R, Levison BS, DuGar B, Feldstein AE, Britt EB, Fu X, Chung YM, Wu Y. Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease.  Nature . 2011 Apr;472(7341):57-63.
+Tang WW, Wang Z, Levison BS, Koeth RA, Britt EB, Fu X, Wu Y, Hazen SL. Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk.  New England Journal of Medicine . 2013 Apr 25;368(17):1575-84.
+Zheng Y, Li Y, Rimm EB, Hu FB, Albert CM, Rexrode KM, Manson JE, Qi L. Dietary phosphatidylcholine and risk of all-cause and cardiovascular-specific mortality among US women and men.  The American journal of clinical nutrition . 2016 Jul 1;104(1):173-80.
+Bidulescu A, Chambless LE, Siega-Riz AM, Zeisel SH, Heiss G. Usual choline and betaine dietary intake and incident coronary heart disease: the Atherosclerosis Risk in Communities (ARIC) study.  BMC cardiovascular disorders . 2007 Dec 1;7(1):20.
+Dalmeijer GW, Olthof MR, Verhoef P, Bots ML, Van der Schouw YT. Prospective study on dietary intakes of folate, betaine, and choline and cardiovascular disease risk in women.  European Journal of Clinical Nutrition . 2008 Mar;62(3):386-94.
+Li Y, Wang DD, Chiuve SE, Manson JE, Willett WC, Hu FB, Qi L. Dietary phosphatidylcholine intake and type 2 diabetes in men and women.  Diabetes Care . 2015 Feb 1;38(2):e13-4.
+Sherriff JL, O’Sullivan TA, Properzi C, Oddo JL, Adams LA. Choline, its potential role in nonalcoholic fatty liver disease, and the case for human and bacterial genes.  Advances in nutrition . 2016 Jan;7(1):5-13.
+Sharma K. Cholinesterase inhibitors as Alzheimer’s therapeutics.  Molecular medicine reports . 2019 Aug 1;20(2):1479-87.
+Corbin KD, Zeisel SH. Choline metabolism provides novel insights into non-alcoholic fatty liver disease and its progression.  Current opinion in gastroenterology . 2012 Mar;28(2):159.
+Vanek VW, Borum P, Buchman A, Fessler TA, Howard L, Jeejeebhoy K, Kochevar M, Shenkin A, Valentine CJ, Novel Nutrient Task Force, Parenteral Multi‐Vitamin and Multi–Trace Element Working Group, American Society for Parenteral and Enteral Nutrition (ASPEN) Board of Directors. ASPEN position paper: recommendations for changes in commercially available parenteral multivitamin and multi–trace element products.  Nutrition in Clinical Practice . 2012 Aug;27(4):440-91.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/microbiome/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/folic-acid/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/food-features/mushrooms/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/milk/
+https://nutritionsource.hsph.harvard.edu/food-features/yogurt/
+https://nutritionsource.hsph.harvard.edu/food-features/brussels-sprouts/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/fats-and-cholesterol/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/vitamins
+https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/
+https://link.springer.com/article/10.1007/s00394-016-1296-8
+https://www.nature.com/articles/nature09922
+https://www.nejm.org/doi/full/10.1056/nejmoa1109400
+https://academic.oup.com/ajcn/article-abstract/104/1/173/4569674
+https://link.springer.com/article/10.1186/1471-2261-7-20
+https://www.nature.com/articles/1602725
+https://care.diabetesjournals.org/content/38/2/e13.short
+https://academic.oup.com/advances/article-abstract/7/1/5/4524031
+https://www.spandidos-publications.com/10.3892/mmr.2019.10374
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3601486/
+https://onlinelibrary.wiley.com/doi/abs/10.1177/0884533612446706

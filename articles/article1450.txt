@@ -1,0 +1,161 @@
+Title: How Quickly Can Bacterial Contamination Occur?
+
+Every year, foodborne illness affects around 600 million people worldwide, including 48 million Americans ( 1 ,  2 ).
+While there are many causes of foodborne illness, one major cause is bacterial contamination. In most cases, bacterial contamination is preventable and usually caused by poor food safety practices, such as eating undercooked poultry.
+If you leave food out in temperatures from 40–140°F (4–60°C), bacteria on it can double in number in as little as 20 minutes and continue to multiply exponentially ( 3 ).
+Fortunately, you can do a lot to prevent this to protect yourself and others.
+This article shares what you need to know about bacterial contamination, how quickly it spreads, and how you can prevent it.
+
+What is bacterial contamination?
+Bacterial contamination is the main cause of foodborne illness, which is when a person becomes ill from eating food.  Food poisoning  is another term for foodborne illness ( 4 ,  5 ).
+Bacterial contamination occurs when bacteria multiply on food and cause it to spoil. Eating that food can make you sick, either directly from the bacteria or from the toxins they release.
+There are three main types of foodborne illness from bacterial contamination ( 6 ,  7 ):
+Food intoxication or poisoning.  Bacteria multiply on a food and release toxins that make you ill if you eat them. Bacterial strains that cause this include  Clostridium perfringens ,  Staphylococcus aureus , and  Clostridium botulinum .
+Food infection.  Bacteria grow on a food and continue to grow in your intestines after you eat them. Bacteria that can cause this include  Salmonella ,  Listeria monocytogenes , and  Shigella .
+Toxin-mediated infection.  Bacteria from food reproduce and release toxins in your intestinal tract after you eat them. Bacteria that can cause this include  Escherichia coli  ( E. coli ),  Campylobacter jejuni , and  Vibrio .
+The top bacteria that cause foodborne illness in the United States include:
+Salmonella
+Clostridium perfringens
+Campylobacter jejuni
+Staphylococcus aureus
+Common side effects of foodborne illness from bacterial contamination include:
+upset stomach
+loss of appetite
+headache
+nausea
+diarrhea
+These symptoms usually occur within 24 hours of eating contaminated food, but they can sometimes appear days to weeks later, depending on the type of bacteria ( 7 ).
+Norovirus  is a virus commonly called the “stomach flu” or “stomach bug,” and it can also lead to foodborne illness ( 8 ).
+Bacterial contamination happens when bacteria multiply on a food, leading to food spoilage. You can get food poisoning, or foodborne illness, if you eat this contaminated food.
+
+Foods prone to bacterial contamination
+While all foods can be at risk of bacterial contamination, certain foods are more prone to it.
+Foods that have a high water, starch, or protein content provide optimal breeding grounds for bacteria and are therefore at a higher risk of causing foodborne illness.
+Here are some common high-risk foods ( 9 ,  10 ):
+fresh and prepared salads, such as pasta salad, potato salad, coleslaw, and fruit salad
+rice, pasta, and potato dishes
+casseroles and lasagne
+unwashed fruits and vegetables
+leafy greens
+melons, cantaloupe, and other fruits with thick, firm flesh
+meat, poultry, fish, eggs
+deli meats
+dairy products, especially  unpasteurized milk  and cheese
+soft cheeses
+unpasteurized apple cider
+soups
+gravies, sauces, and marinades
+bean sprouts
+leftovers
+By cooking and storing foods at proper temperatures and practicing safe food handling, you can reduce the risk of bacterial contamination in these and other foods.
+Foods with a high water, starch, or protein contents provide optimal breeding grounds for bacteria. Knowing how to safely handle these foods can reduce your risk of foodborne illness.
+
+How quickly it spreads
+Bacteria can replicate at an exponential rate when they’re in a temperature range known as the danger zone, which is 40–140°F (4–60°C) ( 3 ).
+Your kitchen counter is a prime example.
+If you leave food out on your kitchen counter or elsewhere in the danger zone, bacteria can double in number in as little as 20 minutes and continue to double at this rate for many hours. This leaves food highly susceptible to bacterial overgrowth that can result in illness ( 3 ,  11 ).
+On the other hand, when you store food in temperatures below 40°F (4°C), bacteria cannot replicate quickly. At temperatures of 0°F (-18°C), bacteria become dormant — sometimes referred to as “sleeping” — and will not replicate ( 3 ,  11 ).
+When food is heated to temperatures over 140°F (60°C), bacteria are unable to survive and begin to die. This is why properly cooking and reheating food to correct temperatures is essential for reducing your risk of foodborne illness ( 3 ,  11 ).
+To find out safe minimum cooking temperatures for various contamination-prone foods, visit  FoodSafety.gov .
+To prevent the rapid growth of bacteria, it’s crucial to keep some foods out of the danger zone temperature range as much as possible. If contamination-prone foods have been left in the danger zone for more than 2 hours, it’s best to throw them out.
+Note that putting contaminated food back in the fridge or freezer won’t kill the bacteria, and the food will remain unsafe to eat.
+However, some foods are safe to store on the counter or in the pantry for a limited time. To look up food safety recommendations for particular foods, check out the  FoodKeeper App  from FoodSafety.gov.
+When you leave foods that are prone to contamination in the danger zone temperature range (40–140°F or 4–60°C), the number of bacteria on them can double in as little as 20 minutes. After 2 hours, the food is likely unsafe to eat.
+
+How foods become contaminated
+Between when a food is produced and when you eat it, there are many opportunities for bacterial contamination. These include ( 12 ,  13 ):
+food production, such as during farming, harvesting, slaughtering, food processing, and manufacturing
+food transportation
+food storage, including during refrigeration or while food is in storage rooms or pantries
+food distribution, such as in grocery stores or farmers markets
+food preparation and serving, including in restaurants, food service operations, or at home
+Typically, food becomes contaminated with bacteria due to  cross contamination , which is the transfer of bacteria or other microorganisms from one substance to another. This can happen at any stage of food production ( 12 ,  13 ,  14 ).
+Bacteria can be transferred to food in various ways, such as ( 12 ,  13 ,  14 ):
+from contaminated equipment, like utensils, cutting boards, countertops, or machinery
+from people, like through handling or sneezing
+from other food, like raw chicken touching raw vegetables
+That said, bacterial contamination can also occur without cross contamination. Bacteria naturally exist on raw meat, poultry, and fish. That means you must cook these to proper temperatures to destroy potentially harmful bacteria ( 12 ,  13 ).
+Finally, bacteria can grow on food that’s left in the danger zone for too long, such as food that has been left on the counter or isn’t stored at low enough temperatures, such as food in a noninsulated lunch bag ( 3 ).
+Bacterial contamination can occur at any stage of food production. Most commonly, it happens due to cross contamination, leaving food in the danger zone too long, or other unsafe food handling practices.
+
+How to prevent it
+Since bacterial contamination can occur at any stage of food production, it’s difficult to make sure everyone in the chain from the farm to your table has used safe food handling practices.
+That said, there are things you can do to reduce your risk of foodborne illness from bacterial contamination, including the following tips ( 15 ,  16 ).
+Carefully read  expiration dates  and avoid buying foods that are close to their expiration date unless you plan to eat them right away.
+Place raw meats and poultry in separate grocery bags from the rest of your groceries.
+Clean and sanitize your reusable grocery bags before and after grocery shopping.
+Avoid snacking on raw produce that has not been washed.
+Grab perishable foods last when grocery shopping to reduce the time they spend in the danger zone. These foods might include eggs, milk, meat, poultry, and pasta salad.
+Make grocery shopping your last errand to prevent groceries from sitting in the car for too long.
+Put food away immediately once you get home.
+Discard any cans or packages that are dented or the seal is broken.
+Avoid buying fresh produce that’s bruised, as these bruises are entry points for bacteria.
+Ensure your refrigerator is set to 40°F (4°C) or lower and your freezer is set to 0°F (-18°C) or lower.
+Store  raw meat and poultry  in a sealed container or plastic bag on the bottom shelf of the fridge to prevent their juices from contaminating other foods.
+Use refrigerated leftovers within 2–3 days and cook them to proper temperatures.
+Cut leftover whole roasts into smaller servings and store them in the refrigerator.
+Refrigerate leftovers within 2 hours of cooking. If food has been left out for more than 2 hours, discard it.
+Place leftover food, especially high-risk foods, such as cooked rice, pasta, soups, and gravies, in shallow containers to allow it to cool quickly.
+Avoid overpacking your refrigerator with food, as this can prevent food from being cooled properly.
+Wash your hands with soap and water for at least 20 seconds after touching raw meat or poultry, using the washroom, sneezing or coughing, petting an animal, taking out the garbage, using your phone, and other activities during which your hands might have become contaminated.
+Clean your utensils, cutting boards, countertops, and other surfaces with soap and warm water, especially after handling raw meat or poultry.
+Use separate cutting boards for vegetables and meat or poultry.
+Only use clean dishcloths and sponges.
+Use a food thermometer to ensure the food you’re cooking reaches a high enough temperature.
+Keep ingredients in the refrigerator until you’re ready to use them.
+Wash fresh produce  thoroughly before peeling or cutting it. Under running water, gently rub the produce with your hand or use a vegetable brush for tougher produce, such as melons.
+Discard the outer leaves of a head of cabbage or lettuce.
+Keep up to date with local and regional food recalls.
+Ensure take-out food is warm, and reheat it to safe temperatures before you eat it if it has been sitting out for more than 2 hours.
+Use insulated lunch bags and cold packs to keep food out of the danger zone.
+You can reduce the risk of bacterial contamination to keep you and others safe by practicing safe food handling from purchase to consumption.
+
+The bottom line
+Bacterial contamination is one of the top causes of foodborne illness and can happen at any stage of food production. Fortunately, there are many things you can do to prevent bacterial contamination.
+When food sits out in a temperature range called the danger zone, which is from 40–140°F (4–60°C), bacteria on it can double within 20 minutes. If you leave it too long, this can greatly increase the risk of bacterial contamination and lead to illness if you eat the food.
+Make sure you’re following safe food handling practices, such as cooking foods to correct temperatures, discarding leftovers after 2–3 days, and keeping food out of the danger zone as much as possible. If you’re unsure whether a food is safe, it’s best to throw it out.
+With these tips, you can do a lot to protect yourself and others from foodborne illness.
+Try this today:  If you don’t own a food thermometer, consider purchasing one. It’s a great tool to ensure you’re cooking and reheating your foods to temperatures that will kill harmful bacteria and make the food safer to eat.
+
+References:
+https://www.who.int/news-room/fact-sheets/detail/food-safety
+https://www.cdc.gov/foodborneburden/index.html
+https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f
+https://www.healthline.com/health/food-poisoning
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6138766/
+https://www.cdc.gov/foodborneburden/2011-foodborne-estimates.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6604998/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26371569/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26371569/
+https://www.healthline.com/health/norovirus
+https://www.cdc.gov/foodsafety/foodborne-germs.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3159107/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3827549/
+https://www.healthline.com/nutrition/drinking-raw-milk
+https://www.healthline.com/nutrition/bean-sprouts-nutrition
+https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f
+https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26934174/
+https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26934174/
+https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26934174/
+https://www.foodsafety.gov/food-safety-charts/safe-minimum-cooking-temperature
+https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6604938/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7559893/
+https://www.healthline.com/nutrition/what-is-cross-contamination
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6604938/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7559893/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33545714/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6604938/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7559893/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33545714/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6604938/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7559893/
+https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/danger-zone-40f-140f
+https://www.fda.gov/consumers/consumer-updates/7-tips-cleaning-fruits-vegetables
+https://www.cdc.gov/foodsafety/communication/food-safety-in-the-kitchen.html
+https://www.healthline.com/nutrition/perishable-food
+https://www.healthline.com/health/food-safety-meat
+https://www.healthline.com/nutrition/washing-vegetables

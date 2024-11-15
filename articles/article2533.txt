@@ -1,0 +1,129 @@
+Title: Do Probiotics Aid Parkinson’s Disease?
+
+Parkinson’s disease is a progressive neurodegenerative disorder that affects over 1 million people in the United States ( 1 ).
+A neurotransmitter called dopamine is important for your body’s ability to move. Dopamine comes from a part of the brain called the substantia nigra and other brain regions ( 2 ).
+In Parkinson’s, cells within the substantia nigra become impaired or die, leading to reduced dopamine levels and movement difficulties associated with the disease. Currently, the cause of this is unknown ( 2 ).
+However, recent advances in research suggest that our gut and environment may play a role in the cause and progression of Parkinson’s. In particular, there is a growing interest in the role of probiotics as a treatment for this disease.
+Probiotics are live microorganisms found in food and supplements that may help support a healthy gut microbiome ( 3 ).
+This article dives deep into Parkinson’s disease and probiotics, their role, if they’re effective, and whether they’re worth taking.
+
+Do probiotics relieve symptoms of Parkinson’s?
+Parkinson’s disease (PD)  has four main symptoms ( 2 ):
+tremors in the hands, arms, jaw, head, or legs
+slowed movement
+muscle stiffness
+decreased balance and coordination
+Other  common symptom s include constipation, urinary problems, difficulty swallowing or chewing, speech impairment, and skin issues (e.g., excess sweating, dry or oily skin, irritation) ( 2 ).
+Research has suggested that symptoms of Parkinson’s disease (PD) may be related to  gut dysbiosis  (an imbalance of gut bacteria) and gut barrier dysfunction that results in inflammation ( 4 ,  5 ).
+In fact, studies have shown that PD patients exhibit intestinal inflammation similar to those with other inflammatory bowel diseases, such as  Crohn’s disease  or ulcerative colitis ( 6 ,  7 ,  8 ,  9 ).
+This inflammation may disrupt a communication channel between the brain and gut called the microbiota-gut-brain-axis ( 4 ,  5 ,  10 ,  11 ).
+As a result, numerous issues may arise, such as reduced neurotransmitter production (e.g., dopamine), decreased gut motility and nutrient absorption, altered short-chain fatty acid production, increased gut permeability, and a weakened immune system ( 4 ,  5 ,  10 ,  11 ).
+Further, it appears to increase the production of Lewy bodies, a hallmark of Parkinson’s disease (PD) ( 4 ,  5 ,  10 ,  11 ).
+However, more research is still needed.
+Due to the association between Parkinson’s disease (PD) symptoms and gut dysbiosis, researchers recently started exploring the effects of using probiotics to diversify the gut microbiome and potentially manage or treat PD symptoms.
+Most research has investigated probiotics and their effect on  constipation , an early indicator and common symptom of PD.
+One 2016 study split 120 participants with PD into a control group or intervention group that received a fermented milk product containing multiple probiotic strains and prebiotic fiber, which helps to support the growth of beneficial bacteria ( 12 ).
+After four weeks, the intervention group had significantly more completed bowel movements than the control group ( 12 ).
+Another 2020 study split 72 PD patients into an intervention or control group that received either multistrain probiotic capsules or an identical-appearing placebo for four weeks ( 13 ).
+At the end of the study, those in the intervention group reported significantly greater spontaneous bowel movements and better  stool consistency  ( 13 ).
+Another company-funded study also observed significant improvements in bowel frequency and gut transit time after taking a multistrain probiotic for eight weeks. Similarly, the control group had no improvements ( 14 ).
+Beyond constipation, no human clinical trials have investigated probiotic supplementation on other PD symptoms.
+However, some mice studies have observed significant improvements in motor function and less damage to dopamine-producing neurons (suggesting a neuroprotective effect) after being treated with probiotic supplements for up to 24 weeks ( 15 ,  16 ,  17 ,  18 ).
+While promising, it’s difficult to say if these results would be transferable to humans since humans and mice have different microbiomes, metabolisms, and genetics.
+Fortunately, research on probiotics and PD has sparked tremendous interest and innovation. Therefore, the science on this topic is likely to evolve in the upcoming years.
+Research has linked gut dysbiosis and subsequent inflammation to Parkinson’s disease (PD) symptoms. Some research has shown promising results in taking a probiotic to treat PD-related constipation. As for other symptoms, there’s not enough research yet.
+
+Should you take a probiotic for Parkinson’s?
+Though research on probiotics for treating Parkinson’s (PD) is a relatively new topic, taking a probiotic may be beneficial in some cases.
+If you are experiencing constipation related to PD, you may benefit from taking a probiotic supplement. Though,  which formulations  are best is yet to be determined.
+Beyond this, there isn’t enough evidence to provide specific recommendations. Scientists are just beginning to understand the role of the gut microbiome and probiotics and their role in PD. So, it’s too early to recommend probiotics as a treatment ( 5 ,  11 ).
+If you’re interested in probiotics to help alleviate some of your PD symptoms, you should speak to a qualified healthcare professional.
+Since research is still in its early stages, it’s too soon to recommend probiotics to help manage or treat PD symptoms.
+
+Downsides of probiotics for Parkinson’s
+Although probiotics are generally considered safe, there are some potential concerns with probiotic supplementation in people with Parkinson’s disease (PD).
+First, some  Enterococcus  species found in some probiotic supplements may inactivate levodopa, a  dopamine-replacement medication  used in the treatment of PD. However, this needs more research and clarification in PD patients ( 5 ).
+Further, probiotic supplementation may exacerbate  SIBO (small intestinal bacterial overgrowth) , common in people with Parkinson’s disease ( 5 ).
+It’s also unknown which probiotic strains are most effective in treating PD symptoms and if they’re more effective in combination or taken as single strains.
+An individualized assessment of the microbiome may be warranted to determine the best course of action ( 5 ,  11 ).
+That said, none of the human clinical trials that investigated probiotic supplementation in people with Parkinson’s disease (PD) reported any serious side effects ( 12 ,  13 ,  14 ).
+Still, it’s best to chat with your healthcare professional before taking probiotics.
+Though generally considered safe, you should speak with your healthcare professional before starting probiotics to make sure it’s right for you.
+
+FAQ
+Currently, there are no supplements recommended to help treat Parkinson’s symptoms. Coenzyme Q10 and fish oil (containing omega-3s) may reduce the progression of Parkinson’s disease (PD), but research is mixed ( 19 ,  20 ,  21 ).
+Certain nutrients with antioxidant properties may help fight oxidative stress caused by PD, such as vitamin B12, C, D, E, and folate. Aim to get these nutrients through food first and then supplement as needed ( 19 ,  20 ,  21 ).
+Following a Mediterranean-style diet has been linked with a lower risk of developing Parkinson’s disease (PD) and better PD progression. That includes a diet rich in minimally processed vegetables, fruit, nuts, seeds, fish, olive oil, and fresh herbs and spices ( 19 ,  20 ,  22 ).
+To date, there is no human data that supports taking probiotics to help with Parkinson’s-related tremors.
+It’s not recommended to self-treat Parkinson’s disease (PD). It’s best to work closely with your healthcare professional to determine the best course of action based on your symptoms and progression, including medication, physical therapy, or other interventions.
+You can practice many lifestyle behaviors to help manage your symptoms, such as regular physical activity, consuming a minimally processed diet, getting quality sleep, smoking cessation, and managing stress ( 23 ).
+
+The bottom line
+Parkinson’s disease (PD) is a complicated neurodegenerative disease that affects millions of people.
+While its cause is unknown, researchers have started to link the gut microbiome to PD. In particular, it’s thought that gut inflammation and an  imbalance of gut bacteria  may worsen PD symptoms.
+Subsequently, researchers have started investigating the role of probiotics in treating PD. There is some data supporting probiotics to support PD-related constipation, but it’s too early to make conclusions.
+As research and innovation continue to evolve in the upcoming years, time will tell as to whether probiotics can help prevent or treat PD. Until then, it’s best to work closely with your healthcare professional to ensure you’re getting the right treatment.
+
+References:
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34706971/
+https://www.nia.nih.gov/health/parkinsons-disease
+https://www.nia.nih.gov/health/parkinsons-disease
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6425910/
+https://www.healthline.com/health/parkinsons
+https://www.nia.nih.gov/health/parkinsons-disease
+https://www.healthline.com/health/parkinsons/symptoms
+https://www.nia.nih.gov/health/parkinsons-disease
+https://www.healthline.com/nutrition/gut-microbiome-and-health
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31041582/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8035463/
+https://www.healthline.com/health/crohns-disease
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33692356/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33643026/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/25775153/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29454662/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31041582/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8035463/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32092186/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34283340/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31041582/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8035463/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32092186/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34283340/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31041582/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8035463/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32092186/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34283340/
+https://www.healthline.com/nutrition/best-foods-for-constipation
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27543643/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27543643/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33046607/
+https://www.healthline.com/health/digestive-health/types-of-poop
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33046607/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33382780/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7226147/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31063918/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32155131/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30851189/
+https://www.healthline.com/nutrition/best-probiotic-supplement
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8035463/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34283340/
+https://www.healthline.com/health/parkinsons/parkinson-medication
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8035463/
+https://www.healthline.com/health/sibo
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8035463/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8035463/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34283340/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27543643/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33046607/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33382780/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29081890/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7280935/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31295842/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29081890/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7280935/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31295842/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29081890/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7280935/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33104042/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31487721/
+https://www.healthline.com/health/gut-health

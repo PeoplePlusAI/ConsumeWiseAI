@@ -1,0 +1,21 @@
+Title: Eggs and cholesterol back in the spotlight in new JAMA study
+
+Not again , you may be thinking if you’ve come across the study by Zhong and colleagues, published in the March 15 th  issue of  JAMA . [1] Their question: Are  eggs  or  cholesterol  from foods associated with an increased risk of  cardiovascular disease  (CVD) or deaths from any cause? The study was a pooled analysis of data from six prospective studies that had followed 29,615 U.S. men and women for up to 31 years.
+The findings:
+For every additional 300 mg of dietary cholesterol eaten per day, the risk of CVD and all-cause mortality was higher by 17% and 18%, respectively. These associations became nonsignificant after adjustment for consumption of eggs and red meat. In the U.S. population, eggs and meats contribute 25% and 42% of total dietary cholesterol, respectively.
+For each additional half of an egg consumed daily, the risk of CVD and all-cause mortality was higher by 6% and 8%, respectively. When the authors looked more closely, dietary cholesterol intake was more strongly associated with risk of stroke than heart disease, and it was associated with both CVD and non-CVD deaths.
+This study includes a relatively large sample and a long duration of follow-up. However, a major limitation is the use of a single measure of diet to look at outcomes up to 30 years later. During this time, some individuals may have changed their diet after developing high cholesterol or other conditions, which may influence the results of the study. These findings should be interpreted in the context of  several previous studies , which have shown that low to moderate egg intake is not associated with a higher risk of CVD in generally healthy people.
+“These new findings may rekindle the debate about the role of dietary cholesterol and egg consumption in cardiovascular disease, but would not change general healthy eating guidelines that emphasize increasing consumption of fruits, vegetables, whole grains, nuts, and legumes and lowering consumption of red and processed meats and sugar,” said  Dr. Frank Hu , Chair of the  Department of Nutrition  at the Harvard Chan School of Public Health, who was not involved in the study. “For those who are generally healthy, low to moderate intake of eggs can be included as part of a healthy eating pattern, but they are not essential. For example, there is a range of other foods one can choose for a variety of healthful breakfasts, such as whole grain toast with nut butter, fresh fruits, and plain yogurt.”
+For more information, see our food feature on  Eggs .
+Zhong VW, Van Horn L, Cornelis MC, et al. Associations of Dietary Cholesterol or Egg Consumption With Incident Cardiovascular Disease and Mortality.  JAMA .  2019;321(11):1081–1095. 
+ * Conflict of Interest Disclosures:   Dr  Wilkins reported receiving consulting fees from NGM Biopharmaceuticals (Modest).  Dr  Mentz reported receiving research support from Akros, Amgen, AstraZeneca, Bayer, GlaxoSmithKline, Gilead, Luitpold, Medtronic, Merck, Novartis, Otsuka, and ResMed; honoraria from Abbott, Amgen, AstraZeneca, Bayer, Janssen, Luitpold Pharmaceuticals, Medtronic, Merck, Novartis, and ResMed; and serving on an advisory board for Amgen, AstraZeneca, Luitpold, Merck, Novartis and Boehringer Ingelheim. No other disclosures were reported.
+
+References:
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/fats-and-cholesterol/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://www.hsph.harvard.edu/frank-hu/
+https://www.hsph.harvard.edu/nutrition/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://jamanetwork.com/journals/jama/article-abstract/2728487
