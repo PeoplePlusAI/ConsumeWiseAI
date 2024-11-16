@@ -4,14 +4,33 @@ import json
 from PIL import Image
 import io
 import re
-from bson import ObjectId
+#from bson import ObjectId
 from openai import OpenAI
+from fastapi import FastAPI, HTTPException
+#from pydantic import BaseModel
+from typing import List, Dict, Any
+from fastapi.middleware.cors import CORSMiddleware
+from motor.motor_asyncio import AsyncIOMotorClient
+
 
 # Set OpenAI Client
 openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+app_fastapi = FastAPI(title="API to find similar products from the db")
+
+# Add CORS middleware
+app_fastapi.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # MongoDB connection
-client = pymongo.MongoClient("mongodb+srv://consumewise_db:p123%40@cluster0.sodps.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGODB_URL = os.getenv("MONGODB_URL")
+# Async MongoDB connection
+client = AsyncIOMotorClient(MONGODB_URL)
 db = client.consumeWise
 collection = db.products
 
@@ -129,20 +148,21 @@ def extract_information(image_links):
     return response.choices[0].message.content
 
 #Extract text from image
-def extract_data(image_links):
+@app_fastapi.post("/api/extract-data")
+async def extract_data(image_links):
     try:
         if not image_links:
             return {"error": "No image URLs provided"}
         
         # Call the extraction function
-        extracted_data = extract_information(image_links)
+        extracted_data = await extract_information(image_links)
         print(f"extracted data : {extracted_data} ")
         print(f"extracted data : {type(extracted_data)} ")
         
         if extracted_data:
-            extracted_data_json = json.loads(extracted_data)
+            extracted_data_json = await json.loads(extracted_data)
             # Store in MongoDB
-            collection.insert_one(extracted_data_json)
+            await collection.insert_one(extracted_data_json)
             return extracted_data
         else:
             return {"error": "Failed to extract information"}
@@ -150,8 +170,8 @@ def extract_data(image_links):
     except Exception as error:
         return {"error": str(error)}
     
-    
-def find_product(product_name):
+@app_fastapi.get("/api/find-product")
+async def find_product(product_name):
     try: 
         if product_name:            
             # Split the input product name into words
@@ -166,7 +186,7 @@ def find_product(product_name):
             for i in list_names:
             # Find all products matching the regex pattern
                 query = {"productName": {"$regex": re.compile(i, re.IGNORECASE)}}
-                products = collection.find(query)
+                products = await collection.find(query)
                 for product in products:
                     brand_product_name = product['productName'] + " by " + product['brandName']
                     #Remove repitition words that appear consecutively - Example - Cadbury cadbury dairy milk chocolate
@@ -185,11 +205,11 @@ def find_product(product_name):
     except Exception as error:
         return {"error": str(error)}
 
-    
-def get_product(product_name):
+@app_fastapi.get("/api/get-product")
+async def get_product(product_name):
     try:        
         if product_name:
-            product = collection.find_one({"productName": product_name})
+            product = await collection.find_one({"productName": product_name})
         else:
             return {"error": "Please provide a valid product name or id"}
 
@@ -198,10 +218,14 @@ def get_product(product_name):
             return {"error": "Product not found"}
         if product:
             product['_id'] = str(product['_id'])  # Convert ObjectId to string
-            product_str = json.dumps(product, indent=4)  # Convert product to JSON string
+            product_str = await json.dumps(product, indent=4)  # Convert product to JSON string
             print(f"Found product: {product_str}")
             return product  # Return the product as a JSON
         
     except Exception as error:
         return {"error": str(error)}
 
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
