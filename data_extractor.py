@@ -1,25 +1,18 @@
 import os
 import pymongo
 import json
-from PIL import Image
-import io
-import re
-#from bson import ObjectId
-from openai import OpenAI
 from fastapi import FastAPI, HTTPException
-#from pydantic import BaseModel
-from typing import List, Dict, Any
 from fastapi.middleware.cors import CORSMiddleware
+from openai import OpenAI
+import re
 from motor.motor_asyncio import AsyncIOMotorClient
+from typing import List, Dict, Any
 
-
-# Set OpenAI Client
-openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-app_fastapi = FastAPI(title="API to find similar products from the db")
+# FastAPI app initialization
+app = FastAPI(title="API to find similar products from the db")
 
 # Add CORS middleware
-app_fastapi.add_middleware(
+app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
     allow_credentials=True,
@@ -27,15 +20,20 @@ app_fastapi.add_middleware(
     allow_headers=["*"],
 )
 
-# MongoDB connection
-MONGODB_URL = os.getenv("MONGODB_URL")
+# Environment variables (should be moved to .env file)
+MONGODB_URL = os.getenv("MONGODB_URL", "mongodb+srv://consumewise_db:p123%40@cluster0.sodps.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+# Initialize OpenAI client
+openai_client = OpenAI(api_key=OPENAI_API_KEY)
+
 # Async MongoDB connection
 client = AsyncIOMotorClient(MONGODB_URL)
 db = client.consumeWise
 collection = db.products
 
-# Define the prompt that will be passed to the OpenAI API
-label_reader_prompt = """
+# Define the prompt as a constant
+LABEL_READER_PROMPT = """
 You will be provided with a set of images corresponding to a single product. These images are found printed on the packaging of the product.
 Your goal will be to extract information from these images to populate the schema provided. Here is some information you will routinely encounter. Ensure that you capture complete information, especially for nutritional information and ingredients:
 - Ingredients: List of ingredients in the item. They may have some percent listed in brackets. They may also have metadata or classification like Preservative (INS 211) where INS 211 forms the metadata. Structure accordingly. If ingredients have subingredients like sugar: added sugar, trans sugar, treat them as different ingredients.
@@ -47,24 +45,23 @@ Your goal will be to extract information from these images to populate the schem
 - Serving size: This might be explicitly stated or inferred from the nutrients per serving.
 """
 
-# Function to extract information from image URLs
-def extract_information(image_links):
-    print("in extract_information")
-    image_message = [{"type": "image_url", "image_url": {"url": il}} for il in image_links]
-    
-    # Send the request to OpenAI API with the images and prompt
-    response = openai_client.chat.completions.create(
-        model="gpt-4o",
-        messages=[
-            {
-                "role": "user",
-                "content": [
-                    {"type": "text", "text": label_reader_prompt},
-                    *image_message,
-                ],
-            },
-        ],
-        response_format={"type": "json_schema", "json_schema": {
+async def extract_information(image_links: List[str]) -> Dict[str, Any]:
+    """Extract information from product images using OpenAI API."""
+    try:
+        image_message = [{"type": "image_url", "image_url": {"url": il}} for il in image_links]
+        
+        response = await openai_client.chat.completions.create(
+            model="gpt-4-vision-preview",  # Corrected model name
+            messages=[
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "text", "text": LABEL_READER_PROMPT},
+                        *image_message,
+                    ],
+                },
+            ],
+            response_format={"type": "json_schema", "json_schema": {
             "name": "label_reader",
             "schema": {
                 "type": "object",
@@ -141,90 +138,67 @@ def extract_information(image_links):
             },
             "strict": True
         }}
-    )
-    
-    # Extract and return the relevant response
-    
-    return response.choices[0].message.content
+    )        
+        return json.loads(response.choices[0].message.content)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error extracting information: {str(e)}")
 
-#Extract text from image
-@app_fastapi.post("/api/extract-data")
-async def extract_data(image_links):
+@app.post("/api/extract-data")
+async def extract_data(image_links: List[str]):
+    """Extract data from product images and store in database."""
+    if not image_links:
+        raise HTTPException(status_code=400, detail="No image URLs provided")
+    
     try:
-        if not image_links:
-            return {"error": "No image URLs provided"}
-        
-        # Call the extraction function
         extracted_data = await extract_information(image_links)
-        print(f"extracted data : {extracted_data} ")
-        print(f"extracted data : {type(extracted_data)} ")
-        
-        if extracted_data:
-            extracted_data_json = await json.loads(extracted_data)
-            # Store in MongoDB
-            await collection.insert_one(extracted_data_json)
-            return extracted_data
-        else:
-            return {"error": "Failed to extract information"}
-        
-    except Exception as error:
-        return {"error": str(error)}
+        result = await collection.insert_one(extracted_data)
+        extracted_data["_id"] = str(result.inserted_id)
+        return extracted_data
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/find-product")
+async def find_product(product_name: str):
+    """Find products by name with improved search functionality."""
+    if not product_name:
+        raise HTTPException(status_code=400, detail="Please provide a valid product name")
     
-@app_fastapi.get("/api/find-product")
-async def find_product(product_name):
-    try: 
-        if product_name:            
-            # Split the input product name into words
-            words = product_name.split()
-            result = [' '.join(words[:i]) for i in range(2, len(words) + 1)]
-            list_names = result + words
+    try:
+        words = product_name.split()
+        search_terms = [
+            ' '.join(words[:i]) for i in range(2, len(words) + 1)
+        ] + words
 
-            # # Create a regex pattern that matches all the words (case-insensitive)
-            # regex_pattern = ".*".join(words)  # This ensures all words appear in sequence
-            # query = {"productName": {"$regex": re.compile(regex_pattern, re.IGNORECASE)}}
-            product_list = []
-            for i in list_names:
-            # Find all products matching the regex pattern
-                query = {"productName": {"$regex": re.compile(i, re.IGNORECASE)}}
-                products = await collection.find(query)
-                for product in products:
-                    brand_product_name = product['productName'] + " by " + product['brandName']
-                    #Remove repitition words that appear consecutively - Example - Cadbury cadbury dairy milk chocolate
-                    if brand_product_name.lower() not in [product.lower() for product in product_list]:
-                        product_list.append(brand_product_name)
-            
-            # # Create a list of product names that match the query
-            # product_list = [product['productName'] for product in products]
+        product_list = set()  # Use set to avoid duplicates
+        
+        for term in search_terms:
+            query = {"productName": {"$regex": f".*{re.escape(term)}.*", "$options": "i"}}
+            async for product in collection.find(query):
+                brand_product_name = f"{product['productName']} by {product['brandName']}"
+                product_list.add(brand_product_name)
+        
+        return {
+            "products": list(product_list),
+            "message": "Products found" if product_list else "No products found"
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/get-product")
+async def get_product(product_name: str):
+    """Get detailed product information by name."""
+    if not product_name:
+        raise HTTPException(status_code=400, detail="Please provide a valid product name")
     
-            if product_list:
-                return {"products": product_list, "message": "Products found"}
-            else:
-                return {"products": [], "message": "No products found"}
-        else:
-            return {"error": "Please provide a valid product name or id"}
-    except Exception as error:
-        return {"error": str(error)}
-
-@app_fastapi.get("/api/get-product")
-async def get_product(product_name):
-    try:        
-        if product_name:
-            product = await collection.find_one({"productName": product_name})
-        else:
-            return {"error": "Please provide a valid product name or id"}
-
+    try:
+        product = await collection.find_one({"productName": product_name})
         if not product:
-            print("Product not found.")
-            return {"error": "Product not found"}
-        if product:
-            product['_id'] = str(product['_id'])  # Convert ObjectId to string
-            product_str = await json.dumps(product, indent=4)  # Convert product to JSON string
-            print(f"Found product: {product_str}")
-            return product  # Return the product as a JSON
+            raise HTTPException(status_code=404, detail="Product not found")
         
-    except Exception as error:
-        return {"error": str(error)}
-
+        product["_id"] = str(product["_id"])
+        return product
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
     import uvicorn
