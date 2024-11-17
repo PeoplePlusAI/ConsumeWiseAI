@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "data_extractor.py", "use": "@vercel/python" },
+    { "src": "nutrient_analyzer.py", "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "src": "/api/extract-data", "dest": "/data_extractor.py" },
+    { "src": "/api/find-product", "dest": "/data_extractor.py" },
+    { "src": "/api/get-product", "dest": "/data_extractor.py" },
+    { "src": "/api/another-endpoint", "dest": "/nutrient_analyzer.py" }
+  ]
+}
