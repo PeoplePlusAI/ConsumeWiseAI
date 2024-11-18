@@ -2,3 +2,7 @@ openai
 pymongo
 sentence_transformers
 openpyxl
+fastapi
+motor
+python-dotenv
+uvicorn
