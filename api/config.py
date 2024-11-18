@@ -1,6 +1,0 @@
-import os
-
-MONGODB_URL = os.getenv("MONGODB_URL")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-LABEL_READER_PROMPT = os.getenv("LABEL_READER_PROMPT")
