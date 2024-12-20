@@ -1,8 +1,10 @@
 openai
-pymongo
+pymongo>=4.9
 sentence_transformers
 openpyxl
 fastapi
-motor
+motor>=3.6
 python-dotenv
 uvicorn
+tenacity
+nest_asyncio

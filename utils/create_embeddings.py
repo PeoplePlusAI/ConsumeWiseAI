@@ -1,7 +1,6 @@
-from calc_cosine_similarity import find_cosine_similarity, find_embedding , find_relevant_file_paths
+from api.calc_cosine_similarity import find_cosine_similarity, find_embedding , find_relevant_file_paths
 import os
 import pickle
-
 embeddings_titles = []
 if not os.path.exists('embeddings.pkl'):
     #Find embeddings of titles from titles.txt
