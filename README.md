@@ -20,7 +20,7 @@ git clone https://github.com/PeoplePlusAI/ConsumeWise.git
 Each folder contains a `requirements.txt` file with the necessary dependencies. To install them, run the following commands:
 
 ```bash
-pip install -r path_to_requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Running the Project
