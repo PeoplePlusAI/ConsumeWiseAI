@@ -13,7 +13,7 @@ Learn more about the project [here](https://docs.google.com/document/d/e/2PACX-1
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/PeoplePlusAI/ConsumeWise.git
+git clone https://github.com/PeoplePlusAI/ConsumeWiseAI.git
 ```
 
 ### Install Dependencies
