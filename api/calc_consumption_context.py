@@ -33,7 +33,7 @@ def get_consumption_context(user_query, client):
     #user_query = "Kinder Joy by Kinder"
     #user_query = "Whey Protein"
 
-    df = create_Assistant('docs/Actionable_Insight.xlsx')
+    df = create_Assistant('rag_docs/Actionable_Insight.xlsx')
     #call chatgpt to pick the correct category based on string created from every row of df => f"{Row num};{df['Category']};{df['Sub-category']};{df['Product Examples']}". Output must be the row num of the selected string
     df_str = ""
     # Iterate over the DataFrame rows

@@ -22,7 +22,7 @@ def create_assistant(client):
     vector_store3 = client.beta.vector_stores.create(name="Misleading Claims Vec")
     
     # Ready the files for upload to OpenAI
-    file_paths = ["docs/MisLeading_Claims.docx"]
+    file_paths = ["rag_docs/MisLeading_Claims.docx"]
     file_streams = [open(path, "rb") for path in file_paths]
     
     # Use the upload and poll SDK helper to upload the files, add them to the vector store,

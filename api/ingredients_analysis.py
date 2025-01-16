@@ -83,7 +83,7 @@ def get_files_with_ingredient_info(ingredient, embeddings_titles_list, N=1):
     file_paths = []
     refs = []
     if len(file_paths_abs_1) == 0 and len(file_paths_abs_2) == 0:
-        file_paths.append("docs/Ingredients.docx")
+        file_paths.append("rag_docs/Ingredients.docx")
     else:
         for file_path in file_paths_abs_1:
             file_paths.append(file_path)
@@ -228,7 +228,7 @@ def get_assistant_for_ingredient(ingredient, client, embeddings_titles_list, def
 
     # Ready the files for upload to OpenAI.     
     file_paths, refs = get_files_with_ingredient_info(ingredient, embeddings_titles_list, N)
-    if file_paths[0] == "docs/Ingredients.docx":
+    if file_paths[0] == "rag_docs/Ingredients.docx":
         print(f"Using Ingredients.docx for analyzing ingredient {ingredient}")
         return default_assistant, [], file_paths
         
@@ -278,7 +278,7 @@ def create_default_assistant(client):
     )
 
     
-    file_streams = [open("docs/Ingredients.docx", "rb")]
+    file_streams = [open("rag_docs/Ingredients.docx", "rb")]
     
     # Use the upload and poll SDK helper to upload the files, add them to the vector store,
     # and poll the status of the file batch for completion.
@@ -387,9 +387,11 @@ async def async_process_ingredients(ingredients_list, client, embeddings_titles_
     refs = []
     for result in results:
         if result:
+
             ingredient_analysis, refs_ingredient = result
-            all_ingredient_analysis += ingredient_analysis
-            refs.extend(refs_ingredient)
+            if ingredient_analysis and refs_ingredient:
+                all_ingredient_analysis += ingredient_analysis
+                refs.extend(refs_ingredient)
     
     return refs, all_ingredient_analysis
 
@@ -416,7 +418,7 @@ async def get_ingredient_analysis(payload):
 
             #Create assistant for processing level
             #assistant_p, embeddings_titles_list = create_assistant_and_embeddings(client, ['docs/embeddings.pkl', 'docs/embeddings_harvard.pkl'])
-            embeddings_file_list = ['docs/embeddings.pkl', 'docs/embeddings_harvard.pkl']
+            embeddings_file_list = ['rag_docs/embeddings.pkl', 'rag_docs/embeddings_harvard.pkl']
             
             embeddings_titles_list = []
             for embeddings_file in embeddings_file_list:

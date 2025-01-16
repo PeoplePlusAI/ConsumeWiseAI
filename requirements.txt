@@ -8,3 +8,4 @@ python-dotenv
 uvicorn
 tenacity
 nest_asyncio
+streamlit

@@ -425,10 +425,7 @@ class ChatManager:
             if msg != "product not found because image is not clear" and "Product information could not be extracted from the image" not in msg:
                 response = msg
                 status = "success"
-
-                # sujal code
-            # elif msg == "product not found because image is not clear":
-            elif msg is not None:
+            elif msg == "product not found because image is not clear":
                 response = msg + ". Please share clear image URLs!"
                 status = "no success"
             else:
