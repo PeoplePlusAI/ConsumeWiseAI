@@ -11,7 +11,7 @@ COPY . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Make port 8080 available to the world outside this container
-EXPOSE 8080
+EXPOSE 8501
 
 # Define environment variables
 ENV OPENAI_API_KEY=your_openai_api_key_here
