@@ -1,0 +1,155 @@
+.body-top-bg-image {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+
+.body-bottom-bg-image {
+    position: fixed;
+    bottom: 1.029rem;
+    left: 0;
+    z-index: -1;
+}
+
+.homepage-main-text {
+    margin-top: 2.2rem;
+    margin-bottom: 2.4rem;
+    color: #005C75;
+    font-family: Poppins;
+    font-size: clamp(2rem, 3vw, 2.625rem);
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.homepage-main-text .special-text {
+    background: linear-gradient(90deg, #A55D3D 31.2%, #65A782 45.69%, #6B538C 64.91%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: clamp(2.2rem, 3vw, 2.625rem);
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+}
+
+.homepage-button-container {
+    margin: 1.8rem 0;
+    gap: 1.753rem;
+}
+
+.homepage-button-container a {
+    text-decoration: none;
+}
+
+.homepage-button {
+    display: flex;
+    height: 4rem;
+    width: 25.741rem;
+    padding: 0.548rem 2rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.548rem;
+    border-radius: 0.438rem;
+    background: #005C75;
+    color: #FFF;
+    text-align: center;
+    font-family: "Segoe UI";
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+/* .homepage-button:last-child{
+    width: 29.246rem;
+} */
+
+.homepage-button:hover {
+    background: #005c75d0;
+    color: #FFF;
+}
+
+.disclaimer-container {
+    width: 65vw;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: #FFF;
+    box-shadow: 0px 5.99px 37.44px 0px rgba(7, 5, 26, 0.07);
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+    padding: 0.875rem 1.75rem;
+}
+
+.disclaimer-container .disclaimer-text {
+    color: #005C75;
+    font-family: Inter;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 0.625rem !important;
+}
+
+.disclaimer-container ul li {
+    color: #838383;
+    font-family: Inter;
+    font-size: 0.813rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.186%;
+}
+
+.disclaimer-container .disclaimer-link-text {
+    color: #007BFF;
+    font-family: Inter !important;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 144.186%;
+    text-decoration: none;
+}
+
+.instruction-modal .modal-dialog *{
+    font-family: Inter !important;
+}
+
+.instruction-modal .close-button{
+    background: #005C75;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .peoplePlusAI-logo {
+        max-width: 284px;
+        width: 60%;
+        height: auto;
+    }
+
+    .homepage-button {
+        display: flex;
+        height: 3.5rem;
+        min-width: 60vw;
+        max-width: 80vw;
+        padding: 1.2rem 1.3rem;
+        justify-content: center;
+        align-items: center;
+        gap: 0.548rem;
+        border-radius: 0.438rem;
+        background: #005C75;
+        color: #FFF;
+        text-align: center;
+        font-family: "Segoe UI";
+        font-size: 1.06rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+
+    .disclaimer-container {
+        width: 80%;
+        margin-top: 4rem;
+        padding: 0.875rem 1rem;
+    }
+}
