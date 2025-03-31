@@ -1,0 +1,215 @@
+Title: The 10 Best Ways to Measure Your Body Fat Percentage
+
+
+
+There are many ways to measure body fat percentage. However, the most accurate measurements aren’t available at home.
+It can be frustrating to step on the scale and see no change.
+While it’s natural to want objective feedback on your progress, body weight shouldn’t be your main focus.
+Some “overweight” people are healthy, while others with “normal weight” are unhealthy.
+However, your body fat percentage tells you what your weight is comprised of.
+Specifically, it tells you the percent of your total body weight that is fat. The lower your body fat percentage, the higher percentage of  lean muscle mass  you have on your frame.
+Here are the 10 best ways to measure your body fat percentage.
+
+1. Skinfold Calipers
+Skinfold measurements have been used to estimate body fat for over 50 years ( 1 ).
+Skinfold calipers measure the thickness of your subcutaneous fat — the fat underneath the skin — at certain body locations.
+Measurements are taken at either 3 or 7 different sites on the body. The specific sites used vary in men and women.
+For women, the triceps, area above the hip bone and either the thigh or abdomen are used for the 3-site measurement ( 2 ).
+For a 7-site measurement in women, the chest, area near the armpit and area beneath the shoulder blade are also measured.
+For men, the 3 sites are the chest,  abdomen  and thigh, or the chest, triceps and area beneath the scapula ( 2 ).
+For a 7-site measurement in men, the areas near the armpit and beneath the shoulder blade are also measured.
+Advantages:  Skinfold calipers are very affordable, and measurements can be taken quickly. They can be used at home but are also portable.
+Disadvantages:  The method requires practice and basic anatomy knowledge. Also, some people don’t enjoy getting their fat pinched.
+Availability:  Calipers are affordable and easy to purchase online.
+Accuracy:  The skill of the person performing the skinfolds can vary, impacting the accuracy. Measurement errors can range from 3.5–5% body fat ( 3 ).
+Instructional video:  Here is an example of a  7-site skinfold assessment .
+Estimating body fat percentage with skinfold calipers is affordable and relatively simple once you know how to do it. However, the accuracy depends on the skill of the person performing the assessment.
+
+2. Body Circumference Measurements
+Body shape varies from person to person, and the shape of your body provides information about your body fat ( 4 ).
+Measuring the circumference of certain body parts is a simple method of body fat estimation.
+For example, the US Army uses a body fat calculation that simply requires an individual’s age, height and a few circumference measurements.
+For men, the circumferences of the neck and waist are used in this equation. For women, the circumference of the hips is also included ( 5 ).
+Advantages:  This method is easy and affordable. A flexible measuring tape and calculator are all you need. These tools can be used at home and are portable.
+Disadvantages:  Body circumference equations may not be accurate for all people due to differences in body shape and fat distribution.
+Availability:  A flexible measuring tape is easily available and very affordable.
+Accuracy:  The accuracy can vary widely based on your similarity to the people used to develop the equations. The error rate can be as low as 2.5–4.5% body fat, but it can also be much higher ( 3 ).
+Instructional video : Here is a  video  showing examples of girth measurements.
+Using body circumferences to estimate body fat is quick and easy. However, the accuracy of this method can vary widely and is not considered an ideal method of measuring body fat percentage.
+
+3. Dual-Energy X-ray Absorptiometry (DXA)
+As the name implies, DXA uses X-rays of two different energies to estimate your body fat percentage ( 6 ).
+During a DXA scan, you lie on your back for approximately 10 minutes while an X-ray scans over you.
+The amount of radiation from a DXA scan is very low. It’s about the same amount you receive during three hours of your normal life ( 7 ).
+DXA is also used to assess bone density and provides detailed information about the bone, lean mass and fat in separate body regions (arms, legs and torso) ( 8 ).
+Advantages:  This method provides accurate and detailed information, including a breakdown of different body regions and bone density readings.
+Disadvantages:  DXAs are often unavailable to the general public, expensive when available and deliver a very small amount of radiation.
+Availability:  A DXA is typically only available in medical or research settings.
+Accuracy:  A DXA provides more consistent results than some other methods. The error rate ranges from 2.5–3.5% body fat ( 3 ).
+Instructional video:  Here is a  video  showing how DXA works.
+DXA is more accurate than many other methods of assessing body fat percentage. However, it’s often unavailable to the general population, fairly expensive and not feasible for regular testing.
+
+4. Hydrostatic Weighing
+This method, also known as underwater weighing or hydrodensitometry, estimates your body composition based on its density ( 9 ).
+This technique weighs you while submerged under water after exhaling as much air as possible from your lungs.
+You are also weighed while you are on dry land, and the amount of air left in your lungs after you exhale is estimated or measured.
+All of this information is entered into equations to determine the density of your body. Your body’s density is then used to predict your body fat percentage.
+Advantages:  It’s accurate and relatively quick.
+Disadvantages:  It’s difficult or impossible for some individuals to be fully submerged under water. The method requires breathing out as much air as possible, then holding your breath underwater.
+Availability:  Hydrostatic weighing is typically only available at universities, medical settings or certain fitness facilities.
+Accuracy:  When testing is performed perfectly, the error of this device can be as low as 2% body fat ( 3 ,  10 ).
+Instructional video:  Here is an example of  how hydrostatic weighing is performed .
+Hydrostatic weighing is an accurate way to assess your body fat. However, it’s only available at certain facilities and involves holding your breath while being completely submerged in water.
+
+5. Air Displacement Plethysmography (Bod Pod)
+Similar to hydrostatic weighing, air displacement plethysmography (ADP) estimates your body fat percentage based on the density of your body ( 9 ).
+However, ADP uses air instead of water. The relationship between the volume and pressure of air allows this device to predict the density of your body ( 11 ).
+You sit inside an egg-shaped chamber for several minutes while the pressure of the air inside the chamber is altered.
+To obtain accurate measurements, you need to wear skin-tight clothing or a bathing suit during testing.
+Advantages:  The method is accurate and relatively quick, and it does not require being submerged in water.
+Disadvantages:  ADP has limited availability and can be expensive.
+Availability:  ADP is typically only available at universities, medical settings or certain fitness facilities.
+Accuracy:  The accuracy is very good, with an error rate of 2–4% body fat ( 3 ).
+Instructional video : This  video  shows a Bod Pod assessment.
+The Bod Pod is the main ADP device currently used. It predicts your body fat with air rather than water. It has good accuracy, but it’s typically only available at certain medical, research or fitness facilities.
+
+6. Bioelectrical Impedance Analysis (BIA)
+BIA devices detect how your body responds to small electrical currents. This is done by placing electrodes on your skin.
+Some electrodes send currents into your body, while others receive the signal after it has passed through your body tissues.
+Electrical currents move through muscle easier than fat due to the higher water content of muscle ( 12 ).
+The BIA device automatically enters your body’s response to the electrical currents into an equation that predicts your  body composition .
+There are many different BIA devices that vary widely in cost, complexity and accuracy.
+Advantages:  BIA is quick and easy, and many devices can be purchased by consumers.
+Disadvantages:  The accuracy varies widely and can be greatly affected by food and fluid intake.
+Availability:  While many units are available to consumers, these are often less accurate than the expensive devices used in medical or research settings.
+Accuracy:  Accuracy varies, with an error rate that ranges from 3.8–5% body fat but may be higher or lower depending on the device used ( 3 ,  13 ).
+Instructional videos:  Here are examples of inexpensive BIA devices with  hand electrodes ,  foot electrodes  and  hand and foot electrodes . Here is an example of a more  advanced BIA device .
+BIA devices work by sending small electrical currents through your body to see how easily they travel through your tissues. Many different devices are available, although advanced devices produce more accurate results.
+
+7. Bioimpedance Spectroscopy (BIS)
+BIS is similar to BIA in that both methods measure the body’s response to small electrical currents. BIS and BIA devices look similar but use different technology.
+BIS uses a much larger number of electrical currents than BIA, in addition to high and low frequencies, to mathematically predict your amount of body fluid ( 14 ).
+BIS also analyzes the information differently, and some researchers believe that BIS is more accurate than BIA ( 14 ,  15 ).
+However, similar to BIA, BIS uses the body fluid information it gathers to predict your body composition based on equations ( 15 ).
+The accuracy of both of these methods depends on how similar you are to the people for whom these equations were developed ( 12 ).
+Advantages:  BIS is quick and easy.
+Disadvantages:  Unlike BIA, consumer-grade BIS devices are not currently available.
+Availability:  BIS is typically only available at universities, medical settings or certain fitness facilities.
+Accuracy:  BIS is more accurate than consumer-grade BIA devices but has a similar error rate to more advanced BIA models (3–5% fat) ( 3 ,  16 ).
+Instructional video:  Here is a  video  that describes the differences between BIA and BIS.
+Similar to BIA, BIS measures your body’s response to small electrical currents. However, BIS uses more electrical currents and processes the information differently. It’s fairly accurate but mostly used in medical and research settings.
+
+8. Electrical Impedance Myography (EIM)
+Electrical impedance myography is a third method that measures your body’s response to small electrical currents.
+However, while BIA and BIS send currents through your whole body, EIM sends currents through smaller regions of your body ( 17 ).
+Recently, this technology has been used in inexpensive devices that are available to consumers.
+These devices are placed on different parts of the body to estimate the body fat of those specific areas ( 17 ).
+Because this device is placed directly on specific body regions, it has some similarities to skinfold calipers, although the technologies are very different.
+Advantages:  EIM is relatively quick and easy.
+Disadvantages:  Very little information is available about the accuracy of these devices.
+Availability:  Cheap devices are available to the general public.
+Accuracy:  Limited information is available, although one study reported 2.5–3% error relative to DXA ( 17 ).
+Instructional video:  Here is a  video  showing how to use an inexpensive, portable EIM device.
+EIM injects electrical currents into small body regions. Portable devices are placed directly on different body parts to estimate the body fat percentage at those locations. More research is needed to establish the accuracy of this method.
+
+9. 3-D Body Scanners
+3D body scanners use infrared sensors to get a detailed look at the shape of your body ( 18 ).
+The sensors generate a 3-D model of your body.
+For some devices, you stand on a rotating platform for several minutes while the sensors detect your body shape. Other devices use sensors that rotate around your body.
+The scanner’s equations then estimate your body fat percentage based on your body shape ( 19 ).
+In this way, 3-D body scanners are similar to circumference measurements. However, a greater amount of information is provided by a 3-D scanner ( 20 ).
+Advantages:  A 3-D body scan is relatively quick and easy.
+Disadvantages:  3-D body scanners are not commonly available but gaining popularity.
+Availability:  Several consumer-grade devices are available, but they’re not as affordable as simple circumference-measurement methods like skinfold calipers.
+Accuracy:  Limited information is available, but some 3-D scanners may be fairly accurate with errors of around 4% body fat ( 18 ).
+Instructional video:  Here is a  video  showing how a 3-D body scanner works.
+3-D scanners are a relatively new method of assessing body fat percentage. The method uses information about your body shape to predict your body fat percentage. More information is needed about the accuracy of these methods.
+
+10. Multi-Compartment Models (the Gold Standard)
+Multi-compartment models are considered to be the most accurate method of body composition assessment ( 3 ,  10 ).
+These models split the body into three or more parts. The most common assessments are called 3-compartment and 4-compartment models.
+These models require multiple tests to get estimates of body mass, body volume, body water and bone content ( 21 ).
+This information is obtained from some of the methods already discussed in this article.
+For example, hydrostatic weighing or ADP can provide body volume, BIS or BIA can provide body water and DXA can measure bone content.
+Information from each of these methods is combined to build a more complete picture of the body and obtain the most accurate body fat percentage ( 21 ,  22 ).
+Advantages:  This is the most accurate method available.
+Disadvantages:  It’s often unavailable to the general public and requires multiple different assessments. It’s more complex than most other methods.
+Availability:  Multi-compartment modeling is typically only available in select medical and research facilities.
+Accuracy:  This is the best method in terms of accuracy. Error rates can be under 1% body fat. These models are the true “gold standard” that other methods should be compared to ( 3 ).
+Multi-compartment models are very accurate and considered the “gold standard” for body fat assessment. However, they involve multiple tests and are not typically available to the general public.
+
+Which Method Is Best for You?
+Deciding which method of assessing body fat percentage is best for you isn’t easy.
+Here are several questions that may help you decide:
+What’s the purpose of assessing your body fat percentage?
+How important is high accuracy?
+How often do you want to test your body fat percentage?
+Do you want a method you can perform at home?
+How important is price?
+Some methods, such as skinfold measurements, circumference calculations and portable BIA devices, are inexpensive and allow you to be measured in your own home as frequently as you like. The devices can also be purchased online easily, such as on Amazon.
+Even though these methods don’t have the highest accuracy, they may be the best choice for you.
+Most of the methods with highest accuracies are not available to use in your own home. What’s more, when they are available at a testing facility, they may be expensive.
+If you want a more accurate assessment and are willing to pay for it, you could pursue a method with good accuracy like hydrostatic weighing, ADP or DXA.
+Whichever method you use, it’s important to use the same method consistently.
+For almost all methods, it’s best to perform your measurements in the morning after an overnight fast, after you go to the bathroom and before you eat anything or begin your daily activities.
+Ideally, you should do the test before you have anything to drink, especially for methods that rely on electrical signals like BIA, BIS and EIM.
+Assessing yourself the same way each time will reduce error rates and make it easier to tell if you are making progress.
+However, you should always interpret your results from any method with caution. Even the best methods are not perfect and only give you an estimate of your true body fat.
+
+References:
+
+https://www.healthline.com/nutrition/26-muscle-building-foods
+https://www.ncbi.nlm.nih.gov/pubmed/13321517
+https://www.healthline.comhttps://lccn.loc.gov/2012036403
+https://www.healthline.com/nutrition/20-tips-to-lose-belly-fat
+https://www.healthline.comhttps://lccn.loc.gov/2012036403
+https://www.healthline.comhttps://lccn.loc.gov/2016054140
+https://www.youtube.com/watch?v=ilkwxlt_TA8
+https://www.ncbi.nlm.nih.gov/pubmed/23519954
+https://www.army.mil/e2/downloads/rv7/r2/policydocs/r600_9.pdf
+https://www.healthline.comhttps://lccn.loc.gov/2016054140
+https://www.healthline.comhttps://youtu.be/BZcgppBXBlU?t=18
+https://www.ncbi.nlm.nih.gov/pubmed/24090645
+https://www.radiologyinfo.org/en/info.cfm?pg=safety-xray
+https://www.ncbi.nlm.nih.gov/pubmed/23643968
+https://www.healthline.comhttps://lccn.loc.gov/2016054140
+https://www.youtube.com/watch?v=OrpHNN6JypQ
+https://www.ncbi.nlm.nih.gov/pubmed/21719905
+https://www.healthline.comhttps://lccn.loc.gov/2016054140
+https://www.healthline.comhttps://lccn.loc.gov/2004026523
+https://www.youtube.com/watch?v=JPSEXhKBnQM
+https://www.ncbi.nlm.nih.gov/pubmed/21719905
+https://www.ncbi.nlm.nih.gov/pubmed/8614327
+https://www.healthline.comhttps://lccn.loc.gov/2016054140
+https://www.youtube.com/watch?v=pJD7BsP6AIs
+https://www.ncbi.nlm.nih.gov/pubmed/15380917
+https://www.healthline.com/nutrition/improve-body-composition
+https://www.healthline.comhttps://lccn.loc.gov/2016054140
+https://www.ncbi.nlm.nih.gov/pubmed/23299866
+https://www.youtube.com/watch?v=We69x9KAdm8
+https://www.youtube.com/watch?v=i3bKd97sQIA
+https://www.youtube.com/watch?v=cEofxCIQ7gM
+https://www.youtube.com/watch?v=xTGHXxEEbnY
+https://www.ncbi.nlm.nih.gov/pubmed/9572833
+https://www.ncbi.nlm.nih.gov/pubmed/9572833
+https://www.ncbi.nlm.nih.gov/pubmed/23299872
+https://www.ncbi.nlm.nih.gov/pubmed/23299872
+https://www.ncbi.nlm.nih.gov/pubmed/15380917
+https://www.healthline.comhttps://lccn.loc.gov/2016054140
+https://www.ncbi.nlm.nih.gov/pubmed/18258622
+https://www.healthline.comhttps://vimeo.com/246287711
+https://www.ncbi.nlm.nih.gov/pubmed/29544083
+https://www.ncbi.nlm.nih.gov/pubmed/29544083
+https://www.ncbi.nlm.nih.gov/pubmed/29544083
+https://www.youtube.com/watch?v=XALLpwKwWTI
+https://www.ncbi.nlm.nih.gov/pubmed/27329614
+https://www.ncbi.nlm.nih.gov/pubmed/21552454
+https://www.ncbi.nlm.nih.gov/pubmed/29288245
+https://www.ncbi.nlm.nih.gov/pubmed/27329614
+https://www.youtube.com/watch?v=asYqxE7hb0s
+https://www.healthline.comhttps://lccn.loc.gov/2016054140
+https://www.healthline.comhttps://lccn.loc.gov/2004026523
+https://www.ncbi.nlm.nih.gov/pubmed/12399267
+https://www.ncbi.nlm.nih.gov/pubmed/12399267
+https://www.ncbi.nlm.nih.gov/pubmed/28825351
+https://www.healthline.comhttps://lccn.loc.gov/2016054140

@@ -1,0 +1,67 @@
+Title: Lectins
+
+Lectins, or hemagglutinins, are an “ anti-nutrient ” that have received much attention due to popular media and fad diet books citing lectins as a major cause for obesity, chronic inflammation, and autoimmune diseases. They are found in all plants, but raw  legumes  (beans,  lentils , peas, soybeans, peanuts) and whole grains like wheat contain the highest amounts of lectins. Is there truth behind these claims?
+
+The Problem With Lectins
+Lectins are defined as proteins that bind to carbohydrates. The same features that lectins use to defend plants in nature may cause problems during human digestion. They resist being broken down in the gut and are stable in acidic environments, features that protect lectin-containing plants in nature. [1]
+When consumed, lectins in their active state can cause negative side effects. The most publicized accounts report severe reactions in people eating even small amounts of raw or undercooked kidney beans. They contain phytohaemagglutinin, a type of lectin that can cause red blood cells to clump together. It can also produce nausea, vomiting, stomach upset, and diarrhea. [2] Milder side effects include bloating and gas.
+Animal and cell studies have found that active lectins can interfere with the absorption of minerals, especially  calcium ,  iron ,  phosphorus , and  zinc . Legumes and cereals often contain these minerals, so the concurrent presence of lectins may prevent the absorption and use of these minerals in the body. Lectins can also bind to cells lining the digestive tract. This may disrupt the breakdown and absorption of nutrients, and affect the growth and action of intestinal flora. Because lectin proteins bind to cells for long periods of time, they can potentially cause an autoimmune response and are theorized to play a role in inflammatory conditions like rheumatoid arthritis and type 1 diabetes. [2,3]
+These theories have fueled the profitable anti-lectin movement, spawning bestselling books and enzyme supplements to prevent lectin activity in the body. However, there is very limited research in humans on the amount of active lectins consumed in the diet and their long-term health effects. Anti-nutrients including lectins are most often studied in the diets of developing countries where malnutrition is prevalent, or where food variety is very limited and whole grains and legumes are important daily staples. [4,5]
+
+How To Reduce Lectins In Food
+It is important to remember that eating foods with a high amount of active lectins is rare. One reason is that lectins are most potent in their raw state, and foods containing them are not typically eaten raw. Cooking, especially with wet high-heat methods like boiling or stewing, or soaking in water for several hours, can inactivate most lectins. [6] Lectins are water-soluble and typically found on the outer surface of a food, so exposure to water removes them.
+An example is dried beans. To prepare them for eating, they are soaked for several hours and then boiled for several more hours to soften the bean, which disables the action of lectins. Canned beans are cooked and packaged in liquid, so they are also low in lectins. However, raw beans simmered at low heat such as in a slow-cooker or undercooking the beans will not remove all the lectins.
+The body can produce enzymes during digestion that degrades some lectins. Other processes that deactivate the compounds are sprouting grains and beans, and mechanically removing the outer hull of beans and wheat grains that contain the most lectins.
+There are different types of lectins in different foods, and the reactions people have to them vary widely. It is possible that one who has an underlying digestive sensitivity, such as irritable bowel syndrome, may be more likely to experience negative symptoms from eating lectins and other  anti-nutrients . Because the reported symptoms of lectin sensitivity are recognizable with physical discomfort, a reasonable solution may be to eat less of or less often the foods that cause digestive problems.
+
+The Benefits of Lectin-Containing Foods
+Lectins can act as an  antioxidant , which protects cells from damage caused by free radicals. They also slow down digestion and the absorption of  carbohydrates , which may prevent sharp rises in blood sugar and high insulin levels. Early research is also looking at the use of non-toxic low amounts of certain lectins to help stimulate gut cell growth in patients who are unable to eat for long periods, and in anticancer treatments due to the ability of lectins to cause cancer cell death. [2,6-7]
+In many large population studies, lectin-containing foods like  legumes ,  whole grains , and  nuts  are associated with weight loss and lower rates of cardiovascular disease and type 2 diabetes. [8-11] These foods are rich sources of  B vitamins ,  protein ,  fiber , and minerals, and  healthy fats . Thus, the health benefits of consuming these foods far outweigh the potential harm of lectins in these foods.
+
+Related
+Are Anti-Nutrients Harmful?
+Peumans WJ, Van Damme EJ. Lectins as plant defense proteins.  Plant physiology . 1995 Oct;109(2):347.
+Vasconcelos IM, Oliveira JT. Antinutritional properties of plant lectins.  Toxicon . 2004 Sep 15;44(4):385-403.
+Freed, DLJ. Do dietary lectins cause disease? The evidence is suggestive—and raises interesting possibilities for treatment.  BMJ . 1999 Apr 17; 318(7190): 1023–1024.
+Gibson RS, Bailey KB, Gibbs M, Ferguson EL. A review of phytate, iron, zinc, and calcium concentrations in plant-based complementary foods used in low-income countries and implications for bioavailability.  Food Nutr Bull . 2010 Jun;31(2 Suppl):S134-46.
+Roos N, Sørensen JC, Sørensen H, Rasmussen SK, Briend A, Yang Z, Huffman SL. Screening for anti-nutritional compounds in complementary foods and food aid products for infants and young children.  Matern Child Nutr . 2013 Jan;9 Suppl 1:47-71.
+Petroski W, Minich DM. Is There Such a Thing as “Anti-Nutrients”? A Narrative Review of Perceived Problematic Plant Compounds.  Nutrients . 2020 Oct;12(10):2929.
+Liu Z, Luo Y, Zhou TT, Zhang WZ. Could plant lectins become promising anti-tumour drugs for causing autophagic cell death?  Cell Prolif . 2013 Oct;46(5):509-15.
+Raben A, Tagliabue A, Christensen NJ, Madsen J, Holst JJ, Astrup A. Resistant starch: the effect on postprandial glycemia, hormonal response, and satiety. Am J Clin Nutr . 1994 Oct 1;60(4):544-51.
+Liu S, Stampfer MJ, Hu FB, et al. Whole-grain consumption and risk of coronary heart disease: results from the Nurses’ Health Study.  Am J Clin Nutr . 1999;70:412-9.
+Aune D, Norat T, Romundstad P, Vatten LJ. Whole grain and refined grain consumption and the risk of type 2 diabetes: a systematic review and dose-response meta-analysis of cohort studies.  Eur J Epidemiol . 2013;28:845-58.
+de Munter JS, Hu FB, Spiegelman D, Franz M, van Dam RM. Whole grain, bran, and germ intake and risk of type 2 diabetes: a prospective cohort study and systematic review.  PLoS Med . 2007;4:e261.
+Last reviewed January 2022
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/food-features/lentils/
+https://nutritionsource.hsph.harvard.edu/calcium/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/phosphorus/
+https://nutritionsource.hsph.harvard.edu/zinc/
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/
+https://nutritionsource.hsph.harvard.edu/antioxidants/
+https://nutritionsource.hsph.harvard.edu/carbohydrates/
+https://nutritionsource.hsph.harvard.edu/2015/11/16/ask-the-expert-legumes-and-resistant-starch/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/
+https://nutritionsource.hsph.harvard.edu/carbohydrates/fiber/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/fats-and-cholesterol/
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC157596/
+https://www.sciencedirect.com/science/article/pii/S0041010104001916
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1115436/
+http://journals.sagepub.com/doi/abs/10.1177/15648265100312S206
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1740-8709.2012.00449.x
+https://www.mdpi.com/837782
+https://onlinelibrary.wiley.com/doi/abs/10.1111/cpr.12054
+https://academic.oup.com/ajcn/article-abstract/60/4/544/4731987
+https://academic.oup.com/ajcn/article-abstract/70/3/412/4714879
+https://link.springer.com/10.1007/s10654-013-9852-5
+http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0040261

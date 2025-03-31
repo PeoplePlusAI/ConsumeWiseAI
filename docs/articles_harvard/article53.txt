@@ -1,0 +1,20 @@
+Title: Incidence of obesity-related cancers is rising in younger adults
+
+In the past few decades, great progress has been made in the fight against  cancer . However a disturbing new pattern is emerging in younger adults: the younger the generation, the greater the risk of developing certain cancers—especially obesity-related cancers such as of the colon and pancreas. Several cancers are linked with carrying excess body weight, and the rise of obesity in younger ages means a longer lifetime exposure to the negative metabolic effects of obesity.
+Researchers from the American Cancer Society collected data from 25 state cancer registries for people ages 25-84 diagnosed with any cancer from 1995 to 2014. [1] Over this time period, incidence rates of 6 of 12 obesity-related cancers—multiple myeloma, colorectal, uterine, gallbladder, kidney, and pancreatic—increased significantly in the youngest age group of 25-49 years (with the sharpest increases in progressively younger ages). Although the incidence of these cancers also rose in older age groups, the rate of increase was much smaller.
+Interestingly the incidence of most other cancer types not related to obesity did not increase in the younger age group, with some decreasing such as smoking-related cancers like lung cancer. The authors observed that the increase in obesity-related cancers occurred in tandem with an increase in obesity rates in youth. Between 1980 and 2014, the prevalence of overweight/obesity in U.S. children and adolescents increased by more than 100%.
+“The results from the American Cancer Society study are alarming, though not entirely surprising, given that obesity is associated with at least a dozen types of cancers,” said  Dr. Ed Giovannucci , professor in the Harvard Chan School’s departments of nutrition and epidemiology, who was not involved in the study. “We suspected that the recent rises in obesity rates in children and adolescents might affect rates of these cancers, but we did not have clear data until this study. It appears that at least 6 of these obesity-related cancers have shown recent increases in young-onset cancer, which parallels the increasing rates of obesity.  Unfortunately, this  has countered some of the advances we had made through lower smoking rates, screening, and improvement in treatment.”
+Obesity prevention  and control remains an urgent public health issue, requiring individual and societal action. Obesity-related cancers emerging in younger adults will only increase their disease burden as they age, and they run the risk of developing other weight-related conditions such as  type 2 diabetes ,  cardiovascular disease , and osteoarthritis.
+Related
+Healthy Weight
+References
+Sung H, Siegel RL, Rosenberg PS, Jemal A. Emerging cancer trends among young adults in the USA: analysis of population-based cancer registry.  The Lancet Public Health .  2019 Feb 3.
+
+References:
+https://nutritionsource.hsph.harvard.edu/cancer/
+https://www.hsph.harvard.edu/edward-giovannucci/
+https://www.hsph.harvard.edu/obesity-prevention-source/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/preventing-diabetes-full-story/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/healthy-weight/
+https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(18)30267-6/fulltext

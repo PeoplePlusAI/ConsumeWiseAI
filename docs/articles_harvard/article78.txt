@@ -1,0 +1,29 @@
+Title: How Meat Is Cooked May Affect Risk of Type 2 Diabetes
+
+You may have heard that grilling and barbecuing meats may create cancer-causing substances. You may have also heard that eating a lot of red meat—especially processed meats—may be  linked to certain cancers . Now, new research suggests a possible connection between high-heat meat cooking and type 2 diabetes.
+The study, published in  Diabetes Care  by researchers from the Harvard Chan School of Public Health’s Department of Nutrition, found that frequent use of high-heat cooking methods (such as broiling, barbecuing/grilling, and roasting) to prepare beef and chicken increased the risk of type 2 diabetes. [1] Based on data from three large cohorts followed for 12 to 16 years—including more than 289,000 men and women from the Nurses’ Health Studies and the Health Professionals Follow-up Study—researchers found that participants who most frequently ate meats and chicken cooked at high temperatures were 1.5 times more likely to develop type 2 diabetes, compared to those who ate the least. There was also an increased risk of weight gain and developing obesity in the frequent users of high-temperature cooking methods, which may have contributed to the development of diabetes. Of note, this research demonstrated that cooking methods might contribute to  diabetes risk  beyond the effects of meat consumption alone.
+Other key highlights from the study:
+Participants who ate red meat and chicken that were cooked to a well-done or charred level showed a significantly increased risk of type 2 diabetes compared with those who ate meat and chicken that were lightly browned.
+There was no association found between broiling fish and type 2 diabetes risk, although the authors noted that there were fewer data available overall on cooking methods for fish intake, so the smaller number of people may have made it difficult to see an association. Information was also not available on cooking methods of other meats like lamb and pork.
+According to the authors, the exact mechanisms contributing to the increased risk are not known, but they cite the potential role of harmful chemicals such as polycyclic aromatic hydrocarbons, heterocyclic aromatic amines, and nitrosamines (from nitrates and nitrites added to meats as a preservative) formed during high-heat cooking. These chemicals may spur an inflammatory response, interfere with the normal production of insulin, or promote insulin resistance in which the body cannot use insulin properly to regulate blood sugar levels.
+It has been established that a high intake of red and especially processed meats can increase the risk of conditions including  heart disease, stroke, diabetes, certain cancers , and  early death . Possible reasons include the presence of heme iron, a type of iron found in all animal foods, and the processing of meats (e.g., curing, smoking), both of which may promote the formation of cancer-causing compounds during high-heat cooking methods.
+This study found that certain cooking methods—regardless of how much meat was eaten—increased disease risk; and chicken as well as red meat cooked at high temperatures increased risk. Those who have or are at risk for developing type 2 diabetes who eat meat, chicken, and fish regularly may choose cooking methods that use lower temperatures, or brief periods of high heat, such as with slow cookers, baking, sous-vide, boiling, steaming, stewing, and stir-frying, while avoiding high-heat and open-flame methods like grilling, barbecuing, broiling, and roasting.
+“Our research suggests that not only the amount and types of meat but also the cooking methods can make a difference in diabetes risk,” said  Gang Liu , a Research Fellow at Harvard T.H. Chan School of Public Health’s Department of Nutrition and lead author of the study. “To lower diabetes risk, it is important to reduce red and processed meat consumption, which can be replaced by other protein sources such as chicken, fish, and plant-protein foods. This study further suggests that when cooking meats, chicken, or fish, it may be better to avoid high-temperature cooking methods including grilling or barbecuing, and instead choose moderate-temperature cooking methods such as stir-frying, sautéing, boiling, or steaming.”
+Related
+Preventing Diabetes
+Grilling, high-temperature cooking linked with high blood pressure  [ Harvard Chan News ]
+A Healthy Summertime Picnic
+References
+Liu G, Zong G, Wu K, Hu Y, Li Y, Willett WC, Eisenberg DM, Hu FB, Sun Q. Meat Cooking Methods and Risk of Type 2 Diabetes: Results From Three Prospective Cohort Studies.  Diabetes Care . 2018 Mar 9:dc171992.
+
+References:
+https://nutritionsource.hsph.harvard.edu/2015/11/03/report-says-eating-processed-meat-is-carcinogenic-understanding-the-findings/
+http://care.diabetesjournals.org/content/early/2018/03/05/dc17-1992
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/
+https://nutritionsource.hsph.harvard.edu/2015/11/03/report-says-eating-processed-meat-is-carcinogenic-understanding-the-findings/
+https://nutritionsource.hsph.harvard.edu/2016/08/09/processed-red-meat-higher-risk-of-death-plant-protein-lower-risk/
+https://www.hsph.harvard.edu/gang-liu/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/
+https://www.hsph.harvard.edu/news/hsph-in-the-news/grilling-high-temperature-cooking-high-blood-pressure/
+https://nutritionsource.hsph.harvard.edu/2017/06/29/healthy-summer-picnic/
+http://care.diabetesjournals.org/content/early/2018/03/05/dc17-1992

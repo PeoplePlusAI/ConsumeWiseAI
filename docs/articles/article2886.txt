@@ -1,0 +1,150 @@
+Title: Methionine: Functions, Food Sources and Side Effects
+
+Methionine is an amino acid that is used to build molecules important for cell and DNA function. Meat, eggs, fish, and other foods containing protein will have some methionine in them.
+Amino acids help build the proteins that make up the tissues and organs of your body.
+In addition to this critical function, some amino acids have other special roles.
+Methionine is an amino acid that is used to produce several important molecules in your body. These molecules are essential for the proper functioning of your cells.
+Because of the important molecules it produces, some recommend increasing methionine intake. However, others recommend limiting it due to possible negative side effects.
+This article will discuss the importance of methionine and whether you need to worry about the amount of it in your diet. Sources and potential side effects are also discussed.
+
+What is methionine?
+Methionine is an amino acid found in many proteins, including the proteins in foods and those found in the tissues and organs of your body.
+In addition to being a building block for proteins, it has several other unique features.
+One of these is its ability to be converted into important sulfur-containing molecules ( 1 ).
+Sulfur-containing molecules have a variety of functions, including the protection of your tissues, modifying your DNA and maintaining proper functioning of your cells ( 2 ,  3 ).
+These important molecules must be made from amino acids that contain sulfur. Of the amino acids used to make proteins in the body, only methionine and cysteine contain sulfur.
+Although your body can produce the amino acid cysteine on its own, methionine must come from your diet ( 4 ).
+
+It can produce molecules critical for normal cell function
+One of the major roles of methionine in the body is that it can be used to produce other important molecules.
+It is involved in the production of cysteine, the other sulfur-containing amino acid used to buil 3d proteins in the body ( 5 ).
+Cysteine can, in turn, create a variety of molecules, including proteins, glutathione and taurine ( 6 ).
+Glutathione is sometimes called the “master antioxidant” due to its critical role in the defenses of your body ( 2 ,  7 ).
+It also plays a role in the metabolism of nutrients in the body and the production of DNA and proteins ( 2 ).
+Taurine has many functions that help maintain the health and proper functioning of your cells ( 8 ).
+One of the most important molecules methionine can be converted into is S-adenosylmethionine, or “SAM”.
+SAM participates in many different chemical reactions by transferring part of itself to other molecules, including DNA and proteins ( 3 ,  9 ).
+SAM is also used in the production of  creatine , an important molecule for cellular energy ( 10 ,  11 ).
+Overall, methionine is directly or indirectly involved in many important processes in the body because of the molecules it can become.
+
+It plays a role in DNA methylation
+Your DNA contains the information that makes you who you are.
+While much of this information may stay the same for your whole life, environmental factors can actually change some aspects of your DNA.
+This is one of the most interesting roles of methionine — that it can convert into a molecule called SAM. SAM can change your DNA by adding a methyl group (a carbon atom and its attached hydrogen atoms) to it ( 9 ).
+The amount of methionine in your diet may affect how much of this process occurs, but there are many unanswered questions about this.
+For example, some research has shown that diets higher in nutrients that add methyl groups to your DNA may lower risk of colorectal cancer ( 12 ).
+However, other research has shown that higher methionine intake could worsen conditions like schizophrenia, perhaps due to adding more methyl groups to DNA ( 13 ).
+
+Low-methionine diets extend lifespan in animals
+Although methionine has important roles in the body, some research shows benefits of diets that are low in this amino acid.
+Some cancer cells are dependent on dietary methionine to grow. In these cases, limiting your dietary intake could be beneficial to help starve cancer cells ( 14 ).
+Since proteins from plants are often lower in methionine than animal proteins, some researchers believe that plant-based diets could be a tool to fight some cancers and extend life ( 14 ,  15 ).
+Additionally, several studies in animals show that reducing methionine can increase lifespan and improve health ( 16 ,  17 ,  18 ).
+One study found that lifespan was over 40% longer in mice fed a low-methionine diet ( 16 ).
+This longevity may be due to improved stress resistance and metabolism as well as maintaining the ability for cells of the body to reproduce ( 19 ,  20 ).
+Some researchers concluded that the low methionine content acts to actually slow the rate of aging in mice ( 18 ).
+A more recent study in 2023 found that restricting methionine improved cognitive function in mice as well ( 21 ).
+Whether or not these benefits extend to humans isn’t clear yet, but some test-tube studies have shown benefits of low methionine content in human cells ( 19 ,  22 ).
+However, human research is needed before any conclusions can be made.
+
+Food sources of methionine
+While most protein-containing foods have some methionine, the amount varies widely. Eggs, fish and some meats contain high amounts of this amino acid ( 23 ).
+It is estimated that around 8% of the amino acids in egg whites are sulfur-containing amino acids (methionine and cysteine) ( 24 ).
+This value is about 5% in chicken and beef and 4% in dairy products.  Plant proteins  usually have even lower quantities of these amino acids.
+Some research has also examined the overall amount of the sulfur-containing amino acids (methionine and cysteine) in different types of diets.
+The highest content (6.8 grams per day) was reported in  high-protein diets , while lower intakes were present for lacto-ovo vegetarians (3.0 grams per day) and vegans (2.3 grams per day) ( 24 ).
+Despite the low intake among vegetarians, other research has shown that they actually have higher blood concentrations of methionine than those who eat meat and fish ( 25 ).
+This finding led the researchers to conclude that dietary content and blood concentrations of methionine are not always directly related.
+However, these studies did find that vegans have both low dietary intake and low blood concentrations of methionine ( 24 ,  25 ).
+
+Intake, toxicity and side effects
+Researchers have set a recommended daily intake of the sulfur-containing amino acids (methionine and cysteine), but studies have also examined side effects of higher doses.
+The daily recommended intake of methionine plus cysteine is 1.09 mg/lb (2.4 mg/kg) per day for adults, which is around 163.5 mg for someone weighing 150 pounds (68 kilograms) ( 26 ).
+However, some researchers have recommended consuming double this amount based on the limitations of the studies used to set the recommended intake ( 24 ).
+The elderly often have low methionine intake, and studies have shown that they may need higher intakes of 2 to 3 grams per day ( 24 ,  27 ,  28 ).
+Although certain positive results have been seen in the animal studies about lower methionine diets, there hasn’t been enough research in humans to be able to assume those same outcomes.
+Despite the fact that certain groups may benefit from increasing their methionine intake, many diets exceed 2 grams per day of methionine plus cysteine.
+A variety of diets, including vegan, vegetarian, traditional and high-protein diets are estimated to contain between 2.3 and 6.8 grams per day of these amino acids ( 24 ).
+Perhaps the largest concern associated with high methionine intake is due to one of the molecules this amino acid can produce.
+Methionine can be converted into homocysteine, an amino acid associated with several aspects of heart disease ( 29 ,  30 ).
+High intakes of methionine may lead to an increase in homocysteine, although some individuals are more susceptible to this process than others ( 31 ).
+Interestingly, research indicates that potential dangers of high methionine intake may be due to homocysteine rather than methionine itself ( 32 ).
+However, there are other factors that can alter homocysteine levels.
+For example, even though they have a lower dietary intake of methionine, vegans and vegetarians may have higher homocysteine than omnivores due to low vitamin B12 intake ( 33 ).
+Other research has shown a high-protein, high-methionine diet didn’t increase homocysteine after six months, compared to a low-protein, low-methionine diet ( 34 ).
+Additionally, altering intake by up to 100% does not appear to affect homocysteine in healthy adults without vitamin deficiencies ( 35 ).
+To evaluate the body’s responses to methionine, researchers will give a single large dose of this amino acid and observe the effects.
+This dose is far larger than the recommended intake, often around 45 mg/lb (100 mg/kg), or 6.8 grams for someone who weighs 150 pounds (68 kilograms) ( 31 ).
+This type of test has been performed over 6,000 times, with primarily minor side effects. These minor side effects include dizziness, sleepiness and changes in blood pressure ( 31 ).
+One major adverse event occurred during one of these tests, which resulted in the death of an individual with high blood pressure but good health otherwise ( 36 ).
+However, it seems likely that an accidental overdose of approximately 70 times the recommended intake caused the complications ( 36 ).
+Overall, it appears that methionine is not particularly toxic in healthy humans, except at extremely high doses that would be virtually impossible to obtain through the diet.
+Even though methionine is involved in the production of homocysteine, there is no evidence that intake within a typical range is dangerous for heart health ( 31 ).
+
+The bottom line
+Methionine is a unique sulfur-containing amino acid that can be used to build proteins and produce many molecules in the body.
+These include the antioxidant glutathione and the molecule SAM, which is used to modify DNA and other molecules.
+Methionine is found in a variety of protein-containing foods and is often higher in animal proteins than plant proteins. Although low-methionine diets have been shown to extend lifespan in animals, whether this has importance for humans is not yet clear.
+Individuals consuming many different types of diets typically meet the recommended intake of methionine, although some elderly individuals may benefit from increasing their intake.
+Side effects in response to large doses are typically minor but could become dangerous at extremely high doses beyond what could be obtained by a normal diet.
+Based on available research in healthy humans, you probably don’t need to specifically limit or increase methionine intake in your diet.
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6361141/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/14988435/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28929442/
+https://www.nap.edu/read/10490/chapter/12
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2901774/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5618090/
+https://www.ncbi.nlm.nih.gov/pubmed/14988435
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4630702/
+https://www.ncbi.nlm.nih.gov/pubmed/14988435
+https://www.ncbi.nlm.nih.gov/pubmed/23170060
+https://www.sciencedirect.com/science/article/pii/B9780124201941000270
+https://www.ncbi.nlm.nih.gov/pubmed/23180741
+https://www.healthline.com/nutrition/10-benefits-of-creatine
+https://www.ncbi.nlm.nih.gov/pubmed/26542286
+https://www.ncbi.nlm.nih.gov/pubmed/21390528
+https://www.ncbi.nlm.nih.gov/pubmed/23180741
+https://www.ncbi.nlm.nih.gov/pubmed/17176213
+https://www.healthline.comhttps://ajp.psychiatryonline.org/doi/abs/10.1176/ajp.139.2.229
+https://www.ncbi.nlm.nih.gov/pubmed/22342103
+https://www.ncbi.nlm.nih.gov/pubmed/22342103
+https://www.ncbi.nlm.nih.gov/pubmed/18789600
+https://www.ncbi.nlm.nih.gov/pubmed/8001743
+https://www.ncbi.nlm.nih.gov/pubmed/15924568
+https://www.ncbi.nlm.nih.gov/pubmed/12543260
+https://www.ncbi.nlm.nih.gov/pubmed/8001743
+https://www.ncbi.nlm.nih.gov/pubmed/24830393
+https://www.ncbi.nlm.nih.gov/pubmed/22819757
+https://www.ncbi.nlm.nih.gov/pubmed/12543260
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9813720/
+https://www.ncbi.nlm.nih.gov/pubmed/24830393
+https://www.ncbi.nlm.nih.gov/pubmed/25273919
+https://www.texaschildrens.org/sites/default/files/uploads/Cystinuria_handout.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2198910/
+https://www.healthline.com/nutrition/protein-for-vegans-vegetarians
+https://www.healthline.com/nutrition/high-protein-diet-plan
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2198910/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4705437/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2198910/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4705437/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10334138/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2198910/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2198910/
+https://www.ncbi.nlm.nih.gov/pubmed/14253894/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10574673/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2198910/
+https://www.ncbi.nlm.nih.gov/pubmed/25577237
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3026708/
+https://www.healthline.comhttps://academic.oup.com/jn/article/136/6/1722S/4664469
+https://www.ncbi.nlm.nih.gov/pubmed/11179277
+https://www.ncbi.nlm.nih.gov/pubmed/11053901
+https://www.ncbi.nlm.nih.gov/pubmed/12450883
+https://www.ncbi.nlm.nih.gov/pubmed/11053502
+https://www.healthline.comhttps://academic.oup.com/jn/article/136/6/1722S/4664469
+https://www.healthline.comhttps://academic.oup.com/jn/article/136/6/1722S/4664469
+https://www.ncbi.nlm.nih.gov/pubmed/12067919
+https://www.ncbi.nlm.nih.gov/pubmed/12067919
+https://www.healthline.comhttps://academic.oup.com/jn/article/136/6/1722S/4664469

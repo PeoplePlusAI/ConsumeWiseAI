@@ -1,0 +1,225 @@
+Title: Does Nutrition Play a Role in ADHD?
+
+
+There’s no evidence that diet causes the behavioral disorder ADHD.
+However, research suggests that for some people, dietary changes can help to improve symptoms.
+In fact, a substantial amount of research has examined how nutrition affects ADHD.
+This article is an overview of these findings, discussing foods, diets, and supplements involved.
+
+What is ADHD?
+Attention deficit hyperactivity disorder (ADHD)  is a neurodevelopmental disorder involving inattention, hyperactivity, and impulsiveness ( 1 ,  2 ).
+It’s one of the most common disorders children can have but also affects many adults ( 3 ,  4 ).
+The exact cause of ADHD is unclear, but research shows that genetics play a major role. Other factors, such as environmental toxicity and poor nutrition during infancy, have also been implicated ( 5 ,  6 ,  7 ,  8 ).
+ADHD is believed to originate from low levels of dopamine and noradrenaline in the region of the brain responsible for self-regulation ( 9 ,  10 ,  11 ).
+When these functions are impaired, people struggle to complete tasks, perceive time, stay focused, and curb inappropriate behavior ( 12 ,  13 ,  14 ).
+In turn, this affects their ability to work, do well in school, and maintain appropriate relationships, which can decrease quality of life ( 15 ,  16 ,  17 ,  18 ,  19 ).
+ADHD is not considered to be a curable disorder, and treatment instead aims to reduce symptoms. Behavioral therapy and medication are mostly used ( 20 ,  21 ).
+However, dietary changes may also help to manage symptoms ( 1 ,  22 ).
+ADHD is a complicated behavioral disorder. Common treatments include therapy and medication. Dietary changes may also be useful.
+
+Nutrition and behavior
+The science behind the effect of food on behavior is still quite new and controversial. However, certain foods do affect behavior.
+For example,  caffeine  can increase alertness,  chocolate  can affect mood, and  alcohol  can change behavior ( 23 ).
+Nutritional deficiencies can also affect behavior. One study concluded that taking a supplement of essential fatty acids, vitamins, and minerals led to a significant reduction in antisocial behavior, compared with a placebo ( 24 ).
+Studies suggest vitamin and mineral supplements can also reduce antisocial behavior in children, and polyunsaturated fatty acids have been shown to decrease violent behavior ( 25 ,  26 ).
+Since foods and supplements may influence behavior, it seems plausible that they could also affect ADHD symptoms, which are largely behavioral.
+For this reason, a good amount of nutrition research has looked into the effects of foods and supplements on ADHD.
+Mostly, two types of studies have been performed:
+Supplement studies.   These focus on supplementing with one or several nutrients.
+Elimination studies.   These focus on eliminating one or several ingredients from the diet.
+Studies indicate that certain foods and supplements do affect behavior. For these reasons, quite a few studies have looked into how nutrition affects ADHD symptoms, which are mostly behavioral.
+
+Supplement studies: A research review
+Many studies have shown that children with ADHD aren’t eating a well-balanced diet and have  nutrient deficiencies  ( 27 ,  28 ,  29 ,  30 ).
+This caused researchers to speculate that supplements might help improve symptoms.
+Nutrition studies have looked into the effects of several supplements on ADHD symptoms, including:
+amino acids
+vitamins
+minerals
+omega-3 fatty acids
+Every cell in your body needs amino acids to function. Among other things, amino acids are used to make neurotransmitters, or signaling molecules in the brain.
+In particular, the amino acids phenylalanine, tyrosine, and tryptophan are used to make the neurotransmitters dopamine, serotonin, and norepinephrine.
+People with ADHD have been shown to have problems with these neurotransmitters, as well as low blood and urine levels of these amino acids ( 31 ,  32 ).
+For this reason, a few studies have examined how amino acid supplements affect ADHD symptoms in children.
+Tyrosine and s-adenosylmethionine supplements have provided mixed results, with some studies showing no effects and others showing modest benefits ( 33 ,  34 ,  35 ).
+Amino acid supplements for ADHD show some promise, but more studies need to be done. For now, the results are mixed.
+Iron and zinc deficiencies can cause mental impairment in all children, whether or not they have ADHD ( 36 ,  37 ,  38 ).
+However, lower levels of zinc, magnesium, calcium, and phosphorous have repeatedly been reported in children with ADHD ( 39 ,  40 ,  41 ).
+Several studies have looked into the effects of zinc supplements, and all of them reported improvements in symptoms ( 42 ,  43 ,  44 ).
+Two other studies assessed the effects of iron supplements on children with ADHD. They also found improvements, but again, more research is needed ( 45 ,  46 ).
+The effects of mega doses of vitamins B6, B5, B3, and C have also been examined, but no improvements to ADHD symptoms were reported ( 47 ,  48 ).
+Nevertheless, a 2014 trial of a  multivitamin  and mineral supplement did find an effect. The adults taking the supplement showed improvement on ADHD rating scales after 8 weeks, compared with the placebo group ( 49 ,  50 ).
+The results from vitamin and mineral supplement studies have been mixed, but several show promise.
+Omega-3 fatty acids play  important roles  in the brain.
+Children with ADHD generally have lower levels of  omega-3  fatty acids than children who don’t have ADHD ( 51 ,  52 ).
+What’s more, the lower their omega-3 levels, the more learning and behavioral problems the children with ADHD have ( 53 ).
+Therefore, it’s unsurprising that many studies have found omega-3 supplements to cause modest improvements to ADHD symptoms ( 54 ,  55 ,  56 ,  57 ,  58 ).
+Omega-3 fatty acids appeared to help improve task completion and inattention. Additionally, they decreased aggression, restlessness, impulsiveness, and hyperactivity ( 59 ,  60 ,  61 ,  62 ,  63 ,  64 ,  65 ).
+However, not all researchers are convinced. One analysis of studies, estimating ADHD symptoms using the Connor’s rating scale (CRS), concluded that there’s poor evidence supporting the claim that omega-3 supplements improve ADHD symptoms in children ( 66 ).
+Numerous trials have found that omega-3 supplements can bring about modest improvements in ADHD symptoms, although the evidence is not entirely consistent.
+
+Elimination studies: A research review
+People with ADHD are more likely to have adverse reactions to food, causing speculation that eliminating problematic foods might help to improve symptoms ( 30 ,  67 ).
+Studies have examined the effects of eliminating many ingredients, including:
+food additives
+preservatives
+sweeteners
+allergenic foods
+By accident, an allergist named Dr. Feingold discovered that food could affect behavior.
+In the 1970s, he prescribed a diet to his patients that eliminated certain ingredients that produced a reaction for them.
+The diet was free of salicylates, which are compounds found in many foods, medications, and food additives.
+While on the diet, some of Feingold’s patients noted an improvement in their behavioral problems.
+Soon after, Feingold started recruiting children diagnosed with hyperactivity for dietary experiments. He claimed that 30–50% of them improved on the diet ( 68 ).
+His work was celebrated by many parents, who formed the still-existent Feingold Association of the United States ( 69 ).
+Although reviews concluded the Feingold diet was not an effective intervention for hyperactivity, it stimulated further research into the effects of food and additive elimination on ADHD ( 70 ,  71 ,  72 ).
+Some medical professionals strongly advise against using salicylate elimination diets in the treatment of ADHD. The diet may cause nutritional deficiencies and promote food aversion among children ( 73 ).
+The Feingold diet pioneered elimination diet research for ADHD. Dr. Feingold claimed it improved symptoms in children with ADHD, although evidence is lacking.
+After the Feingold diet was no longer considered effective, researchers narrowed their focus to look at artificial food colors (AFCs) and preservatives.
+This is because these substances seem to affect the behavior of children, regardless of whether or not they have ADHD ( 74 ,  75 ).
+One study followed 800 children suspected of hyperactivity. Of the group, 75% of them improved while on an AFC-free diet, but relapsed once given AFCs again ( 76 ).
+Another study found that hyperactivity was increased when 1,873 children consumed AFCs and sodium benzoate, which is a preservative ( 77 ).
+Even though these studies indicate that AFCs can increase hyperactivity, many people claim the evidence is not strong enough ( 1 ,  54 ,  78 ,  79 ,  80 ,  81 ).
+Nonetheless, the Food and Drug Administration (FDA) requires certain AFCs to be listed on food packages. The European Union (EU) additionally requires foods containing AFCs to have a  warning label  listing adverse effects to children’s attention and behavior ( 82 ,  83 ,  84 ).
+AFCs may affect behavior in children, although some say the evidence is not strong enough. However, the FDA and the EU require food labels to list additives.
+Soft drinks  have been linked to increased hyperactivity, and low blood sugar is also common in those with ADHD ( 85 ,  86 ). (same link as below)
+Furthermore, some observational studies have found  sugar intake  to be related to ADHD symptoms in children and adolescents ( 87 ).
+However, one review looking into sugar and behavior found no effects. Two trials studying the artificial sweetener  aspartame  also found no effects ( 88 ,  89 ,  90 ).
+Theoretically, it’s more likely that sugar causes inattention, rather than hyperactivity, as blood sugar imbalances can cause attention levels to drop.
+Sugar and artificial sweeteners have not been shown to directly affect ADHD. However, they may have indirect effects.
+The Few Foods Elimination Diet is a method that tests how people with ADHD respond to foods. Here’s how it works:
+Elimination.  This step involves following a very restricted diet of low-allergen foods that are unlikely to cause adverse effects. If symptoms get better, enter the next phase.
+Reintroduction.  Foods suspected of causing adverse effects are reintroduced every 3–7 days. If symptoms return, the food is identified as “sensitizing.”
+Treatment.  A personal dietary protocol is prescribed during this step. It avoids sensitizing foods as much as possible, in order to minimize symptoms.
+Twelve different studies have tested this diet, each of which lasted 1–5 weeks and included 21–50 children.
+Eleven of the studies found a statistically significant decrease in ADHD symptoms in 50–80% of the participants, while the other one found improvements in 24% of the children ( 91 ,  92 ,  93 ,  94 ,  95 ,  96 ,  97 ,  98 ,  99 ,  100 ,  101 ,  102 ).
+Of the children who responded to the diet, most reacted to more than one food. While this reaction varied by individual, cow’s milk and wheat were the most common offenders ( 92 ,  94 ,  100 ).
+The reason why this diet works for some children and not others is unknown.
+The Few Foods Elimination Diet is a diagnostic tool to rule out problems with food. All studies have found a favorable effect in a subgroup of children, usually more than half.
+
+The bottom line
+Research on the effects of food on ADHD symptoms is far from conclusive.
+Yet, the studies mentioned here suggest that diet can have powerful effects on behavior.
+
+References:
+
+https://www.healthline.com/health/adhd
+https://www.ncbi.nlm.nih.gov/pubmed/24934907
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)66915-2/abstract
+https://www.ncbi.nlm.nih.gov/pubmed/24464188
+http://www.cdc.gov/ncbddd/adhd/prevalence.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3449233/
+https://www.ncbi.nlm.nih.gov/pubmed/2387786
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3301995/
+https://www.ncbi.nlm.nih.gov/pubmed/23419800
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3055423/
+https://www.ncbi.nlm.nih.gov/pubmed/18480676
+http://www.sciencedirect.com/science/article/pii/S0165017303001437
+https://www.ncbi.nlm.nih.gov/pubmed/18803914
+https://www.ncbi.nlm.nih.gov/pubmed/18254913
+https://www.ncbi.nlm.nih.gov/pubmed/12562056
+https://www.ncbi.nlm.nih.gov/pubmed/17483870
+https://www.ncbi.nlm.nih.gov/pubmed/20159496
+https://www.ncbi.nlm.nih.gov/pubmed/18505771
+https://www.ncbi.nlm.nih.gov/pubmed/20697799
+https://www.ncbi.nlm.nih.gov/pubmed/18423074
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2518387/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3126733/
+https://www.ncbi.nlm.nih.gov/pubmed/24934907
+https://www.healthline.comhttp://jad.sagepub.com/content/3/1/30.abstract
+https://www.healthline.com/nutrition/how-much-caffeine-in-coffee
+https://www.healthline.com/nutrition/7-health-benefits-dark-chocolate
+https://www.healthline.com/nutrition/alcohol-good-or-bad
+https://www.ncbi.nlm.nih.gov/pubmed/17181902
+https://www.ncbi.nlm.nih.gov/pubmed/12091259
+https://www.ncbi.nlm.nih.gov/pubmed/10706231
+https://www.ncbi.nlm.nih.gov/pubmed/17433442
+https://www.healthline.com/nutrition/7-common-nutrient-deficiencies
+https://www.ncbi.nlm.nih.gov/pubmed/22232312
+https://www.ncbi.nlm.nih.gov/pubmed/23291218
+https://www.ncbi.nlm.nih.gov/pubmed/20631199
+https://www.ncbi.nlm.nih.gov/pubmed/24493267
+https://www.ncbi.nlm.nih.gov/pubmed/16961424
+https://www.ncbi.nlm.nih.gov/pubmed/2001444
+https://www.ncbi.nlm.nih.gov/pubmed/3528266
+https://www.ncbi.nlm.nih.gov/pubmed/3300376
+https://www.ncbi.nlm.nih.gov/pubmed/2236465
+https://www.ncbi.nlm.nih.gov/pubmed/16770951
+https://www.ncbi.nlm.nih.gov/pubmed/24717366
+https://www.ncbi.nlm.nih.gov/pubmed/20881069
+https://www.ncbi.nlm.nih.gov/pubmed/9368235
+https://www.ncbi.nlm.nih.gov/pubmed/16846100
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212392/
+https://www.ncbi.nlm.nih.gov/pubmed/15070418
+https://www.ncbi.nlm.nih.gov/pubmed/21309695
+https://www.ncbi.nlm.nih.gov/pubmed/14687872
+https://www.ncbi.nlm.nih.gov/pubmed/9246217
+https://www.ncbi.nlm.nih.gov/pubmed/18054688
+https://www.ncbi.nlm.nih.gov/pubmed/712981
+https://www.ncbi.nlm.nih.gov/pubmed/6234505
+https://www.healthline.com/nutrition/do-multivitamins-work
+https://www.ncbi.nlm.nih.gov/pubmed/24482441
+https://www.ncbi.nlm.nih.gov/pubmed/24804687
+https://www.healthline.com/nutrition/17-health-benefits-of-omega-3
+https://www.healthline.com/nutrition/omega-3-guide
+https://www.ncbi.nlm.nih.gov/pubmed/22786509
+https://www.ncbi.nlm.nih.gov/pubmed/7572706
+https://www.ncbi.nlm.nih.gov/pubmed/16962757
+https://www.ncbi.nlm.nih.gov/pubmed/23360949
+https://www.ncbi.nlm.nih.gov/pubmed/22345102
+https://www.ncbi.nlm.nih.gov/pubmed/25581035
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4170184/
+https://www.ncbi.nlm.nih.gov/pubmed/26551407
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3625948/
+https://www.ncbi.nlm.nih.gov/pubmed/22596014
+https://www.ncbi.nlm.nih.gov/pubmed/14669965
+https://www.ncbi.nlm.nih.gov/pubmed/20491709
+https://www.ncbi.nlm.nih.gov/pubmed/17435458
+https://www.ncbi.nlm.nih.gov/pubmed/19436468
+https://www.ncbi.nlm.nih.gov/pubmed/22541055
+https://www.ncbi.nlm.nih.gov/pubmed/30594823
+https://www.ncbi.nlm.nih.gov/pubmed/24493267
+https://www.ncbi.nlm.nih.gov/pubmed/8257176
+https://www.healthline.comhttp://ldx.sagepub.com/content/9/9/551.short
+https://www.ncbi.nlm.nih.gov/pubmed/21127082
+https://www.ncbi.nlm.nih.gov/pubmed/6886553
+https://www.ncbi.nlm.nih.gov/pubmed/6875141
+https://www.ncbi.nlm.nih.gov/pubmed/6886552
+https://www.ncbi.nlm.nih.gov/pubmed/23919705
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441937/
+https://www.ncbi.nlm.nih.gov/pubmed/17825405
+https://www.ncbi.nlm.nih.gov/pubmed/7965420
+https://www.healthline.comhttp://adc.bmj.com/content/89/6/506.short
+https://www.ncbi.nlm.nih.gov/pubmed/24934907
+https://www.ncbi.nlm.nih.gov/pubmed/23360949
+https://www.ncbi.nlm.nih.gov/pubmed/15613992
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.1475-3588.2010.00563.x/abstract
+https://www.ncbi.nlm.nih.gov/pubmed/22176942
+https://www.healthline.comhttps://foodpoisoningbulletin.com/wp-content/uploads/FAC-Color-Additives-ADHD.pdf
+https://www.healthline.com/nutrition/how-to-read-food-labels
+https://www.food.gov.uk/science/additives/foodcolours
+http://www.fda.gov/ForIndustry/ColorAdditives/ColorAdditiveInventories/ucm115641.htm#ftnote3
+http://www.fda.gov/ForIndustry/ColorAdditives/ColorAdditiveInventories/ucm106626.htm
+https://www.healthline.com/nutrition/13-ways-sugary-soda-is-bad-for-you
+https://www.ncbi.nlm.nih.gov/pubmed/8043116
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1586153/
+https://www.healthline.com/nutrition/how-much-sugar-per-day
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3133757/
+https://www.healthline.com/nutrition/aspartame-good-or-bad
+https://www.ncbi.nlm.nih.gov/pubmed/7474248
+https://www.ncbi.nlm.nih.gov/pubmed/7505423
+https://www.ncbi.nlm.nih.gov/pubmed/3296793
+https://www.ncbi.nlm.nih.gov/pubmed/8179235
+https://www.ncbi.nlm.nih.gov/pubmed/8257176
+http://www.thelancet.com/journals/lancet/article/PII0140-6736(92)90742-L/abstract
+https://www.ncbi.nlm.nih.gov/pubmed/2857900
+https://www.healthline.comhttp://ldx.sagepub.com/content/11/6/383.short
+https://www.ncbi.nlm.nih.gov/pubmed/2909977
+https://www.ncbi.nlm.nih.gov/pubmed/9257090
+https://www.ncbi.nlm.nih.gov/pubmed/9243241
+https://www.ncbi.nlm.nih.gov/pubmed/12532668
+https://www.ncbi.nlm.nih.gov/pubmed/18431534
+https://www.ncbi.nlm.nih.gov/pubmed/21296237
+https://www.ncbi.nlm.nih.gov/pubmed/9459674
+https://www.ncbi.nlm.nih.gov/pubmed/8257176
+https://www.ncbi.nlm.nih.gov/pubmed/2857900
+https://www.ncbi.nlm.nih.gov/pubmed/18431534

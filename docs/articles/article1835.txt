@@ -1,0 +1,104 @@
+Title: Is BMI a Fair Health Metric for Black Women?
+
+Body mass index (BMI) is an estimate of body fat. It’s calculated using a statistical ratio of weight to height and applied based on your sex assigned at birth ( 1 ,  2 ).
+Developed over a century ago by Adolphe Quetelet, BMI has been an important measurement to characterize obesity at the public health level ( 3 ).
+More recently, however, it’s been challenged for its discrepancies. BMI may misclassify rates of overweight and obesity in historically marginalized ethnic populations, particularly Black women.
+This article discusses the history of the BMI, whether it discriminates against Black women, and other metrics that Black women can use to gain insights into their health.
+
+Origins of BMI as a health indicator
+In 1842, Belgian astronomer and mathematician Lambert Adolphe Jacques Quetelet developed the BMI to identify statistical laws in the “average man” and observe how these appeared in the general population ( 3 ).
+A 1968 publication of Quetelet’s work revealed that he evaluated the growth, height, and weight of more than 9,000 white men, women, and children in Brussels and Belgium. He used the results to name “laws” of growth ( 4 ).
+These “laws” characterized changes in physical attributes — namely height, weight, and strength — that can be expected as humans age and develop from infancy to adulthood.
+This information was used to advance medicine at that time. It allowed medical practitioners to identify an individual based on their physical qualities and appropriately estimate their age.
+It was not until 1972, however, that nutritional epidemiologist and physician Ancel Keys determined that the BMI was a suitable indicator of  body fat percentage  in a population ( 3 ).
+Since then, the BMI has been relied on as a standardized measure of obesity in various populations and is a key metric in the healthcare field.
+The BMI was established in 1842 by Lambert Adolphe Jacques Quetelet to support medical advancements. It was institutionalized in 1972, when nutritional epidemiologist Ancel Keys decided it was a suitable indicator of body fat percentage.
+
+Does BMI discriminate against Black women?
+Given that the BMI was developed based on studies in white populations, its ability to accurately classify overweight and obesity in other populations has been questioned ( 5 ).
+Furthermore,  BMI has been adapted  to compare “healthy” and “unhealthy” weights. High BMI bodies have been stigmatized as “diseased bodies” in both scientific literature and media messaging ( 3 ).
+Furthermore, those  with high BMI bodies have been characterized  as lacking willpower. For people and populations that BMI misclassifies as overweight, there can be social and medical consequences.
+BMI is an index relating weight to height. Despite being an estimate of body fat, it does not take  body composition  into account — that is, the percent of weight that’s fat versus lean mass, like muscle ( 5 ).
+For instance, athletes or people with higher muscle mass percentages are often wrongly classified as overweight because of BMI readings, although their body fat percent may be within normal ranges ( 1 ).
+Generally, non-Hispanic Black men and women have lower body fat percentages and higher muscle mass compared with non-Hispanic white people and Mexican Americans ( 5 ,  6 ).
+This means that the BMI index may overestimate overweight and obesity in non-Hispanic Black men and women, and it potentially misclassifies them as “unhealthy.”
+Remember: Although BMI is an effective indicator to monitor changes at the population level, it’s insufficient as a sole measure to diagnose obesity in individuals ( 1 ,  3 ,  5 ).
+The BMI is applied in the same way for white, Hispanic, and Black people. However, it’s been adjusted for Asian populations, because it underestimates obesity in this group ( 1 ).
+People of Asian descent have a “normal-weight obesity” body type. This means that their BMI typically falls within the normal range, but they have a higher body fat percent at any given BMI ( 7 ,  8 ).
+Therefore, the BMI scale has been lowered to account for their body type and to correctly identify those at an increased  risk of developing type 2 diabetes , which is prevalent among Asian populations ( 7 ,  8 ).
+An older study showed that ethnic differences in body structure of Greenland Inuit populations compared with European and American white populations means that the BMI likely also overestimates overweight and obesity among the Inuit ( 9 ).
+Ethnic differences in body composition among women of African descent may be an underlying contributor to higher BMI rates among Black women. But those differences need to be studied to determine their clinical significance ( 5 ,  10 ).
+A study in counties across the United States demonstrated that  structural racism  — discriminatory policies that lead to health disparities and poor health outcomes in some individuals — influences higher BMI in Black people ( 10 ).
+BMI is strongly correlated with race. For example, white men have the lowest trajectories for weight gain, and Black women have the highest odds of developing obesity and higher BMIs — 6% higher than everyone else ( 10 ).
+Furthermore, the BMI may be considered inherently racist. Its metrics are based on a narrow study population of white people and don’t account for differences in body composition between ethnic groups, but it’s been used to classify obesity and “health” in these groups anyway.
+Racism continues to be of scientific interest for the role it plays in health disparities, BMI among racial and ethnic groups, and disease rates ( 10 ).
+BMI cannot distinguish body composition and often wrongly classifies people with higher muscle mass as overweight. It’s unclear if ethnic differences in body composition have clinical significance, but structural racism contributes to higher BMIs.
+
+Alternative health metrics for black women
+Accurate measures of excess body fat or obesity are important for screening tests, such as for type 2 diabetes.
+Here are three health metrics aside from BMI that may be more accurate for Black women.
+While the BMI is a good predictor of your risk of developing type 2 diabetes, it’s more accurate when combined with waist circumference measures ( 11 ).
+Waist circumference measures abdominal adiposity — the excess fat around organs — and is an independent predictor of  heart disease  and type 2 diabetes risks ( 12 ).
+Traditional recommendations indicate that waist circumference should be less than 35 inches (88 cm) in women and less than 40 inches (102 cm) in men ( 13 ).
+However, BMI-specific waist circumference recommendations are being developed across ethnic groups to provide more accurate health risk assessments ( 13 ).
+Another measure of abdominal obesity is the waist-to-hip ratio (WHR), which is a strong predictor of metabolic risk and heart disease ( 14 ).
+Combining this measure with the BMI produces strong insights into patterns of  body fat storage  and health risk ( 15 ).
+According to an older report from the World Health Organization, an ideal WHR is less than 0.85 for women, and 0.9 for men ( 16 ).
+Body impedance analysis (BIA) provides detailed information on body composition and can serve as a complementary measurement to the BMI.
+In some instances, BIA may be interchangeable with dual-energy X-ray absorptiometry — the gold standard for body composition measurements — in population studies ( 17 ).
+Measures of waist circumference, waist-to-hip ratio, and body impedance analysis support more accurate interpretations of BMI values for health risk screenings.
+
+The bottom line
+BMI relates weight to height and is an estimate of body fat and disease risk, although it’s not an accurate measure of body composition.
+People of African descent have been shown to have lower body fat percentage and higher muscle masses. Therefore, BMI may misclassify them as overweight or obese, since BMI doesn’t take variation in body composition into account.
+Plus, studies indicate that structural racism specifically leads to higher BMIs among Black women, potentially making the BMI an unfair metric for this population.
+More research is needed to clarify whether ethnic differences in body structure are clinically significant for disease outcomes.
+The BMI should not be used as a stand-alone measure. When it’s applied that way, it’s likely an unfair metric for Black women.
+Other measures, such as waist circumference, waist-to-hip ratio, and body impedance analysis, should be used to assess health risks.
+Try this today : In addition to monitoring your BMI, you may want to keep track of your  waist circumference  and  waist-to-hip ratio . Speak with a medical professional, like a primary care physician or registered dietitian, for help understanding what your numbers mean for you.
+
+References:
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31082114/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30389323/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31007613/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31007613/
+https://www.healthline.comhttps://onlinelibrary.wiley.com/doi/epdf/10.1002/j.1550-8528.1994.tb00047.x
+https://www.healthline.com/health/body-fat-scale-accuracy
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31007613/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4968570/
+https://www.healthline.com/nutrition/is-bmi-accurate
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31007613/
+https://www.healthline.com/health-news/my-doctor-fat-shamed-me
+https://www.healthline.com/nutrition/improve-body-composition
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4968570/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31082114/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4968570/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31368082/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31082114/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31007613/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4968570/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31082114/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30944050/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/23551121/
+https://www.healthline.com/nutrition/prevent-diabetes
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30944050/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/23551121/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/23986904/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4968570/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32863079/
+https://www.healthline.com/health/healthcare-provider/systemic-racism-in-american-healthcare
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32863079/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32863079/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32863079/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32004696/
+https://www.healthline.com/nutrition/best-diet-for-heart-health
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/25932676/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32020062/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32020062/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078643/
+https://www.healthline.com/health/types-of-body-fat
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31930817/
+https://www.healthline.comhttp://apps.who.int/iris/bitstream/handle/10665/44583/9789241501491_eng.pdf?sequence=1
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30001381/
+https://www.healthline.com/health/waistline
+https://www.healthline.com/health/waist-to-hip-ratio

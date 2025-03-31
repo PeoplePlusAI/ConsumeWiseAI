@@ -1,0 +1,46 @@
+Title: Nickel
+
+Nickel is a ubiquitous mineral found in soil, water, and air. In the human body, it is a component of certain enzymes involved with chemical reactions and may assist with iron absorption. The absorption of nickel can depend on specific foods it is eaten with, including  milk ,  tea ,  coffee , and orange juice, which either increase or decrease its absorption. However, studies suggest that the overall absorption of dietary nickel is low, at less than 10%, and the majority of ingested nickel exits the body in urine or stool. [1] Nickel is not stored in most tissues or organs, with the exception of the thyroid and adrenal glands.
+Recommended Dietary Allowance
+Research regarding the nutritional importance or biochemical function of nickel in the human body is not available. Therefore, a Recommended Dietary Allowance or Adequate Intake has not been set. [1]
+Food Sources
+Nickel is found mainly in plant foods that absorb nickel through soil and water. The amount of nickel in a food depends on the nickel content in the soil in which it was grown. Therefore, even the same food can vary in nickel content regionally. Cooking acidic foods in stainless steel utensils may increase their nickel content.
+The following foods have been found to have higher nickel content:
+Legumes
+Nuts , seeds
+Chocolate  (milk powder, candy)
+Oats
+Soybeans
+Toxicity
+There is no evidence of harmful effects of nickel obtained in the diet. The few cases of negative symptoms of gastrointestinal upset (nausea, vomiting, diarrhea, abdominal pain) of excess nickel intake occurred from accidental ingestion from contaminated water. [1]
+Allergic reactions to nickel
+People who are iron-deficient may absorb more nickel from the diet, as  iron  and nickel compete for absorption in the body. Therefore to reduce nickel absorption, it has been suggested to eat  iron-rich foods  and  vitamin C  (which improves the absorption of iron) with meals.
+Treating SCD with a low-nickel diet remains controversial. A Recommended Daily Allowance for nickel has not been set, so it is unclear what amount of dietary nickel may reduce symptoms of dermatitis. [4] Some studies estimate that people eat about 220-350 micrograms of nickel daily, so a restriction of less than 150 micrograms daily has been suggested for adults with suspected SCD, and less than 100 micrograms daily for children. The Low-Nickel Diet Scoring System with a points method was established to help those with SCD reduce dietary intake of nickel. [3] The Academy of Nutrition and Dietetics reports that following a low-nickel diet for 4-6 weeks is adequate to determine if nickel is a cause for SCD. [5]
+Related
+Vitamins and Minerals
+Institute of Medicine (US) Panel on Micronutrients. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc. Washington (DC): National Academies Press (US); 2001.
+Fabbro SK, Zirwas MJ. Systemic contact dermatitis to foods: nickel, BOP, and more. Curr Allergy  Asthma Rep . 2014 Oct;14(10):463.
+Mislankar M, Zirwas MJ. Low-nickel diet scoring system for systemic nickel allergy.  Dermatitis . 2013 Aug 1;24(4):190-5.
+Pizzutelli S. Systemic nickel hypersensitivity and diet: myth or reality?  Eur Ann Allergy Clin Immunol . 2011 Feb;43(1):5-18.
+Cunningham E. What Role Does Diet Play in the Management of Nickel Allergy?  J Acad Nutr Diet . 2017 Mar;117(3):500.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/milk/
+https://nutritionsource.hsph.harvard.edu/food-features/tea/
+https://nutritionsource.hsph.harvard.edu/food-features/coffee/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/food-features/dark-chocolate/
+https://nutritionsource.hsph.harvard.edu/food-features/oats/
+https://nutritionsource.hsph.harvard.edu/soy/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/vitamin-c/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://link.springer.com/article/10.1007/s11882-014-0463-3
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Mislankar+M%2C+Zirwas+MJ.+Low-nickel+diet+scoring+system+for+systemic+nickel+allergy.+Dermatitis.+2013+Jul-Aug%3B24%284%29%3A190-5.&btnG=#:~:text=include%20citations-,Low%2Dnickel%20diet%20scoring%20system%20for%20systemic%20nickel%20allergy,-M%20Mislankar%2C%20MJ
+http://www.eurannallergyimm.com/cont/journals-articles/211/volume-systemic-nickel-hypersensitivity-diet-myth-563allasp1.pdf
+https://pubmed.ncbi.nlm.nih.gov/28236963/

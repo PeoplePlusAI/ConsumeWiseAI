@@ -1,0 +1,164 @@
+Title: 4 Reasons Why Some People Do Well as Vegans (While Others Don’t)
+
+Debate about whether veganism is a healthy diet for humans or a fast track to deficiency has been raging since time immemorial (or at the very least, since the advent of Facebook).
+The controversy is fueled by ardent claims from both sides of the fence. Long-term vegans report good health, while former vegans recount their gradual or rapid decline.
+Luckily, science is nudging closer to an understanding of why people respond differently to low- or no-animal-food diets — with a great deal of the answer rooted in genetics and gut health.
+No matter how nutritionally adequate a vegan diet looks on paper, metabolic variation can determine whether someone thrives or flounders when going meat-free and beyond.
+
+1. Vitamin A conversion
+Vitamin A is a true rock star in the nutrient world. It helps maintain vision, supports the immune system, promotes healthy skin, assists in normal growth and development, and is vital for reproductive function, among other functions ( 1 ).
+Contrary to popular belief, plant foods don’t contain true vitamin A (known as retinol). Instead, they contain vitamin A precursors, the most famous of which is beta carotene.
+In the intestine and liver, beta carotene is converted into vitamin A by the enzyme beta-carotene-15,15′-monooxygenase (BCMO1) — a process that, when running smoothly, let’s your body make retinol from plant foods like carrots and sweet potatoes.
+Contrarily, animal foods supply vitamin A in the form of retinoids, which don’t require BCMO1 conversion.
+Here’s the bad news. Several gene mutations can slash BCMO1 activity and thwart carotenoid conversion, rendering plant foods inadequate as vitamin A sources.
+For example, two frequent polymorphisms in the BCMO1 gene (R267S and A379V) can collectively reduce beta carotene conversion by 69%. A less common mutation (T170M) can reduce conversion by about 90% in people who carry two copies ( 2 ,  3 ).
+In all, about 45% of the population carry polymorphisms that make them “low responders” to beta carotene ( 4 ).
+Furthermore, a host of non-genetic factors can lower carotenoid conversion and absorption as well, including low thyroid function, compromised gut health, alcoholism, liver disease, and zinc deficiency ( 5 ,  6 ,  7 ).
+If any of these get thrown into the poor-genetic-converter mix, the ability to produce retinol from plant foods can dwindle even further.
+So, why isn’t such a widespread issue causing mass epidemics of vitamin A deficiency? Simple: In the Western world, carotenoids provide less than 30% of people’s vitamin A intake, whereas animal foods provide over 70% ( 8 ).
+An omnivorous BCMO1 mutant can generally skate by on vitamin A from animal sources, blissfully unaware of the carotenoid battle waging within.
+But for those who eschew animal products, the effects of a dysfunctional BCMO1 gene will be obvious — and eventually detrimental.
+When poor converters go vegan, they can eat carrots until they’re orange in the face ( literally !) without obtaining enough vitamin A for optimal health.
+Carotenoid levels simply rise (hypercarotenemia), while vitamin A status nosedives (hypovitaminosis A), leading to deficiency amidst seemingly adequate intake ( 3 ).
+Even for low-converting vegetarians, the vitamin A content of dairy and eggs (which don’t hold a candle to meat products like liver) might not be enough to stave off deficiency, especially if absorption issues are also at play.
+Not surprisingly, the consequences of inadequate vitamin A mirror the problems reported by some vegans and vegetarians.
+Thyroid dysfunction, night blindness and other vision issues, impaired immunity (more colds and infections), and problems with tooth enamel can all result from poor vitamin A status ( 9 ,  10 ,  11 ,  12 ).
+Meanwhile, vegans with normal BCMO1 function who dine on plenty of carotenoid-rich fare can generally produce enough vitamin A from plant foods to stay healthy.
+People who are efficient carotenoid converters can generally get enough vitamin A on vegan diets, but poor converters can become deficient even when their intake meets recommended levels.
+
+2. Gut microbiome and vitamin K2
+Your gut microbiome — the collection of organisms residing in your colon — performs a  dizzying number of duties , ranging from nutrient synthesis to fiber fermentation to toxin neutralization ( 13 ).
+There’s ample evidence that your gut microbiome is flexible, with bacterial populations shifting in response to diet, age, and environment. But a great deal of your resident microbes is also inherited or otherwise established from a young age ( 13 ,  14 ).
+For instance, higher levels of  Bifidobacteria  are associated with the gene for lactase persistence (indicating a genetic component to the microbiome), and babies born vaginally scoop up their first bundle of microbes in the birth canal, leading to bacterial compositions that differ over the long term from babies born via cesarean section ( 15 ,  16 ).
+In addition, trauma to the microbiome — such as a bacterial wipeout from antibiotics, chemotherapy, or certain illnesses — can cause permanent changes to a once-healthy community of gut critters.
+There’s some evidence that certain bacterial populations never return to their former status after antibiotic exposure, stabilizing instead at less abundant levels ( 17 ,  18 ,  19 ,  20 ,  21 ).
+In other words, despite an overall adaptability of the gut microbiome, you might be “stuck” with certain features due to circumstances beyond your control.
+So, why does this matter for vegans? Your gut microbiome plays a significant role in how you respond to different foods and synthesize specific nutrients, and some microbial communities may be more veg-friendly than others.
+For example, certain gut bacteria are needed for synthesizing  vitamin K2  (menaquinone), a nutrient with unique benefits for skeletal health (including teeth), insulin sensitivity, and cardiovascular health, as well as prostate and liver cancer prevention ( 22 ,  23 ,  24 ,  25 ,  26 ,  27 ,  28 ,  29 ,  30 ).
+The main K2-producers include certain  Bacteroides  species,  Prevotella  species,  Escherichia coli , and  Klebsiella pneumoniae , as well as some gram-positive, anaerobic, non-sporing microbes ( 31 ).
+Unlike vitamin K1, which is abundant in leafy greens, vitamin K2 is found almost exclusively in animal foods — the main exception being a fermented soybean product called natto, which has a taste that can be euphemistically described as “acquired” ( 32 ).
+Studies have demonstrated that full-spectrum antibiotic usage dramatically lowers levels of vitamin K2 in the body by obliterating the bacteria responsible for K2 synthesis ( 33 ).
+And one intervention study found that when participants were put on a high plant, low meat (less than 2 ounces daily) diet, the main determinant of their fecal K2 levels was the proportion of  Prevotella ,  Bacteroides , and  Escherichia/Shigella  species in their gut ( 34 ).
+So, if someone’s microbiome is short on vitamin-K2-producing bacteria — whether from genetic factors, environment, or antibiotic usage — and animal foods are removed from the equation, then vitamin K2 levels can sink to tragic levels.
+Although research on the topic is scant, this could feasibly rob vegans (and some vegetarians) of the many gifts K2 bestows — potentially contributing to dental problems, a greater risk of bone fractures, and reduced protection against diabetes, cardiovascular disease, and certain cancers.
+Conversely, people with a robust, K2-synthesizing microbiome (or who otherwise identify as natto gourmands) might be able to obtain enough of this vitamin on a vegan diet.
+Vegans without enough bacteria for synthesizing vitamin K2 can experience problems related to inadequate intake, including a higher risk of dental issues and chronic disease.
+
+3. Amylase and starch tolerance
+Although there are certainly exceptions, meat-free diets tend to be higher in  carbohydrates  than fully omnivorous ones ( 35 ,  36 ,  37 ).
+In fact, some of the most famous plant-based diets hover around the 80% carb mark (coming mostly from starchy grains, legumes, and tubers), including the Pritikin Program, Dean Ornish Program, McDougall Program, and Caldwell Esselstyn’s diet for heart disease reversal ( 38 ,  39 ,  40 ,  41 ).
+While these diets have an impressive track record on the whole, Esselstyn’s program, for instance, effectively slashed cardiac events in those who diligently adhered — some people report less savory results after switching to high starch vegan diets ( 42 ).
+Why the dramatic difference in response? The answer may, again, be lurking in your genes — and also in your spit.
+Human saliva contains  alpha-amylase , an enzyme that lops starch molecules into simple sugars via hydrolysis.
+Depending on how many copies of the amylase-coding gene (AMY1) you carry, along with lifestyle factors like stress and circadian rhythms, amylase levels can range from “barely detectable” to 50% of the total protein in your saliva ( 43 ).
+In general, people from starch-centric cultures (like the Japanese) tend to carry more AMY1 copies (and have higher levels of salivary amylase) than people from populations that historically relied more on fat and protein, pointing to a role of selective pressure ( 44 ).
+In other words, AMY1 patterns appear linked to the traditional diets of your ancestors.
+Here’s why this matters: Amylase production strongly influences how you metabolize starchy foods — and whether those foods send your  blood sugar  on a gravity-defying rollercoaster or more leisurely undulation.
+When people with low amylase consume starch (especially refined forms), they experience steeper, longer-lasting blood sugar spikes compared with those with naturally high amylase levels ( 45 ).
+Not surprisingly, low amylase producers have a heightened risk of metabolic syndrome and obesity when eating standard high starch diets ( 46 ).
+What does this mean for vegetarians and vegans?
+Although the amylase issue is relevant to anyone with a mouth, plant-based diets centered on grains, legumes, and tubers (like the aforementioned Pritikin, Ornish, McDougall, and Esselstyn programs) are likely to bring any latent carb intolerance to the fore.
+For low amylase producers, radically upping starch intake could have devastating consequences — potentially leading to poor blood sugar regulation, low satiation, and weight gain.
+But for someone with the metabolic machinery to crank out plenty of amylase, handling a high carb, plant-based diet might be a piece of cake.
+Salivary amylase levels influence how well (or how poorly) different people do on starchy vegan or vegetarian diets.
+
+4. PEMT activity and choline
+Choline  is an essential but often overlooked nutrient involved in metabolism, brain health, neurotransmitter synthesis, lipid transport, and methylation ( 47 ).
+Although it hasn’t received as much media airtime as some other nutrients-du-jour (like  omega-3  fatty acids and vitamin D), it’s no less important. In fact, choline deficiency is a major player in fatty liver disease, a skyrocketing problem in Westernized nations ( 48 ).
+Choline deficiency can also increase the risk of neurological conditions, heart disease, and developmental problems in children ( 49 ).
+In general, the most choline-abundant foods are animal products — with  egg yolks  and liver dominating the charts, and other meats and seafood also containing decent amounts. A wide variety of plant foods contain much more modest levels of choline ( 50 ).
+Your bodies can also produce choline internally with the enzyme phosphatidylethanolamine-N-methyltransferase (PEMT), which methylates a molecule of phosphatidylethanolamine (PE) into a molecule of phosphatidylcholine (PC) ( 51 ).
+In many cases, the small amounts of choline offered by plant foods, combined with the choline synthesized through the PEMT pathway, can be enough to collectively meet your choline needs — no eggs or meat required.
+But for vegans, it’s not always smooth sailing on the choline front.
+First, despite efforts to establish adequate intake (AI) levels for choline, people’s individual requirements can vary tremendously — and what looks like enough choline on paper can still lead to deficiency.
+One study found that 23% of male participants developed symptoms of choline deficiency when consuming the “adequate intake” of 550 mg per day ( 52 ).
+Other research suggests that choline requirements shoot through the roof during pregnancy and lactation, due to choline getting shuttled from mother to fetus or into breast milk ( 53 ,  54 ,  55 ).
+Second, not everyone’s bodies are equally productive choline factories.
+Due to estrogen’s role in boosting PEMT activity, postmenopausal women (who have lower estrogen levels and stymied choline-synthesizing abilities) need to eat more choline than women who are still in their reproductive years ( 52 ).
+And even more significantly, common mutations in folate pathways or the PEMT gene can make low choline diets downright hazardous ( 56 ).
+One study found that women carrying a MTHFD1 G1958A polymorphism (related to folate) were 15 times more susceptible to developing organ dysfunction on a low choline diet ( 57 ).
+Additional research shows that the rs12325817 polymorphism in the PEMT gene — found in about 75% of the population — significantly raises choline requirements, and people with the rs7946 polymorphism might need more choline to prevent fatty liver disease ( 58 ).
+Although further research is needed, there’s also some evidence that the rs12676 polymorphism in the choline dehydrogenase (CHDH) gene makes people more susceptible to choline deficiency — meaning they need a higher dietary intake to stay healthy ( 59 ).
+So, what does this mean for people who drop high choline animal foods from their diet? If someone has normal choline requirements and a fortunate assortment of genes, it’s possible to stay choline-replete on a vegan diet (and certainly as a vegetarian who eats eggs).
+But for new or soon-to-be mothers, men, or postmenopausal women with lower estrogen levels, as well as people with one of the many gene mutations that inflate choline requirements, plants alone might not supply enough of this critical nutrient.
+In those cases, going vegan could be the harbinger of muscle damage, cognitive problems, heart disease, and increased buildup of fat in the liver.
+Variations in PEMT activity and individual choline requirements can determine whether someone can (or can’t) get enough choline on a vegan diet.
+
+The bottom line
+When the right genetic (and microbial) elements are in place, vegan diets — when supplemented with the requisite vitamin B12 — have a greater chance of meeting a person’s nutritional needs.
+However, when issues with vitamin A conversion, gut microbiome makeup, amylase levels, or choline requirements enter the picture, the odds of thriving as a vegan start to plummet.
+Science is increasingly supporting the idea that individual variation drives the human response to different diets. Some people are simply better equipped to glean what they need from plant foods — or produce what they need with the fabulous mechanics of the human body.
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3042718
+https://www.ncbi.nlm.nih.gov/pubmed/19103647
+https://www.healthline.comhttp://jn.nutrition.org/content/137/11/2346.long
+https://www.ncbi.nlm.nih.gov/pubmed/22113863
+https://www.ncbi.nlm.nih.gov/pubmed/8475673
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3139236/
+https://www.ncbi.nlm.nih.gov/pubmed/11887751
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2854912/
+https://www.ncbi.nlm.nih.gov/pubmed/7449242
+https://www.healthline.comhttp://jn.nutrition.org/content/137/11/2346.long
+https://www.ncbi.nlm.nih.gov/pubmed/23378454
+http://www.journalofoptometry.org/en/reversible-night-blindness-a/articulo/S1888429613000034/
+https://www.ncbi.nlm.nih.gov/pubmed/6496388
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3576783
+https://www.healthline.com/nutrition/gut-microbiome-and-health
+http://www.sciencedirect.com/science/article/pii/S0009898115000170
+http://www.sciencedirect.com/science/article/pii/S0009898115000170
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3368382/
+https://www.healthline.com/nutrition/why-bifidobacteria-are-good
+http://www.cell.com/cell-host-microbe/fulltext/S1931-3128(16)30153-6
+https://www.ncbi.nlm.nih.gov/pubmed/15306608/
+https://www.ncbi.nlm.nih.gov/pubmed/20847294/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4831151
+https://www.ncbi.nlm.nih.gov/pubmed/22006564
+https://www.ncbi.nlm.nih.gov/pubmed/23209691
+https://www.ncbi.nlm.nih.gov/pubmed/18400723
+https://www.healthline.com/nutrition/vitamin-k2/
+https://www.healthline.comhttps://link.springer.com/article/10.1007/s00198-014-2989-6
+https://www.ncbi.nlm.nih.gov/pubmed/25636605
+https://www.ncbi.nlm.nih.gov/pubmed/10952797
+https://www.ncbi.nlm.nih.gov/pubmed/23525894
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4052396
+https://www.healthline.comhttp://jn.nutrition.org/content/134/11/3100.long
+http://www.solgar.co.il/media/16835/vit-k2-arterial-stiffness-thromb-haemost-feb-15.pdf
+https://www.ncbi.nlm.nih.gov/pubmed/19179058
+https://www.ncbi.nlm.nih.gov/pubmed/16400650
+https://www.healthline.comhttp://jid.oxfordjournals.org/content/150/2/213.short
+http://www.nutritionjrnl.com/article/S0899-9007(00)00554-2/abstract
+https://www.ncbi.nlm.nih.gov/pubmed/7895417
+https://www.ncbi.nlm.nih.gov/pubmed/26016865
+https://www.healthline.com/nutrition/good-carbs-bad-carbs/
+https://www.ncbi.nlm.nih.gov/pubmed/7852684
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1046/j.1365-277x.2000.00227.x/full
+https://www.ncbi.nlm.nih.gov/pubmed/1414970
+https://www.healthline.comhttp://agris.fao.org/agris-search/search.do?recordID=US19820740624
+https://www.ncbi.nlm.nih.gov/pubmed/1414970
+https://www.healthline.comhttp://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-13-99
+https://www.ncbi.nlm.nih.gov/pubmed/25198208
+http://www.ajconline.org/article/S0002-9149(99)00290-8/fulltext
+https://www.ncbi.nlm.nih.gov/pubmed/10989590
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2377015
+https://www.healthline.com/nutrition/15-ways-to-lower-blood-sugar/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3327743/
+https://www.ncbi.nlm.nih.gov/pubmed/24686848
+https://www.healthline.com/nutrition/what-is-choline/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2518394
+https://www.healthline.com/nutrition/17-health-benefits-of-omega-3/
+https://www.healthline.comhttp://diabetes.diabetesjournals.org/content/55/7/2015.short
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2782876/
+https://www.healthline.com/nutrition/are-egg-yolks-bad/
+https://www.healthline.comhttp://jn.nutrition.org/content/133/5/1302.long
+https://www.ncbi.nlm.nih.gov/gene/10400
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2435503
+https://www.ncbi.nlm.nih.gov/pubmed/7500183
+https://www.ncbi.nlm.nih.gov/pubmed/16673755
+https://www.ncbi.nlm.nih.gov/pubmed/4057092
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2435503
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2430110/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1276051
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954445
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1574369

@@ -3,18 +3,44 @@ import json, os, asyncio
 from typing import Dict, Any
 from .calc_consumption_context import get_consumption_context
 from fastapi import FastAPI
+from pydantic import BaseModel
+
 
 app = FastAPI()
-
+from dotenv import load_dotenv
+load_dotenv() 
+class CumulativeAnalysisRequest(BaseModel):
+    brand_name: str
+    product_name: str
+    nutritional_level: str
+    processing_level: str
+    all_ingredient_analysis: str
+    claims_analysis: str
+    refs: list
 @app.post("/cumulative-analysis")
-def generate_final_analysis(request):
+def generate_final_analysis(request: CumulativeAnalysisRequest):
+    
+    
+    # if not request.get('brand_name') or not request.get('product_name'):
+    #     raise Exception("Please provide a valid product list")
     if not request.get('brand_name') or not request.get('product_name'):
-        raise Exception("Please provide a valid product list")
+        brand_name = "unknown"
+        product_name = "unknown"
+    else:
+        brand_name = request.get('brand_name')
+        product_name = request.get('product_name')
+    
     
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
     
-    brand_name = request.get('brand_name')
-    product_name = request.get('product_name')
+    # brand_name = request.get('brand_name')
+    # product_name = request.get('product_name')
+    # nutritional_level = request.get('nutritional_level')
+    # processing_level = request.get('processing_level')
+    # all_ingredient_analysis = request.get('all_ingredient_analysis')
+    # claims_analysis = request.get('claims_analysis')
+    # refs = request.get('refs')
+    
     nutritional_level = request.get('nutritional_level')
     processing_level = request.get('processing_level')
     all_ingredient_analysis = request.get('all_ingredient_analysis')

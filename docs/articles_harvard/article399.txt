@@ -1,0 +1,63 @@
+Title: Flawed Science on Sodium from JAMA
+
+Why you should take the latest sodium study with a huge grain of salt
+A new study would have you believe that low-salt diets raise your risk of dying  from heart disease—a surprising finding, and one that’s sure to grab headlines worldwide. The only problem is that the study’s conclusions are most certainly wrong.
+
+In the study, published in the May 4, 2011, issue of the  Journal of the American Medical Association  (JAMA), European researchers followed 3,681 men and women for an average of about eight years. ( 1 ) They report that people with the lowest levels of sodium in their urine (a marker of salt intake) at the start of the study had a 56 percent higher risk of dying from cardiovascular disease than people with the highest levels. Equally unexpectedly, among the 2,096 participants who had normal blood pressure at the start of the study, urinary sodium appeared to have no effect on the development of high blood pressure over six and a half years.
+Based on these findings, the study authors call into question recent estimates ( 2 ,  3 ) of the tens of thousands of heart attacks, strokes, and cardiac deaths that could be averted each year—and the billions of healthcare dollars that could be saved—by curbing Americans’ excessive salt intakes. Yet the study has several weaknesses, chief among them its modest size: With less than 4,000 participants—and only 84 deaths due to cardiovascular disease—the study is too small to support the authors’ sweeping conclusions.
+Furthermore, the study’s findings are inconsistent with a multitude of other studies conducted over the past 25 years that show a clear and direct relationship between high salt intakes and high blood pressure, and in turn, cardiovascular disease risk. ( 4 – 10 )
+“Take this study with a huge grain of salt, and then dispose of it properly,” says Dr. Walter Willett, chair of the Dept. of Nutrition at Harvard School of Public Health. “This study should not influence recommendations about sodium intake in any way.”
+Key problems that undermine the study’s conclusions include the following:
+Unreliable measurement of sodium intake:  The study investigators base their main findings on a single measurement of sodium collected at the start of the study—specifically the amount of sodium that study participants excreted in their urine over a 24 hour period. Yet sodium excretion from just one day does not reflect people’s salt intake patterns over long periods of time. It’s weak science to use one-day sodium excretion to predict heart disease or mortality decades later.
+Failure to account for key factors that influence sodium intake and heart disease risk:  People who are taller ( 11 ) or more active ( 12 ) tend to have a lower risk of heart disease. They also tend to have higher sodium intakes, simply because they eat more food.  Yet the JAMA study authors don’t account for differences in height, physical activity, and total calories. ( 13 ) This oversight could make it appear as though high sodium intakes protect against heart disease deaths, when in fact physical activity or height is responsible for the lowered risk.
+Other weaknesses:  There are other problems with the way that the investigators conducted the study, among them, missing or incomplete data from large numbers of participants. The study investigators, for example, could have accounted for incomplete urine samples by analyzing urinary sodium in relation to creatinine (another compound found in urine), but they did not.
+The bottom line is that the researchers were trying to ask questions that their data are incapable of answering, and the study’s many methodological problems make its results unreliable. So the study’s findings do little to refute the strong evidence that cutting back on sodium would save lives.
+Americans, on average, consume about 3,400 milligrams of sodium per day. Current U.S. recommendations call for a maximum of 2,300 milligrams of sodium a day (the amount found in a teaspoon of salt), and 1,500 milligrams of sodium (two-thirds of a teaspoon) for people who have high blood pressure or are at high risk of developing it. The latter group includes people who are over the age of 40, are African American, or have somewhat elevated blood pressure (prehypertension)—a group that includes almost 70 percent of adults in the United States. ( 14 ) A dash of prevention is worth a pound of cure: Since 90 percent of Americans will develop high blood pressure at some point in their lives, ( 15 ) it really makes sense for all of us to curb our sodium intake.
+Seventy-five percent of Americans’ sodium intake comes from processed foods. ( 16 ) That’s why the Institute of Medicine has called on the U.S. Food and Drug Administration to regulate the amount of salt and sodium allowed in processed foods. ( 10 )
+References
+1. Stolarz-Skrzypek K, Kuznetsova T, Thijs L, et al.  Fatal and Nonfatal Outcomes, Incidence of Hypertension, and Blood Pressure Changes in Relation to Urinary Sodium Excretion.  JAMA . 2011; 305:1777–85.
+2. Palar K, Sturm R. Potential societal savings from reduced sodium consumption in the U.S. adult population.  Am J Health Promot . 2009; 24:49–57.
+3. Bibbins-Domingo K, Chertow GM, Coxson PG, et al. Projected effect of dietary salt reductions on future cardiovascular disease.  N Engl J Med . 2010; 362:590–9.
+4. Strazzullo P, D’Elia L, Kandala NB, Cappuccio FP. Salt intake, stroke, and cardiovascular disease: meta-analysis of prospective studies.  BMJ . 2009; 339:b4567.
+5. Intersalt: an international study of electrolyte excretion and blood pressure. Results for 24 hour urinary sodium and potassium excretion. Intersalt Cooperative Research Group.  BMJ . 1988; 297:319–28.
+6. Cook NR, Cutler JA, Obarzanek E, et al. Long term effects of dietary sodium reduction on cardiovascular disease outcomes: observational follow-up of the trials of hypertension prevention (TOHP).  BMJ . 2007; 334:885-8.
+7. Cook NR, Obarzanek E, Cutler JA, et al. Joint effects of sodium and potassium intake on subsequent cardiovascular disease: the Trials of Hypertension Prevention follow-up study.  Arch Intern Med . 2009; 169:32–40.
+8. Appel LJ, Moore TJ, Obarzanek E, et al. A clinical trial of the effects of dietary patterns on blood pressure. DASH Collaborative Research Group.  N Engl J Med . 1997; 336:1117–24.
+9. Sacks FM, Svetkey LP, Vollmer WM, et al. Effects on blood pressure of reduced dietary sodium and the Dietary Approaches to Stop Hypertension (DASH) diet. DASH-Sodium Collaborative Research Group.  N Engl J Med . 2001; 344:3–10.
+10. Institute of Medicine.  Strategies to Reduce Sodium Intake in the United States . Washington D.C.: National Academies Press. 2010. Accessed May 3, 2011.
+11. Ferrie JE, Langenberg C, Shipley MJ, Marmot MG. Birth weight, components of height and coronary heart disease: evidence from the Whitehall II study.  Int J Epidemio l . 2006; 35:1532–42.
+12. U.S. Dept. of Health and Human Services.  2008 Physical Activity Guidelines for Americans . 2008. Accessed May 3, 2010.
+13. Willett W, Stampfer M. Implications of Total Energy Intake for Epidemiologic Analysis. in Willett W,  Nutritional Epidemiology . New York: Oxford University Press, 1998: 273–301.
+14. Application of lower sodium intake recommendations to adults—United States, 1999-2006.  MMWR Morb Mortal Wkly Rep . 2009; 58:281–3.
+15.  Vasan RS, Beiser A, Seshadri S, et al. Residual lifetime risk for developing hypertension in middle-aged women and men: The Framingham Heart Study.  JAMA . 2002; 287:1003–10.
+16. Brown IJ, Tzoulaki I, Candeias V, Elliott P. Salt intakes around the world: implications for public health.  Int J Epidemiol . 2009; 38:791–813.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/salt-shaker.jpg
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+#references
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19750962
+http://www.ncbi.nlm.nih.gov/pubmed/20089957?dopt=Citation
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19934192
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=3416162
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17449506
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19139321
+http://www.ncbi.nlm.nih.gov/pubmed/10500021
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=11136953
+http://www.nap.edu/catalog.php?record_id=12818
+http://www.ncbi.nlm.nih.gov/pubmed/16931524
+http://www.health.gov/paguidelines
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19325529
+http://www.ncbi.nlm.nih.gov/pubmed/11866648?dopt=Citation
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19351697

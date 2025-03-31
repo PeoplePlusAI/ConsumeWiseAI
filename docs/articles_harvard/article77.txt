@@ -1,0 +1,43 @@
+Title: PREDIMED Study Retraction and Republication
+
+What Changed, What Didn’t, and the Big Picture
+On June 13, 2018, the  New England Journal of Medicine (NEJM)  retracted the 2013 study, “ Primary Prevention of Cardiovascular Diseases with a Mediterranean Diet ,” [1] as a result of error in randomization procedures affecting a portion of participants in the PREDIMED (Prevención con Dieta Mediterránea) trial. Concurrently,  NEJM  published a corrected version of the study with reanalyzed data, “ Primary Prevention of Cardiovascular Disease with a Mediterranean Diet Supplemented with Extra-Virgin Olive Oil or Nuts .” [2]
+What Changed?
+The number of participants included in the analysis:
+ 
+ The original study included 7447 participants at high cardiovascular risk to one of three diets: a Mediterranean diet supplemented with extra-virgin olive oil, a Mediterranean diet supplemented with mixed nuts, or a control diet (advice to reduce dietary fat). [1] 
+ The republished study disclosed several issues related to the randomization process: enrollment of household members without randomization; allocation of several clinics instead of individual patients at 1 of 11 study sites; and apparent inconsistent use of randomization tables at another study site. 
+ The authors re-ran the analyses by statistically correcting for correlations within families or clinics. They also re-ran the analyses omitting 1588 participants whose trial-group assignments were known or suspected to have departed from proper randomization protocol. [2]
+The original study included 7447 participants at high cardiovascular risk to one of three diets: a Mediterranean diet supplemented with extra-virgin olive oil, a Mediterranean diet supplemented with mixed nuts, or a control diet (advice to reduce dietary fat). [1]
+The republished study disclosed several issues related to the randomization process: enrollment of household members without randomization; allocation of several clinics instead of individual patients at 1 of 11 study sites; and apparent inconsistent use of randomization tables at another study site.
+The authors re-ran the analyses by statistically correcting for correlations within families or clinics. They also re-ran the analyses omitting 1588 participants whose trial-group assignments were known or suspected to have departed from proper randomization protocol. [2]
+What Didn’t Change?
+Despite these revelations, there was no significant change in the results of the trial when researchers reanalyzed the data:
+ 
+ In both the original and republished study, the incidence of cardiovascular disease in the Mediterranean diet groups was lowered by approximately 30% when compared to the control diet. [1,2] 
+ The overall conclusion remains largely unchanged: “In this study involving persons at high cardiovascular risk, the incidence of major cardiovascular events was lower among those assigned to a Mediterranean diet supplemented with extra-virgin olive oil or nuts than among those assigned to a reduced-fat diet.” [2]
+In both the original and republished study, the incidence of cardiovascular disease in the Mediterranean diet groups was lowered by approximately 30% when compared to the control diet. [1,2]
+The overall conclusion remains largely unchanged: “In this study involving persons at high cardiovascular risk, the incidence of major cardiovascular events was lower among those assigned to a Mediterranean diet supplemented with extra-virgin olive oil or nuts than among those assigned to a reduced-fat diet.” [2]
+To date, PREDIMED remains the largest dietary intervention trial to assess the effects of the Mediterranean diet on cardiovascular disease prevention.
+The Big Picture
+As a randomized clinical trial, results from PREDIMED remain a significant contribution to the scientific literature on a traditional Mediterranean diet. That said, it is only a portion of the  large body of evidence indicating the healthfulness of this dietary pattern . The bottom line remains that strong evidence supports the use of the traditional Mediterranean diet as a healthy eating pattern for the prevention of cardiovascular diseases, increasing lifespan, and healthy aging.
+Furthermore, the discussion surrounding the retraction and republication of this landmark research study is an important reminder that solid science is  not based on any single study , but the result of sustained and critically evaluated research by multiple investigators through many studies, over many years.
+Related
+Diet Review: Mediterranean Diet 
+ What should I Eat? 
+ Preventing Heart Disease
+References
+Estruch R, Ros E, Salas-Salvadó J, Covas MI, Corella D, Arós F, Gómez-Gracia E, Ruiz-Gutiérrez V, Fiol M, Lapetra J, Lamuela-Raventos RM. Primary prevention of cardiovascular disease with a Mediterranean diet.  New England Journal of Medicine . 2013 Apr 4;368(14):1279-90.
+Estruch R, Ros E, Salas-Salvadó J, Covas MI, Corella D, Arós F, Gómez-Gracia E, Ruiz-Gutiérrez V, Fiol M, Lapetra J, Lamuela-Raventos RM. Primary prevention of cardiovascular disease with a mediterranean diet supplemented with extra-virgin olive oil or nuts.  New England Journal of Medicine . 2018 Jun 13.
+
+References:
+
+https://www.nejm.org/doi/full/10.1056/NEJMoa1200303?query=recirc_curatedRelated_article
+https://www.nejm.org/doi/full/10.1056/NEJMoa1800389?query=featured_home
+https://nutritionsource.hsph.harvard.edu/healthy-weight/diet-reviews/mediterranean-diet/
+https://nutritionsource.hsph.harvard.edu/media/
+https://nutritionsource.hsph.harvard.edu/healthy-weight/diet-reviews/mediterranean-diet/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/preventing-cvd/
+https://www.nejm.org/doi/full/10.1056/NEJMoa1200303?query=recirc_curatedRelated_article
+https://www.nejm.org/doi/full/10.1056/NEJMoa1800389?query=featured_home

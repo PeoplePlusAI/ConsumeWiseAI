@@ -1,0 +1,97 @@
+Title: Niacin – Vitamin B3
+
+Niacin, or vitamin B3, is a water-soluble  B vitamin  found naturally in some foods, added to foods, and sold as a supplement. The two most common forms of niacin in food and supplements are nicotinic acid and nicotinamide. The body can also convert tryptophan—an amino acid—to nicotinamide. Niacin is water-soluble so that excess amounts the body does not need are excreted in the urine. Niacin works in the body as a coenzyme, with more than 400 enzymes dependent on it for various reactions. Niacin helps to convert nutrients into energy, create cholesterol and fats, create and repair DNA, and exert antioxidant effects. [1,2]
+
+Recommended Amounts
+RDA:   Niacin is measured in milligrams (mg) of niacin equivalents (NE). One NE equals 1 milligram of niacin or 60 mg of tryptophan. The Recommended Dietary Allowance (RDA) for adults 19+ years is 16 mg NE for men, 14 mg NE for women, 18 mg NE for pregnant women, and 17 mg NE for lactating women.
+UL:    The Tolerable Upper Intake Level is the maximum daily intake unlikely to cause harmful effects on health. The UL for niacin for all adults 19+ years is 35 milligrams.
+
+Niacin and Health
+For more than 40 years, niacin in the form of nicotinic acid has been given to patients to treat a condition called dyslipidemia, a major risk factor for  cardiovascular diseases (CVD)  such as coronary artery disease, heart attack, and strokes. Bloodwork in someone with dyslipidemia may show high total and LDL “bad” cholesterol levels, low HDL “good” cholesterol, and elevated triglycerides.
+Nicotinic acid supplements contain high amounts, up to 1,000-2,000 mg of niacin taken daily. Studies have shown that they can increase HDL cholesterol and lower LDL cholesterol and triglycerides. However, negative side effects (skin flushing, stomach upset, diarrhea) usually accompany the supplements, resulting in poor compliance from patients. Clinical trials have not consistently shown that nicotinic acid leads to less cardiovascular events or deaths from CVD.
+Though earlier clinical trials showed a reduction in CVD events and deaths with niacin therapy, two more recent large clinical trials on CVD outcomes concluded differently. [3,4]  Both were large randomized placebo-controlled trials, following participants for up to 4 years. Niacin supplements were given (1,500-2,000 mg daily), alone in one trial and with a statin medication in the other. Both trials concluded that taking niacin supplements did not show benefit. The niacin/statin trial did not show a reduction in strokes, heart attack, or CVD deaths despite significant improvements in HDL cholesterol and triglyceride levels. [3] The niacin supplement-only trial did not find a reduction in CVD events and also noted a significant increase in adverse reactions compared with the placebo group, including increased incidence of type 2 diabetes, gastrointestinal bleeding and ulcers, and diarrhea. [4]
+A Cochrane review of 23 randomized controlled trials on nicotinic acid supplements for the prevention of CVD events found that the supplements did not reduce overall deaths, CVD deaths, heart attacks, and strokes, and was associated with negative side effects. [5]
+The results of these and other cardiovascular outcome trials led the U.S. Food and Drug Administration (FDA) to conclude that the “scientific evidence no longer supports the conclusion that a drug-induced reduction in triglyceride levels and/or increase in HDL-cholesterol levels in statin-treated patients results in a reduction in the risk of cardiovascular events.” [6]   Along with that conclusion, the FDA stated that the benefits of niacin extended-release tablets and fenofibric acid capsules taken with statins no longer outweighed the risks, and should not be recommended.
+A severe niacin deficiency has been associated with cognitive decline such as memory loss and dementia. Niacin is believed to protect brain cells from stress and injury. It is not yet clear though if smaller variations in dietary niacin intake can negatively affect brain function.
+A large prospective study of 3,718 men and women ages 65 and older were followed for 6 years, using dietary questionnaires and cognitive assessments. [7] A protective effect from Alzheimer’s disease and cognitive decline was found when comparing the highest to lowest intakes of niacin.
+The Coronary Artery Risk Development in Young Adults (CARDIA) study followed 3,136 men and women ages 18-30 for up to 25 years. [8] The study measured dietary and supplemental B vitamin intake and cognitive function. A higher intake of B vitamins, but particularly niacin, throughout young adulthood was associated with better cognitive function scores in midlife. However, cognitive function was only assessed at the end of the study, so any changes in cognitive function over time was not known.
+Research in this area is limited but there are several clinical trials underway that may shed further light on niacin’s effects on brain health. [9]
+
+Food Sources
+A niacin deficiency is rare because it is found in many foods, both from animals and plants.
+Red meat: beef, beef liver, pork
+Poultry
+Fish
+Brown rice
+Fortified cereals and breads
+Nuts , seeds
+Legumes
+Bananas
+
+Supplements
+Niacin is available as a  supplement  in the form of nicotinic acid or nicotinamide. Sometimes the amounts in supplements are far beyond the RDA, causing unpleasant side effects of flushing. Niacin supplements are also available as a prescription medicine that is used to treat high cholesterol; this typically comes in an extended release form of nicotinic acid that allows slower, more gradual absorption so that it does not cause flushing. Because of the very high doses of nicotinic acid needed, up to 2,000 mg daily, this supplement should only be used when monitored by a physician.
+
+Signs of Deficiency and Toxicity
+Deficiency
+A niacin deficiency is rare in the United States and other industrialized countries because it is well-absorbed from most foods (with the exception of some cereal grains in which niacin is bound to its fibers, decreasing the absorption) and is added to many foods and multivitamins. A severe niacin deficiency leads to pellagra, a condition that causes a dark, sometimes scaly rash to develop on skin areas exposed to sunlight; bright redness of the tongue; and constipation/diarrhea. Other signs of severe niacin deficiency include:
+Depression
+Headache
+Fatigue
+Memory loss
+Hallucinations
+Groups at risk for deficiency
+Limited diets.  People whose diets are limited in both variety and quantity of foods, such as those living in poverty or who are very ill and cannot eat a balanced diet, are at increased risk. Developing countries that eat corn or maize as a main food source are at risk for pellagra, as these foods are low in both absorbable niacin and tryptophan.
+Chronic alcoholism.  The absorption of several nutrients, particularly water-soluble vitamins including the B family, is decreased with excessive  alcohol intake .
+Carcinoid syndrome.  This is a disease of slow-growing cancer cells in the gut that release a chemical called serotonin. The syndrome causes tryptophan in the diet to be converted into serotonin rather than niacin, which increases the risk of decreased niacin.
+Toxicity
+Toxicity when eating foods containing niacin is rare, but can occur from long-term use of high-dose supplements. A reddened skin flush with itchiness or tingling on the face, arms, and chest is a common sign. Flushing occurs mainly when taking high-dosage supplements in the form of nicotinic acid, rather than nicotinamide. Niacin taken in large doses as supplements may also increase uric acid levels, which is a risk factor for gout.
+Other signs:
+Dizziness
+Low blood pressure
+Fatigue
+Headache
+Upset stomach
+Nausea
+Blurred vision
+Impaired glucose tolerance and inflammation of liver in severe cases (at very high doses of 3,000-9,000 mg daily for several months/years) [1]
+
+Did You Know?
+Many B vitamins are thought to help increase energy, including niacin. Because niacin is water-soluble (less risk of building up in the body to a toxic level), many people don’t think twice about taking a supplement that may contain 100 times the RDA for the vitamin. Although niacin assists several enzymes in converting food into ATP, a form of energy, taking doses well beyond the RDA will not offer a special boost in energy levels. Eating a  balanced diet  with a variety of foods is often all that is needed to obtain niacin’s energy-boosting benefit.
+Corn is naturally high in niacin, but it is bound to carbohydrates which makes it difficult for the human body to absorb. However, when corn is nixtamalized (a traditional process in tortilla making where corn is treated with calcium hydroxide, cooked, and ground) the niacin becomes absorbable because of the calcium hydroxide treatment.
+
+Related
+B Vitamins Vitamins and Minerals
+Institute of Medicine.  Food and Nutrition Board. Dietary Reference Intakes: Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline . Washington, DC: National Academy Press, 1998.
+National Institutes of Health Office of Dietary Supplements: Niacin Fact Sheet for Health Professionals  https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/ . Accessed 1/24/2020.
+Aim-High Investigators. Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy.  New England Journal of Medicine . 2011 Dec 15;365(24):2255-67.
+HPS2-Thrive Collaborative Group. Effects of extended-release niacin with laropiprant in high-risk patients.  New England Journal of Medicine . 2014 Jul 17;371(3):203-12.
+Schandelmaier S, Briel M, Saccilotto R, Olu KK, Arpagaus A, Hemkens LG, Nordmann AJ. Niacin for primary and secondary prevention of cardiovascular events.  Cochrane Database of Systematic Reviews . 2017(6).
+The U.S. Food and Drug Administration. Withdrawal of Approval of Indications Related to the Coadministration With Statins in Applications for Niacin Extended-Release Tablets and Fenofibric Acid Delayed-Release Capsules. 4/18/2016.  https://www.federalregister.gov/documents/2016/04/18/2016-08887/abbvie-inc-et-al-withdrawal-of-approval-of-indications-related-to-the-coadministration-with-statins  Accessed 1.27.2020.
+Morris MC, Evans DA, Bienias JL, Scherr PA, Tangney CC, Hebert LE, Bennett DA, Wilson RS, Aggarwal N. Dietary niacin and the risk of incident Alzheimer’s disease and of cognitive decline.  Journal of Neurology, Neurosurgery & Psychiatry . 2004 Aug 1;75(8):1093-9.
+Qin B, Xun P, Jacobs Jr DR, Zhu N, Daviglus ML, Reis JP, Steffen LM, Van Horn L, Sidney S, He K. Intake of niacin, folate, vitamin B-6, and vitamin B-12 through young adulthood and cognitive function in midlife: the Coronary Artery Risk Development in Young Adults (CARDIA) study.  The American journal of clinical nutrition . 2017 Oct 1;106(4):1032-40.
+Csiszar A, Tarantini S, Yabluchanskiy A, Balasubramanian P, Kiss T, Farkas E, Baur JA, Ungvari Z. Role of endothelial NAD+ deficiency in age-related vascular dysfunction.  American Journal of Physiology-Heart and Circulatory Physiology . 2019 Jun 1;316(6):H1253-66.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/food-features/rice/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/food-features/bananas/
+https://nutritionsource.hsph.harvard.edu/multivitamin/
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/drinks-to-consume-in-moderation/alcohol-full-story/
+https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/
+https://www.nejm.org/doi/full/10.1056/Nejmoa1107579
+https://www.nejm.org/doi/full/10.1056/nejmoa1300955
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009744.pub2/abstract
+https://www.federalregister.gov/documents/2016/04/18/2016-08887/abbvie-inc-et-al-withdrawal-of-approval-of-indications-related-to-the-coadministration-with-statins
+https://jnnp.bmj.com/content/75/8/1093.short
+https://academic.oup.com/ajcn/article-abstract/106/4/1032/4652049
+https://journals.physiology.org/doi/abs/10.1152/ajpheart.00039.2019

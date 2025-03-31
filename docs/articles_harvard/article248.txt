@@ -1,0 +1,85 @@
+Title: Dietary Supplements
+
+Dietary supplements are a multibillion-dollar industry, not only in the U.S. but worldwide. They include herbals,  protein powders , hormones,  vitamins and minerals , and probiotics to name a few, and cater to people’s desires to be healthier and look and feel better. Supplements are easy to obtain as they don’t require a prescription, and are not strictly regulated so that manufacturers can quickly produce them without proof of their effectiveness or even safety. Supplements may be manufactured by large pharmaceutical companies or smaller local producers. The National Health and Nutrition Examination Survey from 1999-2012 found that about half of American adults used dietary supplements regularly, the most popular being  multivitamins . [1] That number grew to 58% in 2017-2018, with the highest users (80%) being women ages 60 and older; in the same survey, 34% of children and adolescents ages 19 and under reported using supplements. [2,3]
+What is a dietary supplement?
+The definition of a dietary supplement according to the U.S. Food and Drug Administration (FDA) is “a product intended for ingestion that, among other requirements, contains a ‘dietary ingredient’ intended to supplement the diet.” [4] Dietary ingredients include vitamins, minerals, herbs, botanicals, amino acids, probiotics, and extracts from any of the above and is intended to be taken by mouth as a pill, capsule, tablet, or liquid. Generally, supplements are intended to complement a healthy lifestyle, not replace behaviors such as a  healthful diet ,  regular exercise , and  sleep .
+Limitations on dietary supplement regulation
+In 1994, the FDA passed the Dietary Supplement Health and Education Act (DSHEA) with the intent of providing consumers with access to safe supplements and information about their intended use. Prior to its enactment, there were numerous debates on how to classify new ingredients. For example, some felt that isolated amino acids should be considered unapproved food additives, certain botanicals would be more appropriately classified as drugs, and  vitamin supplements  should be limited to levels cited by the U.S. Recommended Dietary Allowances. [5] The FDA also wanted more scientific evidence of benefit and safety. But the supplement industry and consumers reacted strongly to these potential regulatory restrictions, with public debates arguing over consumers’ freedom to access dietary supplements. What resulted was the creation and passing of DSHEA, and these once debated ingredients would now fall under the umbrella of dietary supplements with much less regulatory oversight than food additives and drugs.
+What DSHEA requires of dietary supplement manufacturers:
+Must display labels that are easy to understand
+Meet FDA’s quality, effectiveness, and safety standards
+Must present ingredients to the FDA for review and show they have followed “good manufacturing practices” by ensuring that the dietary supplements it manufactures or distributes are not adulterated, misbranded, or otherwise in violation of federal law
+Ensures the safety of its products, but is not required to reveal the basis of its safety determination unless the FDA declares the product an imminent hazard or is adulterated
+Critics of DSHEA believe that it caused a new wave of poor-quality dietary supplements to enter the market. [6] The Act reduced FDA’s role to being reactive rather than proactive, meaning that it will only take action to investigate and remove a supplement from the market after receiving consumer reports of harm. [7] Under DSHEA, dietary supplements are presumed safe when consumed as recommended, but the burden of proof of safety, efficacy, and purity is shifted from the manufacturer to the FDA. [5] Supplements are not examined by the FDA prior to sale, and the FDA must prove a supplement is unsafe before banning its sale. This usually occurs only after red flags appear with multiple people reporting serious medical harm, and it can take many months to undergo an investigation before the supplement is removed from the market. With 1,000 new supplements entering the U.S. market annually along with an understaffed regulating body, close evaluation of each product is not possible by the government. [5]
+Compare this to over-the-counter (OTC) drugs in the U.S., which must first be approved by the FDA under a new drug application process and then undergo their rigorous OTC Drug Review in which the agency assesses safety and effectiveness of the active ingredients before allowing its sale. [5]
+As seen time and again, DSHEA has not protected consumers from experiencing harmful side effects from dietary supplements, in most cases due to products containing higher dangerous amounts of advertised ingredients or including ingredients not listed on the label. By the time harmful cases are reported and the FDA has acted to shut down a manufacturer, the manufacturer may have already profited greatly from sales. From 2004 to 2021, a total of 79,071 adverse events related to the use of dietary supplements were reported to the Center for Food Safety and Applied Nutrition. [7]
+Dangers of supplements not following good manufacturing practices
+Quantity or dosages of ingredients may be more or less than stated on label.
+There may be additional ingredients included that are not listed on the label, sometimes not intentionally but due to contamination or adulteration. [8]
+Microbial contamination by bacteria or fungi introduced prior to manufacture.
+Heavy metal contamination.
+May contain cheaper “filler” ingredients and less of the active ingredient advertised on the label.
+Potential medication interactions with adulterated ingredients.
+A shapeshifting weight loss supplement
+Hydroxycut is the commercial name of a variety of weight loss and body building supplements that have come under fire from the FDA for containing harmful ingredients, but has continuously reformulated its contents to continue sales. Its earliest formula contained ephedra, an herbal ingredient with effects similar to speed, causing weight loss and a quickened heartbeat to increase energy. But the FDA banned the herb in 2004 after its association with 155 deaths from heart attacks and strokes. Cases of seizures and liver toxicity were also reported from ephedra use. [9] Hydroxycut removed ephedra from its formulas but included other ingredients such as  Garcinia cambogia  (or its derivative hydroxycitric acid), green tea extract, caffeine, and “proprietary mixtures” of undisclosed botanicals. However, the FDA issued a consumer warning in May 2009 to stop using Hydroxycut products due to 23 cases of liver toxicity and one death associated with the supplement. [10] One year later, Hydroxycut was again reformulated and remarketed without  Garcinia cambogia,  though it was not clear that this ingredient had caused the toxicity. Most of their current formulations are  high in caffeine  (containing the equivalent of 2-3 cups of coffee) from green coffee or green tea extracts and added caffeine, as well as a variety of other ingredients like chicory extract, apple cider vinegar, capsaicin, and plum. They also produce multivitamins with caffeine.
+Hydroxycut continues to appear in the scientific literature through 2024, with case reports of liver injury or irregular heartbeat. They also settled a class action lawsuit in 2017 that it had made false and misleading statements regarding the effectiveness of its supplements. Yet the company still sells at least a dozen different products and has hired young celebrity brand ambassadors touting their own weight loss successes using Hydroxycut.
+Red flags when purchasing dietary supplements
+Consumer surveys show increased dietary supplement use among those with one or more health problems, and in those who report already having healthy lifestyles. [5] Although DSHEA requires that dietary supplement labels not claim to “diagnose, mitigate, treat, cure, or prevent a specific disease or class of diseases,” many consumers report using supplements for just that: to treat and prevent illnesses and colds/flu, and to alleviate depression. [5] In the world of dietary supplements, it is best to be a skeptic and take a “buyer beware” approach. Here are some red flags to be on the lookout for when purchasing supplements:
+Be wary of too-good-to-be-true statements.  Because in most cases they are. Labels on supplements are designed to be enticing, declaring “melts away fat, “fat burner,” “instant energy,” and “immune booster” or have brand names that include words like “purity” or “nature,” so the product appears safe and natural.
+Question health claims that the product treats a disease or condition.   The FDA bans statements like these for dietary supplements. At best with the backing of scientific evidence, they can state that the supplement may  reduce the risk of  a disease or condition.
+Don’t fall for a high price and fancy packaging.   Let’s admit that sleek modern packaging and higher cost makes us believe the product is especially high quality. This often happens with probiotic supplements, an exploding sector in the industry, with prices ranging from $20-$150. Keep in mind that current labeling regulations only require manufacturers to list the total weight of microorganisms on the Supplement Facts label, which may consist of both live and  dead  microorganisms and has no relationship with the number of viable microorganisms in the product. [11] Even if the amount is accurate at time of manufacture, many of the organisms may die during their shelf life.
+Avoid products with “proprietary blends” or “proprietary formulas.”  It may sound like you’re getting a high-tech supplement, but these terms actually allow a manufacturer to get away with including a small amount of an expensive active ingredient combined with several other less-expensive inactive ingredients, while charging a premium price. Also, although an active ingredient may be backed by some scientific evidence, the product may contain a lesser amount than studied and it is rare that a proprietary blend has been clinically tested. [12]
+Be savvy about meaningless claims.  Examples are “contains clinically tested ingredients,” “tested by an FDA-approved laboratory,” or “pharmaceutical grade.” “Clinically tested” doesn’t mean it works; the FDA doesn’t “approve” laboratories; and although manufacturers are allowed to claim that an ingredient meets a standard set by U.S. Pharmacopeial Convention, “pharmaceutical grade” does not exist for most supplement ingredients. [12]
+Avoid megadoses of vitamin and mineral supplements.   Unless you are treating a nutrient deficiency or have been directed by a physician to take a higher dosage for a certain condition, taking more than the Recommended Dietary Allowance may be unnecessary and possibly harmful, especially if taking more than the  Tolerable Upper Intake Levels (ULs) .
+Third-party verification and other monitoring
+There are independent nonprofit organizations that test supplements using criteria such as ingredients as listed on the label, potency, and purity. Examples are  NSF International  and  USP United States Pharmacopeia , which after testing allow the supplement manufacturer to display an NSF or USP seal on the label.  ConsumerLab.com  tests and certifies supplements and allows viewing of the test results by consumers with an annual subscription fee.
+The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) established  LiverTox , an online resource for evidence-based information on drug and supplement-induced liver injury. It includes up-to-date easily accessible information for the public.
+Related
+Workout Supplements
+Should I Take a Daily Multivitiamin?
+Vitamins and Minerals
+Kantor ED, Rehm CD, Du M, White E, Giovannucci EL. Trends in dietary supplement use among US adults from 1999-2012.  JAMA . 2016 Oct 11;316(14):1464-74.
+Mishra S, Stierman B, Gahche JJ, Potischman N. Dietary supplement use among adults: United States, 2017–2018.  NCHS Data Brief, no 399 . Hyattsville, MD: National Center for Health Statistics. 2021.
+Stierman B, Mishra S, Gahche JJ, Potischman N, Hales CM. Dietary Supplement Use in Children and Adolescents Aged ≤19 Years — United States, 2017–2018.  MMWR Morb Mortal Wkly Rep 2020 ;69:1557–1562
+U.S. Food & Drug Administration.  Questions and Answers on Dietary Supplements . Accessed 7/19/2024.
+Institute of Medicine (US) and National Research Council (US) Committee on the Framework for Evaluating the Safety of Dietary Supplements.  Dietary Supplements: A Framework for Evaluating Safety . Washington (DC): National Academies Press (US); 2005.
+White CM. Dietary supplements pose real dangers to patients.  Annals of Pharmacotherapy . 2020 Aug;54(8):815-9.
+Li W, Wertheimer A. Narrative Review: The FDA’s Perfunctory Approach of Dietary Supplement Regulations Giving Rise to Copious Reports of Adverse Events.  Innovations in Pharmacy . 2023;14(1).
+Tucker J, Fischer T, Upjohn L, Mazzera D, Kumar M. Unapproved pharmaceutical ingredients included in dietary supplements associated with US Food and Drug Administration warnings.  JAMA network open . 2018 Oct 5;1(6):e183337-.
+LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. Ephedra. Bethesda (MD):  National Institute of Diabetes and Digestive and Kidney Diseases ; 2012 [Updated 2018 Feb 10].
+Lunsford KE, Bodzin AS, Reino DC, Wang HL, Busuttil RW. Dangerous dietary supplements: Garcinia cambogia-associated hepatic failure requiring transplantation.  World journal of gastroenterology . 2016 Dec 12;22(45):10071.
+National Institutes of Health/Office of Dietary Supplements.  Probiotics . Accessed 7/13/24.
+Consumer Lab.  7 Red Flags to Watch Out For When Buying Vitamins & Supplements . May 16, 2023. Accessed 7/13/24.
+Last reviewed July 2024
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/workout-supplements/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://nutritionsource.hsph.harvard.edu/multivitamin/
+https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/
+https://nutritionsource.hsph.harvard.edu/staying-active/
+https://nutritionsource.hsph.harvard.edu/sleep/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://nutritionsource.hsph.harvard.edu/caffeine/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://www.nsf.org/
+https://www.usp.org/
+https://www.consumerlab.com/
+https://www.ncbi.nlm.nih.gov/books/NBK547852/
+https://nutritionsource.hsph.harvard.edu/workout-supplements/
+https://nutritionsource.hsph.harvard.edu/multivitamin/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://jamanetwork.com/journals/jama/article-abstract/2565748
+https://www.cdc.gov/nchs/products/databriefs/db399.htm
+https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a1.htm
+https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements
+https://www.ncbi.nlm.nih.gov/books/NBK216048/
+https://journals.sagepub.com/doi/abs/10.1177/1060028019900504
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10686678/
+https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2706496
+https://www.ncbi.nlm.nih.gov/books/NBK548711/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5143754/
+https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/
+https://www.consumerlab.com/answers/what-to-watch-out-for-when-buying-vitamins-and-supplements/vitamin-and-supplement-red-flags/

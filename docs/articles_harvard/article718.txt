@@ -1,0 +1,32 @@
+Title: Diet in the News – What to Believe?
+
+From mainstream media to social media, nutrition news is everywhere. But such a constant flood of information can make it difficult for readers to distinguish reliable research from weak studies and sensational headlines. Nutrition research is complex, yet it is often oversimplified when reported. Writers may focus on preliminary evidence unverified by additional research or highlight a single study because it contradicts current health recommendations–the goal being an attention-grabbing headline. A quick research reality-check:
+Research is an ongoing process, with a steady stream of new studies published regularly. Because dietary recommendations are made based on the totality of evidence, including the best science available at that time, guidelines may change when groundbreaking research becomes available.
+However, newer studies are not necessarily more reliable than older studies.
+Contradictions between published research papers may occur. They are an inevitable and healthy part of the scientific process.
+Not all scientific studies are created equal.  Some study types are more reliable than others .
+What’s often missing from our fast-paced media cycle is  context . Diet stories in the news typically provide little information about how the newly reported results fit in with existing evidence on the topic, which may result in exaggerating the new study’s importance.
+The research process may seem confusing, as contradicting studies occasionally arise. However, when viewed in the proper context–something often overlooked in news coverage–readers can look behind the headline and decide whether a research study is reliable or not.
+Here are questions that serve as a “reliability radar” to help determine which health and nutrition news stories are worth your time.
+Questions to help put health news in context
+One of the most crucial things to keep in mind is how does a given study fit into the entire body of evidence on a topic? What is the weight of the evidence?
+Is the story reporting the results of a single study? A single study is rarely influential enough to warrant that people change their behaviors based on the results. It is important to consider how that study fits in with other studies on the topic. Some articles provide this background, but sometimes you may need to do more digging on your own.
+Was the study done on animals or humans? Many important studies have been carried out on animals, but to best understand how food and nutrients affect human health they must be studied in humans.
+How large and long was the study? Take note of the study’s sample size, as large studies often provide more reliable results than smaller studies. A longer duration of a study of one year or longer may also provide more reliable results than a study 0f 8-12 weeks, especially when examining health conditions that take longer to show change.
+Did the study look at real disease endpoints, such as heart disease or osteoporosis? Chronic diseases, like heart disease and osteoporosis, often take many decades to develop. To avoid waiting that long, researchers will sometimes look at markers for these diseases, like narrowing of the arteries or bone density. However, these markers don’t always develop into the disease.
+How was diet assessed? Some methods of dietary assessment are better than others. Good studies will be able to show sound methodology.
+What type of study is it?  Study types fall into different categories , including cohort studies, randomized controlled trials, meta-analyses, systematic reviews, case control studies, and animal studies.
+Dr. Frank Hu , Chair of the Department of Nutrition at the Harvard T.H. Chan School of Public Health, sums up why some  study types  are considered more reliable than others:
+“The ‘gold standard’ is randomized clinical trials of dietary interventions on hard endpoints such as cancer and heart disease. However, such trials are often infeasible due to high cost, low long-term compliance, and potential ethical issues. In the absence of evidence from such trials, the strongest study design would be well-designed prospective cohort studies, in which a large group of healthy participants are followed for years or decades for disease outcomes. Cohort studies are usually superior to retrospective case-control or cross-sectional studies, which are prone to biases due to recall of dietary factors and selection of control participants. Animal studies can help understand disease mechanisms, but the results may not apply to humans. Smaller human dietary intervention trials on intermediate biomarkers such as blood glucose or cholesterol can also help to illuminate biological mechanisms, and evidence from such trials is complementary to that from large cohort studies. In the end, combined evidence from several types of studies—prospective cohort studies and human intervention trials in particular—can be used to inform dietary guidelines and policies. Summarizing evidence using meta-analyses or systematic reviews can be helpful, but meta-analyses should be conducted with caution and interpreted in light of the totality of the evidence.”
+Related
+What Builds Strong Evidence on Diet and Health?
+Developing Public Health Communication Strategies—And Combating Misinformation—During COVID-19
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/research-study-types/
+https://nutritionsource.hsph.harvard.edu/research-study-types/
+https://www.hsph.harvard.edu/profile/frank-b-hu/
+https://nutritionsource.hsph.harvard.edu/research-study-types/

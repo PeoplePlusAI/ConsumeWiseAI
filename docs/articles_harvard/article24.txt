@@ -1,0 +1,170 @@
+Title: Vitamin E
+
+Vitamin E is a fat-soluble vitamin with several forms, but alpha-tocopherol is the only one used by the human body. Its main role is to act as an antioxidant, scavenging loose electrons—so-called “free radicals”—that can damage cells. [1] It also enhances immune function and prevents clots from forming in heart arteries. Antioxidant vitamins, including vitamin E, came to public attention in the 1980s when scientists began to understand that free radical damage was involved in the early stages of artery-clogging atherosclerosis, and might also contribute to cancer, vision loss, and a host of other chronic conditions. Vitamin E has the ability to protect cells from free radical damage as well as reduce the production of free radicals in certain situations. However, conflicting study results have dimmed some of the promise of using high dose vitamin E to prevent chronic diseases.
+
+Recommended Amounts
+The Recommended Dietary Allowance (RDA) for vitamin E for males and females ages 14 years and older is 15 mg daily (or 22 international units, IU), including women who are pregnant. Lactating women need slightly more at 19 mg (28 IU) daily.
+
+Vitamin E and Health
+For a time, vitamin E supplements looked like an easy way to prevent cardiovascular disease. The U.S. Preventive Services Task Force’s latest review of evidence from clinical trials found no conclusive benefit of vitamin E supplements for the prevention of cardiovascular disease, and therefore recommended against their use. [2] Although some large observational studies and clinical trials have shown a heart-protective benefit from these supplements, particularly in relatively healthy people, most randomized clinical trials have shown no benefit in either healthy people or those at risk for, or with, heart disease.
+Benefit Found
+Observational studies:  The Nurses’ Health Study [3] and Health Professionals Follow-Up Study [4] suggested 20-40% reductions in heart disease risk among individuals who took vitamin E supplements (usually containing 400 IU or more) for at least two years. [5]
+Randomized controlled trials:  In the Women’s Health Study, which followed almost 40,000 healthy women for 10 years, vitamin E supplements of 600 IU taken every other day did not significantly reduce the risk of so-called “major cardiac events” (heart attack, stroke, or cardiovascular death). But there was some encouraging news in the findings: When these major cardiac events were analyzed separately, vitamin E supplementation was linked to a 24% lower risk of cardiovascular death. [6] And among women ages 65 and older, vitamin E supplementation reduced the risk of major cardiac events by 26%. A later analysis found that women who took the vitamin E supplements also had a lower risk of developing serious blood clots in the legs and lungs, with women at the highest risk of such blood clots receiving the greatest benefit. [7]
+No Benefit Found
+Randomized controlled trials in people who were at high risk for or who had heart disease at baseline.  In the GISSI Prevention Trial, the results were mixed but mostly showed no preventive effects after more than three years of treatment with vitamin E among 11,000 heart attack survivors. [8] Results from the Heart Outcomes Prevention Evaluation (HOPE) trial also showed no benefit of four years’ worth of vitamin E supplementation in more than 9,500 men and women already diagnosed with heart disease or at high risk for it. [9] In fact, when the HOPE trial was extended for another four years, researchers found that study volunteers who took vitamin E had a higher risk of heart failure. [10]
+Based on such studies, the American Heart Association concluded that “the scientific data do not justify the use of antioxidant vitamin supplements (such as vitamin E) for CVD risk reduction.” [11] It is possible that in people who already have heart disease or are at high risk of heart disease, the use of drugs such as aspirin, beta blockers, and ACE inhibitors mask a modest effect of vitamin E, and that vitamin E may have benefits among healthier people.
+Randomized controlled trials in people without heart disease at baseline.  The SU.VI.MAX randomized controlled trial found that seven years of low-dose vitamin E supplementation (as part of a daily antioxidant pill) reduced the risk of cancer and the risk of dying from any cause in men, but did not show these beneficial effects in women; the supplements did not offer any protection against heart disease in men or women. [12] Discouraging results have also come from the Physicians’ Health Study II, an eight-year randomized controlled trial that involved nearly 15,000 middle-aged men, most of whom were free of heart disease at the start of the study. Researchers found that taking vitamin E supplements of 400 IU every other day, alone or with vitamin C, failed to offer any protection against heart attacks, strokes, or cardiovascular deaths. [13]
+More recent evidence introduces a theory that vitamin E supplements may have potential benefits only in certain subgroups of the general population. A trial of high-dose vitamin E in Israel, for example, showed a marked reduction in heart disease among people with type 2 diabetes who had a common genetic predisposition for greater oxidative stress. [14]
+Taken as a whole, observational studies have not found that vitamin E in food or supplements offers much protection against cancer in general, or against specific cancers. [15–24] The U.S. Preventive Services Task Force’s latest review of the evidence from clinical trials on the efficacy of vitamin E for cancer also showed no benefit of these supplements on a decreased incidence of or deaths from any cancer. [2] Observational studies and clinical trials have been inconsistent, some suggesting that vitamin E supplements might lower the risk of advanced prostate cancer in smokers and a large randomized trial suggesting that vitamin E increases the risk of prostate cancer. [17,25–27]
+Prostate cancer
+Investigators had hoped that the Selenium and Vitamin E Cancer Prevention Trial (SELECT) would give more definitive answers on vitamin E and prostate cancer. SELECT’s 18,000 men were assigned to follow one of four pill regimens—vitamin E plus selenium, vitamin E plus a selenium placebo, selenium plus a vitamin E placebo, or a double placebo—and to be tracked for 7 to 12 years. But investigators halted the study halfway through in 2008 when early analyses showed that vitamin E offered no cancer or prostate cancer prevention benefit. [28] Though the trial ended, researchers continued to follow the men who had participated. In 2011, they reported a 17% higher risk of prostate cancer among men assigned to take vitamin E; there was no significant increased risk of prostate cancer among men who took vitamin E and selenium. [29]
+Though these results may sound worrisome, two other major trials of vitamin E and prostate cancer had quite different results: The Alpha-Tocopherol Beta Carotene randomized trial, for example, followed nearly 30,000 Finnish male smokers for an average of six years. [25] It found that men assigned to take daily vitamin E supplements had a 32% lower risk of developing prostate cancer—and a 41% lower risk of dying from prostate cancer—than men given a placebo. Vitamin E’s protective effect was strongest for men whose cancers were far enough along that they could be detected by a clinical exam. The large and long-term Physicians’ Health Study II trial, meanwhile, found that vitamin E supplements did not increase or decrease the risk of prostate cancer or any other cancer. [30]
+Why were the SELECT findings on vitamin E and prostate cancer so different from those of earlier studies? Previous studies of vitamin E supplements and prostate cancer found the greatest benefit in men who were smokers and who had more advanced cancers. [17,25–27] In the SELECT trial, however, fewer than 10% of the men were smokers and most had early-stage cancer detected through prostate specific antigen (PSA) blood tests. [28,29] Many early-stage, low-grade prostate cancers identified by PSA test would not become advanced cancers. There is also evidence that different processes may be at work in early versus late-stage prostate cancers. A large trial of a drug to prevent prostate cancer found opposite effects when used in early versus advanced prostate cancers. [31]
+Bear in mind that most prostate cancer develops slowly, and any study looking at prostate cancer prevention needs to track men for a long time. By stopping the SELECT trial early, there is no way to tell if vitamin E could have helped protect against prostate cancer in some men if they had continued the trial over a longer period of time. Very few cases in the SELECT trial were of advanced prostate cancer, further limiting the interpretation of the findings.
+A six-year trial found that vitamin E, in combination with vitamin C, beta carotene, and zinc, offered some protection against the development of advanced age-related macular degeneration (AMD), but not cataracts, in people who were at high risk of the disease. [32,33] On its own, however, vitamin E does not seem to offer much benefit against either AMD or cataracts. [34,35]
+Scientists seeking to untangle the causes of Alzheimer’s, Parkinson’s, and other diseases of the brain and nervous system have focused on the role that free radical damage plays in these diseases’ development. [36] But to date, there is little evidence as to whether vitamin E can help protect against these diseases or that it offers any benefit to people who already have these diseases.
+Dementia:  Some prospective studies suggest that vitamin E supplements, particularly in combination with vitamin C, may be associated with small improvements in cognitive function or lowered risk of Alzheimer’s disease and other forms of dementia, while other studies have failed to find any such benefit. [37–41] A three-year randomized controlled trial in people with mild cognitive impairment—often a precursor to Alzheimer’s disease—found that taking 2,000 IU of vitamin E daily failed to slow the progression to Alzheimer’s disease. [42] Keep in mind, however, that the progression from mild cognitive impairment to Alzheimer’s disease can take many years, and this study was fairly short, so it is probably not the last word on vitamin E and dementia.
+Parkinson’s Disease:  Some, but not all, prospective studies suggest that getting higher intakes of vitamin E from diet—not from high-dose supplements—is associated with a reduced risk of Parkinson’s disease. [43–45] In people who already have Parkinson’s, high-dose vitamin E supplements do not slow the disease’s progression. [46] Why the difference between vitamin E from foods versus that from supplements? It is possible that foods rich in vitamin E, such as nuts or legumes, contain other nutrients that protect against Parkinson’s disease. More research is needed.
+Amyotrophic Lateral Sclerosis (ALS):  One large prospective study that followed nearly 1 million people for up to 16 years found that people who regularly took vitamin E supplements had a lower risk of dying from ALS than people who never took vitamin E supplements. [47] More recently, a combined analysis of multiple studies with more than 1 million participants found that the longer people used vitamin E supplements, the lower their risk of ALS. [48] Clinical trials of vitamin E supplements in people who already have ALS have generally failed to show any benefit, however. [49] This may be a situation where vitamin E is beneficial for prevention, rather than treatment, but more research is needed.
+
+Food Sources
+Vitamin E is found in plant-based oils,  nuts , seeds,  fruits , and  vegetables .
+Wheat germ oil
+Sunflower, safflower, and soybean oil
+Sunflower seeds
+Almonds
+Peanuts, peanut butter
+Beet greens, collard greens, spinach
+Pumpkin
+Red bell pepper
+Asparagus
+Mangoes
+Avocados
+
+Signs of Deficiency
+Because vitamin E is found in a variety of foods and supplements, a deficiency in the U.S. is rare. People who have digestive disorders or do not absorb fat properly (e.g., pancreatitis, cystic fibrosis, celiac disease) can develop a vitamin E deficiency. The following are common signs of a deficiency:
+Retinopathy (damage to the retina of the eyes that can impair vision)
+Peripheral neuropathy (damage to the peripheral nerves, usually in the hands or feet, causing weakness or pain)
+Ataxia (loss of control of body movements)
+Decreased immune function
+
+Toxicity
+There is no evidence of toxic effects from vitamin E found naturally in foods. Most adults who obtain more than the RDA of 22 IU daily are using multivitamins or separate vitamin E supplements that contain anywhere from 400-1000 IU daily. There have not been reports of harmful side effects of supplement use in healthy people. However, there is a risk of excess bleeding, particularly with doses greater than 1000 mg daily or if an individual is also using a blood thinning medication such as warfarin. For this reason, an upper limit for vitamin E has been set for adults 19 years and older of 1000 mg daily (1465 IU) of any form of tocopherol supplement. [1]
+
+Did You Know?
+Due to occasional reports of negative health effects of vitamin E supplements, scientists have debated whether these supplements could be harmful and even increase the risk of death.
+Researchers have tried to answer this question by combining the results of multiple studies. In one such analysis, the authors gathered and re-analyzed data from 19 clinical trials of vitamin E, including the GISSI and HOPE studies [50]; they found a higher rate of death in trials where patients took more than 400 IU of supplements a day. While this meta-analysis drew headlines when it was released, there are limitations to the conclusions that can be drawn from it. Some of the findings were based on very small studies. In some of these trials, vitamin E was combined with high doses of beta-carotene, which itself has been related to excess mortality.  Furthermore, many of the high-dose vitamin E trials included in the analysis included people who had advanced heart disease or Alzheimer’s disease. Other meta-analyses have come to different conclusions. So it is not clear that these findings would apply to healthy people. The Physicians’ Health Study II, for example, did not find any difference in death rates between the study participants who took vitamin E and those who took a placebo. [13]
+
+Related
+Vitamins and Minerals
+Institute of Medicine.  Dietary reference intakes for vitamin C, vitamin E, selenium, and carotenoids . Washington, D.C.: National Academies Press; 2000.
+U.S Preventive Services Task Force, Mangione CM, Barry MJ, Nicholson WK, Cabana M, Chelmow D, Coker TR, Davis EM, Donahue KE, Doubeni CA, Jaén CR, Kubik M, Li L, Ogedegbe G, Pbert L, Ruiz JM, Stevermer J, Wong JB. Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer: US Preventive Services Task Force Recommendation Statement.  JAMA . 2022 Jun 21;327(23):2326-2333.
+Stampfer MJ, Hennekens CH, Manson JE, Colditz GA, Rosner B, Willett WC. Vitamin E consumption and the risk of coronary disease in women.  N Engl J Med . 1993;328:1444-9.
+Rimm EB, Stampfer MJ, Ascherio A, Giovannucci E, Colditz GA, Willett WC. Vitamin E consumption and the risk of coronary heart disease in men.  N Engl J Med . 1993;328:1450-6.
+Rimm EB, Stampfer MJ. Antioxidants for vascular disease.  Med Clin North Am . 2000;84:239-49.
+Lee IM, Cook NR, Gaziano JM, et al. Vitamin E in the primary prevention of cardiovascular disease and cancer: the Women’s Health Study: a randomized controlled trial.  JAMA . 2005;294:56-65.
+Glynn RJ, Ridker PM, Goldhaber SZ, Zee RY, Buring JE. Effects of random allocation to vitamin E supplementation on the occurrence of venous thromboembolism: report from the Women’s Health Study.  Circulation . 2007;116:1497-503.
+Dietary supplementation with n-3 polyunsaturated fatty acids and vitamin E after myocardial infarction: results of the GISSI-Prevenzione trial. Gruppo Italiano per lo Studio della Sopravvivenza nell’Infarto miocardico.  Lancet . 1999;354:447-55.
+Yusuf S, Dagenais G, Pogue J, Bosch J, Sleight P. Vitamin E supplementation and cardiovascular events in high-risk patients. The Heart Outcomes Prevention Evaluation Study Investigators.  N Engl J Med . 2000;342:154-60.
+Lonn E, Bosch J, Yusuf S, et al. Effects of long-term vitamin E supplementation on cardiovascular events and cancer: a randomized controlled trial.  JAMA . 2005;293:1338-47.
+Kris-Etherton PM, Lichtenstein AH, Howard BV, Steinberg D, Witztum JL. Antioxidant vitamin supplements and cardiovascular disease.  Circulation . 2004;110:637-41.
+Hercberg S, Galan P, Preziosi P, et al. The SU.VI.MAX Study: a randomized, placebo-controlled trial of the health effects of antioxidant vitamins and minerals.  Arch Intern Med . 2004;164:2335-42.
+Sesso HD, Buring JE, Christen WG, et al. Vitamins E and C in the prevention of cardiovascular disease in men: the Physicians’ Health Study II randomized controlled trial.  JAMA . 2008;300:2123-33.
+Milman U, Blum S, Shapira C, et al. Vitamin E supplementation reduces cardiovascular events in a subgroup of middle-aged individuals with both type 2 diabetes mellitus and the haptoglobin 2-2 genotype: a prospective double-blinded clinical trial.  Arterioscler Thromb Vasc Biol . 2008;28:341-7.
+Hunter DJ, Manson JE, Colditz GA, et al. A prospective study of the intake of vitamins C, E, and A and the risk of breast cancer.  N Engl J Med . 1993;329:234-40.
+Willett WC, Polk BF, Underwood BA, et al. Relation of serum vitamins A and E and carotenoids to the risk of cancer.  N Engl J Med . 1984;310:430-4.
+Chan JM, Stampfer MJ, Ma J, Rimm EB, Willett WC, Giovannucci EL. Supplemental vitamin E intake and prostate cancer risk in a large cohort of men in the United States.   Cancer Epidemiol Biomarkers Prev . 1999;8:893-9.
+van Dam RM, Huang Z, Giovannucci E, et al. Diet and basal cell carcinoma of the skin in a prospective cohort of men.  Am J Clin Nutr . 2000;71:135-41.
+Wu K, Willett WC, Chan JM, et al. A prospective study on supplemental vitamin e intake and risk of colon cancer in women and men.  Cancer Epidemiol Biomarkers Prev . 2002;11:1298-304.
+Fung TT, Spiegelman D, Egan KM, Giovannucci E, Hunter DJ, Willett WC. Vitamin and carotenoid intake and risk of squamous cell carcinoma of the skin.  Int J Cancer . 2003;103:110-5.
+Feskanich D, Willett WC, Hunter DJ, Colditz GA. Dietary intakes of vitamins A, C, and E and risk of melanoma in two cohorts of women.  Br J Cancer . 2003;88:1381-7.
+Cho E, Spiegelman D, Hunter DJ, et al. Premenopausal intakes of vitamins A, C, and E, folate, and carotenoids, and risk of breast cancer.  Cancer Epidemiol Biomarkers Prev . 2003;12:713-20.
+Cho E, Hunter DJ, Spiegelman D, et al. Intakes of vitamins A, C and E and folate and multivitamins and lung cancer: a pooled analysis of 8 prospective studies.  Int J Cancer . 2006;118:970-8.
+Lee JE, Giovannucci E, Smith-Warner SA, Spiegelman D, Willett WC, Curhan GC. Intakes of fruits, vegetables, vitamins A, C, and E, and carotenoids and risk of renal cell cancer.  Cancer Epidemiol Biomarkers Prev . 2006;15:2445-52.
+Heinonen OP, Albanes D, Virtamo J, et al. Prostate cancer and supplementation with alpha-tocopherol and beta-carotene: incidence and mortality in a controlled trial.  J Natl Cancer Inst . 1998;90:440-6.
+Kirsh VA, Hayes RB, Mayne ST, et al. Supplemental and dietary vitamin E, beta-carotene, and vitamin C intakes and prostate cancer risk.  J Natl Cancer Inst . 2006;98:245-54.
+Peters U, Littman AJ, Kristal AR, Patterson RE, Potter JD, White E. Vitamin E and selenium supplementation and risk of prostate cancer in the Vitamins and Lifestyle (VITAL) study cohort.  Cancer Causes Control . 2008;19:75-87.
+Lippman SM, Klein EA, Goodman PJ, et al. Effect of selenium and vitamin E on risk of prostate cancer and other cancers: the Selenium and Vitamin E Cancer Prevention Trial (SELECT).  JAMA . 2009;301:39-51.
+Klein EA, Thompson IM, Jr., Tangen CM, et al. Vitamin E and the risk of prostate cancer: the Selenium and Vitamin E Cancer Prevention Trial (SELECT).  JAMA . 2011;306:1549-56.
+Wang L, Sesso HD, Glynn RJ, Christen WG, Bubes V, Manson JE, Buring JE, Gaziano JM. Vitamin E and C supplementation and risk of cancer in men: posttrial follow-up in the Physicians’ Health Study II randomized trial.  The American journal of clinical nutrition . 2014 Sep 1;100(3):915-23.
+Thompson IM, Goodman PJ, Tangen CM, et al. The influence of finasteride on the development of prostate cancer.  N Engl J Med . 2003;349:215-24.
+A randomized, placebo-controlled, clinical trial of high-dose supplementation with vitamins C and E, beta carotene, and zinc for age-related macular degeneration and vision loss: AREDS report no. 8.  Arch Ophthalmol . 2001;119:1417-36.
+Age Related Eye Disease Study 2 (AREDS2). National Eye Institute, 2007. Accessed 8 November 2007,
+Chong EW, Wong TY, Kreis AJ, Simpson JA, Guymer RH. Dietary antioxidants and primary prevention of age related macular degeneration: systematic review and meta-analysis.  BMJ . 2007;335:755.
+Christen WG, Glynn RJ, Chew EY, Buring JE. Vitamin E and age-related macular degeneration in a randomized trial of women.  Ophthalmology . 2010;117:1163-8.
+Kamat CD, Gadal S, Mhatre M, Williamson KS, Pye QN, Hensley K. Antioxidants in central nervous system diseases: preclinical promise and translational challenges.  J Alzheimers Dis . 2008;15:473-93.
+Grodstein F, Chen J, Willett WC. High-dose antioxidant supplements and cognitive function in community-dwelling elderly women.  Am J Clin Nutr . 2003;77:975-84.
+Zandi PP, Anthony JC, Khachaturian AS, et al. Reduced risk of Alzheimer disease in users of antioxidant vitamin supplements: the Cache County Study.  Arch Neurol . 2004;61:82-8.
+Laurin D, Masaki KH, Foley DJ, White LR, Launer LJ. Midlife dietary intake of antioxidants and risk of late-life incident dementia: the Honolulu-Asia Aging Study.  Am J Epidemiol . 2004;159:959-67.
+Gray SL, Anderson ML, Crane PK, et al. Antioxidant vitamin supplement use and risk of dementia or Alzheimer’s disease in older adults.  J Am Geriatr Soc . 2008;56:291-5.
+Devore EE, Kang JH, Stampfer MJ, Grodstein F. The association of antioxidants and cognition in the Nurses’ Health Study.  American journal of epidemiology . 2013 Jan 1;177(1):33-41.
+Petersen RC, Thomas RG, Grundman M, et al. Vitamin E and donepezil for the treatment of mild cognitive impairment.  N Engl J Med . 2005;352:2379-88.
+Zhang SM, Hernan MA, Chen H, Spiegelman D, Willett WC, Ascherio A. Intakes of vitamins E and C, carotenoids, vitamin supplements, and PD risk.  Neurology . 2002;59:1161-9.
+Etminan M, Gill SS, Samii A. Intake of vitamin E, vitamin C, and carotenoids and the risk of Parkinson’s disease: a meta-analysis.  Lancet Neurol . 2005;4:362-5.
+Morens DM, Grandinetti A, Waslien CI, Park CB, Ross GW, White LR. Case-control study of idiopathic Parkinson’s disease and dietary vitamin E intake.  Neurology . 1996;46:1270-4.
+Effects of tocopherol and deprenyl on the progression of disability in early Parkinson’s disease. The Parkinson Study Group.  N Engl J Med . 1993;328:176-83.
+Ascherio A, Weisskopf MG, O’Reilly E J, et al. Vitamin E intake and risk of amyotrophic lateral sclerosis.  Ann Neurol . 2005;57:104-10.
+Wang H, O’Reilly EJ, Weisskopf MG, et al. Vitamin E intake and risk of amyotrophic lateral sclerosis: a pooled analysis of data from 5 prospective cohort studies.  Am J Epidemiol . 2011;173:595-602.
+Orrell RW, Lane RJ, Ross M. Antioxidant treatment for amyotrophic lateral sclerosis / motor neuron disease.  Cochrane Database Syst Rev . 2007:CD002829.
+Miller ER, 3rd, Pastor-Barriuso R, Dalal D, Riemersma RA, Appel LJ, Guallar E. Meta-analysis: high-dosage vitamin E supplementation may increase all-cause mortality.  Ann Intern Med . 2005;142:37-46.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/food-features/almonds/
+https://nutritionsource.hsph.harvard.edu/food-features/winter-squash/
+https://nutritionsource.hsph.harvard.edu/avocados/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://www.nap.edu/catalog/9810/dietary-reference-intakes-for-vitamin-c-vitamin-e-selenium-and-carotenoids
+https://www.nejm.org/doi/full/10.1056/nejm199305203282003
+https://www.nejm.org/doi/full/10.1056/nejm199305203282004
+https://www.sciencedirect.com/science/article/pii/S0025712505702169
+https://jamanetwork.com/journals/jama/fullarticle/201172
+https://www.foot.theclinics.com/article/S0741-5214(07)02032-0/abstract
+https://www.sciencedirect.com/science/article/pii/S0140673699070725
+https://europepmc.org/abstract/med/10639540
+https://europepmc.org/abstract/med/15769967/reload=0
+https://www.ncbi.nlm.nih.gov/pubmed/15289389
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/217683
+https://jamanetwork.com/journals/jama/fullarticle/1389615
+https://insights.ovid.com/arte/200802000/00043605-200802000-00022
+https://www.nejm.org/doi/full/10.1056/NEJM199307223290403
+https://www.nejm.org/doi/full/10.1056/NEJM198402163100705
+http://cebp.aacrjournals.org/content/8/10/893.short
+https://academic.oup.com/ajcn/article-abstract/71/1/135/4729306
+http://cebp.aacrjournals.org/content/11/11/1298.short
+https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.10798
+https://www.nature.com/articles/6600882
+http://cebp.aacrjournals.org/content/12/8/713.short
+https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.21441
+http://cebp.aacrjournals.org/content/15/12/2445.short
+https://academic.oup.com/jnci/article-abstract/90/6/440/887488
+https://academic.oup.com/jnci/article-abstract/98/4/245/2521960
+https://academic.oup.com/jnci/article-abstract/98/4/245/2521960
+https://jamanetwork.com/journals/jama/fullarticle/183163
+https://jamanetwork.com/journals/jama/fullarticle/1104493
+https://academic.oup.com/ajcn/article-abstract/100/3/915/4576551
+https://www.nejm.org/doi/full/10.1056/nejmoa030660
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1462955/
+https://www.bmj.com/content/335/7623/755?variant=full
+https://www.sciencedirect.com/science/article/pii/S0161642009012834
+https://content.iospress.com/articles/journal-of-alzheimers-disease/jad00899
+https://academic.oup.com/ajcn/article-abstract/77/4/975/4689775
+https://jamanetwork.com/journals/jamaneurology/fullarticle/785249
+https://academic.oup.com/aje/article-abstract/159/10/959/182084
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1532-5415.2007.01531.x
+https://academic.oup.com/aje/article-abstract/177/1/33/128510
+https://www.nejm.org/doi/full/10.1056/NEJMoa050151
+http://n.neurology.org/content/59/8/1161.short
+https://www.sciencedirect.com/science/article/pii/S1474442205700971
+http://n.neurology.org/content/46/5/1270.short
+https://www.nejm.org/doi/full/10.1056/nejm199301213280305
+https://onlinelibrary.wiley.com/doi/abs/10.1002/ana.20316
+https://academic.oup.com/aje/article-abstract/173/6/595/182634
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002829.pub4/abstract
+http://annals.org/aim/fullarticle/718049

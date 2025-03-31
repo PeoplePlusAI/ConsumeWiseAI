@@ -1,0 +1,125 @@
+Title: Leptin and Leptin Resistance: Everything You Need to Know
+
+Leptin is a hormone that helps manage energy. It signals to your brain when you need food or when you’re satiated. But, leptin resistance can cause the brain to miss this signal, which may contribute to obesity.
+Leptin is a hormone that is produced by your body’s fat cells. It’s often referred to as the “satiety hormone” or the “starvation hormone” because of its role in appetite regulation and energy expenditure.
+The hormone may also be involved in other bodily processes,  including :
+metabolism
+endocrine regulation
+immune function
+energy homeostasis
+reproductive function
+Leptin’s main role is the  long-term regulation  of energy for your central nervous system (CNS). This includes the number of calories you eat and burn, as well as how much fat you store in your body.
+That said, some people have leptin resistance. This could increase the risk of some health conditions like obesity.
+Keep reading to learn more about how leptin affects your body and diet, as well as what causes leptin resistance.
+
+How does leptin affect your brain?
+Leptin is produced by your body’s fat cells. The  hormone  is carried by the bloodstream into your brain, particularly an area called the  hypothalamus . This is the part of your brain that controls when and how much you eat.
+The fat cells use leptin to  tell your brain  how much body fat they carry.
+When you eat, your body fat goes up and your leptin levels rise proportionally. On the other hand, when your leptin levels drop due to  fasting , your brain signals to your body that fat stores are low and you need to eat.
+This kind of system is known as a  negative feedback loop . It’s similar to the control mechanisms for other physiological functions, such as:
+breathing
+body temperature
+blood pressure
+For leptin to trigger the signal that your body has enough energy, it  must cross  your blood-brain barrier. If there’s a problem here, you may have leptin resistance.
+
+What is leptin resistance?
+Leptin resistance is a condition that affects the signaling between your fat cells and your brain. It’s been associated with several health conditions,  such as :
+higher risk of  infections
+autoimmune diseases
+malnutrition
+inflammation
+Most notably, leptin resistance is recognized as a major  biological contributor  to obesity.
+People with  obesity  have many fat cells. Because fat cells produce leptin in proportion to their size, people with obesity also have  very high levels  of leptin.
+Normally, these high levels of leptin signal to your brain that enough energy is stored and it’s time to stop eating. However, in leptin resistance, the brain is  less sensitive to  or fails to recognize the signaling process.
+The authors of a  2019 review  suggest there may be four factors responsible for this:
+the brain has fewer leptin receptors
+leptin receptors aren’t working properly
+less leptin is crossing the brain-blood barrier
+leptin gene mutations
+So, despite high leptin levels being present in the body, the brain may not see it.
+When your brain doesn’t receive the leptin signal, it thinks that your body is starving, even though it has more than enough energy stored. This can make your brain change your behavior to regain body fat, such as by eating more or reducing your energy levels to make you burn fewer calories at rest.
+As such, eating more and exercising less is not always the  underlying cause  of weight gain. It may be a possible consequence of leptin resistance, a hormonal defect.
+
+What causes leptin resistance?
+Several potential mechanisms behind leptin resistance have been identified.
+These may  include :
+Inflammation:  Inflammatory signaling in your hypothalamus is likely an important cause of leptin resistance in both animals and humans.
+Free fatty acids:  Having elevated free fatty acids in your bloodstream may increase fat metabolites in your brain and interfere with leptin signaling.
+Having high leptin:  Having elevated levels of leptin in the first place may impact the ability of leptin to cross your blood-brain barrier.
+Most of these factors are amplified by obesity. This means that you could get trapped in a vicious cycle of gaining weight and becoming increasingly leptin-resistant over time.
+
+What is the impact of leptin resistance on dieting?
+Leptin resistance may be one reason that  many diets fail  to promote long-term weight loss.
+If you’re leptin-resistant, losing weight still reduces fat mass, which leads to a significant reduction in leptin levels. However, your brain may not necessarily reverse its leptin resistance.
+When leptin goes down, you may experience:
+hunger
+increased appetite
+reduced motivation to exercise
+decreased number of calories burned at rest
+Your brain then thinks that you’re starving and initiates various powerful mechanisms to regain that lost body fat. This could be a reason for  yo-yo dieting , which is when you lose weight only to gain it back shortly thereafter.
+Learn more about the  leptin diet .
+
+Can leptin resistance be reversed?
+It’s not entirely clear how leptin resistance can be reversed. However, research has proposed some potential solutions:
+Avoid processed food:  A  2021 study  found that eating highly  processed foods  may drive inflammation and increase leptin levels.
+Eat soluble fiber:  A  2021 review  found that eating soluble fiber may help lower leptin levels in people with obesity over the long term.
+Exercise:  A  2023 review  suggests that  high intensity exercise  may help reverse leptin resistance. The authors also note that exercise may help stabilize your leptin levels and hunger.
+Sleep:  A  2021 review  suggests that short  sleep  duration may increase leptin in your body. The authors note that this may also lead to other health conditions, such as  diabetes .
+Lower your triglycerides:  A  2017 study  found that having high  triglycerides  can prevent the transport of leptin from your blood to your brain. The best way to lower triglycerides is to  reduce your carb intake .
+Eat protein:  A  2021 review  suggests that in some animal studies, low protein diets increased leptin levels. However, the authors note that more human studies are needed to measure protein’s effect on leptin resistance.
+There’s no simple way to eliminate leptin resistance, but some long-term lifestyle and dietary changes may help.
+
+Frequently asked questions
+Taking  leptin supplements  may help increase your levels. Typically, high leptin levels signal to your brain that your body has enough energy. This might seem like leptin supplements will help decrease your appetite, causing you to eat less and help with weight loss. However, this isn’t always the case, especially if you have leptin resistance.
+It’s best to speak with a healthcare professional before taking any supplements if you want to lose weight. They’ll develop a plan that’s right for you.
+When you eat, your fat stores increase. This triggers the  production and secretion  of leptin.
+
+Takeaway
+Leptin is a hormone that helps manage the amount of energy and fat in your body.
+Leptin resistance may be one of the main reasons people  gain weight  and have such a hard time losing it. This may lead to some health conditions, such as obesity.
+If you’re concerned you may be resistant to leptin, speak with a healthcare professional. They can provide a diagnosis and help develop a treatment plan that’s right for you.
+
+References:
+
+https://www.ncbi.nlm.nih.gov/books/NBK537038/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8167040/
+https://www.ncbi.nlm.nih.gov/books/NBK537038/
+https://www.healthline.com/nutrition/9-fixes-for-weight-hormones
+https://www.healthline.com/human-body-maps/hypothalamus
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8167040/
+https://www.healthline.com/nutrition/intermittent-fasting-guide
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6354688/
+https://www.healthline.com/health/breathing-exercise
+https://www.healthline.com/health/what-is-normal-body-temperature
+https://www.healthline.com/health/high-blood-pressure-hypertension/lower-it-fast
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893721/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30390289/
+https://www.healthline.com/health/bacterial-vs-viral-infections
+https://www.healthline.com/health/autoimmune-disorders
+https://www.healthline.com/nutrition/malnutrition
+https://www.healthline.com/health/inflammation
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893721/
+https://www.healthline.com/health/obesity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6354688/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30390289/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6354688/
+https://www.healthline.com/nutrition/10-causes-of-weight-gain
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6354688/
+https://www.healthline.com/nutrition/do-diets-make-you-gain-weight
+https://www.healthline.com/nutrition/10-causes-of-weight-gain
+https://www.healthline.com/health/leptin-diet
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9991817/
+https://www.healthline.com/nutrition/junk-food-vs-healthy-food
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31860117/
+https://www.mdpi.com/2077-0383/12/13/4490
+https://www.healthline.com/health/strenuous-exercise
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8138234/
+https://www.healthline.com/nutrition/10-reasons-why-good-sleep-is-important
+https://www.healthline.com/nutrition/16-best-foods-for-diabetics
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5880581/
+https://www.healthline.com/health/triglycerides
+https://www.healthline.com/nutrition/low-carb-diet-meal-plan-and-menu
+https://www.frontiersin.org/articles/10.3389/fendo.2021.749050/full
+https://www.healthline.com/nutrition/leptin-supplements
+https://www.ncbi.nlm.nih.gov/books/NBK537038/
+https://www.healthline.com/nutrition/12-graphs-that-show-why-people-get-fat

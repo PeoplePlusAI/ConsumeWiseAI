@@ -1,0 +1,80 @@
+Title: Copper
+
+Copper is a naturally occurring metal found in soil, water, and rocks. Nutritionally, it is an essential trace mineral found in some foods and in supplements. It works to assist various enzymes that produce energy for the body, break down and absorb iron, and build red blood cells, collagen, connective tissue, and brain neurotransmitters. Copper also supports normal brain development and immune functions, and is a component of superoxide dismutase, an antioxidant enzyme that dismantles harmful oxygen “free radicals.” Copper is absorbed in the small intestine and found mainly in bones and muscle tissue.
+Recommended Amounts
+RDA:   The Recommended Dietary Allowance (RDA) for adults 19+ years is 900 micrograms daily for men and women. Pregnancy and lactation in adults 19+ years requires 1,300 micrograms daily, with a slightly lower amount of 1,000 micrograms daily in younger ages 14-18 years.
+UL:   The Tolerable Upper Intake Level (UL) is the maximum daily intake unlikely to cause harmful effects on health. The UL for copper for adults 19+ years and those pregnant and lactating is 10,000 micrograms daily.
+Copper and Health
+Because dozens of enzymes use copper to perform metabolic processes throughout the body, it is believed that both an excess and deficiency of copper may interrupt these normal processes and a stable level is required for optimal health. The body is typically efficient at stabilizing copper levels (absorption increases if copper intake is low, and vice versa). [1] Abnormal copper levels result from genetic mutations, aging, or environmental influences that may predispose to conditions such as cancer, inflammation, and neurodegeneration. [2]
+Copper can have “pro-oxidant” effects that potentially cause stress and damage to cells. The muscles in the heart contain high concentrations of copper, and may be negatively affected by either a deficiency or toxicity of the mineral. [3] Both conditions have been associated with atherogenesis, the early build-up of plaque in heart arteries. [3,4] Some cohort studies show an association with higher self-reported intakes of copper and lower blood pressure and LDL cholesterol, as well as increased risk of  heart disease  with a copper deficiency. [3,5] Other cohort studies show an increased risk of death from cardiovascular disease in people with higher copper blood levels compared with lower levels, although it should be noted that the higher blood levels in these studies remained within a normal range. [4,6] Due to these mixed findings, more research is needed before making conclusions on the cardiovascular effect of copper.
+Some research shows that those with higher copper levels have a lower risk of Alzheimer’s disease (AD), but both low and high blood levels of copper have been reported in the brains of people with AD. [1] A meta-analysis showed that people with AD had higher serum copper levels than those without AD. [7] However, a double-blind placebo-controlled trial did not show that copper supplements given for 12 months improved cognition in participants with mild AD. [8] Additionally, observational prospective studies have not found that self-reported dietary and total copper intakes are associated with cognitive decline. [1] More research is needed to better understand if and how high or low levels of copper are associated with AD risk.
+Copper may play a role in  cancer  for several reasons. It supports angiogenesis, the growth of blood vessels that feed a tumor, and activates enzymes and signaling proteins used by cancer cells. [9,10] An emerging area of research has focused on the role of copper in metastatic cancer cells (these are cells that break away from a primary tumor and spread to other areas in the body). [11] Levels of copper in these aggressive cells were found to be higher than in non-metastatic cancer cells. Intentionally depleting copper levels by blocking its bioavailability may reduce the energy these cells need to travel in the body. Chelation-based treatments that bind to and inactivate copper are being researched. [10]
+Food Sources
+Copper is found in highest amounts in  protein foods  like organ meats,  shellfish ,  fish ,  nuts , and seeds as well as  whole grains  and  chocolate . The absorption of copper in the body will increase if the diet contains less copper, and decrease if the body has enough copper.
+Beef liver
+Oysters, crab
+Salmon
+Dark unsweetened chocolate
+Cashews
+Sunflower, sesame seeds
+Chickpeas
+Millet
+Whole wheat pasta
+Potatoes
+Spinach
+Signs of Deficiency and Toxicity
+Deficiency
+A copper deficiency is rare in the U.S. among healthy people and occurs primarily in people with genetic disorders or malabsorption problems such as Crohn’s and celiac disease. A genetic condition called Menkes disease interferes with copper absorption, leading to severe deficiency that could become fatal without copper injections. Also, it is possible to create a copper deficiency by taking high doses of  zinc  supplements that can block the absorption of copper in the small intestine.
+Signs of deficiency include:
+Anemia
+High cholesterol
+Osteoporosis, bone fractures
+Increased infections
+Loss of skin pigment
+Toxicity
+Toxicity is rare in healthy individuals as the body is efficient at excreting excess copper. It has been seen with Wilson’s disease, a rare genetic condition, that prevents copper from exiting the body and therefore leading to high blood levels. Severe liver damage and digestive symptoms such as nausea, vomiting, diarrhea, and abdominal pain may occur. Although very rare, it is possible to consume excess copper if continuously storing and then serving boiling liquids from corroding copper or brass vessels.
+Did You Know?
+Although copper is naturally found in water, excessive levels of copper in drinking water is usually caused by leaked copper from old, corroded household pipes and faucets. There is greater risk if water is stagnant from lack of use or using hot tap water (copper more easily dissolves at higher temperatures). In these cases, exposure to excess copper can be decreased by running cold tap water for several minutes before using. It is also advised to use only cold tap water for drinking and cooking, and to avoid drinking hot tap water.
+Related
+Vitamins and Minerals
+National Institutes of Health Office of Dietary Supplements: Magnesium Fact Sheet for Health Professionals  https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/ . Accessed 6/25/2022.
+Gromadzka G, Tarnacka B, Flaga A, Adamczyk A. Copper dyshomeostasis in neurodegenerative diseases—therapeutic implications.  International journal of molecular sciences . 2020 Dec 4;21(23):9259.
+Kunutsor SK, Dey RS, Laukkanen JA. Circulating serum copper is associated with atherosclerotic cardiovascular disease, but not venous thromboembolism: a prospective cohort study.  Pulse . 2021;9(3-4):109-15.
+Ford ES. Serum copper concentration and coronary heart disease among US adults.  American journal of epidemiology . 2000 Jun 15;151(12):1182-8.
+Bo S, Durazzo M, Gambino R, Berutti C, Milanesio N, Caropreso A, Gentile L, Cassader M, Cavallo-Perin P, Pagano G. Associations of dietary and serum copper with inflammation, oxidative stress, and metabolic variables in adults.  The Journal of nutrition . 2008 Feb 1;138(2):305-10.
+Grammer TB, Kleber ME, Silbernagel G, Pilz S, Scharnagl H, Lerchbaum E, Tomaschitz A, Koenig W, März W. Copper, ceruloplasmin, and long-term cardiovascular and total mortality (the Ludwigshafen Risk and Cardiovascular Health Study).  Free radical research . 2014 Jun 1;48(6):706-15.
+Squitti R, Simonelli I, Ventriglia M, Siotto M, Pasqualetti P, Rembach A, Doecke J, Bush AI. Meta-analysis of serum non-ceruloplasmin copper in Alzheimer’s disease.  Journal of Alzheimer’s Disease . 2014 Jan 1;38(4):809-22.
+Kessler H, Bayer TA, Bach D, Schneider-Axmann T, Supprian T, Herrmann W, Haber M, Multhaup G, Falkai P, Pajonk FG. Intake of copper has no effect on cognition in patients with mild Alzheimer’s disease: a pilot phase 2 clinical trial.  Journal of Neural Transmission . 2008 Aug;115(8):1181-7.
+Garber K. Cancer’s copper connections.  Science . 2015 Jul 10;349(6244):129.
+Lelièvre P, Sancey L, Coll JL, Deniaud A, Busser B. The multifaceted roles of copper in cancer: A trace metal element with dysregulated metabolism, but also a target or a bullet for therapy.  Cancers . 2020 Dec 1;12(12):3594.
+Ramchandani D, Berisa M, Tavarez DA, Li Z, Miele M, Bai Y, Lee SB, Ban Y, Dephoure N, Hendrickson RC, Cloonan SM. Copper depletion modulates mitochondrial oxidative phosphorylation to impair triple negative breast cancer metastasis.  Nature communications . 2021 Dec 15;12(1):1-6.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/cancer/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/food-features/dark-chocolate/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/food-features/dark-chocolate/
+https://nutritionsource.hsph.harvard.edu/food-features/chickpeas-garbanzo-beans/
+https://nutritionsource.hsph.harvard.edu/zinc/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/
+https://www.mdpi.com/913574
+https://www.karger.com/Article/Abstract/519906
+https://academic.oup.com/aje/article-abstract/151/12/1182/55465
+https://academic.oup.com/jn/article-abstract/138/2/305/4665007
+https://www.tandfonline.com/doi/abs/10.3109/10715762.2014.901510
+https://content.iospress.com/articles/journal-of-alzheimers-disease/jad131247
+https://link.springer.com/article/10.1007/s00702-008-0080-1
+https://www.science.org/doi/full/10.1126/science.349.6244.129
+https://www.mdpi.com/908668
+https://www.nature.com/articles/s41467-021-27559-z

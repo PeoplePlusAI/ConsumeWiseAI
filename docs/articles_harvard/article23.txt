@@ -1,0 +1,290 @@
+Title: Vitamin D
+
+Vitamin D is both a nutrient we eat and a hormone our bodies make. It is a fat-soluble vitamin that has long been known to help the body absorb and retain  calcium  and  phosphorus ; both are critical for building bone. Also, laboratory studies show that vitamin D can reduce cancer cell growth, help control infections and reduce inflammation. Many of the body’s organs and tissues have receptors for vitamin D, which suggest important roles beyond bone health, and scientists are actively investigating other possible functions.
+Few foods naturally contain vitamin D, though some foods are fortified with the vitamin. For most people, the best way to get enough vitamin D is taking a supplement because it is hard to eat enough through food. Vitamin D supplements are available in two forms: vitamin D2 (“ergocalciferol” or pre-vitamin D) and vitamin D3 (“cholecalciferol”). Both are also naturally occurring forms that are  produced in the presence of the sun’s ultraviolet-B (UVB) rays, hence its nickname, “the sunshine vitamin,” but D2 is produced in plants and fungi and D3 in animals, including humans. Vitamin D production in the skin is the primary natural source of vitamin D, but many people have insufficient levels because they live in places where sunlight is limited in winter, or because they have limited sun exposure due to being inside much of the time. Also, people with darker skin tend to have lower blood levels of vitamin D because the pigment (melanin) acts like a shade, reducing production of vitamin D (and also reducing damaging effects of sunlight on skin, including skin cancer).
+
+Recommended Amounts
+The Recommended Dietary Allowance for vitamin D provides the daily amount needed to maintain healthy bones and normal  calcium metabolism  in healthy people. It assumes minimal sun exposure.
+RDA:  The Recommended Dietary Allowance for adults 19 years and older is 600 IU (15 mcg) daily for men and women, and for adults >70 years it is 800 IU (20 mcg) daily.
+UL:  The Tolerable Upper Intake Level is the maximum daily intake unlikely to cause harmful effects on health. The UL for vitamin D for adults and children ages 9+ is 4,000 IU (100 mcg).
+Many people may not be meeting the minimum requirement for the vitamin. NHANES data found that the median intake of vitamin D from food and supplements in women ages 51 to 71 years was 308 IU daily, but only 140 IU from food alone (including fortified products). [1] Worldwide, an estimated 1 billion people have inadequate levels of vitamin D in their blood, and deficiencies can be found in all ethnicities and age groups. [2-4] In the U.S., about 20% of White adults and 75% of Black adults have blood levels of vitamin D below 50 nmol/L. [83] In industrialized countries, doctors are seeing the resurgence of rickets, the bone-weakening disease that had been largely eradicated through vitamin D fortification. [5-7] There is scientific debate about how much vitamin D people need each day and what the optimal serum levels should be to prevent disease. The Institute of Medicine (IOM) released in November 2010 recommendations increasing the daily vitamin D intake for children and adults in the U.S. and Canada, to 600 IU per day. [1] The report also increased the upper limit from 2,000 to 4,000 IU per day. Although some groups such as The Endocrine Society recommend 1,500 to 2,000 IU daily to reach adequate serum levels of vitamin D, the IOM felt there was not enough evidence to establish a cause and effect link with vitamin D and health benefits other than for bone health.  Since that time, new evidence has supported other benefits of consuming an adequate amount of vitamin D, although there is still not consensus on the amount considered to be adequate.
+
+Vitamin D and Health
+The role of vitamin D in disease prevention is a popular area of research, but clear answers about the benefit of taking amounts beyond the RDA are not conclusive. Although observational studies see a strong connection with lower rates of certain diseases in populations that live in sunnier climates or have higher serum levels of vitamin D, clinical trials that give people vitamin D supplements to affect a particular disease are still inconclusive. This may be due to different study designs, differences in the absorption rates of vitamin D in different populations, and different dosages given to participants. Learn more about the research on vitamin D and specific health conditions and diseases:
+Several studies link low vitamin D blood levels with an increased risk of fractures in older adults. Some studies suggest that vitamin D supplementation in certain amounts may prevent such fractures, while others do not. [8-11]
+A meta-analysis of 12 randomized controlled trials that included more than 42,000 people 65+ years of age, most of them women, looked at vitamin D supplementation with or without calcium, and with calcium or a placebo. Researchers found that higher intakes of vitamin D supplements—about 500-800 IU per day—reduced hip and non-spine fractures by about 20%, while lower intakes (400 IU or less) failed to offer any fracture prevention benefit. [12]
+A systematic review looked at the effect of vitamin D supplements taken with or without calcium on the prevention of hip fractures (primary outcome) and fractures of any type (secondary outcome) in older men and postmenopausal women 65+ years of age. It included 53 clinical trials with 91,791 participants who lived independently or in a nursing home or hospital. It did not find a strong association between vitamin D supplements alone and prevention of fractures of any type. However, it did find a small protective effect from all types of fractures when vitamin D was taken with calcium. All of the trials used vitamin D supplements containing 800 IU or less. [13]
+The VITamin D and OmegA-3 TriaL (VITAL) double-blind placebo-controlled randomized trial of 25,871 women and men, 55+ years and 50+ years of age, respectively, did not find a protective effect from vitamin D supplements on bone fractures. [81] The participants were healthy at the start of the study—representative of the general population and not selected based on low bone mass, osteoporosis, or vitamin D deficiency—and were given either 2,000 IU of vitamin D or a placebo taken daily for about five years. Vitamin D did not lower the incidence of total bone fractures or fractures of the hip or spine.
+Vitamin D may help increase muscle strength by preserving muscle fibers, which in turn helps to prevent falls, a common problem that leads to substantial disability and death in older people. [14–16] A combined analysis of multiple studies found that taking 700 to 1,000 IU of vitamin D per day lowered the risk of falls by 19%, but taking 200 to 600 IU per day did not offer any such protection. [17] However, the VITAL trial following healthy middle-aged men and women did not find that taking 2,000 IU of vitamin D daily compared with a placebo pill reduced the risk of falls. [82]
+Though taking up to 800 IU of vitamin D daily may benefit bone health in some older adults, it is important to be cautious of very high dosage supplements. A clinical trial that gave women 70+ years of age a once-yearly dosage of vitamin D at 500,000 IU for five years caused a 15% increased risk of falls and a 26% higher fracture risk than women who received a placebo. [18] It was speculated that super-saturating the body with a very high dose given infrequently may have actually promoted lower blood levels of the active form of vitamin D that might not have occurred with smaller, more frequent doses. [13]
+JoAnn Manson, MD, DrPH , leader of the main VITAL trial and coauthor of the report on fracture, commented:
+“We conclude that, in the generally healthy U.S. population of midlife and older adults, vitamin D supplementation doesn’t reduce the risk of fractures or falls. This suggests that only small-to-moderate amounts of vitamin D are needed for bone health and fall prevention, achieved by most community-dwelling adults. Of course, vitamin D deficiency should always be treated and some high-risk patients with malabsorption syndromes, osteoporosis, or taking medications that interfere with vitamin D metabolism will benefit from supplementation.”
+Nearly 30 years ago, researchers noticed an intriguing relationship between colon cancer deaths and geographic location: People who lived at higher latitudes, such as in the northern U.S., had higher rates of death from colon cancer than people who lived closer to the equator. [19] Many scientific hypotheses about vitamin D and disease stem from studies that have compared solar radiation and disease rates in different countries. These studies can be a good starting point for other research but don’t provide the most definitive information. The sun’s UVB rays are weaker at higher latitudes, and in turn, people’s vitamin D blood levels in these locales tend to be lower. This led to the hypothesis that low vitamin D levels might somehow increase colon cancer risk. [3]
+Animal and laboratory studies have found that vitamin D can inhibit the development of tumors and slow the growth of existing tumors including those from the breast, ovary, colon, prostate, and brain. In humans, epidemiological studies show that higher serum levels of vitamin D are associated with substantially lower rates of colon, pancreatic, prostate, and  other cancers , with the evidence strongest for colorectal cancer. [20-32]
+However, clinical trials have not found a consistent association:
+The Women’s Health Initiative trial, which followed roughly 36,000 women for an average of seven years, failed to find any reduction in colon or breast cancer risk in women who received daily supplements of 400 IU of vitamin D and 1,000 mg of calcium, compared with those who received a placebo. [33,34] Limitations of the study were suggested: 1) the relatively low dose of vitamin D given, 2) some people in the placebo group decided on their own to take extra calcium and vitamin D supplements, minimizing the differences between the placebo group and the supplement group, and 3) about one-third of the women assigned to vitamin D did not take their supplements. 4) seven years may be too short to expect a reduction in cancer risk. [35,36]
+A large clinical trial called the VITamin D and OmegA-3 TriaL (VITAL) followed 25,871 men and women 50+ years of age free of any cancers at the start of the study who took either a 2,000 IU vitamin D supplement or placebo daily for a median of five years. [37] The findings did not show significantly different rates of breast, prostate, and colorectal cancer between the vitamin D and placebo groups. The authors noted that a longer follow-up period would be necessary to better assess potential effects of supplementation, as many cancers take at least 5-10 years to develop.
+Although vitamin D does not seem to be a major factor in reducing cancer incidence, evidence including that from randomized trials suggests that having higher vitamin D status may improve survival if one develops cancer.  In the VITAL trial, a lower death rate from cancer was observed in those assigned to take vitamin D, and this benefit seemed to increase over time since starting on vitamin D. A meta-analysis of randomized trials of vitamin D, which included the VITAL study, found a 13% statistically significant lower risk of cancer mortality in those assigned to vitamin D compared to placebo. [38] These findings are consistent with observational data, which suggest that vitamin D may have a stronger effect on cancer progression than for incidence.
+The heart is basically a large muscle, and like skeletal muscle, it has receptors for vitamin D. [39] Immune and inflammatory cells that play a role in  cardiovascular disease  conditions like atherosclerosis are regulated by vitamin D. [40] The vitamin also helps to keep arteries flexible and relaxed, which in turn helps to control high blood pressure. [41]
+In the Health Professionals Follow-up Study nearly 50,000 healthy men were followed for 10 years. [42] Those who had the lowest levels of vitamin D were twice as likely to have a heart attack as men who had the highest levels. Meta-analyses of epidemiological studies have found that people with the lowest serum levels of vitamin D had a significantly increased risk of strokes and any heart disease event compared with those with the highest levels. [40;43-46]
+However, taking vitamin D supplements has not been found to reduce cardiovascular risk. A meta-analysis of 51 clinical trials did not demonstrate that vitamin D supplementation lowered the risk of heart attack, stroke, or deaths from cardiovascular disease. [47] The VITamin D and OmegA-3 TriaL (VITAL) came to the same conclusion; it followed 25,871 men and women free of cardiovascular disease who took either a 2,000 IU vitamin D supplement or placebo daily for a median of five years. No association was found between taking the supplements and a lower risk of major cardiovascular events (heart attack, stroke, or death from cardiovascular causes) compared with the placebo. [37]
+Vitamin D deficiency may negatively affect the biochemical pathways that lead to the development of  Type 2 diabetes  (T2DM), including impairment of beta cell function in the pancreas, insulin resistance, and inflammation. Prospective observational studies have shown that higher vitamin D blood levels are associated with lower rates of T2DM. [48]
+More than 83,000 women without diabetes at baseline were followed in the Nurses’ Health Study for the development of T2DM. Vitamin D and calcium intakes from diet and supplements were assessed throughout the 20-year study. [49] The authors found that when comparing the women with the highest intakes of vitamin D from supplements with women with the lowest intakes, there was a 13% lower risk of developing T2DM. The effect was even stronger when vitamin D was combined with calcium: there was a 33% lower risk of T2DM in women when comparing the highest intakes of calcium and vitamin D from supplements (>1,200 mg, >800 IU daily) with the lowest intakes (<600 mg, 400 IU).
+A randomized clinical trial gave 2,423 adults who had  prediabetes  either 4000 IU of vitamin D or a placebo daily for two years. The majority of participants did not have vitamin D deficiency at the start of the study. At two years, vitamin D blood levels in the supplement versus placebo group was 54.3 ng/mL versus 28.2 ng/mL, respectively, but no significant differences were observed in rates of T2DM at the 2.5 year follow-up. [50] The authors noted that a lack of effect of vitamin D may have been due to the majority of participants having vitamin D blood levels in a normal range of greater than 20 ng/mL, which is considered an acceptable level to reduce health risks.  Notably, among the participants who had the lowest blood levels of vitamin D at the beginning of the study, vitamin D supplementation did reduce risk of diabetes. This is consistent with the important concept that taking additional vitamin D may not benefit those who already have adequate blood levels, but those with initially low blood levels may benefit.
+Vitamin D’s role in regulating the immune system has led scientists to explore two parallel research paths: Does vitamin D deficiency contribute to the development of multiple sclerosis, type 1 diabetes, and other so-called “autoimmune” diseases, where the body’s immune system attacks its own organs and tissues? And could vitamin D supplements help boost our body’s defenses to fight infectious disease, such as tuberculosis and seasonal flu?
+Multiple Sclerosis 
+ The rate of multiple sclerosis (MS) is increasing in both developed and developing countries, with an unclear cause. However, a person’s genetic background plus environmental factors including inadequate vitamin D and UVB exposure have been identified to increase risk. [51] Vitamin D was first proposed over 40 years ago as having a role in MS given observations at the time including that rates of MS were much higher far north (or far south) of the equator than in sunnier climates, and that geographic regions with diets high in fish had lower rates of MS. [52] A prospective study of dietary intake of vitamin D found women with daily intake above 400 IU had a 40% lower risk of MS. [53] In a study among healthy young adults in the US, White men and women with the highest vitamin D serum levels had a 62% lower risk of developing MS than those with the lowest vitamin D levels. [54] The study didn’t find this effect among Black men and women, possibly because there were fewer Black study participants and most of them had low vitamin D levels, making it harder to find any link between vitamin D and MS if one exists. Another prospective study in young adults from Sweden also found a 61% lower risk of MS with higher serum vitamin D levels; [55] and a prospective study among young Finnish women found that low serum vitamin D levels were associated with a 43% increased risk of MS. [56] In prospective studies of persons with MS, higher vitamin D levels have been associated with reduced disease activity and progression. [57,58] While several clinical trials are underway to examine vitamin D as a treatment in persons with MS, there are no clinical trials aimed at prevention of MS, likely because MS is a rare disease and the trial would need to be large and of long duration. Collectively, the current evidence suggests that low vitamin D may have a causal role in MS and if so, approximately 40% of cases may be prevented by correcting vitamin D insufficiency. [59] This conclusion has been strengthened substantially by recent evidence that genetically determined low levels of vitamin D predict higher risk of multiple sclerosis.
+Type 1 Diabetes 
+ Type 1 diabetes  (T1D) is another disease that varies with geography—a child in Finland is about 400 times more likely to develop T1D than a child in Venezuela. [60] While this may largely be due to genetic differences, some studies suggest that T1D rates are lower in sunnier areas. Early evidence suggesting that vitamin D may play a role in T1D comes from a 30-year study that followed more than 10,000 Finnish children from birth: Children who regularly received vitamin D supplements during infancy had a nearly 90% lower risk of developing type 1 diabetes than those who did not receive supplements. [61] However, multiple studies examining the association between dietary vitamin D or trials supplementing children at high risk for T1D with vitamin D have produced mixed and inconclusive results [62] Approximately 40% of T1D cases begin in adulthood. A prospective study among healthy young adults in the US found that White individuals with the highest levels of serum vitamin D had a 44% lower risk of developing T1D in adulthood than those with the lowest levels. [63] No randomized controlled trials on vitamin D and adult onset T1D have been conducted, and it is not clear that they would be possible to conduct. More research is needed in this area.
+Flu and the Common Cold 
+ The flu virus wreaks the most havoc in the winter, abating in the summer months. This seasonality led a British doctor to hypothesize that a sunlight-related “seasonal stimulus” triggered influenza outbreaks. [64] More than 20 years after this initial hypothesis, several scientists published a paper suggesting that vitamin D may be the seasonal stimulus. [65] Among the evidence they cite:
+Vitamin D levels are lowest in the winter months. [65] 
+ The active form of vitamin D tempers the damaging inflammatory response of some white blood cells, while it also boosts immune cells’ production of microbe-fighting proteins. [65] 
+ Children who have vitamin D-deficiency rickets are more likely to get respiratory infections, while children exposed to sunlight seem to have fewer respiratory infections. [65] 
+ Adults who have low vitamin D levels are more likely to report having had a recent cough, cold, or upper respiratory tract infection. [66]
+Vitamin D levels are lowest in the winter months. [65]
+The active form of vitamin D tempers the damaging inflammatory response of some white blood cells, while it also boosts immune cells’ production of microbe-fighting proteins. [65]
+Children who have vitamin D-deficiency rickets are more likely to get respiratory infections, while children exposed to sunlight seem to have fewer respiratory infections. [65]
+Adults who have low vitamin D levels are more likely to report having had a recent cough, cold, or upper respiratory tract infection. [66]
+A randomized controlled trial in Japanese school children tested whether taking daily vitamin D supplements would prevent seasonal flu. [67] The trial followed nearly 340 children for four months during the height of the winter flu season. Half of the study participants received pills that contained 1,200 IU of vitamin D; the other half received placebo pills. Researchers found that type A influenza rates in the vitamin D group were about 40% lower than in the placebo group; there was no significant difference in type B influenza rates.
+Although randomized controlled trials exploring the potential of vitamin D to prevent other acute respiratory infections have yielded mixed results, a large meta-analysis of individual participant data indicated that daily or weekly vitamin D supplementation lowers risk of acute respiratory infections. [68] This effect was particularly prominent for very deficient individuals.
+The findings from this large meta-analysis have raised the possibility that low vitamin D levels may also increase risk of or severity of  novel coronavirus 2019 (COVID-19)  infection. Although there is no direct evidence on this issue because this such a new disease, avoiding low levels of vitamin D makes sense for this and other reasons. Thus, if there is reason to believe that levels might be low, such as having darker skin or limited sun exposure, taking a supplement of 1000 or 2000 IU per day is reasonable. This amount is now part of many standard multiple vitamin supplements and inexpensive.
+More research is needed before we can definitively say that vitamin D protects against the flu and other acute respiratory infections. Even if vitamin D has some benefit, don’t skip your flu shot. And when it comes to limiting risk of COVID-19, it is important to practice careful social distancing and hand washing.
+Tuberculosis 
+ Before the advent of antibiotics, sunlight and sun lamps were part of the standard treatment for tuberculosis (TB). [69] More recent research suggests that the “sunshine vitamin” may be linked to TB risk. Several case-control studies, when analyzed together, suggest that people diagnosed with tuberculosis have lower vitamin D levels than healthy people of similar age and other characteristics. [70] Such studies do not follow individuals over time, so they cannot tell us whether vitamin D deficiency led to the increased TB risk or whether taking vitamin D supplements would prevent TB. There are also genetic differences in the receptor that binds vitamin D, and these differences may influence TB risk. [71] Again, more research is needed.
+Other A utoimmune Conditions 
+ The Vitamin D and Omega 3 trial (VITAL), a randomized double-blind placebo-controlled trial following more than 25,000 men and women ages 50 and older, found that taking vitamin D supplements (2,000 IU/day) for five years, or vitamin D supplements with marine omega-3 fatty acids (1,000 mg/day), reduced the incidence of autoimmune diseases by about 22%, compared with a placebo. Autoimmune conditions observed included rheumatoid arthritis, psoriasis, polymyalgia rheumatica, and autoimmune thyroid diseases (Hashimoto’s thyroiditis, Graves’ disease). [80]   The doses in these supplements are widely available and generally well-tolerated. The authors recommended additional trials to test the effectiveness of these supplements in younger populations and those at high risk of developing autoimmune diseases.
+A promising report in the  Archives of Internal Medicine  suggests that taking vitamin D supplements may reduce overall mortality rates: A combined analysis of multiple studies found that taking modest levels of vitamin D supplements was associated with a statistically significant 7% reduction in mortality from any cause. [72] The analysis looked at the findings from 18 randomized controlled trials that enrolled a total of nearly 60,000 study participants; most of the study participants took between 400 and 800 IU of vitamin D per day for an average of five years. Keep in mind that this analysis has several limitations, chief among them the fact that the studies it included were not designed to explore mortality in general, or explore specific causes of death.  A recent meta-analysis suggests that this reduction in mortality is driven mostly by a reduction in cancer mortality. [38] More research is needed before any broad claims can be made about vitamin D and mortality. [73]
+A large cohort study of more than 307,000 White European participants found a 25% increased risk of premature deaths from any cause in those who had vitamin D blood levels of 25 nmol/L (10 ng/ml), compared with those who had 50 nmol/L (20 ng/ml) (the National Academy of Medicine cites a vitamin D blood level of 50 nmol/L as adequate for most people). [74] Similar increases in risks were seen for deaths due to cardiovascular disease, cancer, and respiratory disease, and risks increased sharply among those with even lower levels of vitamin D. Although the numbers of non-White participants were small, the findings were similar in this group. The study used Mendelian randomization, which measured genetic variations to confirm these findings. This confirmation is important because it documents that the adverse health outcomes among people with low levels of vitamin D represent a causal relationship between vitamin D deficiency and premature death. Specifically, this method removed potential confounding by factors such as obesity, smoking, and alcohol intake.
+In an analysis of more than 427,000 White European participants using Mendelian randomization, a 54% higher risk of dementia was seen among participants with low vitamin D blood levels of <25 nmol/L compared with those having adequate levels of 50 nmol/L. [75]
+
+Food Sources
+Few foods are naturally rich in vitamin D3. The best sources are the flesh of fatty fish and fish liver oils. Smaller amounts are found in egg yolks, cheese, and beef liver. Certain  mushrooms  contain some vitamin D2; in addition some commercially sold mushrooms contain higher amounts of D2 due to intentionally being exposed to high amounts of ultraviolet light. Many foods and supplements are fortified with vitamin D like dairy products and cereals.
+Cod liver oil
+Salmon
+Swordfish
+Tuna fish
+Orange juice fortified with vitamin D
+Dairy and plant milks fortified with vitamin D
+Sardines
+Beef liver
+Egg yolk
+Fortified cereals
+Is There a Difference Between Vitamin D3 and Vitamin D2 Supplements?
+
+Ultraviolet Light
+Vitamin D3 can be formed when a chemical reaction occurs in human skin, when a steroid called 7-dehydrocholesterol is broken down by the sun’s UVB light or so-called “tanning” rays. The amount of the vitamin absorbed can vary widely. The following are conditions that decrease exposure to UVB light and therefore lessen vitamin D absorption:
+Use of sunscreen; correctly applied sunscreen can reduce vitamin D absorption by more than 90%. [78]
+Wearing full clothing that covers the skin.
+Spending limited time outdoors.
+Darker skin tones due to having higher amounts of the pigment melanin, which acts as a type of natural sunscreen. [79]
+Older ages when there is a decrease in 7-dehydrocholesterol levels and changes in skin, and a population that is likely to spend more time indoors.
+Certain seasons and living in northern latitudes above the equator where UVB light is weaker. [78] In the northern hemisphere, people who live in Boston (U.S.), Edmonton (Canada), and Bergen (Norway) can’t make enough vitamin D from the sun for 4, 5, and 6 months out of the year, respectively. [78] In the southern hemisphere, residents of Buenos Aires (Argentina) and Cape Town (South Africa) make far less vitamin D from the sun during their winter months (June through August) than they can during their spring and summer months. [78] The body stores vitamin D from summer sun exposure, but it must last for many months. By late winter, many people in these higher-latitude locales are deficient. [79]
+Note that because ultraviolet rays can cause skin cancer, it is important to avoid excessive sun exposure and in general, tanning beds should not be used.
+
+Signs of Deficiency and Toxicity
+Deficiency
+Vitamin D deficiency may occur from a lack in the diet, poor absorption, or having a metabolic need for higher amounts. If one is not eating enough vitamin D and does not receive enough ultraviolet sun exposure over an extended period (see section above), a deficiency may arise. People who cannot tolerate or do not eat milk, eggs, and fish, such as those with a lactose intolerance or who follow a vegan diet, are at higher risk for a deficiency. Other people at high risk of vitamin D deficiency include:
+People with inflammatory bowel disease (ulcerative colitis, Crohn’s disease) or other conditions that disrupt the normal digestion of fat. Vitamin D is a fat-soluble vitamin that depends on the gut’s ability to absorb dietary fat.
+People who are obese tend to have lower blood vitamin D levels. Vitamin D accumulates in excess fat tissues but is not easily available for use by the body when needed. Higher doses of vitamin D supplementation may be needed to achieve a desirable blood level. Conversely, blood levels of vitamin D rise when obese people lose weight.
+People who have undergone gastric bypass surgery, which typically removes the upper part of the small intestine where vitamin D is absorbed.
+Conditions resulting from prolonged vitamin D deficiency:
+Rickets: A condition in infants and children of soft bones and skeletal deformities caused by failure of bone tissue to harden.
+Osteomalacia: A condition in adults of weak and softened bones that can be reversed with supplementation. This is different than osteoporosis, in which the bones are porous and brittle and the condition is irreversible.
+Toxicity
+Vitamin D toxicity most often occurs from taking supplements. The low amounts of the vitamin found in food are unlikely to reach a toxic level, and a high amount of sun exposure does not lead to toxicity because excess heat on the skin prevents D3 from forming. It is advised to not take daily vitamin D supplements containing more than 4,000 IU unless monitored under the supervision of your doctor.
+Symptoms of toxicity:
+Anorexia
+Weight loss
+Irregular heart beat
+Hardening of blood vessels and tissues due to increased blood levels of calcium, potentially leading to damage of the heart and kidneys
+
+Did You Know?
+Catching the sun’s rays in a sunny office or driving in a car unfortunately won’t help to obtain vitamin D as window glass completely blocks UVB ultraviolet light.
+
+Related
+Vitamins and Minerals
+Institute of Medicine. Dietary Reference Intakes for Calcium and Vitamin D. Washington, D.C.: National Academies Press, 2010.  https://www.ncbi.nlm.nih.gov/books/NBK56070/
+Holick MF. Vitamin D deficiency.  New England Journal of Medicine .  2007 Jul 19;357(3):266-81.
+Gordon CM, DePeter KC, Feldman HA, Grace E, Emans SJ. Prevalence of vitamin D deficiency among healthy adolescents.  Archives of pediatrics & adolescent medicine . 2004 Jun 1;158(6):531-7.
+Lips PT. Worldwide status of vitamin D nutrition.  The Journal of steroid biochemistry and molecular biology . 2010 Jul 1;121(1-2):297-300.
+Robinson PD, Högler W, Craig ME, Verge CF, Walker JL, Piper AC, Woodhead HJ, Cowell CT, Ambler GR. The re-emerging burden of rickets: a decade of experience from Sydney.  Archives of Disease in Childhood . 2006 Jul 1;91(7):564-8.
+Kreiter SR, Schwartz RP, Kirkman Jr HN, Charlton PA, Calikoglu AS, Davenport ML. Nutritional rickets in African American breast-fed infants.  The Journal of pediatrics . 2000 Aug 1;137(2):153-7.
+Misra M, Pacaud D, Petryk A, Collett-Solberg PF, Kappy M. Vitamin D deficiency in children and its management: review of current knowledge and recommendations.  Pediatrics . 2008 Aug 1;122(2):398-417.
+Boonen S, Lips P, Bouillon R, Bischoff-Ferrari HA, Vanderschueren D, Haentjens P. Need for additional calcium to reduce the risk of hip fracture with vitamin D supplementation: evidence from a comparative metaanalysis of randomized controlled trials.  The Journal of Clinical Endocrinology & Metabolism . 2007 Apr 1;92(4):1415-23.
+Bischoff-Ferrari HA, Willett WC, Wong JB, Giovannucci E, Dietrich T, Dawson-Hughes B. Fracture prevention with vitamin D supplementation: a meta-analysis of randomized controlled trials.  Jama . 2005 May 11;293(18):2257-64.
+Cauley JA, LaCroix AZ, Wu L, Horwitz M, Danielson ME, Bauer DC, Lee JS, Jackson RD, Robbins JA, Wu C, Stanczyk FZ. Serum 25-hydroxyvitamin D concentrations and risk for hip fractures.  Annals of internal medicine . 2008 Aug 19;149(4):242-50.
+Cauley JA, Parimi N, Ensrud KE, Bauer DC, Cawthon PM, Cummings SR, Hoffman AR, Shikany JM, Barrett-Connor E, Orwoll E. Serum 25-hydroxyvitamin D and the risk of hip and nonspine fractures in older men.  Journal of Bone and Mineral Research . 2010 Mar;25(3):545-53.
+Bischoff-Ferrari HA, Willett WC, Wong JB, Stuck AE, Staehelin HB, Orav EJ, Thoma A, Kiel DP, Henschkowski J. Prevention of nonvertebral fractures with oral vitamin D and dose dependency: a meta-analysis of randomized controlled trials.  Archives of internal medicine . 2009 Mar 23;169(6):551-61.
+Avenell A, Mak JC, O’Connell D. Vitamin D and vitamin D analogues for preventing fractures in post-menopausal women and older men.  Cochrane Database of Systematic Reviews . 2014(4).
+Bischoff-Ferrari HA, Dawson-Hughes B, Willett WC, Staehelin HB, Bazemore MG, Zee RY, Wong JB. Effect of vitamin D on falls: a meta-analysis.  Jama . 2004 Apr 28;291(16):1999-2006.
+Broe KE, Chen TC, Weinberg J, Bischoff-Ferrari HA, Holick MF, Kiel DP. A higher dose of vitamin D reduces the risk of falls in nursing home residents: a randomized, multiple-dose study.  Journal of the American Geriatrics Society . 2007 Feb;55(2):234-9.
+Bischoff-Ferrari HA, Orav EJ, Dawson-Hughes B. Effect of cholecalciferol plus calcium on falling in ambulatory older men and women: a 3-year randomized controlled trial.  Archives of internal medicine . 2006 Feb 27;166(4):424-30.
+Bischoff-Ferrari HA, Dawson-Hughes B, Staehelin HB, Orav JE, Stuck AE, Theiler R, Wong JB, Egli A, Kiel DP, Henschkowski J. Fall prevention with supplemental and active forms of vitamin D: a meta-analysis of randomised controlled trials.  BMJ . 2009 Oct 1;339:b3692.
+Sanders KM, Stuart AL, Williamson EJ, Simpson JA, Kotowicz MA, Young D, Nicholson GC. Annual high-dose oral vitamin D and falls and fractures in older women: a randomized controlled trial.  Jama . 2010 May 12;303(18):1815-22.
+Garland CF, Garland FC. Do sunlight and vitamin D reduce the likelihood of colon cancer?.  International journal of epidemiology . 1980 Sep 1;9(3):227-31.
+Garland CF, Gorham ED, Mohr SB, Garland FC. Vitamin D for cancer prevention: global perspective.  Annals of epidemiology . 2009 Jul 1;19(7):468-83.
+McCullough ML, Zoltick ES, Weinstein SJ, Fedirko V, Wang M, Cook NR, Eliassen AH, Zeleniuch-Jacquotte A, Agnoli C, Albanes D, Barnett MJ. Circulating vitamin D and colorectal cancer risk: an international pooling project of 17 cohorts.  JNCI: Journal of the National Cancer Institute . 2019 Feb 1;111(2):158-69.
+Yin L, Grandi N, Raum E, Haug U, Arndt V, Brenner H. Meta-analysis: longitudinal studies of serum vitamin D and colorectal cancer risk.  Alimentary pharmacology & therapeutics . 2009 Jul;30(2):113-25.
+Wu K, Feskanich D, Fuchs CS, Willett WC, Hollis BW, Giovannucci EL. A nested case–control study of plasma 25-hydroxyvitamin D concentrations and risk of colorectal cancer.  Journal of the National Cancer Institute . 2007 Jul 18;99(14):1120-9.
+Gorham ED, Garland CF, Garland FC, Grant WB, Mohr SB, Lipkin M, Newmark HL, Giovannucci E, Wei M, Holick MF. Optimal vitamin D status for colorectal cancer prevention: a quantitative meta analysis.  American journal of preventive medicine . 2007 Mar 1;32(3):210-6.
+Giovannucci E. Epidemiological evidence for vitamin D and colorectal cancer.  Journal of Bone and Mineral Research . 2007 Dec;22(S2):V81-5.
+Lin J, Zhang SM, Cook NR, Manson JE, Lee IM, Buring JE. Intakes of calcium and vitamin D and risk of colorectal cancer in women.  American journal of epidemiology . 2005 Apr 15;161(8):755-64.
+Huncharek M, Muscat J, Kupelnick B. Colorectal cancer risk and dietary intake of calcium, vitamin D, and dairy products: a meta-analysis of 26,335 cases from 60 observational studies.  Nutrition and cancer . 2008 Dec 31;61(1):47-69.
+Bertone-Johnson ER, Chen WY, Holick MF, Hollis BW, Colditz GA, Willett WC, Hankinson SE. Plasma 25-hydroxyvitamin D and 1, 25-dihydroxyvitamin D and risk of breast cancer.  Cancer Epidemiology and Prevention Biomarkers . 2005 Aug 1;14(8):1991-7.
+Garland CF, Gorham ED, Mohr SB, Grant WB, Giovannucci EL, Lipkin M, Newmark H, Holick MF, Garland FC. Vitamin D and prevention of breast cancer: pooled analysis.  The Journal of steroid biochemistry and molecular biology . 2007 Mar 1;103(3-5):708-11.
+Lin J, Manson JE, Lee IM, Cook NR, Buring JE, Zhang SM. Intakes of calcium and vitamin D and breast cancer risk in women.  Archives of Internal Medicine . 2007 May 28;167(10):1050-9.
+Robien K, Cutler GJ, Lazovich D. Vitamin D intake and breast cancer risk in postmenopausal women: the Iowa Women’s Health Study.  Cancer causes & control . 2007 Sep 1;18(7):775-82.
+Freedman DM, Chang SC, Falk RT, Purdue MP, Huang WY, McCarty CA, Hollis BW, Graubard BI, Berg CD, Ziegler RG. Serum levels of vitamin D metabolites and breast cancer risk in the prostate, lung, colorectal, and ovarian cancer screening trial.  Cancer Epidemiology and Prevention Biomarkers . 2008 Apr 1;17(4):889-94.
+Wactawski-Wende J, Kotchen JM, Anderson GL, Assaf AR, Brunner RL, O’sullivan MJ, Margolis KL, Ockene JK, Phillips L, Pottern L, Prentice RL. Calcium plus vitamin D supplementation and the risk of colorectal cancer.  New England Journal of Medicine . 2006 Feb 16;354(7):684-96.
+Chlebowski RT, Johnson KC, Kooperberg C, Pettinger M, Wactawski-Wende J, Rohan T, Rossouw J, Lane D, O’Sullivan MJ, Yasmeen S, Hiatt RA. Calcium plus vitamin D supplementation and the risk of breast cancer.  JNCI: Journal of the National Cancer Institute . 2008 Nov 19;100(22):1581-91.
+Holick MF. Calcium plus vitamin D and the risk of colorectal cancer.  N Engl J Med . 2006; 354:2287-8; author reply 2287-8.
+Giovannucci E. Calcium plus vitamin D and the risk of colorectal cancer.  N Engl J Med . 2006; 354:2287-8; author reply 2287-8.
+Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, Gibson H, Gordon D, Copeland T, D’Agostino D, Friedenberg G. Vitamin D supplements and prevention of cancer and cardiovascular disease.  New England Journal of Medicine . 2019 Jan 3;380(1):33-44.
+Keum N, Lee DH, Greenwood DC, Manson JE, Giovannucci E. Vitamin D supplementation and total cancer incidence and mortality: a meta-analysis of randomized controlled trials.  Annals of Oncology . 2019 May 1;30(5):733-43.
+Giovannucci E. Expanding roles of vitamin D.  J Clin Endocrinol Metab . 2009; 94:418-20.
+Norman PE, Powell JT. Vitamin D and cardiovascular disease.  Circulation research . 2014 Jan 17;114(2):379-93.
+Holick MF. The vitamin D deficiency pandemic and consequences for nonskeletal health: mechanisms of action.  Molecular aspects of medicine . 2008 Dec 1;29(6):361-8.
+Giovannucci E, Liu Y, Hollis BW, Rimm EB. 25-hydroxyvitamin D and risk of myocardial infarction in men: a prospective study.  Archives of internal medicine . 2008 Jun 9;168(11):1174-80.
+Pilz S, März W, Wellnitz B, Seelhorst U, Fahrleitner-Pammer A, Dimai HP, Boehm BO, Dobnig H. Association of vitamin D deficiency with heart failure and sudden cardiac death in a large cross-sectional study of patients referred for coronary angiography. The  Journal of Clinical Endocrinology & Metabolism . 2008 Oct 1;93(10):3927-35.
+Pilz S, Dobnig H, Fischer JE, Wellnitz B, Seelhorst U, Boehm BO, März W. Low vitamin D levels predict stroke in patients referred to coronary angiography.  Stroke . 2008 Sep 1;39(9):2611-3.
+Booth TW, Lanier PJ. Vitamin D deficiency and risk of cardiovascular disease.  Circulation  Res117. 2008;503:511.
+Dobnig H, Pilz S, Scharnagl H, Renner W, Seelhorst U, Wellnitz B, Kinkeldei J, Boehm BO, Weihrauch G, Maerz W. Independent association of low serum 25-hydroxyvitamin D and 1, 25-dihydroxyvitamin D levels with all-cause and cardiovascular mortality.  Archives of internal medicine . 2008 Jun 23;168(12):1340-9.
+Elamin MB, Abu Elnour NO, Elamin KB, Fatourechi MM, Alkatib AA, Almandoz JP, Liu H, Lane MA, Mullan RJ, Hazem A, Erwin PJ. Vitamin D and cardiovascular outcomes: a systematic review and meta-analysis.  The Journal of Clinical Endocrinology & Metabolism . 2011 Jul 1;96(7):1931-42.
+Mitri J, Pittas AG. Vitamin D and diabetes.  Endocrinol Metab Clin North Am . 2014 Mar;43(1):205-32.
+Pittas AG, Dawson-Hughes B, Li T, Van Dam RM, Willett WC, Manson JE, Hu FB. Vitamin D and calcium intake in relation to type 2 diabetes in women.  Diabetes care . 2006 Mar 1;29(3):650-6.
+Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, Brodsky I, Ceglia L, Chadha C, Chatterjee R, Desouza C, Dolor R, Foreyt J, Fuss P, Ghazi A, Hsia DS, Johnson KC, Kashyap SR, Kim S, LeBlanc ES, Lewis MR, Liao E, Neff LM, Nelson J, O’Neil P, Park J, Peters A, Phillips LS, Pratley R, Raskin P, Rasouli N, Robbins D, Rosen C, Vickery EM, Staten M; D2d Research Group. Vitamin D Supplementation and Prevention of Type 2 Diabetes.  N Engl J Med . 2019 Aug 8;381(6):520-530
+Dobson R, Giovannoni G. Multiple sclerosis–a review.  European journal of neurology . 2019 Jan;26(1):27-40.
+Goldberg P. Multiple sclerosis: vitamin D and calcium as environmental determinants of prevalence: (A viewpoint) part 1: sunlight, dietary factors and epidemiology.  International Journal of Environmental Studies . 1974 Jan 1;6(1):19-27.
+Munger KL, Zhang SM, O’reilly E, Hernan MA, Olek MJ, Willett WC, Ascherio A. Vitamin D intake and incidence of multiple sclerosis.  Neurology . 2004 Jan 13;62(1):60-5.
+Munger KL, Levin LI, Hollis BW, Howard NS, Ascherio A. Serum 25-hydroxyvitamin D levels and risk of multiple sclerosis.  Jama . 2006 Dec 20;296(23):2832-8.
+Salzer J, Hallmans G, Nyström M, Stenlund H, Wadell G, Sundström P. Vitamin D as a protective factor in multiple sclerosis.  Neurology . 2012 Nov 20;79(21):2140-5.
+Munger KL, Hongell K, Åivo J, Soilu-Hänninen M, Surcel HM, Ascherio A. 25-Hydroxyvitamin D deficiency and risk of MS among women in the Finnish Maternity Cohort.  Neurology . 2017 Oct 10;89(15):1578-83.
+Ascherio A, Munger KL, White R, Köchert K, Simon KC, Polman CH, Freedman MS, Hartung HP, Miller DH, Montalbán X, Edan G. Vitamin D as an early predictor of multiple sclerosis activity and progression.  JAMA neurology . 2014 Mar 1;71(3):306-14.
+Fitzgerald KC, Munger KL, Köchert K, Arnason BG, Comi G, Cook S, Goodin DS, Filippi M, Hartung HP, Jeffery DR, O’Connor P. Association of vitamin D levels with multiple sclerosis activity and progression in patients receiving interferon beta-1b.  JAMA neurology . 2015 Dec 1;72(12):1458-65.
+Ascherio A, Munger KL. Epidemiology of multiple sclerosis: from risk factors to prevention—an update.  InSeminars in neurology  2016 Apr (Vol. 36, No. 02, pp. 103-114). Thieme Medical Publishers.
+Gillespie KM. Type 1 diabetes: pathogenesis and prevention.  Cmaj . 2006 Jul 18;175(2):165-70.
+Hyppönen E, Läärä E, Reunanen A, Järvelin MR, Virtanen SM. Intake of vitamin D and risk of type 1 diabetes: a birth-cohort study.  The Lancet . 2001 Nov 3;358(9292):1500-3.
+Rewers M, Ludvigsson J. Environmental risk factors for type 1 diabetes.  The Lancet . 2016 Jun 4;387(10035):2340-8.
+Munger KL, Levin LI, Massa J, Horst R, Orban T, Ascherio A. Preclinical serum 25-hydroxyvitamin D levels and risk of type 1 diabetes in a cohort of US military personnel.  American journal of epidemiology . 2013 Mar 1;177(5):411-9.
+Hope-Simpson RE. The role of season in the epidemiology of influenza.  Epidemiology & Infection . 1981 Feb;86(1):35-47.
+Cannell JJ, Vieth R, Umhau JC, Holick MF, Grant WB, Madronich S, Garland CF, Giovannucci E. Epidemic influenza and vitamin D.  Epidemiology & Infection . 2006 Dec;134(6):1129-40.
+Ginde AA, Mansbach JM, Camargo CA. Association between serum 25-hydroxyvitamin D level and upper respiratory tract infection in the Third National Health and Nutrition Examination Survey.  Archives of internal medicine . 2009 Feb 23;169(4):384-90.
+Urashima M, Segawa T, Okazaki M, Kurihara M, Wada Y, Ida H. Randomized trial of vitamin D supplementation to prevent seasonal influenza A in schoolchildren. The  American journal of clinical nutrition . 2010 May 1;91(5):1255-60.
+Martineau AR, Jolliffe DA, Hooper RL, Greenberg L, Aloia JF, Bergman P, Dubnov-Raz G, Esposito S, Ganmaa D, Ginde AA, Goodall EC. Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data.  BMJ . 2017 Feb 15;356:i6583.
+Zasloff M. Fighting infections with vitamin D.  Nature medicine . 2006 Apr;12(4):388-90.
+Nnoaham KE, Clarke A. Low serum vitamin D levels and tuberculosis: a systematic review and meta-analysis.  International journal of epidemiology . 2008 Feb 1;37(1):113-9.
+Chocano-Bedoya P, Ronnenberg AG. Vitamin D and tuberculosis.  Nutrition reviews . 2009 May 1;67(5):289-93.
+Autier P, Gandini S. Vitamin D supplementation and total mortality: a meta-analysis of randomized controlled trials.  Archives of internal medicine . 2007 Sep 10;167(16):1730-7.
+Giovannucci E. Can vitamin D reduce total mortality?.  Archives of Internal Medicine . 2007 Sep 10;167(16):1709-10.
+Sutherland JP, Zhou A, Hyppönen E. Vitamin D Deficiency Increases Mortality Risk in the UK Biobank: A Nonlinear Mendelian Randomization Study.  Annals of Internal Medicine . 2022 Oct 25.
+Navale SS, Mulugeta A, Zhou A, Llewellyn DJ, Hyppönen E. Vitamin D and brain health: an observational and Mendelian randomization study.  The American Journal of Clinical Nutrition . 2022 Apr 22.
+Tripkovic L, Lambert H, Hart K, Smith CP, Bucca G, Penson S, Chope G, Hyppönen E, Berry J, Vieth R, Lanham-New S. Comparison of vitamin D2 and vitamin D3 supplementation in raising serum 25-hydroxyvitamin D status: a systematic review and meta-analysis.  The American journal of clinical nutrition . 2012 Jun 1;95(6):1357-64.
+Wilson LR, Tripkovic L, Hart KH, Lanham-New SA. Vitamin D deficiency as a public health issue: using vitamin D 2 or vitamin D 3 in future fortification strategies.  Proceedings of the Nutrition Society . 2017 Aug;76(3):392-9.
+Holick MF. Vitamin D: importance in the prevention of cancers, type 1 diabetes, heart disease, and osteoporosis.  Am J Clin Nutr . 2004; 79:362-71
+Holick MF. Vitamin D deficiency.  N Engl J Med . 2007; 357:266-81.
+Hahn J, Cook NR, Alexander EK, Friedman S, Walter J, Bubes V, Kotler G, Lee IM, Manson JE, Costenbader KH. Vitamin D and marine omega 3 fatty acid supplementation and incident autoimmune disease: VITAL randomized controlled trial.  BMJ . 2022 Jan 26;376:e066452.
+LeBoff MS, Chou SH, Ratliff KA, et al. Supplemental Vitamin D and Incident Fractures in Midlife and Older Adults.  N Engl J Med . 2022 Jul 28;387:299-309.
+LeBoff MS, Murata EM, Cook NR, Cawthon P, Chou SH, Kotler G, Bubes V, Buring JE, Manson JE. VITamin D and OmegA-3 TriaL (VITAL): effects of vitamin D supplements on risk of falls in the US population.  The Journal of Clinical Endocrinology & Metabolism . 2020 Sep;105(9):2929-38.
+Ames BN, Grant WB, Willett WC. Does the high prevalence of vitamin D deficiency in African Americans contribute to health disparities?.  Nutrients . 2021 Feb 3;13(2):499. 
+ *W.B.G. receives funding from Bio-Tech Pharmacal, Inc. (Fayetteville, AR). The other authors have no conflicts of interest to declare.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/calcium/
+https://nutritionsource.hsph.harvard.edu/phosphorus/
+https://nutritionsource.hsph.harvard.edu/calcium/
+https://www.hsph.harvard.edu/joann-manson/
+https://nutritionsource.hsph.harvard.edu/cancer/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/
+https://nutritionsource.hsph.harvard.edu/2020/03/25/food-safety-nutrition-and-wellness-during-covid-19/
+https://nutritionsource.hsph.harvard.edu/food-features/mushrooms/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://www.ncbi.nlm.nih.gov/books/NBK56070/
+https://www.nejm.org/doi/full/10.1056/nejmra070553
+https://jamanetwork.com/journals/jamapediatrics/article-abstract/485739
+https://www.sciencedirect.com/science/article/pii/S0960076010000750
+https://adc.bmj.com/content/91/7/564.short
+https://www.sciencedirect.com/science/article/pii/S0022347600512621
+https://pediatrics.aappublications.org/content/122/2/398.short
+https://academic.oup.com/jcem/article-abstract/92/4/1415/2597489
+https://jamanetwork.com/journals/jama/article-abstract/200871
+https://annals.org/data/journals/aim/20164/0000605-200808190-00005.pdf
+https://onlinelibrary.wiley.com/doi/abs/10.1359/jbmr.090826
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/414883
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000227.pub4/abstract
+https://jamanetwork.com/journals/jama/article-abstract/198636
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1532-5415.2007.01048.x
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/409852
+https://www.bmj.com/content/339/bmj.b3692.long
+https://jamanetwork.com/journals/jama/article-abstract/185854
+https://academic.oup.com/ije/article-abstract/9/3/227/723830
+https://www.sciencedirect.com/science/article/pii/S1047279709001057
+https://academic.oup.com/jnci/article-abstract/111/2/158/5035027
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2036.2009.04022.x
+https://academic.oup.com/jnci/article-abstract/99/14/1120/938667
+https://www.sciencedirect.com/science/article/pii/S0749379706004983
+https://onlinelibrary.wiley.com/doi/abs/10.1359/jbmr.07s206
+https://academic.oup.com/aje/article-abstract/161/8/755/185047
+https://www.tandfonline.com/doi/abs/10.1080/01635580802395733
+https://cebp.aacrjournals.org/content/14/8/1991.short
+https://www.sciencedirect.com/science/article/pii/S0960076006003918
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/486844
+https://link.springer.com/article/10.1007/s10552-007-9020-x
+https://cebp.aacrjournals.org/content/17/4/889.short
+https://www.nejm.org/doi/full/10.1056/NEJMoa055222
+https://academic.oup.com/jnci/article-abstract/100/22/1581/2519095
+http://www.ncbi.nlm.nih.gov/pubmed/16723623?dopt=Citation
+http://www.ncbi.nlm.nih.gov/pubmed/16729368?dopt=Citation
+https://www.nejm.org/doi/pdf/10.1056/NEJMoa1809944
+https://academic.oup.com/annonc/article-abstract/30/5/733/5362013
+https://academic.oup.com/jcem/article-abstract/94/2/418/2597965
+https://www.ahajournals.org/doi/abs/10.1161/circresaha.113.301241
+https://www.sciencedirect.com/science/article/pii/S0098299708000587
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/414285
+https://academic.oup.com/jcem/article-abstract/93/10/3927/2627359
+https://www.ahajournals.org/doi/abs/10.1161/STROKEAHA.107.513655
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/414333
+https://academic.oup.com/jcem/article-abstract/96/7/1931/2833735
+https://www.ncbi.nlm.nih.gov/pubmed/24582099
+https://care.diabetesjournals.org/content/29/3/650.abstract
+https://www.ncbi.nlm.nih.gov/pubmed/31173679
+https://onlinelibrary.wiley.com/doi/abs/10.1111/ene.13819
+https://www.tandfonline.com/doi/abs/10.1080/00207237408709630
+https://n.neurology.org/content/62/1/60.short
+https://jamanetwork.com/journals/jama/fullarticle/204651/
+https://n.neurology.org/content/79/21/2140.short
+https://n.neurology.org/content/89/15/1578.short
+https://jamanetwork.com/journals/jamaneurology/article-abstract/1815002
+https://jamanetwork.com/journals/jamaneurology/fullarticle/10.1001/jamaneurol.2015.2742
+https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0036-1579693
+https://www.cmaj.ca/content/175/2/165.short
+https://www.sciencedirect.com/science/article/pii/S0140673601065801
+https://www.sciencedirect.com/science/article/pii/S0140673616305074
+https://academic.oup.com/aje/article-abstract/177/5/411/141653
+https://www.cambridge.org/core/journals/epidemiology-and-infection/article/role-of-season-in-the-epidemiology-of-influenza/618AD6FF75DBD12ECBA7A084DE5E4D9E
+https://www.cambridge.org/core/journals/epidemiology-and-infection/article/epidemic-influenza-and-vitamin-d/C4D90C6E7CB127E6DF7A52D3A9EE2974
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/414815
+https://academic.oup.com/ajcn/article-abstract/91/5/1255/4597253
+https://www.bmj.com/content/356/bmj.i6583
+https://www.nature.com/articles/nm0406-388
+https://academic.oup.com/ije/article-abstract/37/1/113/768671
+https://academic.oup.com/nutritionreviews/article-abstract/67/5/289/1825749
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/413032
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/412953
+https://www.acpjournals.org/doi/abs/10.7326/M21-3324
+https://academic.oup.com/ajcn/advance-article-abstract/doi/10.1093/ajcn/nqac107/6572356
+https://academic.oup.com/ajcn/article-abstract/95/6/1357/4568382
+https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/vitamin-d-deficiency-as-a-public-health-issue-using-vitamin-d2-or-vitamin-d3-in-future-fortification-strategies/49816B8345AFC98DB16320F12608E2A2
+http://www.ncbi.nlm.nih.gov/pubmed/14985208?dopt=Citation
+http://www.ncbi.nlm.nih.gov/pubmed/17634462?dopt=Citation
+https://www.bmj.com/content/376/bmj-2021-066452
+https://www.nejm.org/doi/full/10.1056/NEJMoa2202106
+https://academic.oup.com/jcem/article-abstract/105/9/2929/5850900
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7913332/

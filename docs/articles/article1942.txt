@@ -1,0 +1,218 @@
+Title: G6PD Deficiency: Foods and Supplements to Choose and Avoid
+
+Some research suggests fava beans, legumes, and medications like ibuprofen may trigger symptoms of G6PD deficiency, a heritable enzyme disorder. Knowing which triggers to avoid is the best way to prevent symptoms.
+G6PD deficiency is the most common inherited enzyme disorder. It’s associated with hemolytic anemia, jaundice, dark red urine, and paleness in adults and children.
+People assigned male at birth are more likely to develop noticeable symptoms of G6PD deficiency. In the United States, African American males are most likely to be affected ( 1 ).
+Some foods, medications, and other substances can trigger a hemolytic crisis — a rapid breakdown of red blood cells — in people with G6PD deficiency.
+Most people with G6PD deficiency can manage the condition well by avoiding these triggers, and treatment is not usually necessary.
+This article explains what G6PD is, the impact of G6PD deficiency, and triggers to avoid.
+
+What is G6PD?
+Glucose-6 phosphate dehydrogenase (G6PD), also called the housekeeping gene, is an  enzyme  that protects your red blood cells against oxidative stress and related damage ( 2 ,  3 ,  4 ,  5 ).
+Oxidative stress results from the accumulation of harmful free radicals, which are common byproducts of metabolism, in your body ( 6 ).
+G6PD is broken down via the pentose phosphate pathway — a metabolic process that creates the building blocks for DNA — and generates the antioxidant compound glutathione ( 2 ,  3 ,  5 ,  7 ).
+Glutathione is an important antioxidant, a compound that guards your cells against damage from free radicals and oxidative stress. Research has highlighted glutathione’s role in fighting inflammation in some cancer cells ( 8 ).
+Although it’s found in all your cells, G6PD is especially high in the testes and immune cells, and it helps regulate your immune system ( 3 ,  7 ).
+G6PD is an enzyme that protects your red blood cells from damage and supports immune health by producing an antioxidant called glutathione.
+
+What is G6PD deficiency?
+G6PD deficiency  occurs when your body does not have enough of the enzyme G6PD.
+This is the most common genetic enzyme disorder and is typically diagnosed in childhood. An estimated 330 million individuals are affected worldwide — approximately 4.9% of the global population ( 2 ,  5 ,  9 ,  10 ,  11 ).
+G6PD deficiency is an X-linked genetic disorder. This means that a gene found on the X chromosome causes it. A child can inherit G6PD deficiency from a parent through their genes ( 1 ).
+To understand how X-linked disorders are passed down in families, let’s take a closer look at X and Y chromosomes.
+Typically, a child has one biological parent with two X chromosomes and one biological parent with one X chromosome and one Y chromosome. A child receives an X chromosome from one parent and either an X or a Y chromosome from the other parent.
+If a child receives an X chromosome containing the gene that causes G6PD deficiency, they will either be a carrier of the condition or develop it.
+A child with one X and one Y chromosome (usually assigned male at birth) will develop G6PD deficiency if they receive this gene.
+A child with two X chromosomes (usually assigned female at birth) may develop some level of G6PD deficiency, but it’s also possible that they will not be affected by the disorder and will be a carrier only.
+Because of these factors, people assigned male at birth are more likely to receive a diagnosis of symptomatic G6PD deficiency. On average, people assigned female at birth are more likely to have the G6PD deficiency gene but less likely to develop serious symptoms ( 1 ,  12 ).
+It’s also possible for G6PD deficiency to happen randomly. In this case, the gene causing the deficiency does not come from a parent — the genetic change happens by chance ( 1 ).
+While anyone can develop G6PD deficiency, the gene is more common in certain groups. People of African, African American, Middle Eastern, Mediterranean, and Asian descent may be more likely to have the gene for G6PD deficiency ( 1 ,  5 ).
+If you or a family member has G6PD deficiency or is a known carrier of the condition and you are thinking of having children, you can talk with your doctor or a genetic counselor. They can help you learn more about how these inheritance patterns may be relevant to you.
+Also, G6PD deficiency can sometimes happen in people who do not have the gene for the condition. In these cases, it’s referred to as acquired G6PD deficiency. This type is caused by other conditions, such as  diabetes  and hyperaldosteronism ( 2 ,  13 ).
+G6PD is necessary to replenish the antioxidant glutathione. That’s why a deficiency (lack) of the enzyme can cause immune system impairment and an increased risk of infections and non-nutritional anemia ( 3 ,  14 ).
+G6PD deficiency is a manageable condition, and if a person is not exposed to triggers, they may never experience any symptoms. Many people with G6PD deficiency never learn they have it ( 1 ).
+If triggered by certain foods, drugs, or infections, G6PD deficiency can lead to the following symptoms ( 2 ,  4 ,  5 ,  10 ,  15 ):
+yellowing of the eyes and skin (jaundice)
+dark red urine
+paleness (pallor) due to anemia
+headaches
+fatigue
+rapid heartbeat
+shortness of breath (dyspnea)
+stomach pain
+When red blood cells are broken down, a yellow byproduct called bilirubin forms. During a hemolytic crisis in someone with G6PD, bilirubin levels build up above expected levels. This leads to the yellowing of the skin and eyes.
+However, most people with the deficiency remain asymptomatic ( 2 ,  4 ,  5 ,  10 ).
+There are five types of G6PD deficiency, based on the activity of the G6PD enzyme in your body ( 3 ,  5 ):
+Class 1:  less than 10% G6PD enzyme activity with chronic hemolytic anemia, meaning that red blood cells are broken down quicker than they’re replenished
+Class 2:  10% or less G6PD enzyme activity with the breakdown of red blood cells only when you’re exposed to trigger foods, medications, or infections
+Class 3:  10%–60% G6PD enzyme activity, with symptoms appearing only in response to infections
+Class 4:  more than 60% G6PD enzyme activity, with only mild symptoms
+Class 5:  higher G6PD enzyme activity compared with healthy individuals; people are often asymptomatic and unaware that they have this condition
+Classes 1–3 are clinically significant. This means there is a high risk of hemolytic anemia when exposed to triggers, often requiring medical intervention and treatment ( 3 ,  5 ).
+To diagnose G6PD deficiency, a healthcare professional will take a blood sample to determine the level of G6PD in your blood.
+According to a 2009 study, a standard G6PD range for adults is 6.75–11.95 units per gram of hemoglobin. If your results are within the standard range, it typically means that you don’t have a G6PD deficiency ( 16 ).
+However, results can vary based on the test used and many other factors. Your doctor will need to interpret your test results.
+Qualified healthcare professionals must test for and diagnosis the condition.
+G6PD deficiency is the most common genetic enzyme disorder. It can cause hemolytic anemia, jaundice, dark red urine, and paleness. There are five types, although only classes 1–3 may need medical treatment.
+
+Foods and substances to avoid
+Specific foods and medications have been shown to trigger hemolytic anemia in those with G6PD deficiency, so you may want to avoid them if you have this condition.
+Fava beans  can lead to hemolytic anemia in some individuals with G6PD deficiency. In one study, 33% of participants with G6PD deficiency experienced hemolytic anemia due to eating fava beans. However, many people with this deficiency do not develop symptoms after eating fava beans ( 1 ,  10 ).
+If you’re not sure whether fava beans are safe to include in your diet, talk with your doctor.
+In a 2018 review, no other foods found in a typical U.S. diet were linked to G6PD deficiency-related symptoms ( 11 ).
+One study in Egypt found links to the following legumes ( 10 ):
+falafel
+chickpeas
+broad beans
+green peas
+peanuts
+lentils
+black eyed peas
+However, no other research has shown these to be trigger foods. Removing foods from your diet can lead to nutritional deficiencies, so it’s best to talk with your doctor before eliminating any foods ( 10 ,  11 ).
+Certain medications can also trigger episodes of hemolytic anemia in those with G6PD deficiency. Some of these medications are commonly used in the United States ( 1 ,  12 ).
+If you have G6PD deficiency, it’s important to talk with your doctor and pharmacist about which medications you should avoid or use with extra caution ( 12 ).
+Common medications that may trigger G6PD-related hemolytic anemia include ( 5 ,  10 ,  12 ,  17 ):
+Acetaminophen:  an analgesic (pain-relieving) drug
+Acetylsalicylic acid (aspirin):  an anti-inflammatory drug
+Chloramphenicol:  an antibiotic drug
+Chloroquine:  an immunosuppressant and antimalarial drug
+Colchicine:  a gout medication
+Diaminodiphenyl sulfone (Dapsone):  an antibiotic and antimalarial drug
+Diclofenac sodium:  an anti-inflammatory drug
+Diphenhydramine:  an antihistamine drug
+Glyburide:  a diabetes drug
+Ibuprofen:  an anti-inflammatory drug
+Izoniazid:  an antibiotic drug
+L-dopa:  a Parkinson’s disease treatment
+Methylene blue:  a dye and blood disorder treatment
+Nitrofurantoin:  an antimicrobial drug
+Phenazopyridine:  an analgesic drug
+Primaquine:  an antimalarial drug
+Rasburicase:  a gout medication
+Streptomycin:  an antibiotic drug
+Sulfa drugs:  a group of antibiotics that includes co-trimoxazole, sulfacetamide, and trimethoprim
+Tripelennamine:  an antihistamine drug
+Vitamin K:  a dietary supplement
+A 2019 review also suggests caution if using herbal supplements or extracts containing  Rhizoma coptidis  (also called Huang Lian) or  Coptis chinensis . These herbs can be used to produce a supplement called  berberine . Some evidence suggests that  Rhizoma coptidis  and  Coptis chinensis  may cause symptoms for those with G6PD deficiency ( 11 ).
+Substances used for tattoos and in scientific labs may also trigger G6PD symptoms. Examples include ( 5 ):
+Henna:  a plant-derived dye sometimes used for decorating the body
+Naphthalene:  a substance found in mothballs
+Toluidine blue:  a dye used in some lab tests
+Foods and substances that may trigger hemolytic anemic in people with G6PD deficiency include fava beans, some medications such as sulfa drugs, and henna.
+
+Foods and substances to choose
+Individuals with G6PD deficiency can enjoy a similar diet and lifestyle to those without the condition, as long as they avoid the potential triggers discussed earlier. Knowing and avoiding the triggers is the best way to prevent issues that can arise from G6PD deficiency.
+There is no reliable evidence to suggest that any foods or supplements can improve the condition. As in any situation, taking good care of your general health is beneficial. Do your best to eat a  healthy diet  that includes a variety of nutrient-rich foods.
+Some studies have looked at extracts and supplements that may affect the activity of G6PD enzymes and glutathione. However, the research on these remedies is very limited. There’s no evidence that they are safe or beneficial for people with G6PD deficiency.
+One animal study examined the alcoholic extract of the  Premna integrifolia Linn  plant. This extract increased the concentration of  glutathione  and reduced markers of inflammation in rats fed a high fat diet ( 18 ).
+Other studies suggest that L-cysteine — the precursor to glutathione — could help increase glutathione in G6PD-deficient cells ( 5 ,  19 ).
+Still, more studies, particularly in humans, are needed to determine whether any supplements would benefit those with this condition.
+Individuals with G6PD deficiency can maintain a standard diet and lifestyle, as long as they avoid trigger foods and substances.
+
+Recommendations for children
+The highest prevalence of hemolytic crises in G6PD deficiency is in children ages 1–3 ( 10 ).
+For example, crises may present as hyperbilirubinemia — a buildup of  bilirubin  resulting from the breakdown of red blood cells — and severe jaundice, which may require phototherapy ( 5 ,  20 ).
+Newborn screening for G6PD deficiency is not yet routine in the United States.
+However, the American Academy of Pediatrics recommends screening jaundiced newborns who undergo phototherapy, especially if they have a family history of the deficiency or are of African, Asian, or Mediterranean descent ( 5 ).
+Children with G6PD deficiency can lead a typical lifestyle, as long as they avoid any known triggers.
+Here are some recommendations for caregivers of children with G6PD deficiency:
+Observe them for symptoms of jaundice or anemia and seek immediate medical treatment if symptoms appear.
+Keep mothballs and medications out of reach to avoid a hemolytic crisis.
+Avoid fava beans, unless directed otherwise by your doctor.
+The highest prevalence of hemolytic crises in people with G6PD deficiency is in those ages 1–3. Avoid food, substance, and medication triggers. Seek immediate medical attention if symptoms of jaundice or anemia appear.
+
+Exercise and G6PD
+Exercise can induce oxidative stress, which is a trigger for  hemolytic anemia  in people with G6PD deficiency ( 5 ,  21 ).
+However, studies in athletes suggest that oxidative stress brought about by exercise is not significantly higher in people with G6PD deficiency ( 5 ).
+So, it’s likely safe for individuals with G6PD deficiency to use exercise to improve their quality of life ( 21 ).
+Still, more studies on exercise in people with G6PD deficiency are needed.
+Exercise causes oxidative stress, a potential trigger in people with G6PD deficiency. However, studies have not shown a significant difference in oxidative stress in people with and without the condition. This suggests that people with G6PD deficiency can engage in exercise.
+
+The bottom line
+G6PD is an enzyme that protects your red blood cells from oxidative stress and damage.
+A deficiency (lack) of this enzyme is associated with hemolytic anemia, jaundice, and dark red urine. Hemolytic crises are most prevalent in children ages 1–3.
+Triggers to be avoided include certain foods, such as fava beans; some medications; and some substances, including henna.
+While anyone can develop G6PD deficiency, people assigned male at birth are more likely to have symptoms of the condition.
+Individuals with G6PD deficiency can continue to exercise to support their quality of life without an increased risk for hemolytic anemia.
+Try this today:  Ask a doctor about G6PD deficiency testing if you have a family history and think you may have the condition. You may request testing for your child if they have jaundice and need phototherapy; are of African, African American, Middle Eastern, Asian, or Mediterranean descent; or have a family history of the deficiency.
+
+References:
+
+https://www.healthline.comhttps://rarediseases.org/rare-diseases/glucose-6-phosphate-dehydrogenase-deficiency/
+https://www.healthline.com/health/why-are-enzymes-important
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27040960/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33401987/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31609781/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32411336/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27040960/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33401987/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32393898/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31281572/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33401987/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32393898/
+https://www.healthline.com/health/glucose-6-phosphate-dehydrogenase-deficiency
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27040960/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31385801/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28982343/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30380124/
+https://www.healthline.comhttps://rarediseases.org/rare-diseases/glucose-6-phosphate-dehydrogenase-deficiency/
+https://www.healthline.comhttps://rarediseases.org/rare-diseases/glucose-6-phosphate-dehydrogenase-deficiency/
+https://www.ncbi.nlm.nih.gov/books/NBK470315/
+https://www.healthline.comhttps://rarediseases.org/rare-diseases/glucose-6-phosphate-dehydrogenase-deficiency/
+https://www.healthline.comhttps://rarediseases.org/rare-diseases/glucose-6-phosphate-dehydrogenase-deficiency/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.com/nutrition/16-best-foods-for-diabetics
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27040960/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9695330/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33401987/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33377745/
+https://www.healthline.comhttps://rarediseases.org/rare-diseases/glucose-6-phosphate-dehydrogenase-deficiency/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27040960/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31609781/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28982343/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/19769422/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27040960/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31609781/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28982343/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33401987/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33401987/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://journals.lww.com/pathologyrcpa/fulltext/2009/41001/g6pd_enzyme_activity_in_normal_term_neonates_and.181.aspx
+https://www.healthline.com/nutrition/fava-beans
+https://www.healthline.comhttps://rarediseases.org/rare-diseases/glucose-6-phosphate-dehydrogenase-deficiency/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28982343/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30380124/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28982343/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28982343/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30380124/
+https://www.healthline.comhttps://rarediseases.org/rare-diseases/glucose-6-phosphate-dehydrogenase-deficiency/
+https://www.ncbi.nlm.nih.gov/books/NBK470315/
+https://www.ncbi.nlm.nih.gov/books/NBK470315/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28982343/
+https://www.ncbi.nlm.nih.gov/books/NBK470315/
+https://www.healthline.comhttps://pubchem.ncbi.nlm.nih.gov/compound/Methylene-blue
+https://www.healthline.com/nutrition/berberine-pcos
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30380124/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.com/nutrition/how-to-eat-healthy-guide
+https://www.healthline.com/nutrition/how-to-increase-glutathione
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30738624/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29626298/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28982343/
+https://www.healthline.com/health/bilirubin-blood
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/24684295/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.com/health/hemolytic-anemia
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31089417/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31603370/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31089417/

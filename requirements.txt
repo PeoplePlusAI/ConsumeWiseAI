@@ -8,3 +8,6 @@ python-dotenv
 uvicorn
 tenacity
 nest_asyncio
+python-multipart
+flask_cors
+pandas

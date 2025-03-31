@@ -1,0 +1,67 @@
+Title: WHO report says eating processed meat is carcinogenic: Understanding the findings
+
+Last week the World Health Organization (WHO)’s International Agency for Research on Cancer (IARC)  announced  that consumption of processed meat is “carcinogenic to humans (Group I ),” and that consumption of red meat is “probably carcinogenic to humans (Group 2A).” The  report  differentiates the two meats as follows:
+Processed meat  – meat that has been transformed through salting, curing, fermentation, smoking, or other processes to enhance flavor or improve preservation
+Red meat  – unprocessed mammalian muscle meat such as beef, veal, pork, lamb, mutton, horse and goat meat
+Consumption of processed meat was classified as carcinogenic and red meat as probably carcinogenic after the IARC Working Group – comprised of 22 scientists from ten countries – evaluated over 800 studies. Conclusions were primarily based on the evidence for colorectal cancer. Data also showed positive associations between processed meat consumption and stomach cancer, and between red meat consumption and pancreatic and prostate cancer.
+Meat processing such as curing (e.g. by adding nitrates or nitrites) or smoking can lead to the formation of potentially cancer-causing (carcinogenic) chemicals such as N-nitroso-compounds (NOC) and polycyclic aromatic hydrocarbons (PAH).
+Meat also contains  heme iron , which can facilitate production of carcinogenic NOCs.
+Cooking – especially high-temperature cooking including cooking meats over a flame (e.g., pan-frying, grilling, barbecuing) – can also produce carcinogenic chemicals, including heterocyclic aromatic amines (HAA) and PAHs.
+To help further explain the report findings we spoke with  Kana Wu , a member of the IARC Monograph Working Group for this report and a Senior Research Scientist in the Department of Nutrition at Harvard T.H. Chan School of Public Health.
+The IARC Working Group said red meat is “probably” carcinogenic, but several studies showed no clear association. Can you explain why it’s probably carcinogenic?
+In large population studies, but not all of them, greater red meat consumption has been associated with higher risk of colorectal cancer. Although these studies were not entirely consistent, results of laboratory studies led the IARC working group to conclude that red meat is  probably  carcinogenic.
+Some reports in the media, particularly those from the meat industry, promote red meat consumption as part of a healthy and balanced diet. Is this true?
+While it is true that red meat has nutritional value – it is rich in protein, minerals and vitamins (e.g., vitamin B12) – many studies have also shown that high consumption of red meat can increase the risk of colorectal cancer, heart disease, diabetes, and other chronic diseases, and may lead to higher risk of dying of those diseases (when compared to other good sources of protein, such as poultry, fish or legumes).  Thus, much evidence suggests that an optimally healthy diet would be low in red meat.
+The IARC/WHO classified processed meat as a Group 1 carcinogen, the same category as tobacco smoking and asbestos. Some media reports have indicated that eating bacon or hot dogs is as bad as smoking. Is this true?
+It has been known for a while that high consumption of red or processed meat can  adversely affect health , including raising risk of colorectal cancers and some other cancers. So the conclusions drawn by the IARC Working Group are consistent with what we already know. However, the way the media has reacted to last week’s IARC/WHO announcement has created a lot of confusion and this requires clarification:
+IARC/WHO does not assess the size of risk 
+ The International Agency for Cancer Research (IARC) used clearly defined  guidelines  to identify hazards ( qualitative  evaluation), i.e. whether an agent can cause cancer, but IARC does not assess level or the magnitude of risk ( quantative  assessment). In other words, the IARC/WHO evaluates the evidence not risk. As stated by the Director of IARC Christopher Wild, “The IARC evaluations are important in enabling governments and international regulatory agencies to conduct risk assessments, in order to balance the risks and benefits of eating red meat and processed meat and to provide the best possible dietary recommendations.” As an example, the US Dietary Guidelines Committee issued a review of diet and health earlier this year; among the conclusions was that consumption of red meat should be low for both  human and planet health .
+Smoking vs. high consumption of processed meat 
+ Even though smoking is in the same category as processed meat (Group 1 carcinogen), the magnitude or level of risk associated with smoking is considerably higher (e.g., for lung cancer about 20 fold or 2000% increased risk) from those associated with processed meat – an analysis of data from 10 studies, cited in the IARC  report  showed an 18 percent increased risk in colorectal cancer per 50g processed meat increase per day. To put this in perspective, according to the Global Disease Burden Project 2012, over 34,000 cancer deaths per year worldwide are attributable to high processed meat intake vs. 1 million deaths per year attributable to tobacco smoke.
+High consumption of red or processed meat also increases risk of other chronic diseases and mortality 
+ It is important to keep in mind that the above estimates pertain to cancer deaths only. It is well known that besides increasing the risk of some cancers, high red and processed meat intake can also increase risk of other chronic and potentially life threatening diseases such as coronary heart disease, stroke and type II diabetes compared to other protein sources such as poultry, legumes and fish. Our group at the  Harvard T.H. Chan School of Public Health  and the  Harvard Medical School  and others have also found higher rates of total mortality with higher intake of red or processed meat. In fact, according to 2013  data  from the Global Burden of Disease Project, the number of total deaths (including deaths from cardiovascular disease or diabetes and colorectal cancers) attributable to a diet high in processed meat was 644,000.
+Some people purchase “nitrate-free” processed meats, a fairly new food trend. Could that help make processed meat less carcinogenic?
+So-called “nitrate-free” processed meats are often preserved with celery juice, a plant rich in nitrate. The source of nitrate added for meat preservation will likely not matter. Furthermore, processed meats can also contain other carcinogenic compounds such as PAHs which can be formed during smoking of meat (e.g. salami). Processed meats, particularly those containing red meat also contain  heme iron , which can enhance the formation of carcinogenic compounds (NOCs) in the body. Until we know more about the exact mechanisms underlying the relationship between processed meat and cancers, it is best to treat those nitrate-free processed meats the same as any other processed meats and limit intake.
+How about chicken or turkey hot dogs, or turkey bacon – are those safer to eat than bacon or hot dogs containing red meats such as beef or pork?
+Chicken and turkey hot dogs and turkey bacon may also contain preservatives such as nitrates. However, those meats contain less heme iron than processed meats made from red meats. A good alternative is to replace red or processed meat with unprocessed, fresh chicken or turkey, which is a good source of protein, vitamins and minerals. Also to be considered are nuts, peanuts, soy, and legumes, such as hummus.
+Are processed meats made from so-called “organic” meats safer?
+Processed meats made from so-called “organic meats” are generally treated with natural nitrate such as celery juice or smoked as well. At this point there is insufficient data to conclude whether those meats are safer than the “non-organic” meats.
+The media has reported that 50g/day consumption of processed meat can risk for colorectal cancer from an average 5 percent lifetime risk to 6 percent. This does not sound like much of an increase in risk.
+50g processed meat is equivalent to about 6 slices of bacon or one hot dog. The 5 percent to 6 percent increase in risk of colorectal cancer reported in the media is a population average, but this estimate does not take into account that for certain subgroups (e.g., those who are also obese, are physically inactive or consume diets high in sugar, saturated fat etc., or are more genetically susceptible) the absolute risk can be higher. As mentioned above, high consumption of red and processed meat is associated with higher risk of several chronic diseases, such as heart disease or diabetes, not just colorectal cancers and high processed meat consumption is  estimated  to account for about 644,000 deaths worldwide. Thus, in making dietary choices, it is important to consider all the consequences, not just risk of one disease.
+Are there any specific types of processed meats that should be avoided more than others?
+IARC evaluated consumption of total processed meat, not one specific type of meat, because data relating specific subtypes of processed and red meat to risk of cancers are currently limited. Therefore, it is not yet possible to draw a conclusion on whether specific types of meats are safer. Overall, it is best to limit consumption of any processed meat.
+I heard that red meat production can affect the environment, is this true?
+Dr.  Walter Willett , Professor of Epidemiology and Nutrition and Chair of the Department of Nutrition at Harvard T.H. Chan School of Public Health, recently  addressed this topic .
+How much red or processed meat, if any, can I eat? What do you recommend?
+Studies have shown that the higher the intake of processed meat, the higher the risk of colorectal cancers and other chronic diseases (dose-response). This does not mean you have to cut out all red and processed meats from your diet. In our  Healthy Eating Plate  we suggest avoiding processed meat and consuming red meat occasionally at most.   Ideally, we should be thinking of red meat as we do lobster, having it for a special occasion if we like it. This is how red meat is consumed in many traditional eating cultures, such as the  Mediterranean diet . Other organizations have also recommended limiting consumption of red meat for better health, including the  American Heart Association , the  World Cancer Research Fund  (WCRF) and the  American Cancer Society . For example, the WCRF recommends to limit intake of red meat to 500g per week and to avoid processed meat.
+Further reading
+WHO/IARC  Q&A on the carcinogenicity of the consumption of red meat and processed meat
+How risky is it to eat red meat?
+Cancer
+
+
+References:
+http://www.iarc.fr/en/media-centre/pr/2015/pdfs/pr240_E.pdf
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045%2815%2900444-1/fulltext
+https://nutritionsource.hsph.harvard.edu/iron/
+https://www.hsph.harvard.edu/kana-wu/
+http://www.iarc.fr/en/media-centre/iarcnews/pdf/Monographs-Q&A_Vol114.pdf
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/
+http://monographs.iarc.fr/ENG/Preamble/index.php
+https://nutritionsource.hsph.harvard.edu/2015/06/16/the-new-focus-on-sustainability-the-dietary-guidelines-for-americans-and-for-our-planet/
+http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045%2815%2900444-1/fulltext
+https://www.hsph.harvard.edu/
+http://hms.harvard.edu/
+http://www.ncbi.nlm.nih.gov/pubmed/?term=26364544
+https://nutritionsource.hsph.harvard.edu/iron/
+http://www.ncbi.nlm.nih.gov/pubmed/?term=26364544
+https://www.hsph.harvard.edu/walter-willett/
+http://www.torontosun.com/2015/10/15/how-risky-is-it-to-eat-red-meat
+https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/
+https://nutritionsource.hsph.harvard.edu/healthy-dietary-styles/
+http://www.heart.org/HEARTORG/
+http://www.wcrf.org/
+http://www.cancer.org/index
+http://www.iarc.fr/en/media-centre/iarcnews/pdf/Monographs-Q&A_Vol114.pdf
+http://www.torontosun.com/2015/10/15/how-risky-is-it-to-eat-red-meat
+https://nutritionsource.hsph.harvard.edu/cancer/

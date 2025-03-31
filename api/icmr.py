@@ -1,6 +1,7 @@
 import os
 import json
 from typing import List, Dict, Any
+from fastapi import HTTPException
 
 # Nutrient thresholds for solids and liquids
 thresholds = {
@@ -13,6 +14,11 @@ thresholds = {
         'calories': 70,
         'sugar': 2,
         'salt': 175
+    },
+    'unknown': {
+        'calories': 1, 
+        'sugar': 1, 
+        'salt': 1
     }
 }
 

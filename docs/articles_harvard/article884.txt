@@ -1,0 +1,142 @@
+Title: Diabetes
+
+Jump to: 
+ – What is diabetes? 
+–Types and risk factors: 
+–– Type 1 diabetes 
+–– Latent autoimmune diabetes of adults (LADA) 
+–– Gestational diabetes 
+–– Prediabetes 
+–– Type 2 diabetes 
+– Type 2 diabetes (and prediabetes) can be prevented
+Definition and Overview
+Our cells depend on a single simple sugar, glucose, for most of their energy needs. The body has intricate mechanisms in place to make sure glucose levels in the blood don’t go too low or soar too high. When you eat, most digestible carbohydrates are converted into glucose and quickly absorbed into the bloodstream. Any rise in blood sugar signals the pancreas to make and release the hormone insulin, which instructs cells to sponge up glucose. Without insulin, glucose floats around the bloodstream, unable to slip inside the cells that need it for energy.
+Diabetes mellitus is a condition of abnormally high levels of glucose in the blood because either the body is not making enough insulin or can’t properly use the insulin it makes. Normally, blood glucose rises after eating a meal but then drops in 1-2 hours as the glucose is shuttled out of the blood and into cells. In people with diabetes, their blood glucose may remain elevated for several hours. Their blood glucose may also rise much higher after eating a meal than someone who does not have diabetes.
+There is much attention on high blood sugar or hyperglycemia, which occurs with all forms of diabetes. But there also exists a condition of too low blood sugar, called hypoglycemia. Hypoglycemia can occur from not eating enough food, waiting too long to eat a meal or snack, eating an imbalanced diet that does not contain enough carbohydrate, or exercising more intensely than usual. Sometimes eating too many refined carbohydrates (white bread and pasta, cookies, soda) without also including other foods like protein and vegetables can lead to hypoglycemia because this can quickly spike blood sugar; in response the pancreas may produce too much insulin to help lower the blood sugar quickly, causing a “sugar crash.” If a person is taking insulin or using certain oral medications that cause the body to secrete more insulin, they are at higher risk of experiencing hypoglycemia if they are not eating at consistent meal times or an adequate amount of carbohydrate.
+Hypoglycemia is diagnosed with a blood sugar level of 70 mg/dL or less. Mild to moderate symptoms include shaking, sweating, dizziness, irregular heart rates, irritability, and confusion. These symptoms are usually corrected by taking a small portion of quick-digesting carbohydrate such as 4 ounces of juice or soda, glucose tablets, or a tablespoon of sugar or honey.
+Severe symptoms are rare and typically occur only in people with type 1 diabetes who are using insulin. These include seizures, unconsciousness, or such disorientation that the person is unable to eat, drink, or call for help. Anyone with type 1 diabetes should wear a medical alert bracelet indicating that they have diabetes. They may also wish to keep a glucagon emergency kit nearby and teach family members, friends, and coworkers how to give a glucagon injection, which will quickly raise their blood sugar.
+There are different types of diabetes, including prediabetes, type 1 diabetes, type 2 diabetes, latent autoimmune diabetes, and gestational diabetes. The most common types in the U.S. are prediabetes and type 2 diabetes, which are largely influenced by carrying excess body fat, a poor diet, and lack of exercise.
+Almost 30 million Americans have diabetes; of those, about 7 million don’t know they have the disease. [1] About 84 million adults have a condition called prediabetes that is a precursor to full-blown diabetes. In 2017, the total estimated cost of diagnosed cases of diabetes in the U.S. was $327 billion including direct medical costs and reduced productivity. (1) If the spread of type 2 diabetes continues at its present rate, the number of people diagnosed with diabetes in the United States will increase to about 48 million in 2050. [2] Worldwide, the number of adults with diabetes will rise to 439 million in the year 2030. [3]
+Secondary health problems stemming from diabetes are equally alarming. High blood glucose levels can damage organs and tissues. Diabetes is the leading cause of blindness and kidney failure among adults. It causes mild to severe nerve damage that, coupled with diabetes-related circulation problems, often leads to the loss of a leg or foot. Diabetes significantly increases the risk of cardiovascular disease including heart attacks and strokes. It is the seventh leading cause of death in the U.S., directly causing almost 80,000 deaths each year and contributing to thousands more. [1,4,5]
+Types of Diabetes
+Type 1 diabetes mellitus (type 1 diabetes) is an autoimmune condition in which immune cells attack and permanently disable the insulin-making cells in the pancreas. It has also been called juvenile-onset or insulin-dependent diabetes because it was once believed that only children developed this form and that insulin was only used for type 1 diabetes. These terms are now inaccurate because it is possible for older adults to develop type 1 diabetes (called type 1 diabetes onset in adults), and people with later stages of type 2 diabetes sometimes require insulin.
+Insulin is a hormone that shuttles glucose out of the bloodstream and into cells to be used for energy. If the pancreas is no longer able to make insulin, blood glucose levels may continue to rise to a dangerous level. This is why people with type 1 diabetes must inject insulin.
+About 5% of all people who have diabetes have type 1 diabetes. [6] It is diagnosed by the presence of two or more diabetes-specific antibodies in the blood. It is possible that a person may have these antibodies but not show any symptoms in the early stages. Although having a close family member with type 1 diabetes is a strong risk factor, about 85% of people with type 1 diabetes have no known family history of the disease. [7] type 1 diabetes may also develop after an injury to or surgical removal of the pancreas, or after a viral infection such as measles or polio. For reasons not clearly understood, children who develop type 1 diabetes require insulin treatment much sooner and quicker than adults who develop the disease.   
+ Risk factors for type 1 diabetes: 
+Type 1 diabetes is believed to be caused by an immune reaction in which the body attacks itself by mistake. Therefore, risk factors are less understood than other types of diabetes. The following may place one at higher risk:
+Having a first (parent, brother, sister) or second-degree relative (uncle, aunt, cousin) with type 1 diabetes increases the risk by up to 15 times. [7]
+Younger age, as type 1 diabetes is more likely to be diagnosed as a child, teenager, or young adult
+In the U.S., those who are White are more likely to develop type 1 diabetes than those who are Black and Hispanic/Latino.
+Reducing risk—an active research area: 
+Because this diabetes type is an autoimmune disease, researchers are seeking to discover medications that might alter the immune system so that it does not attack and destroy the insulin-producing beta cells. Another main focus is earlier genetic screening to better determine who is at high risk of developing type 1 diabetes, and if one has any residual production of insulin. If physicians can catch those at high risk even before they have developed the autoimmunity, they may be able to intervene to preserve beta cell function.
+It is believed that there may be environmental factors that trigger the immune system to begin attacking beta cells. Research in this area is active but still inconclusive, with possible dietary factors including cow’s milk proteins,  vitamin D  deficiency, and  omega-3 fatty acid  deficiency. Other factors being investigated are viral infections,  increasing obesity rates , psychosocial stress, and the  gut microbiome . [11] Though people with type 1 diabetes have traditionally been thought to be at lower weights, current research shows that the prevalence of obesity has increased at a faster rate in those with type 1 diabetes compared with the general population. [12] Currently, around 50% of people with type 1 diabetes are either overweight or obese.
+There are numerous study groups actively researching the prevention of type 1 diabetes. One of the largest is the Type 1 Diabetes TrialNet Study Group, an international network of physicians and scientists working in 25 clinical centers who are researching ways to prevent, delay, and reverse the progression of type 1 diabetes by preserving insulin production before and after diagnosis.
+Latent autoimmune diabetes of adults (LADA) is a subtype of type 1 diabetes. It has been called “type 1.5 diabetes” because it is an autoimmune form like type 1 diabetes but develops more slowly like type 2 diabetes. [9] With both type 1 diabetes and LADA, the cells of the pancreas that make insulin stop working. But LADA progresses more slowly than type 1 diabetes so that insulin medication may not be needed for up to several years after being diagnosed. If a person with LADA is still making some insulin, healthy lifestyle changes might delay its progression. However, if the disease progresses so that they produce less or no insulin, they will likely require insulin medication.
+Because people with LADA are often able to produce some insulin at younger ages, they are typically not diagnosed until an adult, usually after age 30. However, because of their older age at diagnosis, they may be misdiagnosed with type 2 diabetes (even though they do not have insulin resistance, and may be at a normal weight, eat a healthful diet, and exercise, which is not typical for an individual who has type 2 diabetes).
+LADA is diagnosed by the presence of antibodies, diabetes diagnosis at a later age, no family history of type 2 diabetes, and a progressive increase in insulin needs. If someone diagnosed with type 2 diabetes is having increasing difficulty controlling the diabetes with oral medications and healthy lifestyle changes alone, he or she may wish to be screened for LADA.
+Gestational diabetes mellitus (gestational diabetes) is a condition of high blood sugar levels during the 2 nd  trimester of pregnancy usually occurring around the 24 th  week. Up to 25% of pregnant women develop gestational diabetes. [10] Women may develop gestational diabetes even if they did not have diabetes prior to pregnancy. There are health risks for women with gestational diabetes: pre-eclampsia (high blood pressure during pregnancy), caesarean section, and risk of larger than normal babies, which can increase the risk of complications during delivery.
+In many cases, gestational diabetes resolves after the baby is born, although the mother is at 67% higher risk of developing it again in future pregnancies. She is also at high risk of developing type 2 diabetes at some point in the future. Gestational diabetes is believed to be caused by the development of insulin resistance, in which the mother produces insulin but the hormone does not work properly. It is unclear why some pregnant women develop insulin resistance and others do not, but being overweight or obese prior to pregnancy increases the risk of developing gestational diabetes.
+Risk factors for gestational diabetes:
+Had gestational diabetes during a previous pregnancy
+Having given birth to a baby who weighed more than 9 pounds
+Overweight or obese (body mass index of 25 or higher) prior to pregnancy
+25 years of age or older
+Family history of type 2 diabetes
+Having a hormone disorder called polycystic ovary syndrome (PCOS)
+In the U.S., being African American, Hispanic/Latino American, American Indian, Alaska Native, Native Hawaiian, or Pacific Islander
+Reducing risk; treatment:
+The National Institute of Diabetes and Digestive and Kidney Diseases says that losing extra weight and increasing physical activity before becoming pregnant can lower the risk of developing gestational diabetes. These lifestyle changes can improve how the body uses insulin and help blood glucose levels to stay normal. A Cochrane review looking at lifestyle changes during pregnancy found moderate evidence that both healthy diet and exercise reduced the risk of gestational diabetes and caesarean section when compared with standard care (no special exercise or diet). [10]
+It is important to control blood glucose levels during pregnancy, because any extra glucose travels through the placenta to the baby. The baby’s body may then produce extra insulin in response to the excess glucose. If the baby does not need the extra glucose for energy, it will be stored as fat, which is why babies born to mothers with gestational diabetes tend to be larger than average. Babies born to mothers with gestational diabetes have a higher chance of developing obesity and type 2 diabetes later in life.
+Gestational diabetes is treated with special meal plans,  physical activity , and sometimes insulin injections. Healthy lifestyle changes in the long-term can help prevent type 2 diabetes from developing after pregnancy.
+Prediabetes is an early warning sign that exhibits itself through moderately elevated blood sugar levels, sometimes called “impaired glucose tolerance.” Prediabetes almost always precedes a diagnosis of type 2 diabetes. People with prediabetes usually do not have any symptoms, so the condition is only discovered if their doctors check their blood glucose. Prediabetes is diagnosed if one’s blood glucose reading is 100-125 mg/dL after fasting for at least 8 hours (normal range is less than 100). More than one-third of the U.S. population, or 84 million people, has prediabetes. [4,5]
+Risk factors for prediabetes
+Overweight or obese (body mass index of 25 or higher)
+45 years of age or older
+Having a parent, brother, or sister with type 2 diabetes
+Physically active less than 3 times a week
+History of gestational diabetes or having given birth to a baby who weighed more than 9 pounds
+In the U.S., being African American, Asian American, Hispanic/Latino American, American Indian, or Alaska Native
+Prevention
+Recommendations to prevent this early stage of diabetes are similar to those for type 2 diabetes: weight loss of 5-10% of starting weight if overweight, exercise, and a healthful, balanced diet.  Learn more about taking steps to prevent diabetes .
+Type 2 diabetes mellitus (type 2 diabetes) is the most common form of diabetes. It begins when muscles and other cells stop responding to insulin’s open-up-for-glucose signal. The body responds by making more and more insulin to help move glucose out of the blood, but eventually exhausting the insulin-producing cells until they burn out. Although genetic mutations may contribute to the development of type 2 diabetes, environmental factors are a more likely contributor to the insulin not working properly. These factors include excessive weight gain, a diet high in refined carbohydrate and saturated fats, and a sedentary lifestyle. It is also unclear if a family history of type 2 diabetes caused by genetic mutations contributes to future generations developing the disease, or if it is more a matter of unhealthy lifestyle behaviors passed down to children.
+Symptoms of long-term poorly controlled blood glucose or undiagnosed diabetes include frequent urination (excess sugar passes through the kidneys, which creates more urine to remove it from the body), increased thirst, and unintentional weight loss as the glucose from food passes out of the body unabsorbed. Type 2 diabetes is diagnosed if one’s blood glucose reading is 126 mg/dL or higher after fasting for at least 8 hours.
+Risk factors for type 2 diabetes
+Having prediabetes
+Overweight or obese (body mass index of 25 or higher)
+45 years of age or older
+Having a parent, brother, or sister with type 2 diabetes
+Carrying more genetic variants predisposing to type 2 diabetes
+Sedentary lifestyle
+Unhealthy diets
+Certain medications such as steroids and statins
+History of gestational diabetes or having given birth to a baby who weighed more than 9 pounds
+In the U.S., being African American, Hispanic/Latino American, American Indian, or Alaska Native
+Type 2 Diabetes (and Prediabetes) Can Be Prevented
+Type 2 diabetes, once called adult-onset diabetes, is striking an ever-growing number of adults. Even more alarming, it is now showing up in teenagers and children. With the rising rates of childhood obesity, it has become more common in youth, especially among certain ethnic groups.
+In the U.S., the SEARCH for Diabetes in Youth Study found that type 2 diabetes accounted for only 6% of new diabetes cases in non-Hispanic white children ages 10 to 19, but anywhere from 22-76% of new cases in other ethnic groups [8]. The highest rates were found in Asia-Pacific Islander and Native American youth.
+In the U.S., the SEARCH for Diabetes in Youth Study found that type 2 diabetes accounted for only 6% of new diabetes cases in non-Hispanic white children ages 10 to 19, but anywhere from 22-76% of new cases in other ethnic groups [8]. The highest rates were found in Asia-Pacific Islander and Native American youth.
+Although the genes you inherit may influence the development of type 2 diabetes, they take a back seat to behavioral and lifestyle factors. Data from the Nurses’ Health Study suggest that 90% of type 2 diabetes in women can be attributed to five such factors: excess weight, lack of exercise, a less-than-healthy diet, smoking, and abstaining from alcohol. [13]
+Among 85,000 married female nurses, 3,300 developed type 2 diabetes over a 16-year period. Women in the low-risk group were 90% less likely to have developed diabetes than the rest of the women. Low-risk meant a healthy weight (body mass index less than 25), a healthy diet, 30 minutes or more of exercise daily, no smoking, and having about three alcoholic drinks per week.
+Similar factors are at work in men. Data from the Health Professionals Follow-up Study indicate that a “Western” diet, combined with lack of physical activity and excess weight, dramatically increases the risk of type 2 diabetes in men. [14]
+Information from several clinical trials strongly supports the idea that type 2 diabetes is preventable.
+The Diabetes Prevention Program examined the effect of weight loss and increased exercise on the development of type 2 diabetes among men and women with high blood sugar readings that hadn’t yet crossed the line to diabetes. In the group assigned to weight loss and exercise, there were 58% fewer cases of diabetes after almost three years than in the group assigned to usual care. [15] Even after the program to promote lifestyle changes ended, the benefits persisted: The risk of diabetes was reduced, albeit to a lesser degree, over 10 years. [16]
+Similar results were seen in a Finnish study of weight loss, exercise, and dietary change, and in a Chinese study of exercise and dietary change. [17–20]
+Is diabetes reversible?
+However, if these types of diabetes are not diagnosed early or are not well-controlled for a long period, the cells of the pancreas can become permanently damaged so that they no longer produce insulin. If this happens, chances are higher that diet and exercise alone may no longer be effective in controlling the diabetes and lifelong medication may be needed. The same is true with type 1 diabetes and LADA, in which the pancreas already does not make enough insulin. With these conditions, the diabetes can be managed but not reversed.
+The good news is that type 2 diabetes (as well as prediabetes) are largely preventable. About 9 in 10 cases in the U.S. can be avoided by healthy lifestyle practices, including controlling your weight, following a healthy diet, staying active, and not smoking.
+American Diabetes Association.  Economic Costs of Diabetes in the U.S. in 2017 . Diabetes Care. 2018; 41(5):917-928.
+Narayan KV, Boyle JP, Geiss LS, Saaddine JB, Thompson TJ. Impact of recent increase in incidence on future diabetes burden: US, 2005–2050.  Diabetes care . 2006 Sep 1;29(9):2114-6.
+Shaw JE, Sicree RA, Zimmet PZ. Global estimates of the prevalence of diabetes for 2010 and 2030.  Diabetes research and clinical practice . 2010 Jan 1;87(1):4-14.
+Centers for Disease Control and Prevention.  National Diabetes Statistics Report, 2017 . Atlanta, GA: Centers for Disease Control and Prevention, US Department of Health and Human Services; 2017.
+American Diabetes Association.  Statistics About Diabetes . Accessed 1/7/2019.
+National Diabetes Statistics fact sheet: general information and national estimates on diabetes in the United States. U.S. Department of Health and Human Services, National Institute of Health.
+Greenbaum C, Lord S, VanBuecken D. Emerging concepts on disease-modifying therapies in type 1 diabetes.  Current diabetes reports . 2017 Nov 1;17(11):119.
+SEARCH for Diabetes in Youth Study Group. The burden of diabetes mellitus among US youth: prevalence estimates from the SEARCH for Diabetes in Youth Study.  Pediatrics . 2006 Oct 1;118(4):1510-8.
+Thomas CC, Philipson LH. Update on diabetes classification.  Medical Clinics . 2015 Jan 1;99(1):1-6.
+Shepherd E, Gomersall JC, Tieu J, Han S, Crowther CA, Middleton P. Combined diet and exercise interventions for preventing gestational diabetes mellitus.  Cochrane Database of Systematic Reviews . 2017(11).
+Wherrett DK. Trials in the prevention of type 1 diabetes: current and future.  Canadian journal of diabetes . 2014 Aug 1;38(4):279-84.
+Mottalib A, Kasetty M, Mar JY, Elseaidy T, Ashrafzadeh S, Hamdy O. Weight management in patients with type 1 diabetes and obesity.  Current diabetes reports . 2017 Oct 1;17(10):92.
+Hu FB, Manson JE, Stampfer MJ, Colditz G, Liu S, Solomon CG, Willett WC. Diet, lifestyle, and the risk of type 2 diabetes mellitus in women.  New England journal of medicine . 2001 Sep 13;345(11):790-7.
+van Dam RM, Rimm EB, Willett WC, Stampfer MJ, Hu FB. Dietary patterns and risk for type 2 diabetes mellitus in US men.  Annals of internal medicine . 2002 Feb 5;136(3):201-9.
+Knowler WC, Barrett-Connor E, Fowler SE, Hamman RF, Lachin JM, Walker EA, Nathan DM. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin.  The New England journal of medicine . 2002 Feb;346(6):393-403.
+Diabetes Prevention Program Research Group. 10-year follow-up of diabetes incidence and weight loss in the Diabetes Prevention Program Outcomes Study.  The Lancet . 2009 Nov 14;374(9702):1677-86.
+Tuomilehto J, Lindström J, Eriksson JG, Valle TT, Hämäläinen H, Ilanne-Parikka P, Keinänen-Kiukaanniemi S, Laakso M, Louheranta A, Rastas M, Salminen V. Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance.  New England Journal of Medicine . 2001 May 3;344(18):1343-50.
+Lindström J, Ilanne-Parikka P, Peltonen M, Aunola S, Eriksson JG, Hemiö K, Hämäläinen H, Härkönen P, Keinänen-Kiukaanniemi S, Laakso M, Louheranta A. Sustained reduction in the incidence of type 2 diabetes by lifestyle intervention: follow-up of the Finnish Diabetes Prevention Study.  The Lancet . 2006 Nov 11;368(9548):1673-9.
+Pan XR, Li GW, Hu YH, Wang JX, Yang WY, An ZX, Hu ZX, Xiao JZ, Cao HB, Liu PA, Jiang XG. Effects of diet and exercise in preventing NIDDM in people with impaired glucose tolerance: the Da Qing IGT and Diabetes Study.  Diabetes care . 1997 Apr 1;20(4):537-44.
+Li G, Zhang P, Wang J, Gregg EW, Yang W, Gong Q, Li H, Li H, Jiang Y, An Y, Shuai Y. The long-term effect of lifestyle interventions to prevent diabetes in the China Da Qing Diabetes Prevention Study: a 20-year follow-up study.  The Lancet . 2008 May 24;371(9626):1783-9.
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+#what-is-diabetes
+#types
+#types
+#types
+#types
+#types
+#prevention
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-d/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/fats-and-cholesterol/types-of-fat/omega-3-fats/
+https://nutritionsource.hsph.harvard.edu/an-epidemic-of-obesity/
+https://nutritionsource.hsph.harvard.edu/microbiome/
+https://nutritionsource.hsph.harvard.edu/staying-active/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/preventing-diabetes-full-story/
+http://care.diabetesjournals.org/content/41/5/917
+http://care.diabetesjournals.org/content/29/9/2114.short
+https://www.sciencedirect.com/science/article/pii/S016882270900432X
+https://www.cdc.gov/diabetes/data/statistics/statistics-report.html
+http://www.diabetes.org/diabetes-basics/statistics/
+https://link.springer.com/article/10.1007/s11892-017-0932-x
+https://pediatrics.aappublications.org/content/118/4/1510.abstract
+https://www.medical.theclinics.com/article/S0025-7125(14)00141-2/abstract
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010443.pub3/abstract
+https://www.sciencedirect.com/science/article/pii/S1499267114001956
+https://link.springer.com/article/10.1007/s11892-017-0918-8
+https://www.nejm.org/doi/full/10.1056/nejmoa010492
+http://annals.org/aim/fullarticle/474081
+https://europepmc.org/articles/pmc1370926
+https://www.sciencedirect.com/science/article/pii/S0140673609614574
+https://www.nejm.org/doi/full/10.1056/nejm200105033441801
+https://www.sciencedirect.com/science/article/pii/S0140673606697018
+http://care.diabetesjournals.org/content/20/4/537.short
+https://www.sciencedirect.com/science/article/pii/S0140673608607667

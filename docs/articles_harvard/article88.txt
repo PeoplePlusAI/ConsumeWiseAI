@@ -1,0 +1,22 @@
+Title: Removing Trans Fats from Restaurant Menus Associated with Drop in Heart Attacks and Strokes
+
+Does a public health measure such as restricting trans fats from restaurant menus really make a difference? A study published April 12 th  in  JAMA Cardiology  nods yes. Between 2007 and 2011, 11 New York State urban counties restricted the use of trans fats in public eateries including restaurants, bakeries, cafeterias, park concessions, and senior meal programs. After 3 or more years following the implementation of this restriction, the study authors found 6.2% fewer hospital admissions for cardiovascular events (stroke, heart attack) in counties with the ban when compared with 25 New York urban counties without the ban. When looking at only heart attacks, there were 7.8% fewer hospital admissions. The results were similar for men and women. [1]
+Trans fats are made when vegetable oils are partially saturated with hydrogen atoms by an industrial process. Their alias on a food ingredient list is  partially hydrogenated oil  or  vegetable shortening . They have been commonly found in deep-fried fast foods, baked goods, crackers, chips, and margarine. Eating too much trans fat can increase harmful LDL cholesterol while lowering heart-protective HDL cholesterol, a damaging combination that raises the risk of cardiovascular disease. Not exclusive to heart disease, trans fats promote other adverse metabolic changes in the body. (See  Shining the Spotlight on Trans Fats .)
+After a growing body of research in the 1990s sounded the alarm on the deleterious health effects of artificial trans fats, in July 2003 the U.S Food and Drug Administration (FDA) approved adding trans fat to Nutrition Facts labels to increase consumer awareness. When food companies were required to disclose this information, many chose to stop using trans fats in their products. Soon after, some counties and cities—such as New York City and Boston—passed legislation or regulations banning the use of industrial trans fats from restaurants and other food services, as foods consumed in these locations did not have labels.
+“The massive amounts of trans fat introduced into the global food supply have led to millions of premature deaths and incalculable human suffering,” says Dr. Walter Willett, Professor of Epidemiology and Nutrition at the Harvard Chan School of Public Health. “Recent declines in the incidence of diabetes reported by the Centers for Disease Control and Prevention, and the new data on reductions in cardiovascular disease—both likely the result of decreases in trans fat consumption—are encouraging.”
+Willett and colleagues contributed much of the evidence informing the 2003 FDA decision, and in 2006, Willett  submitted his testimony  in a hearing before the New York City Board of Health when the restriction on trans fats in public eating places was proposed.
+Most recently, with continuing research confirming the harms of trans fats, in June 2015 the FDA removed artificial trans fats from its “Generally Recognized As Safe” list, banning them entirely from the U.S. food supply by June 2018. In demonstrating a significantly decreased risk of heart attacks in one state, the  JAMA  study further validates the FDA’s wider national ban on trans fats.  Heart disease  remains the leading cause of death in both men and women, responsible for 1 in 4 deaths in the U.S., according to the Centers for Disease Control and Prevention.
+Related
+Shining the Spotlight on Trans Fats
+FDA Axes Trans Fats
+References
+Brandt EJ, Myerson R, Perraillon MC, Polonsky TS. Hospital Admissions for Myocardial Infarction and Stroke Before and After the Trans-Fatty Acid Restrictions in New York.  JAMA Cardiol .  Published online April 12, 2017.
+
+References:
+http://jamanetwork.com/journals/jamacardiology/article-abstract/2618359
+https://nutritionsource.hsph.harvard.edu/transfats/
+https://nutritionsource.hsph.harvard.edu/2006/10/30/trans-willett-testimony/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/fats-and-cholesterol/types-of-fat/transfats/
+https://www.hsph.harvard.edu/news/hsph-in-the-news/fda-axes-trans-fats/
+http://jamanetwork.com/journals/jamacardiology/article-abstract/2618359

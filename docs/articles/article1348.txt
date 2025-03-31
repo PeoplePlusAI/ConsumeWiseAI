@@ -1,0 +1,97 @@
+Title: Blue Light and Sleep: What's the Connection?
+
+Sleep is one of the pillars of optimal health.
+However, people are sleeping much less than they did in the past. Sleep quality has also declined.
+Poor sleep is linked to heart disease, type 2 diabetes, depression, and obesity ( 1 ,  2 ,  3 ,  4 ).
+The use of artificial lighting and electronics at night may contribute to  sleep problems . These devices emit light of a blue wavelength, which may trick your brain into thinking it’s daytime ( 5 ).
+Many studies suggest that blue light in the evening disrupts your brain’s natural sleep-wake cycles, which are crucial for optimal health ( 6 ,  7 ).
+This article explains how blocking blue light at night can aid your sleep.
+
+Blue light disrupts your sleep
+Your body has an internal clock that regulates your  circadian rhythm  — the 24-hour biological cycle that influences many internal functions ( 8 ).
+Most importantly, it determines when your body is primed for being awake or  asleep  ( 9 ).
+However, your circadian rhythm needs signals from the external environment — most importantly daylight and darkness — to adjust itself.
+Blue-wavelength light stimulates sensors in your eyes to send signals to your brain’s internal clock.
+Keep in mind that sunlight and white light contain a mixture of various wavelengths, each of which has a significant amount of blue light ( 10 ).
+Getting blue light, especially from the sun, in the daytime helps you stay alert while improving performance and mood ( 11 ).
+Blue light therapy devices may help treat depression, and blue light bulbs have been shown to reduce fatigue and improve the mood, performance, and sleep of office workers ( 12 ,  13 ,  14 ).
+Yet, modern light bulbs and electronic devices, especially computer monitors, likewise produce large amounts of blue light and may disrupt your internal clock if you’re exposed to them during the evening.
+When it gets dark, your pineal gland secretes the hormone  melatonin , which tells your body to get tired and go to sleep.
+Blue light, whether from the sun or a laptop, is very effective at inhibiting melatonin production — thus reducing both the quantity and  quality of your sleep  ( 15 ,  16 ).
+Studies link melatonin suppression in the evening to various health problems, including metabolic syndrome, obesity, cancer, and depression ( 17 ,  18 ,  19 ,  20 ).
+Blue light in the evening tricks your brain into thinking it’s daytime, which inhibits the production of melatonin and reduces both the quantity and quality of your sleep.
+
+Tinted glasses may help
+Amber-tinted glasses offer the easiest and most effective way to avoid blue light exposure at night.
+These glasses effectively block all blue light. Thus, your brain doesn’t get the signal that it’s supposed to stay awake.
+Studies show that when people use  blue-light-blocking glasses , even in a lit room or while using an electronic device, they produce just as much melatonin as if it were dark ( 21 ,  22 ).
+In one study, people’s melatonin levels in the evening were compared across dim light, bright light, and bright light with tinted glasses ( 23 ).
+The bright light almost completely suppressed melatonin production, while the dim light did not.
+Notably, those wearing the glasses produced the same amount of melatonin as those exposed to dim light. The glasses largely canceled out the melatonin-suppressing effect of the bright light.
+Likewise, blue-light-blocking glasses have been shown to spur major improvements in sleep and  mental performance .
+In one 2-week study, 20 individuals used either blue-light-blocking glasses or glasses that didn’t block blue light for 3 hours before bedtime. The former group experienced major improvements in both sleep quality and mood ( 24 ).
+These glasses have also been found to greatly improve sleep in shift workers when worn before bedtime ( 25 ).
+What’s more, in a study in older adults with cataracts, blue-light-blocking lenses improved sleep and significantly reduced daytime dysfunction ( 26 ).
+That said, not all studies support the use of blue-light-blocking lenses or glasses. One analysis of several studies concluded that there’s a lack of high quality evidence supporting their use ( 27 ).
+Nevertheless, blue-light-blocking glasses may provide some benefits.
+Shop blue-light-blocking glasses  online .
+Some studies suggest that blue-light-blocking glasses may increase melatonin production during the evening, leading to major improvements in sleep and mood.
+
+Other blocking methods
+If you don’t want to use glasses every night, there are a few other ways to reduce blue light exposure.
+One popular way is to install a program called f.lux on your computer.
+This program automatically adjusts the color and brightness of your screen based on your timezone. When it’s dark outside, it effectively blocks all blue light and gives your monitor a faint orange hue.
+Similar apps are available for your smartphone.
+A few other tips include:
+turning off all lights in your home 1–2 hours before bedtime
+getting a red or orange reading lamp, which doesn’t emit blue light (candlelight works well, too)
+keeping your bedroom completely dark or using a  sleep mask
+It’s also important to expose yourself to plenty of blue light during the day.
+If you can, go outside to get sunlight exposure. Otherwise, consider a blue light therapy device — a strong lamp that simulates the sun and bathes your face and eyes in blue light.
+Other ways to block blue light in the evening include dimming or turning off the lights in your home and installing an app that adjusts the light your laptop and smartphone emit.
+
+The bottom line
+Blue light, which is emitted from smartphones, computers, and bright lights, may inhibit your sleep if you’re exposed to it at night.
+If you have a history of sleeping problems, try reducing your exposure to blue light during the evenings.
+Amber-tinted glasses may be particularly effective.
+Several studies support their ability to  improve sleep quality .
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pubmed/21300732
+https://www.ncbi.nlm.nih.gov/pubmed/19910503
+https://www.ncbi.nlm.nih.gov/pubmed/23814343
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2398753/
+https://www.healthline.com/health/sleep/sleep-disorders-in-the-elderly
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831986/
+https://www.healthline.comhttp://press.endocrine.org/doi/abs/10.1210/jc.2003-030570
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2717723/
+https://www.healthline.com/health-news/new-test-can-tell-the-time-of-your-circadian-clock
+https://www.healthline.comhttp://pubs.niaaa.nih.gov/publications/arh25-2/85-93.htm
+https://www.healthline.com/nutrition/10-reasons-why-good-sleep-is-important
+https://www.ncbi.nlm.nih.gov/books/NBK10839/
+https://www.ncbi.nlm.nih.gov/pubmed/18075803
+https://www.ncbi.nlm.nih.gov/pubmed/22201280
+https://www.ncbi.nlm.nih.gov/pubmed/24394440
+https://www.ncbi.nlm.nih.gov/pubmed/15106233
+https://www.ncbi.nlm.nih.gov/pubmed/18815716
+https://www.healthline.com/nutrition/melatonin-and-sleep
+https://www.healthline.com/health/healthy-sleep/your-sleep-needs-change-as-you-age-heres-what-you-need-to-know
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3047226/
+https://www.ncbi.nlm.nih.gov/pubmed/21552190
+https://www.ncbi.nlm.nih.gov/pubmed/21668294
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.1600-079X.2010.00773.x/full
+https://www.ncbi.nlm.nih.gov/pubmed/21476953
+https://www.ncbi.nlm.nih.gov/pubmed/16596308
+https://www.healthline.com/health/eye-health/anti-blue-light-glasses
+https://www.ncbi.nlm.nih.gov/pubmed/22850476
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.1600-079X.2006.00332.x/full
+https://www.healthline.comhttp://press.endocrine.org/doi/full/10.1210/jc.2004-2062
+https://www.healthline.com/nutrition/11-brain-foods
+https://www.ncbi.nlm.nih.gov/pubmed/20030543
+https://www.ncbi.nlm.nih.gov/pubmed/20030543
+https://www.ncbi.nlm.nih.gov/pubmed/23946702
+https://www.ncbi.nlm.nih.gov/pubmed/29044670
+https://www.amazon.com/s?k=blue+light+blocking+glasses&i=aps&tag=healthline-subtag-20&ascsubtag=null&correlationId=null
+https://www.healthline.com/health/sleep-mask-game-changer
+https://www.healthline.com/nutrition/17-tips-to-sleep-better

@@ -1,0 +1,178 @@
+Title: Raw Milk: Do Its Benefits Outweigh the Dangers?
+
+While raw milk is more natural and may contain more antimicrobials, its many health claims aren’t evidence-based and don’t outweigh potential risks like severe infections caused by harmful bacteria.
+Milk is a nutritious food that provides protein, vitamins, minerals, and fatty acids.
+Prior to the introduction of pasteurization in the early to mid-1900s, all milk was consumed raw, in its natural, unprocessed state.
+With the growing popularity of natural, local, farm-sourced foods and the perception that raw milk is healthier, its consumption is increasing ( 1 ).
+This article looks at the evidence to determine the benefits and dangers of drinking raw milk.
+
+What is raw milk?
+Raw milk has not been pasteurized or homogenized.
+It primarily comes from cows but also goats, sheep, buffalo, or even camels.
+It can be used to make a variety of products, including cheese,  yogurt , and ice cream.
+An estimated 1% of Americans drink raw milk regularly ( 2 ).
+Pasteurization involves heating milk to kill bacteria, yeasts, and molds. The process also increases the product’s shelf life ( 3 ,  4 ).
+The most common method in the U.S. today is High Temperature Short Time pasteurization, which involves heating milk to at least 161°F for 15 seconds ( 5 ).
+Another common method — used all over the world, including in the United States, the United Kingdom, Australia, and Canada — involves heating raw milk to 145°F (63°C) for 30 minutes ( 5 ,  6 ).
+Ultra-heat treatment (UHT) heats milk to 275°F (135°C) for a few seconds. This milk is consumed in some European countries ( 7 ).
+The main method keeps milk fresh for 2–3 weeks, while the UHT method extends the shelf life up to 9 months.
+Pasteurized milk is often also homogenized — a process of applying extreme pressure to disperse the fatty acids more evenly, improving appearance and taste.
+Raw milk has not been pasteurized or homogenized. Pasteurization heats milk to kill bacteria and increases shelf life.
+
+Common claims about the benefits of raw milk
+Raw milk advocates argue that it’s a complete, natural food containing more amino acids, antimicrobials, vitamins, minerals, and fatty acids than pasteurized milk.
+They also claim that it’s a better choice for those with  lactose intolerance , asthma, and autoimmune and allergic conditions.
+Pasteurization was introduced in response to an epidemic of bovine (cow) tuberculosis in the United States and Europe in the early 1900s. An estimated 65,000 people died over a 25-year period from consuming contaminated dairy ( 8 ).
+Bovine tuberculosis is easily transmissible to humans and continues to be a problem to this day in parts of the world where people commonly drink unpasteurized milk ( 9 ).
+Some raw milk advocates argue that many of the harmful bacteria destroyed by pasteurization, such as tuberculosis, are no longer an issue and that pasteurization no longer serves a purpose.
+Furthermore, they claim that the heating process during pasteurization reduces the overall nutrition and  health benefits of milk .
+However, most of these claims are not backed up by science.
+Pasteurizing milk does not result in a significant loss of vitamins, carbs, minerals, or fats ( 10 ).
+An extensive meta-analysis of 40 studies found only minor losses of the  water-soluble vitamins  B1, B6, B9, B12, and C. Considering the already low levels of these nutrients in milk, these losses were insignificant ( 11 ).
+What’s more, it can be easy to make up for any losses elsewhere in your diet, as these vitamins are widespread and found in many fruits, vegetables, whole grains, and — in the case of vitamin B12 — animal proteins.
+Levels of the fat-soluble vitamins A, D, E, and K also minimally decrease during pasteurization ( 10 ).
+Milk is  high in calcium  and phosphorus, which are both needed for healthy bones, cell function, muscle health, and metabolism ( 12 ,  13 ).
+These minerals are very heat-stable. One cup of pasteurized milk contains 23% of the Daily Value (DV) for calcium and almost 20% of the DV for phosphorus ( 8 ,  12 ,  14 ,  15 ).
+Studies have found no significant differences in the  fatty acid  profiles of raw and pasteurized milk, though pasteurization may increase the digestibility of fatty acids ( 15 ,  16 ).
+In one study, 12 samples of cow’s milk were collected from a single dairy factory and divided into raw, pasteurized, and UHT-treated. Comparisons of the three groups showed no significant differences in major nutrients or fatty acids ( 15 ).
+One cup (245 grams) of pasteurized milk packs 8.26 grams of protein ( 12 ).
+About 80% of milk protein is  casein , while the remaining 20% is  whey . These may help with muscle growth and improve insulin resistance ( 17 ,  18 ).
+Pasteurizing milk does not reduce casein levels, as this type of protein is heat-stable ( 8 ,  10 ).
+While whey protein is more susceptible to heat damage, pasteurization appears to have minimal impact on its digestibility and nutritional composition ( 8 ,  10 ).
+A 2008 study in 25 healthy people drinking either raw, pasteurized, or UHT milk for a week found that the proteins from pasteurized milk had the same biological activity in the body as raw milk proteins ( 19 ).
+Interestingly, milk exposed to ultra-high temperatures (275°F or 135°C for a few seconds) increased protein nitrogen uptake by around 8%, meaning that the protein was better used by the body ( 19 ).
+A  milk protein allergy  occurs in 2–3% of children living in developed countries during their first 12 months of life — 80–90% of cases resolve spontaneously by age 6 ( 20 ).
+That being said, raw milk has components that can influence the immune function ( 21 ).
+A 2020 meta-analysis associates raw milk consumption in children with a lower rate of asthma and allergic rhinitis (hay fever). Research is currently ongoing on the protective effects of “microbiologically safe,” minimally processed milk vs. pasteurized milk ( 22 ).
+A study of 983 infants in Europe found that raw milk reduced the risk of respiratory infections and fever by 30% ( 23 ).
+However, it’s important to note that these studies show an associated risk reduction, not necessarily a direct correlation.
+Increased exposure to microbes within farming environments has also been associated with a reduced risk of asthma and allergies, which may account for some of these results ( 11 ,  21 ,  22 ,  23 ).
+Lactose is a milk sugar. It’s digested by the enzyme lactase, which is produced in your small intestines.
+Some people don’t make enough lactase, leaving undigested lactose to ferment in the bowel. This causes abdominal bloating, cramps, and diarrhea.
+Raw and pasteurized milk contain similar amounts of lactose ( 15 ).
+However, raw milk contains the lactase-producing bacteria  Lactobacillus , which is destroyed during pasteurization. This should, theoretically, improve lactose digestion in raw milk drinkers ( 24 ).
+However, in a blind study, 16 adults with self-reported lactose intolerance drank raw, pasteurized, or soy milk for three 8-day periods in randomized order, separated by 1-week washout periods.
+No differences were found in  digestive symptoms  between raw and pasteurized milk ( 25 ).
+Milk is rich in antimicrobials, including lactoferrin, immunoglobulin, lysozyme, lactoperoxidase, bacteriocins, oligosaccharides, and xanthine oxidase. They help control harmful microbes and delay milk spoilage ( 26 ).
+Their activity is reduced when milk is refrigerated, regardless of whether it’s raw or pasteurized.
+Pasteurizing milk reduces lactoperoxidase activity by around 30%. However, other antimicrobials remain mostly unchanged ( 27 ,  28 ,  29 ).
+Claims that raw milk is more nutritious than pasteurized milk and a better choice for those with lactose intolerance, asthma, and autoimmune and allergic conditions have been shown to have little or no truth to them.
+
+What are the dangers of drinking raw milk?
+Due to its neutral pH and high nutritional and water contents, milk is an ideal feeding ground for bacteria ( 30 ).
+Milk  essentially comes from a sterile environment within the animal.
+From the moment the animal is milked, the potential for contamination begins with the udder, skin, feces, milking equipment, handling, and storage ( 8 ,  31 ).
+Contaminations are not visible to the naked eye and are often not detectable until growth is significant ( 8 ).
+Most — but not necessarily all — bacteria are destroyed during pasteurization. The ones that survive mostly do so in a damaged, non-viable form ( 32 ,  33 ).
+Studies show that raw milk contains significantly higher quantities of harmful and introduced bacteria than pasteurized milk ( 34 ).
+Keeping milk refrigerated helps suppress bacterial growth, no matter whether it’s raw or pasteurized ( 35 ).
+Harmful bacteria that may be present in milk include  Campylobacter, Salmonella, Escherichia coli (E.coli), Coxiella burnetti, Cryptosporidium, Yersinia enterocolitica, Staph aureus , and  Listeria monocytogenes  ( 31 ,  36 ,  37 ,  38 ).
+Symptoms of infection are comparable to those of other foodborne illnesses and include vomiting, diarrhea, dehydration, headaches, abdominal pain, nausea, and fever ( 39 ).
+These bacteria can also cause serious conditions, such as Guillain-Barre syndrome, hemolytic uremic syndrome, miscarriage, reactive arthritis, chronic inflammatory conditions, and — rarely — death ( 36 ,  37 ,  40 ).
+Any person is susceptible if the milk they consume contains harmful bacteria.
+However, the risk is higher for pregnant people, children, older adults, and those with weakened immune systems.
+More than half of all disease outbreaks associated with raw milk have involved at least one child under age 5 ( 41 ).
+A  foodborne outbreak  is the incidence of two or more reports of an illness as a result of consuming any common food ( 42 ).
+Between 1993 and 2006, 60% of the 4,413 reports of dairy-related illnesses (121 outbreaks) in the United States were from raw dairy, including milk and cheese. Of the milk-only outbreaks, 82% were from raw milk, compared to 18% from pasteurized milk ( 42 ,  43 ).
+During the same period, two deaths from raw dairy and one from pasteurized dairy occurred, while three more have been reported since ( 43 ,  44 ,  45 ).
+Those infected by consuming raw milk were 13 times more likely to need hospitalization than those consuming pasteurized milk ( 43 ).
+Related outbreaks, hospitalization, and death rates are high considering that only 3–4% of the U.S. population drinks raw milk ( 43 ).
+More recent data has shown that raw milk or cheese causes 840 times more illnesses and 45 times more hospitalizations than pasteurized dairy ( 46 ).
+Currently, many countries ban raw milk for human consumption, including Australia, Canada, and Scotland. It’s prohibited in 20 U.S. states, while other states restrict its sales. In addition, it cannot be sold across state lines ( 47 ).
+However, the number of outbreaks is increasing, especially in states that have legalized its sale ( 9 ,  42 ,  46 ).
+Raw milk can contain harmful bacteria that may lead to serious illness, particularly in pregnant people, children, older adults, and immunocompromised people. Infections are more frequent and severe than those caused by pasteurized sources.
+
+The bottom line
+Raw and pasteurized milk are comparable in their nutrient contents.
+While raw milk is more natural and may contain more antimicrobials, its many health claims aren’t evidence-based and don’t outweigh potential risks like severe infections caused by harmful bacteria such as  Salmonella ,  E. coli , and  Listeria .
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4268642/
+https://www.healthline.com/nutrition/7-benefits-of-yogurt
+https://www.fda.gov/food/buy-store-serve-safe-food/food-safety-and-raw-milk
+https://www.cdc.gov/foodsafety/rawmilk/raw-milk-questions-and-answers.html
+https://www.cdc.gov/foodsafety/rawmilk/raw-milk-index.html
+https://www.idfa.org/pasteurization
+https://www.idfa.org/pasteurization
+https://www.sciencedirect.com/science/article/pii/S0022030217310573
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6745408/
+https://www.healthline.com/nutrition/lactose-intolerance-101
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4890836/
+https://www.sciencedirect.com/science/article/pii/S1472979222000038
+https://www.healthline.com/nutrition/milk-benefits
+https://www.healthline.comhttps://juniperpublishers.com/jdvs/JDVS.MS.ID.555822.php
+https://www.healthline.com/nutrition/water-soluble-vitamins
+https://www.ncbi.nlm.nih.gov/pubmed/22054181
+https://www.healthline.comhttps://juniperpublishers.com/jdvs/JDVS.MS.ID.555822.php
+https://www.healthline.com/nutrition/15-calcium-rich-foods
+https://www.healthline.comhttps://fdc.nal.usda.gov/fdc-app.html#/food-details/171269/nutrients
+https://www.ncbi.nlm.nih.gov/pubmed/27612307
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4890836/
+https://www.healthline.comhttps://fdc.nal.usda.gov/fdc-app.html#/food-details/171269/nutrients
+https://www.fda.gov/food/new-nutrition-facts-label/daily-value-new-nutrition-and-supplement-facts-labels
+https://www.healthline.comhttps://scialert.net/fulltextmobile/?doi=ajft.2015.265.272
+https://www.healthline.com/nutrition/omega-3-6-9-overview
+https://www.healthline.comhttps://scialert.net/fulltextmobile/?doi=ajft.2015.265.272
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5704143/
+https://www.healthline.comhttps://scialert.net/fulltextmobile/?doi=ajft.2015.265.272
+https://www.healthline.comhttps://fdc.nal.usda.gov/fdc-app.html#/food-details/171269/nutrients
+https://www.healthline.com/nutrition/casein-protein-is-highly-underrated
+https://www.healthline.com/nutrition/10-health-benefits-of-whey-protein
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6370271/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6769921/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4890836/
+https://www.healthline.comhttps://juniperpublishers.com/jdvs/JDVS.MS.ID.555822.php
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4890836/
+https://www.healthline.comhttps://juniperpublishers.com/jdvs/JDVS.MS.ID.555822.php
+https://www.ncbi.nlm.nih.gov/pubmed/19022955
+https://www.ncbi.nlm.nih.gov/pubmed/19022955
+https://www.healthline.com/nutrition/common-food-allergies
+https://www.ncbi.nlm.nih.gov/books/NBK542243/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413174/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31770653/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/25441645/
+https://www.ncbi.nlm.nih.gov/pubmed/22054181
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413174/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31770653/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/25441645/
+https://www.healthline.comhttps://scialert.net/fulltextmobile/?doi=ajft.2015.265.272
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7285075/
+https://www.healthline.com/nutrition/lactose-intolerance-symptoms
+https://www.ncbi.nlm.nih.gov/pubmed/24615309/
+https://www.sciencedirect.com/science/article/pii/S0958694621002363
+https://www.ncbi.nlm.nih.gov/pubmed/10191475
+https://www.ncbi.nlm.nih.gov/pubmed/11576311
+https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/lactoperoxidase
+https://www.sciencedirect.com/science/article/pii/S095671351200535X
+https://www.healthline.com/nutrition/is-dairy-bad-or-good
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4890836/
+https://www.cdc.gov/foodsafety/rawmilk/raw-milk-questions-and-answers.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4890836/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC123843/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5378802/
+https://www.ncbi.nlm.nih.gov/pubmed/24715203
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4040921/
+https://www.cdc.gov/foodsafety/rawmilk/raw-milk-questions-and-answers.html
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000911
+https://www.sciencedirect.com/science/article/abs/pii/S2213716517301315
+https://www.cdc.gov/campylobacter/prevention.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309640/
+https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000911
+https://www.sciencedirect.com/science/article/abs/pii/S2213716517301315
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3755430/
+https://www.cdc.gov/foodsafety/rawmilk/rawmilk-outbreaks.html
+https://www.healthline.com/nutrition/foods-that-cause-food-poisoning
+https://www.ncbi.nlm.nih.gov/pubmed/25531403
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/25531403/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309640/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309640/
+https://www.cdc.gov/listeria/outbreaks/soft-cheese-03-17/index.html
+https://www.cdc.gov/listeria/outbreaks/raw-milk-03-16/index.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309640/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309640/
+https://www.ncbi.nlm.nih.gov/pubmed/28518026
+http://www.ncsl.org/research/agriculture-and-rural-development/raw-milk-2012.aspx
+https://www.sciencedirect.com/science/article/pii/S1472979222000038
+https://www.ncbi.nlm.nih.gov/pubmed/25531403
+https://www.ncbi.nlm.nih.gov/pubmed/28518026

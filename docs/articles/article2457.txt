@@ -1,0 +1,89 @@
+Title: Folic Acid vs. Folate — What’s the Difference?
+
+Folate and folic acid are different forms of vitamin B9. While there’s a distinct difference between the two, their names are often used interchangeably.
+There’s even a lot of confusion among professionals about folic acid and folate. This article explains the difference between folic acid and folate.
+
+Vitamin B9
+Vitamin B9 is an essential nutrient that naturally occurs as folate.
+It serves many important functions in your body. For example, it plays a crucial role in cell growth and DNA formation ( 1 ).
+Low levels of vitamin B9 are associated with an increased risk of several health conditions, including:
+Elevated homocysteine.  High homocysteine levels have been associated with an increased risk of heart disease and stroke ( 2 ).
+Birth defects.  Low folate levels in pregnant women have been linked to birth abnormalities, such as neural tube defects ( 3 ).
+Cancer risk.  Poor levels of dietary folate are also linked to increased cancer risk, though higher levels of supplemental and/or serum folate have also been linked with a higher risk of prostate cancer. More research is needed in this area ( 4 ,  5 ).
+For these reasons, supplementing with vitamin B9 is common. Fortifying food with this nutrient is mandatory in many countries, including the United States and Canada.
+
+What is folate?
+Folate is the naturally occurring form of vitamin B9.
+Its name is derived from the Latin word “folium,” which means leaf. In fact, leafy vegetables are among the best dietary sources of folate.
+Folate is a generic name for a group of related compounds with similar nutritional properties.
+The active form of vitamin B9 is a type of folate known as 5-methyltetrahydrofolate (5-MTHF) Before entering your bloodstream, your digestive system converts folate to the biologically active form of vitamin B9 ⁠— 5-MTHF ( 6 ).
+In your digestive system, most dietary folate is converted into 5-MTHF before entering your bloodstream ( 7 ).
+
+What is folic acid?
+Folic acid  is a synthetic form of vitamin B9 that’s also known as monopteroylglutamic acid or pteroylmonoglutamic acid.
+It’s used in supplements and added to processed food products, such as flour and breakfast cereals.
+Unlike folate, not all of the folic acid you consume is converted into the active form of vitamin B9 — 5-MTHF — in your digestive system. Instead, some folic acid is converted to 5-MTHF in your liver ( 8 ).
+Yet, this process is slow and inefficient in some people. After taking a folic acid supplement, it takes time for your body to convert all of it to 5-MTHF ( 9 ).
+Even a small dose, such as 200 to 400 mcg per day, may not be completely metabolized until the next dose is taken. This problem may become worse when fortified foods are consumed in addition to taking folic acid supplements ( 10 ,  11 ).
+As a result, unmetabolized folic acid is commonly detected in people’s bloodstreams ( 12 ,  13 ).
+Even a small, daily dose of 400 mcg may cause unmetabolized folic acid to build up in your bloodstream ( 14 ).
+Although there is evidence that high levels of unmetabolized folic acid may be associated with some health risks, more studies are needed to confirm this ( 15 ).
+However, one study suggests that taking folic acid along with other  B vitamins , particularly vitamin B6, makes the conversion more efficient ( 12 ).
+
+Is unmetabolized folic acid harmful?
+Several studies indicate that chronically elevated levels of unmetabolized folic acid may have adverse health effects, including increased cancer risk.
+H igh levels of unmetabolized folic acid have been associated with increased cancer risk, though some studies disagree. No conclusive evidence proves that unmetabolized folic acid plays a direct role ( 16 ,  17 ,  18 ).
+Although high folic acid intake is a concern, the health implications are unclear, and further studies are needed.
+
+What is the healthiest source of vitamin B9?
+It’s best to get vitamin B9 from whole foods.
+High-folate foods  include:
+asparagus
+avocados
+Brussels sprouts
+leafy greens like spinach and lettuce
+However, for some people, such as those who are pregnant, supplements are highly recommended to ensure adequate vitamin B9 intake and especially to prevent neural tube defects in the growing fetus, even among those with the MTFHR gene variant that affects how the body processes folic acid ( 19 ,  20 ,  21 ).
+Folic acid supplementation is recommended in addition to a healthy diet rich in foods that naturally contain folate. Additionally, there are no clinical trials that show other types of folate supplements like MTHF can prevent neural tube defects ( 22 ).
+Folic acid is the most common supplemental form of vitamin B9. It can be purchased at many drug stores, as well as  online .
+Other supplements contain 5-MTHF, which is considered an alternative to folic acid, though neither the CDC or the WHO recommends this alternative to folic acid in people planning to get pregnant and during pregnancy ( 23 ).
+Supplemental 5-MTHF is available in the form of levomefolate calcium or levomefolate  magnesium . It’s sold under the brand names Metafolin, Deplin, and Enlyte, and it’s available  online .
+
+The bottom line
+Folate is the natural form of vitamin B9 in food, while folic acid is a synthetic form.
+High intake of folic acid may lead to increased blood levels of unmetabolized folic acid. Some researchers speculate that this may have adverse health effects over time, but further studies are needed before solid conclusions can be reached.
+Alternatives to folic acid supplements include 5-MTHF (levomefolate) or whole foods, such as  leafy greens .
+Keep in mind that folic acid remains the best recommended option for people planning to get pregnant and during pregnancy. Consult with a healthcare provider before starting or changing a supplement.
+
+References:
+
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/Folate-HealthProfessional/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/37782175/
+https://www.sciencedirect.com/science/article/pii/S2211335521003089
+https://www.healthline.comhttps://journals.sagepub.com/doi/10.1177/2326409816661357
+https://www.frontiersin.org/articles/10.3389/fpubh.2020.550753/full
+https://www.healthline.comhttps://lpi.oregonstate.edu/mic/vitamins/folate
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4867132/
+https://www.healthline.com/nutrition/folic-acid
+https://www.nature.com/articles/ejcn2016194
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9380836/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/36016938/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/37960352/
+https://www.ncbi.nlm.nih.gov/pubmed/25943647
+https://www.ncbi.nlm.nih.gov/pubmed/26269367
+https://www.ncbi.nlm.nih.gov/pubmed/25733468
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34207319/
+https://www.healthline.com/nutrition/vitamin-b-complex
+https://www.ncbi.nlm.nih.gov/pubmed/25943647
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30341095/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26131763/
+https://www.ncbi.nlm.nih.gov/pubmed/28600398
+https://www.healthline.com/nutrition/foods-high-in-folate-folic-acid
+https://www.healthline.comhttps://jamanetwork.com/journals/jama/fullarticle/2807739
+https://www.cdc.gov/ncbddd/folicacid/mthfr-gene-and-folic-acid.html
+https://www.cdc.gov/ncbddd/folicacid/features/folic-acid-helps-prevent-some-birth-defects.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9875360/
+https://www.amazon.com/s?k=folic+acid&tag=healthline-subtag-20&ascsubtag=null&correlationId=null
+https://www.semanticscholar.org/topic/levomefolate/182220
+https://www.healthline.com/nutrition/magnesium-malate
+https://www.amazon.com/s?k=5-methyltetrahydrofolate&tag=healthline-subtag-20&ascsubtag=null&correlationId=null
+https://www.healthline.com/nutrition/leafy-green-vegetables

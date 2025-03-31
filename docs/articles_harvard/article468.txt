@@ -1,0 +1,85 @@
+Title: Are Anti-Nutrients Harmful?
+
+The takeaway:  The pros and cons of anti-nutrients on long-term human health is an area of active research. Though certain foods may contain residual amounts of anti-nutrients after processing and cooking, the health benefits of eating these foods outweigh any potential negative nutritional effects. Eating  a variety of nutritious foods  daily and avoiding eating large amounts of a single food at one meal can help to offset minor losses in nutrient absorption caused by anti-nutrients.
+The term “anti-nutrients” suggests what they are. Whereas nutrients are substances that nourish plants and animals to grow and live, anti-nutrients earn their title because they can block the absorption of nutrients. Anti-nutrients are naturally found in animals and many plant-based foods. In plants, they are compounds designed to protect from bacterial infections and being eaten by insects. [1]
+There are several compounds in the foods we eat classified as anti-nutrients. Examples include:
+Glucosinolates  and  goitrogens  in cruciferous vegetables (broccoli,  Brussels sprouts , cabbage,  kale )—can prevent the absorption of  iodine , which may then interfere with thyroid function and cause goiter. Those already with an iodine deficiency or a condition called hypothyroidism are most susceptible.
+Lectins  in legumes (beans, peanuts, soybeans), whole grains—can interfere with the absorption of calcium, iron,  phosphorus , and zinc.
+Oxalates  in green leafy vegetables, tea, beans, nuts, beets—can bind to calcium and prevent it from being absorbed.
+Phytates (phytic acid)  in  whole grains , seeds,  legumes , some  nuts —can decrease the absorption of  iron ,  zinc ,  magnesium , and  calcium . [2,3]
+Saponins  in  legumes , whole grains—can interfere with normal nutrient absorption.
+Tannins  in  tea ,  coffee , legumes—can decrease  iron  absorption.
+It is not known how much nutrient loss occurs in our diets because of anti-nutrients, and the effects vary among individuals based on their metabolism and how the food is cooked and prepared. Many anti-nutrients like phytates, lectins, and glucosinolates can be removed or deactivated by soaking, sprouting, or boiling the food before eating.
+Another consideration is that these anti-nutrients affect the absorption of nutrients eaten at the same meal. Therefore to lower this risk, it is recommended to avoid eating large quantities of foods containing anti-nutrients at one meal, and to eat a balanced diet throughout the day with a variety of foods. [3] For example, instead of eating two cups of bran cereal with milk for breakfast, choose one cup of cereal with milk and one cup of fresh berries.
+People who are at high risk for diseases related to mineral deficiencies, such as osteoporosis with calcium deficiency or  anemia with iron deficiency , may wish to monitor their food choices for anti-nutrient content. Another strategy could be altering the timing of eating foods with anti-nutrients. Examples are to drink tea between meals instead of with a meal to reduce the chances of iron being poorly absorbed, or taking a  calcium  supplement a few hours after eating a high-fiber wheat bran cereal that contains phytates.
+Some studies on vegetarians who eat diets high in plant foods containing anti-nutrients do not generally show deficiencies in iron and zinc, so the body may be adapting to the presence of anti-nutrients by increasing the absorption of these minerals in the gut. [3] Still, other studies have shown that iron stores and blood zinc levels in vegetarians are typically below those of non-vegetarians. [4] How well non-heme iron (the form found in plant foods) and zinc are absorbed in the body is impacted by the amount of inhibitors such as phytates. A review found that these inhibitors negatively affected the absorption of non-heme iron, varying from 1% to 23%. [4]
+Keep in mind that anti-nutrients may also exert health benefits. Phytates, for example, have been found to lower cholesterol, slow digestion, and prevent sharp rises in blood sugar. [2] Many anti-nutrients have  antioxidant  and anticancer actions, so avoiding them entirely is not recommended. [3,5,8]
+More Research on Specific Anti-Nutrients
+A few studies have found a small but significant increased risk of disease with higher intakes of glucosinolates, which are obtained mainly through cruciferous vegetables. In two studies following three large prospective cohorts of 42,170 male and 168,404 female health professionals for several years, a higher intake of glucosinolates was associated with a slightly higher risk of heart disease and type 2 diabetes in men and women. Individuals with the highest intakes of glucosinolates had a 19% increased risk of type 2 diabetes compared with those with the lowest intakes, even after adjusting for other factors that can affect diabetes, such as BMI, physical activity, and smoking. [6] The strongest associations were observed for Brussels sprouts when comparing the highest (1 or more servings/week) and lowest intakes (never or almost never). In a separate analysis of these same three cohorts looking at intakes of glucosinolates and heart disease, participants who consumed one or more servings a week of Brussels sprouts and cabbage had a higher heart disease risk than those who consumed these vegetables less than once per month. [7] The authors did not recommend avoiding these foods but rather emphasized a need for more studies to replicate and confirm these findings to better understand this possible relation, as several other studies have shown a protective effect on diabetes and heart disease with higher intakes of cruciferous vegetables.
+Phytic acid, or phytates, is the stored form of phosphorus found in seeds,  nuts ,  legumes , and unprocessed  whole grains  (concentrated in the outer bran layers). The amount of phytic acid in these foods varies widely even within the same food, based on the seed type, environmental conditions, climate, and soil quality. Phytic acid can have health benefits due to its antioxidant properties. Laboratory and animal studies show that it can protect against DNA damage and cancer cell growth. The chemical name for phytic acid, inositol hexakisphosphate or IP6, is very actively studied in cancer research and, though research is still early, IP6 has become a popular over-the-counter supplement. Phytic acid can also prevent kidney stones from forming by inhibiting the buildup of calcium crystals, a component of kidney stones.
+However, phytic acid is also labeled an antinutrient because humans lack the phytase enzyme needed to break it down. As it passes through the gut, phytic acid binds to minerals like  iron ,  zinc , and  calcium  so they are not well-absorbed in the intestine. This will occur only when phytic acid is eaten with foods containing these minerals at the same meal. The average Western diet usually has enough nutrients and variety to protect from a true deficiency, especially with the inclusion of some animal proteins (e.g., lean pork, poultry, shellfish) that are rich in zinc and heme-iron, a well-absorbed form of iron. A nutrient deficiency more likely occurs in developing countries where a variety of food choices is limited, the risk of malnutrition is higher, and legumes or whole grains are staples that are eaten with every meal. Also at risk are those who eat a vegan diet (which not only consists of plenty of seeds/nuts, legumes, and grains but these foods contain poorly absorbed non-heme iron), or those who already have an iron or zinc deficiency due to medical reasons.
+How you prepare foods high in phytic acid can reduce the overall amount. Cooking, soaking overnight in water,  sprouting  (germination), fermentation, and pickling can all break down phytic acid so that the phosphorus can be released and absorbed by the body. Some natural bacteria in the colon contain the enzyme phytase and can also help to break it down.
+Because of the potential health benefits of phytic acid, if your diet contains a variety of plant-based and lean animal foods, you don’t have to worry about how much you are eating. Only those already at risk for nutrient deficiencies of the minerals mentioned or those who eat only plant foods such as vegans may need to consider reducing phytic acid in the diet.
+If you’ve been told by your doctor that you have calcium oxalate stones, the most common type of kidney stones, then you may have been advised to avoid foods high in oxalates. The tricky part is that many healthful plant foods are rich in oxalates including certain green leafy vegetables (spinach, Swiss chard), beets, beans, certain nuts (almonds), rice bran, and potatoes.
+After we eat food, the body uses what it needs for energy. Some of the remaining food components not needed are shuttled to the kidneys to be excreted in urine. If there is too much waste and not enough liquid, tiny crystals can form. If there is not enough liquid or urine to flush them out, a high amount of oxalates in the urine can form crystals by attaching to calcium. Sometimes the crystals clump together to form a stone that is painful when it moves to pass.
+However, avoiding dietary oxalate is not the only or best way to avoid kidney stones. It is important to drink enough fluids, especially water, to dilute the urine so that substances like oxalates do not collect and stick together. Eating calcium-rich foods at the same time as oxalate-rich foods can also help, as the oxalates will bind to calcium in the stomach, preventing the oxalate from being absorbed into the body. An example is to drink calcium-fortified milk or plant milk with a meal or snack that contains beans, spinach, or nuts.
+Some people at risk for kidney stones may “hyper-absorb” oxalates, so in these cases moderating intake of oxalate-rich foods may be particularly helpful. [8] Cooking foods may also lower oxalate content. Oxalates dissolve in water, and some research indicates that boiling vegetables for 12 minutes can lower their oxalate content by 30-87%, with leafy greens like spinach and Swiss chard showing the greatest losses at about 85%. Steaming had less of an effect, showing about 45% loss of oxalates. [8]
+Three large cohorts from the Health Professionals Follow-up study and Nurses’ Health Study (NHS) I and II found an average 20% increased risk of forming kidney stones with high oxalate intakes in men and women. [9] Men who had the lowest calcium intakes of less than 755 mg daily and the highest oxalate intakes had a 46% increased risk of developing stones. But higher calcium intakes in men were also found to be significantly protective from developing stones. A follow-up review of the NHS confirmed that higher calcium intakes were protective from kidney stones in women. [10] Other studies have found the DASH diet had a 40-50% lower risk of kidney stones, which may be due to the diet being rich in potassium and magnesium, minerals protective from kidney stones. [11]
+Therefore, a dietary strategy to prevent kidney stones is more complex than just avoiding oxalates. For those at risk, drink plenty of water every day, eat enough calcium from foods, and eat low amounts of oxalate-rich foods taken with calcium-rich foods. Always inform your doctor about any dietary changes that are made for health reasons.
+Related
+Lectins
+Peumans WJ, Van Damme EJ. Lectins as plant defense proteins.  Plant physiology . 1995 Oct;109(2):347.
+Schlemmer U, Frølich W, Prieto RM, Grases F. Phytate in foods and significance for humans: food sources, intake, processing, bioavailability, protective role and analysis.  Mol Nutr Food Res . 2009 Sep;53 Suppl 2:S330-75.
+Stevenson L, Phillips F, O’Sullivan K, Walton J. Wheat bran: its composition and benefits to health, a European perspective.  Int J Food Sci Nutr . 2012 Dec; 63(8): 1001–1013.
+Melina V, Craig W, Levin S. Position of the Academy of Nutrition and Dietetics: vegetarian diets.  Journal of the Academy of Nutrition and Dietetics . 2016 Dec 1;116(12):1970-80.
+Liu Z, Luo Y, Zhou TT, Zhang WZ. Could plant lectins become promising anti-tumour drugs for causing autophagic cell death?  Cell Prolif . 2013 Oct;46(5):509-15.
+Ma L, Liu G, Sampson L, Willett WC, Hu FB, Sun Q. Dietary glucosinolates and risk of type 2 diabetes in 3 prospective cohort studies.  Am J Clin Nutr . 2018 Apr 1;107(4):617-625.
+Ma L, Liu G, Zong G, Sampson L, Hu FB, Willett WC, Rimm EB, Manson JE, Rexrode KM, Sun Q. Intake of glucosinolates and risk of coronary heart disease in three large prospective cohorts of US men and women.  Clin Epidemiol . 2018 Jun 29;10:749-762.
+Petroski W, Minich DM. Is There Such a Thing as “Anti-Nutrients”? A Narrative Review of Perceived Problematic Plant Compounds.  Nutrients . 2020 Oct;12(10):2929.
+Taylor EN, Curhan GC. Oxalate intake and the risk for nephrolithiasis.  Journal of the American Society of Nephrology . 2007 Jul 1;18(7):2198-204.
+Prochaska ML, Taylor EN, Curhan GC. Insights into nephrolithiasis from the nurses’ health studies.  American journal of public health . 2016 Sep;106(9):1638-43.
+Taylor EN, Fung TT, Curhan GC. DASH-style diet associates with reduced risk for kidney stones.  Journal of the American Society of Nephrology . 2009 Oct 1;20(10):2253-9.
+Last reviewed January 2022
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/
+https://nutritionsource.hsph.harvard.edu/food-features/brussels-sprouts/
+https://nutritionsource.hsph.harvard.edu/food-features/kale/
+https://nutritionsource.hsph.harvard.edu/iodine/
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/lectins/
+https://nutritionsource.hsph.harvard.edu/phosphorus/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/zinc/
+https://nutritionsource.hsph.harvard.edu/magnesium/
+https://nutritionsource.hsph.harvard.edu/calcium/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/food-features/tea/
+https://nutritionsource.hsph.harvard.edu/food-features/coffee/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/calcium/
+https://nutritionsource.hsph.harvard.edu/antioxidants/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/zinc/
+https://nutritionsource.hsph.harvard.edu/calcium/
+https://nutritionsource.hsph.harvard.edu/sprouted-lentils/
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/lectins/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC157596/
+https://onlinelibrary.wiley.com/doi/abs/10.1002/mnfr.200900099
+https://www.tandfonline.com/doi/abs/10.3109/09637486.2012.687366
+https://www.sciencedirect.com/science/article/pii/S2212267216311923
+https://onlinelibrary.wiley.com/doi/abs/10.1111/cpr.12054
+https://academic.oup.com/ajcn/article-abstract/107/4/617/4964650
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6029595/
+https://www.mdpi.com/837782
+https://jasn.asnjournals.org/content/18/7/2198.short
+https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2016.303319
+https://jasn.asnjournals.org/content/20/10/2253.short

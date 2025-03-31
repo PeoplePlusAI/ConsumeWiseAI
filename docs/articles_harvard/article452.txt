@@ -1,0 +1,137 @@
+Title: Processed Foods and Health
+
+Processed foods are generally thought to be inferior to unprocessed foods. The term may suggest that a packaged food item contains many ingredients, perhaps even artificial colors, flavors, or other chemical additives. Often referred to as convenience or pre-prepared foods, processed foods are suggested to contribute to the obesity epidemic and the rising prevalence of chronic diseases like heart disease and diabetes. However, the definition of processed food varies widely depending on the source:
+The U.S. Department of Agriculture (USDA) defines a processed food as one that has undergone any changes to its natural state—that is, any raw agricultural commodity subjected to washing, cleaning, milling, cutting, chopping, heating, pasteurizing, blanching, cooking, canning, freezing, drying, dehydrating, mixing, packaging, or other procedures that alter the food from its natural state. The food may include the addition of other ingredients such as preservatives, flavors, nutrients and other food additives or substances approved for use in food products, such as salt, sugars, and fats.
+The Institute of Food Technologists includes additional processing terms like storing, filtering, fermenting, extracting, concentrating, microwaving, and packaging. [1]
+According to these standards, virtually all foods sold in the supermarket would be classified as “processed” to some degree. Because food begins to deteriorate and loses nutrients as soon as it is harvested, even the  apples  in the produce aisle undergo four or more processing steps before being sold to the consumer. That’s why in practice, it’s helpful to differentiate between the various degrees of food processing.
+
+Types of Food Processing
+A popular system to classify processed foods was introduced in 2009, called the NOVA classification. It lists four categories considering the degree to which a food is processed and the purpose of these modifications: [2-4]
+Unprocessed or minimally processed foods
+Processed culinary ingredients
+Processed foods
+Ultra-processed foods
+The NOVA system is recognized by the World Health Organization, Food and Agriculture Organization, and the Pan American Health Organization, but not currently in the U.S. by the Food and Drug Administration or USDA. NOVA has been criticized for being too general in classifying certain foods, causing confusion. For example, yogurt may fall into more than one category: plain yogurt is minimally processed, but fruited yogurt with added sweeteners could be labeled either processed or ultra-processed depending on how much sweetener and other chemical additives are incorporated. NOVA also does not provide comprehensive lists of specific foods in each category, so the consumer is left to guess where each may fall.
+
+Is Processed Food Unhealthy?
+There’s no doubt that at least some processed foods are found in most people’s kitchens. There are benefits and drawbacks.
+Pros
+Frozen, pre-chopped, and canned ingredients can be time-savers in the kitchen.
+Some processed and fortified foods provide important nutrients that may not otherwise be obtained in a busy household or one that has a limited food budget.
+From a nutritional standpoint, processed and even ultra-processed foods can provide key nutrients. Some nutrients, like protein, are naturally retained throughout processing, and others, such as B vitamins and iron, may be added back if they are lost during processing. Fruits and vegetables that are quickly frozen after harvesting can  retain the majority of vitamin C .
+Throughout history, foods fortified with specific nutrients have prevented deficiencies and their related health problems in certain populations. Examples include infant cereals fortified with iron and B vitamins to prevent anemia, milk fortified with vitamin D to prevent rickets, wheat flour fortified with folic acid to prevent birth defects and iodine added to salt to prevent goiter.
+Processing by certain methods like pasteurization, cooking, and drying can destroy or inhibit the growth of harmful bacteria. Additives such as emulsifiers preserve the texture of foods, such as preventing peanut butter from separating into solid and liquid parts. Other functions of processing include delaying the spoilage of food; preserving desirable sensory qualities of food (flavor, texture, aroma, appearance); and increasing convenience in preparing a complete meal.
+Therefore, the indispensable role of food processing enables us to have a stable and predictable food supply and maintains food and nutrient security.
+Cons
+Depending on the degree of processing, nutrients can be destroyed or removed. Peeling outer layers of fruits, vegetables, and whole grains may remove plant nutrients (phytochemicals) and fiber. Heating or drying foods can destroy certain vitamins and minerals. Although food manufacturers can add back some of the nutrients lost, it is impossible to recreate the food in its original form.
+Currently, bread and frozen meals are some of the most consumed ultra-processed foods in the U.S. [5] While these products can be good sources of whole grains, fiber, vitamins, and minerals, they can also be high in sodium, added sugars, and saturated fats. Given the variety of ultra-processed foods, it may be helpful to distinguish those with lower nutritional value from the broader category. Such distinction can be determined by evaluating a food’s nutritional content and long-term health effects. A product with an unevenly high ratio of calories to fiber and healthy nutrients (e.g., unsaturated fats, B vitamins, potassium) may be considered an “ultra-processed food of low nutritional value.” For example, soda provides high calories from added sugars and no healthy nutrients; and research supports an association between a high intake of sugar-sweetened beverages and an increased risk of obesity, diabetes, and heart disease. On the other hand, whole-grain bread and fiber-containing low-sugar breakfast cereals that may be fortified with nutrients such as folic acid have consistently been linked with lower rates of stroke. [6]
+To help illustrate the spectrum of food processing, the table below includes ultra-processed foods of low nutritional value as its own category. We also we separate the NOVA categories of “unprocessed” and “minimally processed” foods, and omit NOVA’s “processed culinary ingredients” category, which mainly includes supplementary food components to assist in cooking and food preparation.
+
+store-bought hummus made with chickpeas, spices, and oil without preservatives
+Decoding the ingredients list on a food label
+The ingredients are listed in order of quantity by weight. This means that the food ingredient that weighs the most will be listed first, and the ingredient that weighs the least is listed last. [7]
+Some ingredients like sugar and salt may be listed by other names. For example, alternative terms for sugar are corn syrup, high-fructose corn syrup, honey, agave nectar, cane sugar, evaporated cane juice, coconut sugar, dextrose, malt syrup, molasses, or turbinado sugar. Other terms for sodium include monosodium glutamate or disodium phosphate.
+If the food is highly processed, it may contain several food additives such as artificial colors, flavors, or preservatives. Their ingredient names may be less familiar. Some preservatives promote safety of the food by preventing growth of mold and bacteria. Others help prevent spoilage or “off” flavors from developing. Examples that you may see on the label include:
+ 
+ Preservatives —ascorbic acid, sodium benzoate, potassium sorbate, tocopherols 
+ Emulsifiers  that prevent separation of liquids and solids—soy lecithin, monoglycerides 
+ Thickeners  to add texture—xanthan gum, pectin,  carrageenan , guar gum 
+ Colors —artificial FD&C Yellow No. 6 or natural beta-carotene to add yellow hues
+Preservatives —ascorbic acid, sodium benzoate, potassium sorbate, tocopherols
+Emulsifiers  that prevent separation of liquids and solids—soy lecithin, monoglycerides
+Thickeners  to add texture—xanthan gum, pectin,  carrageenan , guar gum
+Colors —artificial FD&C Yellow No. 6 or natural beta-carotene to add yellow hues
+Fortified foods contain vitamins and minerals that are added after processing. Either these nutrients were lost during processing, or they were added because they are lacking in the average diet. Examples include B vitamins (riboflavin, niacin, niacinamide, folate or folic acid), beta carotene, iron (ferrous sulfate), vitamin C (ascorbic acid), vitamin D, or amino acids to boost protein content (L-tryptophan, L-lysine, L-leucine, L-methionine).
+Ingredients used widely in the production of ultra-processed foods such as  saturated fats ,  added sugar , and  sodium  have become markers of poor diet quality due to their effect on heart disease, obesity, and high blood pressure. [8,9] It is estimated that ultra-processed foods contribute about 90% of the total calories obtained from added sugars. [5]
+In 2015, the World Health Organization categorized processed meats as cancer-causing to humans. They defined “processed meat” as meat that has been transformed through salting, curing, fermentation, smoking, or other processes to enhance flavor or improve preservation. The statement was made after 22 scientists from the International Agency for Research on Cancer Working Group evaluated more than 800 studies on the topic. The evidence on processed meats was strongest for colorectal cancer, followed by stomach cancer. [10]
+An analysis of the Nurses’ Health Study and Health Professionals Follow-up Study found that a higher intake of ultra-processed foods like processed meats and potato chips was associated with weight gain over 4 years. [11] Other studies suggest that the more that ultra-processed foods are eaten, the greater the risk of a diet lacking in important nutrients. An evaluation of the dietary intakes of 9,317 U.S. participants in an NHANES cohort found that higher intakes of ultra-processed foods were linked with greater consumption of refined carbohydrate, added sugars, and saturated fat. At the same time, intakes of fiber, zinc, potassium, phosphorus, magnesium, calcium, and vitamins A, C, D, and E decreased. [12]
+Another observational study among nearly 20,000 Spanish university graduates in the Seguimiento University of Navarra (SUN) cohort found that higher consumption (more than 4 servings per day) of ultra-processed food was associated with a 62% increased risk of death from any cause compared with lower consumption (less than 2 servings per day). For each additional daily serving of ultra-processed food, there was an 18% increased risk of death. Based on their findings, the researchers noted the importance of policies that limit the proportion of ultra-processed foods in the diet and promote consumption of unprocessed or minimally processed foods to improve global public health. [13] Other cohort studies in France (NutriNet Santé) and the U.S. (NHANES) have also found that consumption of ultra-processed foods was directly associated with higher all-cause mortality. [14,15]
+In 2019, a randomized controlled trial looked at whether ultra-processed foods, as defined under the NOVA classification, might indeed cause people to eat more. Ten men and ten women were randomized to receive either an ultra-processed diet or unprocessed diet for 14 days, followed by 14 more days of the alternate diet. The diets were relatively equal in calories, sugar, fat, fiber, and other nutrients, and participants were allowed to eat as much or as little as they liked. The study found that participants ate about 500 calories more on the ultra-processed diet and also gained weight (about 2 pounds). [16] Most of the extra calories came from carbohydrate and fats, and the diet also increased their sodium intake. When the participants changed to the unprocessed diet, they ate fewer calories and lost the weight they gained. According to appetite surveys, the diets did not differ in levels of hunger, fullness, and satisfaction, though participants tended to eat faster on the ultra-processed diet.
+Reviews of cohort and cross-sectional studies were conducted to assess the effect of ultra-processed foods on health. Results from cross-sectional studies found that the highest intakes of ultra-processed foods were associated with significantly higher odds  of overweight/obesity, low HDL cholesterol, and metabolic syndrome. [17,18]    Results from cohort studies found an association with the highest ultra-processed food intake and an increased risk of cardiovascular disease, early deaths from any cause, and depression. [17]
+Another review looked at trends with ultra-processed foods using 100 studies from around the world. [19] The study found that ultra-processed foods (especially breads, cookies, savory snacks, juices, sodas, and breakfast cereals) tended to be eaten the most by those with lower education status and by children and adolescents. However, vegans and vegetarians were also found to have higher intakes of ultra-processed foods when classifying plant-based meat and dairy substitutes as highly processed items. The authors noted the difficulty in comparing study results due to the different definitions of ultra-processed foods (e.g., the same food may have been classified differently among studies). They also observed that most studies used food frequency questionnaires to assess ultra-processed food intake, which are not validated to do so, and therefore any conclusions drawn from the studies should be interpreted cautiously.
+A systematic review with meta-analysis incorporating data from cohort studies including the Nurses Health Study and Health Professionals Follow-up Study found that a higher ultra-processed food intake was associated with a higher risk of type 2 diabetes. [20] Certain food categories were associated with disease risk such as refined breads, artificially and sugar-sweetened beverages, animal-based products, and ready-to-eat mixed dishes. On the other hand, whole-grain breads and cereals and savory snacks like light crackers and fat-free popcorn were associated with lower risk of this condition.
+
+The Bottom Line
+Food processing is a very broad spectrum that ranges from basic technologies like freezing or milling, to the incorporation of additives that promote shelf stability or increase palatability. As a general rule, emphasizing unprocessed or minimally processed foods in the daily diet is optimal. That said, the use of processed and even ultra-processed foods is the choice of the consumer, and there are pros and cons that come with each type. The Nutrition Facts Label and ingredients list can be useful tools in deciding when to include a more processed food in one’s diet. There is evidence showing an association with certain types of food processing and poor health outcomes, especially low-nutrient ultra-processed foods that contain  added sugars ,  excess sodium , and  unhealthful fats . But there also exist ultra-processed foods that have low amounts of these ingredients while being fortified in beneficial nutrients such as calcium, protein, fiber, and vitamins B and D.
+Research is still clarifying if any harmful health effects from ultra-processed foods arise from the higher degree of processing or simply from the poorer nutritional quality often accompanying these types of foods. There is a growing range of processed and ultra-processed foods available, and some products may be a useful addition to a healthful diet.
+Put it into practice: Ideas for a day of minimally-processed meals
+You don’t have to avoid all processed foods but begin by adding more fresh or minimally processed ingredients to your shopping cart. More time may be needed to prepare these foods than just opening a can or popping a frozen container in a microwave, but the rewards may be fresher flavors, increased nutrients, and eating less additives that have no nutritional benefit.
+Breakfast:
+Look for breads that include whole grain flour as the main ingredient (it should be listed first) and that contain minimal additives and preservatives.
+Swap out butter spreads for mashed  avocado  or nut/seed butters.
+Choose breakfast cereals with less added sugar, such as plain steel-cut or large flake oats, plain shredded wheat, and low-sugar mueslis. Add nuts,  chia seeds , or flaxseeds and fresh diced fruit to cereals for a heartier meal.
+Lunch/Dinner:
+Reduce takeout and prepare more home-cooked meals using fresh ingredients or processed frozen or canned ingredients that are low in added sugar, sodium, and saturated fat.
+Choose fresh poultry and fish, dried or low-sodium canned  legumes , dry or frozen plain whole grains (brown or wild  rice , farro, millet,  quinoa ), fresh or frozen unseasoned vegetables, and herbs, spices, and  vinegars .
+Cook in bulk and freeze extra food so that you have meals ready to reheat when you are bus Dinner leftovers make a great next-day lunch! If you are not used to cooking at home, it may require some  planning ahead  and experimentation at first.
+Snacks:
+Try fresh washed and sliced fruits, raw sliced vegetables with hummus, plain or low-sugar yogurt, unsalted nuts, roasted  chickpeas  or other beans, edamame,  overnight oats , or homemade trail mix with nuts, seeds, and dried fruit.
+Beverages:  Your body appreciates plain  water ! Try it chilled with ice, warmed, or infused with fresh mint, slices of citrus fruit, or a piece of ginger.
+Restaurants:
+Bypass the usual highly processed fast-food options of fried chicken, burgers, and fries. Visit eateries that offer fresh vegetables or salads; lean fresh protein foods like fish, poultry, tofu, or legumes; and whole grains that are simply prepared without excess salt and fat.
+Research menus online when available, to save time when making food selectio
+Weaver CM, Dwyer J, Fulgoni III VL, King JC, Leveille GA, MacDonald RS, Ordovas J, Schnakenberg D. Processed foods: contributions to nutrition.  The American journal of clinical nutrition . 2014 Apr 23;99(6):1525-42.
+Monteiro CA. Nutrition and health. The issue is not food, nor nutrients, so much as processing.  Public health nutrition . 2009 May;12(5):729-31.
+Monteiro CA, Cannon G, Moubarac JC, Levy RB, Louzada ML, Jaime PC. The UN Decade of Nutrition, the NOVA food classification and the trouble with ultra-processing.  Public Health Nutrition . 2018 Jan;21(1):5-17.
+Monteiro CA, Cannon G, Levy RB et al. NOVA. The star shines bright. [Food classification. Public health]  World Nutrition  January-March 2016, 7, 1-3, 28-38.
+Steele EM, Baraldi LG, da Costa Louzada ML, Moubarac JC, Mozaffarian D, Monteiro CA. Ultra-processed foods and added sugars in the US diet: evidence from a nationally representative cross-sectional study.  BMJ  open. 2016 Jan 1;6(3):e009892.
+Hankey GJ. B vitamins for stroke prevention.  Stroke and vascular neurology . 2018 Jun 1;3(2).
+U.S. Food and Drug Administration. Food Labeling Guide: Guidance for Industry. January 2013.
+Tapsell LC, Neale EP, Satija A, Hu FB. Foods, nutrients, and dietary patterns: interconnections and implications for dietary guidelines.  Advances in Nutrition . 2016 May 9;7(3):445-54.
+Poti JM, Braga B, Qin B. Ultra-processed Food Intake and Obesity: What Really Matters for Health—Processing or Nutrient Content?.  Current obesity reports . 2017 Dec 1;6(4):420-31.
+Bouvard V, Loomis D, Guyton KZ, Grosse Y, El Ghissassi F, Benbrahim-Tallaa L, Guha N, Mattock H, Straif K. Carcinogenicity of consumption of red and processed meat.  The Lancet Oncology . 2015 Dec 1;16(16):1599-600.
+Mozaffarian D, Hao T, Rimm EB, Willett WC, Hu FB. Changes in diet and lifestyle and long-term weight gain in women and men.  New England Journal of Medicine . 2011 Jun 23;364(25):2392-404.
+Steele EM, Popkin BM, Swinburn B, Monteiro CA. The share of ultra-processed foods and the overall nutritional quality of diets in the US: evidence from a nationally representative cross-sectional study.  Population health metrics . 2017 Dec;15(1):6.
+Rico-Campà A, Martínez-González MA, Alvarez-Alvarez I, de Deus Mendonça R, de la Fuente-Arrillaga C, Gómez-Donoso C, Bes-Rastrollo M. Association between consumption of ultra-processed foods and all cause mortality: SUN prospective cohort study.  BMJ . 2019 May 29;365:l1949.
+Schnabel L, Kesse-Guyot E, Allès B, Touvier M, Srour B, Hercberg S, Buscail C, Julia C. Association Between Ultraprocessed Food Consumption and Risk of Mortality Among Middle-aged Adults in France.  JAMA internal medicine . 2019 Feb 11.
+Kim H, Hu EA, Rebholz CM. Ultra-processed food intake and mortality in the USA: results from the Third National Health and Nutrition Examination Survey (NHANES III, 1988–1994).  Public health nutrition . 2019 Feb 21:1-9.
+Hall KD, Ayuketah A, Brychta R, Cai H, Cassimatis T, Chen KY, Chung ST, Costa E, Courville A, Darcey V, Fletcher LA. Ultra-processed diets cause excess calorie intake and weight gain: an inpatient randomized controlled trial of ad libitum food intake.  Cell metabolism . 2019 May 16.
+Pagliai G, Dinu M, Madarena MP, Bonaccio M, Iacoviello L, Sofi F. Consumption of ultra-processed foods and health status: a systematic review and meta-analysis.  British Journal of Nutrition . 2021 Feb;125(3):308-18.
+Askari M, Heshmati J, Shahinfar H, Tripathi N, Daneshzad E. Ultra-processed food and the risk of overweight and obesity: a systematic review and meta-analysis of observational studies.  International journal of obesity . 2020 Oct;44(10):2080-91.
+Marino M, Puppo F, Del Bo’ C, Vinelli V, Riso P, Porrini M, Martini D. A systematic review of worldwide consumption of ultra-processed foods: findings and criticisms.  Nutrients . 2021 Aug 13;13(8):2778.
+Chen Z, Khandpur N, Desjardins C, Wang L, Monteiro CA, Rossato SL, Fung TT, Manson JE, Willett WC, Rimm EB, Hu FB. Ultra-processed food consumption and risk of type 2 diabetes: three large prospective US cohort studies.  Diabetes Care . 2023 Jul 1;46(7):1335-44.
+Last reviewed August 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/food-features/apples/
+https://nutritionsource.hsph.harvard.edu/common-questions-fruits-vegetables/
+https://nutritionsource.hsph.harvard.edu/seaweed/
+https://nutritionsource.hsph.harvard.edu/seaweed/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/fats-and-cholesterol/dietary-fat-and-disease/
+https://nutritionsource.hsph.harvard.edu/carbohydrates/added-sugar-in-the-diet/
+https://nutritionsource.hsph.harvard.edu/salt-and-sodium/sodium-health-risks-and-disease/
+https://nutritionsource.hsph.harvard.edu/carbohydrates/added-sugar-in-the-diet/
+https://nutritionsource.hsph.harvard.edu/salt-and-sodium/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/fats-and-cholesterol/types-of-fat/
+https://nutritionsource.hsph.harvard.edu/avocados/
+https://nutritionsource.hsph.harvard.edu/food-features/chia-seeds/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/food-features/rice/
+https://nutritionsource.hsph.harvard.edu/food-features/quinoa/
+https://nutritionsource.hsph.harvard.edu/food-features/vinegar/
+https://nutritionsource.hsph.harvard.edu/meal-prep/
+https://nutritionsource.hsph.harvard.edu/food-features/chickpeas-garbanzo-beans/
+https://nutritionsource.hsph.harvard.edu/food-features/oats/
+https://nutritionsource.hsph.harvard.edu/water/
+https://academic.oup.com/ajcn/article-abstract/99/6/1525/4577499
+https://www.cambridge.org/core/journals/public-health-nutrition/article/nutrition-and-health-the-issue-is-not-food-nor-nutrients-so-much-as-processing/0C514FC9DB264538F83D5D34A81BB10A
+https://www.cambridge.org/core/journals/public-health-nutrition/article/un-decade-of-nutrition-the-nova-food-classification-and-the-trouble-with-ultraprocessing/2A9776922A28F8F757BDA32C3266AC2A
+https://www.worldnutritionjournal.org/index.php/wn/article/view/5
+https://bmjopen.bmj.com/content/6/3/e009892.short
+https://svn.bmj.com/content/3/2/51.abstract
+https://academic.oup.com/advances/article-abstract/7/3/445/4558132
+https://link.springer.com/article/10.1007/s13679-017-0285-4
+https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)00444-1/fulltext?mod=article_inline
+https://www.nejm.org/doi/full/10.1056/nejmoa1014296
+https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-017-0119-3
+https://www.bmj.com/content/365/bmj.l1949.full
+https://jamanetwork.com/journals/jamadermatology/fullarticle/2723626
+https://www.cambridge.org/core/journals/public-health-nutrition/article/ultraprocessed-food-intake-and-mortality-in-the-usa-results-from-the-third-national-health-and-nutrition-examination-survey-nhanes-iii-19881994/A7397BE094681B0817E24E335F7AFEAD
+https://www.sciencedirect.com/science/article/pii/S1550413119302487
+https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/consumption-of-ultraprocessed-foods-and-health-status-a-systematic-review-and-metaanalysis/FDCA00C0C747AA36E1860BBF69A62704
+https://www.nature.com/articles/s41366-020-00650-z
+https://www.mdpi.com/2072-6643/13/8/2778
+https://diabetesjournals.org/care/article/46/7/1335/148548

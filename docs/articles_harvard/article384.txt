@@ -1,0 +1,86 @@
+Title: Riboflavin – Vitamin B2
+
+Vitamin B2, or riboflavin, is naturally present in foods, added to foods, and available as a supplement. Bacteria in the gut can produce small amounts of riboflavin, but not enough to meet dietary needs. Riboflavin is a key component of coenzymes involved with the growth of cells, energy production, and the breakdown of fats, steroids, and medications. [1] Most riboflavin is used immediately and not stored in the body, so excess amounts are excreted in the urine. [2] An excess of dietary riboflavin, usually from supplements, can cause urine to become bright yellow.
+
+Recommended Amounts
+RDA:  The Recommended Dietary Allowance (RDA) for men and women ages 19+ years is 1.3 mg and 1.1 mg daily, respectively. For pregnancy and lactation, the amount increases to 1.4 mg and 1.6 mg daily, respectively.
+UL:  A Tolerable Upper Intake Level (UL) is the maximum daily dose unlikely to cause adverse side effects in the general population. A UL has not been established for riboflavin, because a toxic level has not been observed from food sources or from longer-term intakes of high-dose supplements.
+
+Vitamin B2 and Health
+Because riboflavin assists many enzymes with various daily functions throughout the body, a deficiency can lead to health problems. Animal studies show that the brain and heart disorders and some cancers can develop from long-term riboflavin deficiency.
+Riboflavin works to reduce oxidative stress and inflammation of nerves, which are contributors to migraine headaches. The vitamin is also needed for normal mitochondrial activities; migraines are sometimes caused by mitochondrial abnormalities in the brain. Therefore riboflavin has been studied as a prophylactic therapy for preventing migraines.
+A randomized controlled trial of 55 adults with migraines were given either 400 mg daily of riboflavin or a placebo and followed for four months. [3] Riboflavin was found to reduce the frequency of migraine attacks by two per month compared with the placebo. The authors noted that a beneficial effect of riboflavin did not start until after the first month, and showed maximum benefit after three months of use.
+A systematic review of 11 clinical trials on riboflavin as a prophylactic treatment for migraines found mixed results. [4] The trials with benefit showed a modest reduction in frequency of migraines in adults and children. The dose for adults was typically 400 mg daily, and for children 200 mg daily, given for three months. There were no negative side effects observed from the supplements.
+Because some people appear to benefit from the supplements, they are inexpensive, and side effects have been minimal, the Quality Standards Subcommittee of the American Academy of Neurology and the American Headache Society concluded that riboflavin is probably effective for preventing migraine headaches and approved its use as a complementary treatment. [5]
+Because riboflavin assists many enzymes with various daily functions throughout the body, a deficiency can lead to health problems. Animal studies show that the brain and heart disorders and some cancers can develop from long-term riboflavin deficiency. Riboflavin regulates circulating levels of homocysteine, an amino acid that enters the diet from animal protein foods like meat. High levels in the blood are a risk factor for  cardiovascular disease  (CVD). Riboflavin works with other B vitamins like  B6 ,  folate , and  B12  to break down homocysteine in the body. Animal studies show heart abnormalities and increased biomarkers for heart disease in riboflavin-deficient rodents, as well as cardioprotective effects of riboflavin by increasing the production of antioxidant enzymes. [6] However, how riboflavin is regulated and transported in the heart in humans is not clearly understood. Epidemiological studies have not shown that lowering homocysteine levels with B vitamin supplementation reduces the risk of heart attacks or deaths from CVD. [7] The American Heart Association does not advocate for the use of B vitamin supplements for reducing CVD risk. [8]
+
+Food Sources
+Riboflavin is found mostly in meat and fortified foods but also in some nuts and green vegetables.
+Dairy milk
+Yogurt
+Cheese
+Eggs
+Lean beef and pork
+Organ meats (beef liver)
+Chicken breast
+Salmon
+Fortified cereal and bread
+Almonds
+Spinach
+
+Signs of Deficiency and Toxicity
+Deficiency
+A riboflavin deficiency is very rare in the United States. Disorders of the thyroid can increase the risk of a deficiency. A riboflavin deficiency most often occurs with other nutrient deficiencies, such as in those who are malnourished. Symptoms may include:
+Cracked lips
+Sore throat
+Swelling of the mouth and throat
+Swollen tongue (glossitis)
+Hair loss
+Skin rash
+Anemia
+Itchy red eyes
+Cataracts in severe cases
+Groups at higher risk of deficiency:
+Vegans/vegetarians due to a lower intake or complete exclusion of dairy and meat products.
+Pregnant women, especially in those who consume little dairy (lactose intolerance) or meat, due to increased nutrient needs with a growing fetus.
+Toxicity
+A toxic level of riboflavin has not been observed from food sources and supplements. The gut can only absorb a limited amount of riboflavin at one time, and an excess is quickly excreted in the urine. [2] Therefore, a Tolerable Upper Intake Level for riboflavin has not been established.
+
+Did You Know?
+Ever wonder why you don’t usually see milk stored in glass bottles anymore? The reason is due to riboflavin. If the vitamin is exposed to too much light, it can be deactivated from its usable form. Therefore milk is now typically sold in cartons or opaque plastic containers to block light.
+
+Related
+B Vitamins Vitamins and Minerals
+U.S. Department of Health  and Human Services. Vitamin B2  Fact Sheet for Health Professionals.   https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/ . Accessed 1/31/20 .
+Institute of Medicine. Food and Nutrition Board.  Dietary Reference Intakes: Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline . Washington, DC: National Academy Press; 1998.
+Schoenen J, Jacquy J, Lenaerts M. Effectiveness of high‐dose riboflavin in migraine prophylaxis A randomized controlled trial.  Neurology . 1998 Feb 1;50(2):466-70.
+Thompson DF, Saluja HS. Prophylaxis of migraine headaches with riboflavin: a systematic review.  Journal of clinical pharmacy and therapeutics . 2017 Aug;42(4):394-403.
+Holland S, Silberstein SD, Freitag F, Dodick DW, Argoff C, Ashman E. Evidence-based guideline update: NSAIDs and other complementary treatments for episodic migraine prevention in adults:[RETIRED]: Report of the Quality Standards Subcommittee of the American Academy of Neurology and the American Headache Society.  Neurology . 2012 Apr 24;78(17):1346-53.
+Udhayabanu T, Karthi S, Mahesh A, Varalakshmi P, Manole A, Houlden H, Ashokkumar B. Adaptive regulation of riboflavin transport in heart: effect of dietary riboflavin deficiency in cardiovascular pathogenesis.  Molecular and cellular biochemistry . 2018 Mar 1;440(1-2):147-56.
+Martí‐Carvajal AJ, Sola I, Lathyris D, Dayer M. Homocysteine‐lowering interventions for preventing cardiovascular events.  Cochrane Database of Systematic Reviews . 2017(8).
+Lichtenstein AH, Appel LJ, Brands M, Carnethon M, Daniels S, Franch HA, Franklin B, Kris-Etherton P, Harris WS, Howard B, Karanja N. Diet and lifestyle recommendations revision 2006: a scientific statement from the American Heart Association Nutrition Committee.  Circulation . 2006 Jul 4;114(1):82-96.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/vitamin-b6/
+https://nutritionsource.hsph.harvard.edu/folic-acid/
+https://nutritionsource.hsph.harvard.edu/vitamin-b12/
+https://nutritionsource.hsph.harvard.edu/milk/
+https://nutritionsource.hsph.harvard.edu/food-features/yogurt/
+https://nutritionsource.hsph.harvard.edu/cheese/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/food-features/almonds/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/
+https://n.neurology.org/content/50/2/466.short
+https://onlinelibrary.wiley.com/doi/abs/10.1111/jcpt.12548
+https://n.neurology.org/content/78/17/1346.extract
+https://link.springer.com/article/10.1007/s11010-017-3163-1
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006612.pub5/abstract
+https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.106.176158

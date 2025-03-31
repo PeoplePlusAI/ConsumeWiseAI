@@ -1,0 +1,66 @@
+Title: How to Calculate Net Carbs
+
+“Net carbs” refers to carbs that are absorbed by your body.  To calculate the net carbs in whole foods, you subtract the fiber from the total number of carbs.
+Whether to count net or total carbs is a controversial topic within the  low-carb community .
+For starters, the term “net carbs” continues to be disputed amongst nutrition experts. The Food and Drug Administration (FDA) does not recognize the term “net carbs.” The FDA instead recommends using the total carbohydrates listed on the nutrition label. In addition, due to conflicting and outdated information, figuring out how to calculate net carbs can be confusing.
+This article looks at the science behind net carbs, provides simple calculations for determining your intake and discusses the pros and cons of counting net carbs.
+
+What are net (digestible) carbs?
+Net  carbs  are sometimes referred to as digestible or impact carbs. The terms refer to carbs that are absorbed by the body, including both  simple and complex carbs .
+Simple carbs contain one or two sugar units linked together and are found in foods like fruits, vegetables, milk, sugar, honey and syrup.
+Complex carbs contain many sugar units linked together and are found in grains and starchy vegetables like potatoes.
+When you eat a carb-containing food, most of the carbs are broken down into individual sugar units by enzymes produced in your small intestine. Your body can only absorb individual sugar units.
+However, some carbs can’t be broken down into individual sugars, whereas others are only partially broken down and absorbed. These include fiber and sugar alcohols.
+Because of this, most fiber and sugar alcohols can be subtracted from total carbs when calculating net carbs.
+
+Fiber carbs
+Fiber  is a unique form of carbs in terms of its digestion and effects on your body.
+Unlike starch and sugar, naturally occurring fiber isn’t absorbed in your small intestine.
+This is because the links between sugar units can’t be broken down by the enzymes in your digestive tract. Therefore, fiber passes directly into the colon.
+However, its fate after that depends on what  type of fiber  it is.
+There are two broad categories of fiber: insoluble and soluble. About two-thirds of the fiber you eat is insoluble, while the other third is soluble.
+Insoluble fiber does not dissolve in water. It creates a bulkier stool and can help prevent constipation. This type of fiber leaves the colon unchanged, provides no calories and has no effect on blood sugar or insulin levels.
+
+Sugar alcohol carbs
+Sugar alcohols  are processed similarly to fiber, with a few important differences.
+Many sugar alcohols are only partially absorbed in the small intestine, and there is a lot of variation among different types.
+Researchers report the small intestine absorbs 2–90% of sugar alcohols. However, some are only briefly absorbed into the bloodstream and then excreted in urine.
+In addition, these sugar alcohols can have varying effects on blood sugar and  insulin  levels, although all are considerably lower than sugar.
+Here is a list of the glycemic and insulin indexes for the most common sugar alcohols:
+Erythritol:  Glycemic index 0, insulin index 2
+Isomalt:  Glycemic index 9, insulin index 6
+Maltitol:  Glycemic index 35, insulin index 27
+Sorbitol:  Glycemic index 9, insulin index 11
+Xylitol:  Glycemic index 13, insulin index 11
+Overall, sugar alcohols don’t seem to have a major effect on blood sugar and insulin levels, but individual responses may vary, especially among those with diabetes or prediabetes.
+
+Calculating net carbs in whole foods
+Whole foods contain naturally occurring fiber. Therefore, you can simply subtract the fiber from the total carbs to get the net carbs.
+The  USDA Food Composition Databases  provides complete nutrition information on thousands of foods, including carbs and fiber.
+For example, a medium avocado contains 17.1 grams of total carbs, 13.5 grams of which is fiber.
+So 17.1 grams of total carbs – 13.5 grams of fiber = 3.6 grams of net carbs.
+
+Calculating net carbs in processed foods
+To calculate the net carbs in a packaged product, the more information you have, the better.
+Generally speaking, half of the carbs from sugar alcohols can be subtracted from the total carbs listed on the nutrition label.
+Erythritol is an exception. If it’s the only sugar alcohol in the ingredients list, its carbs can be completely subtracted from the total carbs.
+This value may be different than the number of net carbs stated on the product label, since many companies subtract all fiber and sugar alcohol carbs when calculating net carbs.
+For example, a maltitol-sweetened  Atkins bar label  states that it contains 3 grams of net carbs.
+However, when subtracting only half the carbs from sugar alcohols, the net carb value is 8.5 grams: 23 grams of total carbs – 9 grams of fiber – 11 grams sugar alcohols (11 grams X 0.5 = 5.5 grams) = 8.5 grams of net carbs.
+
+The takeaway
+Understanding how your body processes different kinds of carbs can help you manage your blood sugar, weight and overall health.
+If you find that counting net carbs leads to higher-than-expected blood sugar levels or other issues, you may prefer to count total carbs instead.
+The key is to eat the number of carbs that allows you to achieve your health goals, no matter how you count them.
+
+References:
+
+https://www.healthline.com/nutrition/low-carb-diet-meal-plan-and-menu
+https://www.healthline.com/nutrition/how-many-carbs-per-day-to-lose-weight
+http://www.medicalnewstoday.com/articles/318615.php
+https://www.healthline.com/nutrition/why-is-fiber-good-for-you
+https://www.healthline.com/nutrition/different-types-of-fiber
+https://www.healthline.com/nutrition/sugar-alcohols-good-or-bad
+https://www.healthline.com/nutrition/insulin-and-insulin-resistance
+https://www.healthline.comhttps://ndb.nal.usda.gov/ndb/
+https://www.atkins.com/products/bars/meals/chocolate-peanut-butter-bar

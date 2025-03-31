@@ -1,0 +1,86 @@
+Title: Zinc
+
+Zinc is a trace mineral, meaning that the body only needs small amounts, and yet it is necessary for almost 100 enzymes to carry out vital chemical reactions. It is a major player in the creation of DNA, growth of cells, building proteins, healing damaged tissue, and supporting a healthy  immune system . [1] Because it helps cells to grow and multiply, adequate zinc is required during times of rapid growth, such as childhood, adolescence, and pregnancy. Zinc is also involved with the senses of taste and smell.
+
+Recommended Amounts
+RDA:   The Recommended Dietary Allowance (RDA) for adults 19+ years is 11 mg a day for men and 8 mg for women. Pregnancy and lactation requires slightly more at 11 mg and 12 mg, respectively.
+UL:    The Tolerable Upper Intake Level is the maximum daily intake unlikely to cause harmful effects on health. The UL for zinc is 40 mg daily for all males and females ages 19+ years.
+
+Zinc and Health
+Because zinc supports the growth and normal functioning of immune cells, even a mild or moderate deficiency can slow down the activity of lymphocytes, neutrophils, and macrophages that protect the body from viruses and bacteria. Zinc deficiency is a common health problem in children from low and middle-income countries that contributes to stunting of growth, diarrhea, pneumonia, and malaria. [2] The elderly who may have low zinc intakes from a poor appetite due to multiple diseases and medications are at risk for infections, such as pneumonia and skin ulcers, as reviewed in the next section.
+Adequate zinc is needed to create new cells, particularly collagen and fiber-like tissues, a necessary function in repairing damaged cells. Zinc also supports immune cell activity that combats inflammation from a wound. Therefore the greatest benefit of zinc appears to be in people who are deficient in the mineral and who have severe wounds such as decubitus ulcers or extensive burns. Because people with these conditions have higher zinc needs and may have poor appetites, supplements or topical creams are used rather than relying on food intake alone. In these cases, zinc is often combined with other nutrients like protein, vitamin C, and L-arginine that also promote wound healing such as in a nutritional shake. [3] However, a benefit of zinc supplementation has not been shown in people with skin ulcers who have normal blood levels of zinc. [4]
+
+Food Sources
+Meats, poultry, and seafood are rich in zinc. Some plant foods like legumes and whole grains are also good sources of zinc, but they also contain  phytates  that can bind to the mineral, lowering its absorption.
+Shellfish: oysters, crab, lobster
+Beef
+Poultry
+Pork
+Legumes
+Nuts , seeds
+Whole grains
+Fortified breakfast cereals
+
+Supplements
+Zinc is available in supplement form as pills and lozenges. Excess zinc can interfere with the absorption of  iron  and copper. High doses can also cause nausea and even vomiting. Therefore it is important not to take supplemental zinc unless it is known that the diet is low in foods containing zinc or a zinc deficiency is confirmed. A registered dietitian can help to evaluate one’s diet and determine if zinc intake is low.
+What about the use of zinc lozenges for colds?
+Zinc is believed to prevent cold viruses from spreading and by reducing inflammation, which may shorten the duration of a cold. Research has shown mixed results of their effectiveness due to differences in the form of zinc, the dosage, and how long it was used. Yet some clinical trials support its effectiveness. A Cochrane review of clinical trials found that zinc lozenges did not prevent colds, but if taken within a day of the onset of cold symptoms (sore throat, sniffles), the lozenges could tame its severity. [5] However, it is noted that some of the trials were funded by pharmaceutical companies who may have had financial interest in or produced zinc lozenges.
+Zinc lozenges can carry a few unpleasant side effects like having a metallic flavor and causing nausea, but some people would gladly trade these symptoms for a bout with a nasty cold.
+
+Signs of Deficiency and Toxicity
+Deficiency
+A zinc deficiency is rare and is seen most commonly in people who do not absorb zinc well due to digestive disorders such as inflammatory bowel diseases or who have undergone gastrointestinal surgery. Those with chronic liver or kidney disease are also at risk. Excessive or prolonged diarrhea can lead to a zinc deficiency, as well as severe conditions with increased zinc needs like burns and sepsis (an infection caused by harmful bacteria entering the blood). Zinc is more efficiently absorbed when taken in smaller doses and in people who are deficient in the mineral.
+Other groups at risk for zinc deficiency:
+Pregnant women.  Increased zinc needs for the fetus and during lactation.
+Low amounts of zinc in human breast milk. High amounts of  calcium  and  phosphorus  in cow’s milk can lower zinc absorption.
+Vegetarians/vegans.  Zinc intake is limited to plant foods like whole grains that have lower bioavailability than from animal foods.
+Decreased absorption and increased loss of zinc through the urine.
+Signs of deficiency include:
+Loss of taste or smell
+Poor appetite
+Depressed mood
+Decreased immunity
+Delayed wound healing
+Diarrhea
+Hair loss
+
+Toxicity
+Toxicity occurs almost exclusively from zinc supplements rather than food. There have been no reports of eating too much zinc from the diet alone. [1]
+Signs of toxicity include:
+Nausea, vomiting
+Poor appetite
+Abdominal pain or cramping
+Headaches
+Diarrhea
+
+Did You Know?
+Zinc oxide was used in ointments to treat wounds, as noted in ancient Greek medical texts. Today, zinc oxide is still a popular over-the-counter treatment skin treatment. It can defend against sunburns by reflecting and scattering ultraviolet rays so they do not penetrate the skin. It is also used to treat inflamed skin conditions like burns, eczema, bedsores, and diaper rash. The compound forms a protective barrier on the skin’s surface, repelling away moisture and allowing the skin to heal. It may also aid enzymes to break down damaged  collagen  tissue so that new tissue can be formed. No negative side effects have been reported.
+
+Related
+Vitamins and Minerals
+Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc: a Report of the Panel on Micronutrients. Washington, DC: National Academy Press; 2001.  https://www.ncbi.nlm.nih.gov/books/NBK222317/  Accessed 10/17/2019.
+Mayo‐Wilson E, Junior JA, Imdad A, Dean S, Chan XH, Chan ES, Jaswal A, Bhutta ZA. Zinc supplementation for preventing mortality, morbidity, and growth failure in children aged 6 months to 12 years of age.  Cochrane Database of Systematic Reviews . 2014(5).
+Ellinger S, Stehle P. Efficacy of vitamin supplementation in situations with wound healing disorders: results from clinical intervention studies.  Current Opinion in Clinical Nutrition & Metabolic Care . 2009 Nov 1;12(6):588-95.
+Wilkinson EA. Oral zinc for arterial and venous leg ulcers.  Cochrane Database of Systematic Reviews . 2014(9).
+Singh M, Das RR. Zinc for the common cold.  Cochrane Database Syst Rev . 2011 Feb 16;(2):CD001364.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/nutrition-and-immunity/
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/calcium/
+https://nutritionsource.hsph.harvard.edu/phosphorus/
+https://nutritionsource.hsph.harvard.edu/collagen/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://www.ncbi.nlm.nih.gov/books/NBK222317/
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009384.pub2/
+https://journals.lww.com/co-clinicalnutrition/Fulltext/2009/11000/Efficacy_of_vitamin_supplementation_in_situations.6.aspx
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001273.pub3/abstract
+https://www.ncbi.nlm.nih.gov/pubmed/21328251

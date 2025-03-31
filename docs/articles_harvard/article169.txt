@@ -1,0 +1,64 @@
+Title: Ask the Expert: Legumes and Resistant Starch
+
+The expert:  Dr. Guy Crosby
+Legumes , which include beans, peas and  lentils , are an inexpensive, healthy source of protein,  potassium , and complex carbohydrates, including dietary fiber.
+On average, legumes contain about 20-25% protein by weight on a dry basis, which is 2-3 times more  protein  than wheat and rice. However, they tend to be low in the essential amino acid methionine, and sometimes tryptophan.
+Legumes are also a very good source of dietary fiber, which is important for maintaining healthy bowel function.
+The content of total carbohydrate, including complex carbohydrates, ranges from 65-72% by weight on a dry basis, of which 85% is composed of starch, while dietary fiber constitutes anywhere from 10-20% of the weight of dried legumes (1).
+The high level of both starch and dietary fiber raises a very interesting question. If most of the carbohydrate is made of starch, how can legumes be such good sources of dietary fiber? Isn’t all starch rapidly digested to glucose? This was the prevailing view of starch until the 1980s, when two English researchers, Hans Englyst and John Cummings discovered that not all starch is rapidly digested to glucose in the small intestine (2).
+They found that some starch is resistant to digestion and passes into the large intestine where much of it is used as a food source by the healthy bacteria living in our colon. Englyst and Cummings named this previously unknown form of starch “resistant starch” and concluded it acts similar to dietary fiber.
+Substantial research since their discovery has confirmed that resistant starch (RS) functions much like dietary fiber in food (3).
+There are two main forms of dietary fiber in food:
+One is insoluble fiber comprised of complex carbohydrates, such as cellulose, that are insoluble in the gastrointestinal fluid. This form of fiber is not broken down by gut bacteria, acts as a bulking agent, and is effective at reducing constipation.
+The other form of fiber is soluble in gastrointestinal fluid, producing a thick, viscous liquid similar to honey. Soluble fiber is readily metabolized by gut bacteria, which convert much of it into small molecules called short-chain fatty acids (SCFA). The cells lining the colon obtain about 60-70% of their energy from SCFA (4).
+Although resistant starch does not increase the viscosity of the gastrointestinal fluid, it is one of the best sources of SCFA helping to maintain the health of colonic cells.
+Since resistant starch is not metabolized in the small intestine it reduces the amount of glucose released into the blood, thus lowering the demand for insulin while also reducing the caloric density of food (5).
+Foods that contain significant levels of resistant starch increase satiety and have a lower glycemic index, producing a smaller rise in blood glucose than high starch foods that contain very little resistant starch, such as baked potatoes, rice, and white bread (6). Clearly, not all carbohydrate is alike.
+Legumes are one of the best sources of resistant starch. Raw, dried legumes contain about 20-30% resistant starch by weight (7). That means almost half of the starch in raw legumes is resistant to digestion.
+Why is some starch resistant to digestion? A small portion of it is physically inaccessible to digestive enzymes. But most of it is resistant due to the chemical structure of starch. Starch is composed of two molecules called amylose and amylopectin.
+Amylose is a linear chain of glucose molecules linked end-to-end.
+Amylopectin is a much larger molecule with numerous branches of short chains of glucose molecules linked to a main chain like the branches of a tree growing from the trunk.
+The starch molecules, especially amylose, form crystalline regions that are resistant to digestion by the starch digesting enzymes in our body (3). Compared with other high starch foods like corn, wheat, and rice, the starch in legumes is very high in amylose, comprising up to 40% of the starch, making it more resistant to digestion.
+It is important to realize that resistant starch is not a distinct molecular structure like glucose or cholesterol, but a concept developed to explain why some starch is not digested (8).
+The amount of resistant starch reported in foods is therefore highly dependent on the method used to analyze for resistant starch. In 2000 a standardized test for determining the content of RS in food was approved by AACC International (9). The numbers reported in this article were determined by this method (10).
+If cooked legumes contained as much resistant starch as raw legumes we would have a very difficult time digesting them. As with all high starch foods, when legumes are cooked in boiling water large portions of the crystalline regions are destroyed, reducing the amount of resistant starch. But since legumes are so high in amylose, a smaller amount of resistant starch is destroyed by cooking than in other foods because some forms of crystalline amylose are stable even in boiling water (8).
+Fully cooked legumes contain only about 4-5% of their total weight (on a dry basis) as resistant starch, regardless of how long they are cooked.
+Cooling the cooked legumes for up to 24 hours in the refrigerator increases the level of resistant starch to 5-6% of the total weight (dry basis) by allowing some of the starch molecules to recrystallize. Canned whole beans contain about the same amount, as do canned refried beans (10).
+This may not seem like much resistant starch, but it is still 4-5 times higher than other starchy foods such as white bread and potatoes (see table below). This is certainly enough to have a significant impact on the formation of SCFA, glycemic index, reduced insulin response, satiety and caloric content (11). In sum, legumes are a healthy choice not only for their high content of protein and other nutrients, but also because they contain some of the highest levels of resistant starch of any food.
+Starch*
+RS*
+Glycemic Index** (12)
+94%
+<1%
+93
+88%
+1%
+70
+60%
+5%
+30
+61%
+5%
+39
+Weight percent on dry basis 
+** A glycemic index below 55 is considered a low G. I. food (12).
+References
+1. United States Department of Agriculture National Nutrient Database for Standard Reference (2011).
+2. Englyst, H. N., Kingman, S. M., and Cummings, J. H., Classification and Measurement of Nutritionally Important Starch Fractions. Eur. J. Clin. Nutr. 1992; 46: 533-550.
+3. Crosby, G. A., Resistant Starch Makes Better Carbs. Functional Foods and Nutraceuticals, 2003; 6: 34-36.
+4. Topping, D. L., and Clifton, P. M., Short-Chain Fatty Acids and Human Colonic Function: Roles of Resistant Starch and Non-starch Polysaccharides. Physiol. Rev. 2001; 81(3): 1031-1064.
+5. Behall, K. M., and Howe, J. C., Contribution of Fiber and Resistant Starch to Metabolizable Energy. Am. J. Clin. Nutr. 1995; 62: 1158S-1160S.
+6. Raban, A., et al. Resistant Starch: The Effect on Postprandial Glycemia, Hormonal Response, and Satiety. Am. J. Clin. Nutr. 1994; 60: 544-551.
+7. Bednar, G. E., et al. Starch and Fiber Fractions in Selected Food and Feed Ingredients Affect Their Small Intestinal Digestibility and Fermentability and Their Large Bowel Fermentability in Vitro in a Canine Model. J. Nutr. 2001; 131: 276-286.
+8. Thompson, D. B. Strategies for the Manufacture of Resistant Starch. Trends Food Sci. Tech. 2000; 11(7): 245-253.
+9. Perea, A., Meda, V., and Tyler, R. T. Resistant Starch: A Review of Analytical Protocols for Determining Resistant Starch Content of Foods. Food Res. Intern. 2010; 43: 1959-1974.
+10. Fabbri, A. D. T., Schacht, R. W., and Crosby, G. A. Evaluation of Resistant Starch Content of Cooked Black Beans, Pinto Beans and Chickpeas. NFS Journal 3. 2016; 8-12.
+11. Noah, L. et al. Digestion of Carbohydrate from White Beans (Phaseolus vulgaris L.) in Healthy Humans. J. Nutr. 1998; 128: 977-985.
+12. Brand-Miller, J., Wolever, T. M. S., Colagiuri, S., and Foster-Powell, K. The Glucose Revolution: The Authoritative Guide to the Glycemic Index. Marlowe & Co., NY, 1999.
+
+References:
+https://www.hsph.harvard.edu/guy-crosby/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/food-features/lentils/
+https://nutritionsource.hsph.harvard.edu/potassium/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/

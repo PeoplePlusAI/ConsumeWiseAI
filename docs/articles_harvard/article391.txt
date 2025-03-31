@@ -1,0 +1,46 @@
+Title: Too much salt, too little potassium, increases risk of death
+
+Here’s yet another reason why you should eat more fruits and vegetables and cut back on processed foods: A large new study finds that people who eat high sodium, low potassium diets have a higher risk of dying from a heart attack or from any  cause. The study, which appears in the July 11, 2011 issue of  Archives of Internal Medicine , ( 1 ) bolsters the already-substantial evidence that high salt diets have negative effects on health. ( 2 – 4 ) And it highlights a key dietary change people can make to lower their risk: Eat more fresh vegetables and fruits, which are naturally high in potassium and low in sodium—and eat less bread, cheese, and processed meat, since these and other processed foods are high in sodium and low in potassium.
+“Much confusion was caused by a recent, widely quoted report concluding that lower salt intakes were associated with higher risk of cardiovascular disease,” says Dr. Walter Willett, chair of the Dept. of Nutrition at Harvard School of Public Health. “This new study is much larger and controlled for key factors that were ignored in the previous report.”
+Sodium and potassium have opposite effects on heart health: High salt intakes increase blood pressure, ultimately leading to heart disease; high potassium intakes can help relax blood vessels and decrease blood pressure. Our bodies need far more potassium each day than sodium, and most Americans should limit their sodium intake to 1,500 milligrams per day, the amount in about two-thirds of a teaspoon of table salt. ( 5 ) But the typical US diet—heavy on the processed foods, light on the produce—is just the opposite: Americans average about 3,300 milligrams of sodium per day, about 75 percent of which comes from processed foods, while only getting about 2,900 milligrams of potassium each day. ( 3 , 6 )
+The newest study, which is based on diet reports from participants in the National Health and Nutrition Examination Survey, followed just over 12,000 men and women for an average of 15 years. Sodium intakes averaged about 4,300 milligrams per day in men and 2,900 milligrams a day in women.( 1 ) Potassium intakes averaged a good bit lower (3,400 milligrams and 2,400 milligrams), and substantially lower than the 4,700 milligrams per day that the US government recommends. ( 7 )
+People with the highest sodium intakes had a 20 percent higher risk of death from any cause than people with the lowest sodium intakes. People with the highest potassium intakes had a 20 percent lower risk of dying than people with the lowest intakes. But what may be even more important for health is the relationship of sodium to potassium in the diet: People with the highest ratio of sodium to potassium in their diets had double the risk of dying of a heart attack than people with the lowest ratio, and they had a 50 percent higher risk of death from any cause. ( 1 )
+Given that processed foods are responsible for much of people’s sodium intake in the US and Europe, governments have started working with the food industry to lower sodium levels. Finland and the United Kingdom have led successful sodium reduction efforts, ( 8 ) and in the US, the Institute of Medicine has recommended that the Food and Drug Administration regulate the amount of salt in commercially prepared food—a recommendation that’s likely to receive pushback from the salt industry, which continues to argue that salt has little influence on blood pressure. ( 9 ) Encouragingly, some manufacturers have voluntarily agreed to cut back on sodium by 20 percent over the next five years, as part of New York City’s National Salt Reduction Initiative. ( 10 )  Walmart  has also pledged to cut back on sodium and decrease the prices of fresh produce in its stores. It remains to be seen whether the food industry will be able to deliver on these pledges. (Campbell Soup reportedly announced in early July 2011 that it was  raising  the salt levels  in some of its soups, blaming its previous salt reduction efforts—and the resulting changes in product taste—for sagging sales.
+It could take a decade for any US regulatory changes to take effect. In the meantime, there are steps that consumers can take to curb sodium intake and  boost potassium .
+References
+1. Yang Q, Liu T, Kuklina EV, et al. Sodium and Potassium Intake and Mortality Among US Adults: Prospective Data From the Third National Health and Nutrition Examination Survey.  Arch Intern Med . 2011;171:1183–91.
+2. Strazzullo P, D’Elia L, Kandala NB, Cappuccio FP. Salt intake, stroke, and cardiovascular disease: meta-analysis of prospective studies.  BMJ . 2009;339:b4567.
+3. Brown IJ, Tzoulaki I, Candeias V, Elliott P. Salt intakes around the world: implications for public health.  Int J Epidemiol . 2009;38:791–813.
+4. World Cancer Research Fund, American Institute for Cancer Research.  Food, Nutrition, Physical Activity, and the Prevention of Cancer: A Global Perspective . London; 2007.
+5. Application of lower sodium intake recommendations to adults—United States, 1999–2006.  MMWR Morb Mortal Wkly Rep . 2009;58:281–3.
+6. Dietary Guidelines for Americans Scientific Advisory Committee. 2010.  Report of the Dietary Guidelines Advisory Committee on the Dietary Guidelines for Americans, 2010, to the Secretary of Agriculture and the Secretary of Health and Human Service .
+7. Institute of Medicine.  Dietary Reference Intakes for Water, Potassium, Sodium, Chloride, and Sulfate . Washington, D.C.: National Academies Press; 2005.
+8. He FJ, MacGregor GA. A comprehensive review on salt and health and current experience of worldwide salt reduction programmes.  J Hum Hypertens . 2009;23:363–84.
+9. Institute of Medicine.  Strategies to Reduce Sodium Intake . Washington, D.C.: National Academies Press; 2010.
+10. National Salt Reduction Initiative – Statement of Commitment by Health Organizations and Public Agencies. 2011.
+
+References:
+#ref
+#ref
+#ref
+#ref
+#ref
+#ref
+#ref
+#ref
+#ref
+#ref
+#ref
+#ref
+nutrition-news/walmart-nutrition
+http://blogs.forbes.com/nadiaarumugam/2011/07/18/campbell-soup-increases-sodium-as-new-studies-vindicate-salt/
+salt/sodium-potassium-balance
+http://www.ncbi.nlm.nih.gov/pubmed/21747015
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19934192
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19351697
+http://www.dietandcancerreport.org/
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19325529%20
+http://www.cnpp.usda.gov/Publications/DietaryGuidelines/2010/DGAC/Report/2010DGACReport-camera-ready-Jan11-11.pdf
+http://books.nap.edu/catalog.php?record_id=10925
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19110538
+http://www.iom.edu/Activities/Nutrition/ReduceSodiumStrat.aspx

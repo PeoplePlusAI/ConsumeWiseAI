@@ -1,0 +1,43 @@
+Title: It’s time for the salt feud to fade
+
+One of the longest-running feuds in modern nutrition science revolves around a simple question: Will reducing salt intake save lives?
+Fifty years ago, when the science of salt was just beginning to develop, the controversy was understandable, appropriate, and even helpful. It forced researchers on both sides to scrutinize and improve their work and research methods. A provocative, controversial article in  Science  magazine by journalist Gary Taubes, called “The (political) science of salt,” lays out both positions, though Taubes blatantly sided with the camp backing the idea that reducing salt would have little effect on health. ( 1 ) Keep in mind that some of the pro-salt ideas were fueled by the Salt Institute, a trade association that continues to fight restrictions on salt with the same tenacity and arguments that the tobacco industry has used to fight restrictions on smoking. ( 2 ) In the past, the position of the Salt Institute has been allied with that of large food companies and the National Restaurant Association, but more recently, the NRA has been working with its members to pro-actively address the challenge of reducing sodium levels in food.
+
+The salt-doesn’t-much-matter idea was based on several arguments. One was that there were flaws in the studies linking sodium consumption to increased blood pressure and cardiovascular disease. Another was that sodium doesn’t exist in isolation, and that other changes that occur when you cut back on sodium—like eating more fruits and vegetables, and thus get more potassium, fiber, and phytochemical—were responsible for reductions in blood pressure, not less sodium. At the time, there were no long-term randomized trials testing the effects of sodium reduction on health outcomes such as stroke or heart attack or stomach cancer.
+The body of research accumulated over the last two decades has answered all but the most recalcitrant critics. ( 3 ) The landmark DASH-Sodium study, a randomized controlled trial, demonstrated the benefits of a low-sodium diet. ( 4 ,  5 ) A later trial, conducted among nearly 2,000 elderly Taiwanese men, showed that lowering dietary sodium and increasing potassium led to a 41 percent decrease in cardiovascular deaths. ( 6 ) The 10-year follow-up of participants in the Trials of Hypertension Prevention demonstrated a 30 percent reduction in heart attacks, stroke, and other cardiovascular events among those in the lower sodium group. ( 7 )
+The data today are compelling enough to have sparked action on salt reduction around the world. Finland and the United Kingdom have launched successful efforts to reduce sodium in the diet. The World Health Organization has set a target of no more than 5 grams of salt a day (about 2,000 milligrams of sodium), and 11 European Union countries have agreed to make a 16 percent reduction in salt intake over the next four years. ( 8 ) In the U.S., New York City health officials aim to reduce the amount of salt in packaged and restaurant food by 25 percent over the next five years. ( 9 ) The Institute of Medicine has recommended that the federal Food and Drug Administration (FDA) regulate the amount of salt in commercially prepared food—and it has urged the food industry to voluntarily speed up its efforts to reduce the amount of salt in prepared food ahead of any possible regulatory efforts. ( 10 )
+It’s time for all  scientists and the food industry to work together to fight the “forgotten killer”—the overabundance of salt in the American diet.
+References
+1. Taubes G. The (political) science of salt.  Science . 1998; 281:898-901, 903-7.
+2. Center for Science in the Public Interest.  Salt:the forgotten killer . Washington, D.C., 2009.
+3. Alderman MH. Reducing dietary sodium: the case for caution.  JAMA . 2010; 303:448-9.
+4. Appel LJ, Moore TJ, Obarzanek E, et al. A clinical trial of the effects of dietary patterns on blood pressure. DASH Collaborative Research Group.  N Engl J Med . 1997; 336:1117-24.
+5. Sacks FM, Svetkey LP, Vollmer WM, et al. Effects on blood pressure of reduced dietary sodium and the Dietary Approaches to Stop Hypertension (DASH) diet. DASH-Sodium Collaborative Research Group.  N Engl J Med . 2001; 344:3-10.
+6. Chang HY, Hu YW, Yue CS, et al. Effect of potassium-enriched salt on cardiovascular mortality and medical expenses of elderly men.  Am J Clin Nutr . 2006; 83:1289-96.
+7. Cook NR, Cutler JA, Obarzanek E, et al. Long term effects of dietary sodium reduction on cardiovascular disease outcomes: observational follow-up of the trials of hypertension prevention (TOHP).  BMJ . 2007; 334:885-8.
+8. He FJ, MacGregor GA. A comprehensive review on salt and health and current experience of worldwide salt reduction programmes.  J Hum Hypertens . 2009; 23:363-84.
+9. Dept. of Health and Mental Hygiene, New York City. January 11, 2010.  Press release: health department announces proposed targets for voluntary salt reduction in packaged and restaurant foods .
+10. Institute of Medicine.  Strategies to Reduce Sodium Intake in the United States . April 20, 2010.
+
+References:
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/salt-spillled-new.jpg
+#1
+#2
+#3
+#4
+#5
+#6
+#7
+#8
+#9
+#10
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=9722464
+http://cspinet.org/new/pdf/saltreport.pdf
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20124541
+http://www.ncbi.nlm.nih.gov/pubmed/10500021
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=11136953
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16762939
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17449506
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19110538
+http://www.nyc.gov/html/doh/html/pr2010/pr002-10.shtml
+http://www.iom.edu/Reports/2010/Strategies-to-Reduce-Sodium-Intake-in-the-United-States.aspx

@@ -1,0 +1,99 @@
+Title: Do Coffee and Caffeine Inhibit Iron Absorption?
+
+
+
+Caffeinated foods and beverages have become staples in most modern-day diets.
+Coffee is among the most popular, with 80% of US adults drinking it ( 1 ,  2 ).
+Caffeine is a natural stimulant. However, some claim it interferes with the absorption of certain nutrients, such as iron.
+As a result, some people have been advised to avoid coffee and caffeine.
+Here’s everything you need to know about how coffee and caffeine affect iron absorption.
+
+Coffee and Caffeine Can Inhibit Iron Absorption
+Several studies have found that  coffee  and other caffeinated drinks can reduce iron absorption.
+One study found that drinking a cup of coffee with a hamburger meal reduced iron absorption by 39%. Drinking tea, a known inhibitor of iron absorption, with the same meal reduced iron absorption by a whopping 64% ( 3 ).
+Another study found that drinking a cup of instant coffee with a bread meal reduced iron absorption by 60–90% ( 4 ).
+What’s more, the stronger the coffee or tea, the less iron absorbed ( 3 ).
+However,  caffeine  alone does not seem to be the main substance interfering with iron absorption.
+In fact, one study found that caffeine itself only binds to about 6% of the iron from a meal. Given that this is a relatively small amount, other factors must affect iron absorption ( 5 ).
+Furthermore, regular coffee consumption may also have an effect on iron storage levels.
+A large study found that among elderly people, each weekly cup of coffee was associated with a 1% lower level of ferritin, a protein that indicates iron storage levels ( 6 ).
+However, it’s important to remember that the effects of coffee and caffeine on iron absorption seem to depend on  when  you drink your coffee. For example, drinking coffee one hour before a meal had no effect on iron absorption ( 7 ).
+
+Other Substances Affect Iron Absorption
+Caffeine is not the only substance known to interfere with iron absorption.
+The polyphenols found in coffee and tea are thought to be major inhibitors of iron absorption.
+These include chlorogenic acid, which is found mainly in coffee, cocoa and some herbs. Also, tannins found in black tea and coffee inhibit iron absorption ( 4 ,  8 ).
+These compounds bind with iron during digestion, making it more difficult to absorb ( 9 ,  10 ).
+Their effect on iron absorption is dose-dependent, meaning that iron absorption decreases as the polyphenol content of the food or beverage increases ( 9 ,  11 ).
+In one study, drinking beverages containing 20–50 mg of polyphenols per serving reduced iron absorption from a bread meal by 50–70%. Meanwhile, beverages containing 100–400 mg of polyphenols per serving reduced iron absorption by 60–90% ( 4 ).
+Another study found that consuming 5 mg of tannins inhibited iron absorption by 20%, while 25 mg of tannins reduced it by 67% and 100 mg by 88% ( 9 ).
+
+The Type of Meal Affects Iron Absorption
+Iron absorption  is complex and affected by many dietary factors.
+Evidence suggests that the type of food you eat has a greater influence on iron absorption than the effect of drinking coffee or caffeinated drinks.
+Certain types of foods enhance iron absorption, while others inhibit it. The type of iron you consume is also important.
+Iron is present in food in two forms — heme and non-heme iron.
+Non-heme iron, which is found mainly in  plant-based foods , is relatively unstable and affected by many dietary factors. Only 2–20% of non-heme iron is absorbed ( 10 ).
+In contrast, heme iron, which is found only in animal tissues (meat, poultry and seafood) has a much higher absorption rate of 15–35%. This is because it is absorbed intact and not influenced by other dietary factors ( 12 ).
+Thus, coffee and caffeinated drinks are more likely to inhibit the absorption of non-heme iron from plant-based foods but have very little effect on heme iron from animal foods.
+In addition, including animal protein, vitamin C and copper in meals can enhance non-heme iron absorption and reduce the negative effects of coffee and caffeinated drinks on iron absorption ( 13 ).
+As a result, your food choices and the type of iron you consume will determine the effect of coffee and caffeinated drinks on iron absorption.
+
+Should You Reduce Your Coffee and Caffeine Intake?
+Several studies show that coffee and caffeine are not associated with iron deficiency in healthy people with no risk of iron deficiency ( 14 ,  15 ,  16 ).
+Many people get enough iron from the food they eat. Regularly getting an adequate amount of vitamin C and heme iron from meat, poultry and seafood can help overcome iron inhibition from drinking coffee and tea ( 17 ,  18 ).
+However, this may not be the case when polyphenols are consumed at very high levels ( 17 ).
+For those at risk of  iron deficiency , high consumption of coffee and tea may not be the best idea ( 19 ).
+Groups at risk include women of childbearing age, infants and young children, people with a poor or restrictive diet, such as vegetarians, and people with certain medical conditions like inflammatory bowel disease.
+Yet, it may not be necessary for these groups to completely cut out coffee and caffeine.
+Instead, people at risk are advised to follow these helpful tips ( 11 ,  14 ,  18 ):
+Drink coffee or tea between meals
+Wait at least one hour after eating before drinking coffee or tea
+Increase heme iron intake through meat, poultry or seafood
+Increase vitamin C intake at mealtimes
+Eat iron-fortified foods
+Eat foods high in calcium and high-fiber foods like whole grains separately from iron-rich foods.
+This will help limit the effects that coffee and caffeinated drinks have on iron absorption.
+
+The Bottom Line
+Caffeinated drinks like coffee and tea have been shown to inhibit iron absorption.
+However, this is more likely due to their polyphenol contents, not caffeine itself.
+Caffeinated foods and drinks are not associated with iron deficiency in healthy people, as iron absorption is affected by many other dietary factors.
+However, those at risk of deficiency would benefit from avoiding coffee and tea at mealtimes and waiting an hour after a meal to drink coffee or tea.
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pubmed/26614599
+http://www.ncausa.org/Industry-Resources/Market-Research/National-Coffee-Drinking-Trends-Report
+https://www.healthline.com/nutrition/coffee-good-or-bad
+https://www.ncbi.nlm.nih.gov/pubmed/6402915
+https://www.ncbi.nlm.nih.gov/pubmed/10999016
+https://www.ncbi.nlm.nih.gov/pubmed/6402915
+https://www.healthline.com/nutrition/what-is-caffeine
+https://www.healthline.comhttps://doi.org/10.1016/S0308-8146(03)00244-9
+https://www.ncbi.nlm.nih.gov/pubmed/9537620
+https://www.ncbi.nlm.nih.gov/pubmed/6402915
+https://www.ncbi.nlm.nih.gov/pubmed/10999016
+https://www.ncbi.nlm.nih.gov/pubmed/28584397
+https://www.ncbi.nlm.nih.gov/pubmed/2598894
+https://www.ncbi.nlm.nih.gov/pubmed/10731500
+https://www.ncbi.nlm.nih.gov/pubmed/2598894
+https://www.ncbi.nlm.nih.gov/pubmed/1989423
+https://www.ncbi.nlm.nih.gov/pubmed/10999016
+https://www.ncbi.nlm.nih.gov/pubmed/2598894
+https://www.healthline.com/nutrition/increase-iron-absorption
+https://www.healthline.com/nutrition/iron-rich-plant-foods
+https://www.ncbi.nlm.nih.gov/pubmed/10731500
+https://www.ncbi.nlm.nih.gov/pubmed/3290310
+https://www.ncbi.nlm.nih.gov/pubmed/20200263
+https://www.ncbi.nlm.nih.gov/pubmed/14718031
+https://www.ncbi.nlm.nih.gov/pubmed/18275622
+https://www.ncbi.nlm.nih.gov/pubmed/17299492
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3306181/
+https://www.ncbi.nlm.nih.gov/pubmed/11029010
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3306181/
+https://www.healthline.com/nutrition/iron-deficiency-signs-symptoms
+https://www.ncbi.nlm.nih.gov/pubmed/12001007
+https://www.ncbi.nlm.nih.gov/pubmed/1989423
+https://www.ncbi.nlm.nih.gov/pubmed/14718031
+https://www.ncbi.nlm.nih.gov/pubmed/11029010

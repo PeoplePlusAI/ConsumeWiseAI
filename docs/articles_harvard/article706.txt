@@ -1,0 +1,127 @@
+Title: Carbohydrates and Blood Sugar
+
+When people eat a food containing carbohydrates, the digestive system breaks down the digestible ones into sugar, which enters the blood.
+As blood sugar levels rise, the pancreas produces insulin, a hormone that prompts cells to absorb blood sugar for energy or storage.
+As cells absorb blood sugar, levels in the bloodstream begin to fall.
+When this happens, the pancreas start making glucagon, a hormone that signals the liver to start releasing stored sugar.
+This interplay of insulin and glucagon ensure that cells throughout the body, and especially in the brain, have a steady supply of blood sugar.
+Carbohydrate metabolism is important in the development of  type 2 diabetes , which occurs when the body can’t make enough insulin or can’t properly use the insulin it makes.
+Type 2 diabetes usually develops gradually over a number of years, beginning when muscle and other cells stop responding to insulin. This condition, known as insulin resistance, causes blood sugar and insulin levels to stay high long after eating. Over time, the heavy demands made on the insulin-making cells wears them out, and insulin production eventually stops.
+
+Glycemic index
+In the past, carbohydrates were commonly classified as being either “simple” or “complex,” and described as follows:
+Simple carbohydrates:
+These carbohydrates are composed of sugars (such as fructose and glucose) which have simple chemical structures composed of only one sugar (monosaccharides) or two sugars (disaccharides). Simple carbohydrates are easily and quickly utilized for energy by the body because of their simple chemical structure, often leading to a faster rise in blood sugar and insulin secretion from the pancreas – which can have negative health effects.
+Complex carbohydrates:
+These carbohydrates have more complex chemical structures, with three or more sugars linked together (known as oligosaccharides and polysaccharides).  Many complex carbohydrate foods contain fiber, vitamins and minerals, and they take longer to digest – which means they have less of an immediate impact on blood sugar, causing it to rise more slowly. But other so called complex carbohydrate foods such as white bread and white potatoes contain mostly starch but little fiber or other beneficial nutrients.
+Dividing carbohydrates into simple and complex, however, does not account for the effect of carbohydrates on blood sugar and chronic diseases. To explain how different kinds of carbohydrate-rich foods directly affect blood sugar, the glycemic index was developed and is considered a better way of categorizing carbohydrates, especially starchy foods.
+The glycemic index ranks carbohydrates on a scale from 0 to 100 based on how quickly and how much they raise blood sugar levels after eating. Foods with a high glycemic index, like white bread, are rapidly digested and cause substantial fluctuations in blood sugar. Foods with a low glycemic index, like whole oats, are digested more slowly, prompting a more gradual rise in blood sugar.
+Low-glycemic foods have a rating of 55 or less, and foods rated 70-100 are considered high-glycemic foods. Medium-level foods have a glycemic index of 56-69.
+Eating many high-glycemic-index foods – which cause powerful spikes in blood sugar – can lead to an increased risk for type 2 diabetes, ( 2 ) heart disease, ( 3 ), ( 4 ) and overweight, ( 5 , 6 ) ( 7 ). There is also preliminary work linking high-glycemic diets to age-related macular degeneration, ( 8 ) ovulatory infertility, ( 9 ) and colorectal cancer. ( 10 )
+Foods with a low glycemic index have been shown to help control type 2 diabetes and improve weight loss.
+A 2014 review of studies researching carbohydrate quality and chronic disease risk showed that low-glycemic-index diets may offer anti-inflammatory benefits. ( 16 )
+The University of Sydney in Australia maintains a  searchable database  of foods and their corresponding glycemic indices.
+Many factors can affect a food’s glycemic index, including the following:
+Processing : Grains that have been milled and refined—removing the bran and the germ—have a higher glycemic index than minimally processed whole grains.
+Physical form : Finely ground grain is more rapidly digested than coarsely ground grain. This is why eating whole grains in their “whole form” like brown rice or oats can be healthier than eating highly processed whole grain bread.
+Fiber content : High-fiber foods don’t contain as much digestible carbohydrate, so it slows the rate of digestion and causes a more gradual and lower rise in blood sugar. ( 17 )
+Ripeness : Ripe fruits and vegetables tend to have a higher glycemic index than un-ripened fruit.
+Fat content and acid content : Meals with fat or acid are converted more slowly into sugar.
+Numerous epidemiologic studies have shown a positive association between higher dietary glycemic index and increased risk of type 2 diabetes and coronary heart disease. However, the relationship between glycemic index and body weight is less well studied and remains controversial.
+
+Glycemic load
+One thing that a food’s glycemic index does not tell us is how much digestible carbohydrate – the total amount of carbohydrates excluding  fiber – it delivers. That’s why researchers developed a related way to classify foods that takes into account both the amount of carbohydrate in the food in relation to its impact on blood sugar levels. This measure is called the glycemic load. ( 11 , 12 ) A food’s glycemic load is determined by multiplying its glycemic index by the amount of carbohydrate the food contains. In general, a glycemic load of 20 or more is high, 11 to 19 is medium, and 10 or under is low.
+The glycemic load has been used to study whether or not high-glycemic load diets are associated with increased risks for type 2 diabetes risk and cardiac events. In a large meta-analysis of 24 prospective cohort studies, researchers concluded that people who consumed lower-glycemic load diets were at a lower risk of developing type 2 diabetes than those who ate a diet of higher-glycemic load foods. ( 13 ) A similar type of meta-analysis concluded that higher-glycemic load diets were also associated with an increased risk for coronary heart disease events. ( 14 )
+Here is a listing of low, medium, and high glycemic load foods. For good health, choose foods that have a low or medium glycemic load, and limit foods that have a high glycemic load.
+
+Low glycemic load (10 or under)
+Bran cereals
+Apple
+Orange
+Kidney beans
+Black beans
+Lentils
+Wheat tortilla
+Skim milk
+Cashews
+Peanuts
+Carrots
+
+Medium glycemic load (11-19)
+Pearled barley: 1 cup cooked
+Brown rice: 3/4 cup cooked
+Oatmeal: 1 cup cooked
+Bulgur: 3/4 cup cooked
+Rice cakes: 3 cakes
+Whole grain breads: 1 slice
+Whole-grain pasta: 1 1/4 cup cooked
+
+High glycemic load (20+)
+Baked potato
+French fries
+Refined breakfast cereal: 1 oz
+Sugar-sweetened beverages: 12 oz
+Candy bars: 1 2-oz bar or 3 mini bars
+Couscous: 1 cup cooked
+White basmati rice: 1 cup cooked
+White-flour pasta: 1 1/4 cup cooked ( 15 )
+Here’s a  list  of the glycemic index and glycemic load for the most common foods.
+
+References
+2. de Munter JS, Hu FB, Spiegelman D, Franz M, van Dam RM. Whole grain, bran, and germ intake and risk of type 2 diabetes: a prospective cohort study and systematic review.  PLoS Med . 2007;4:e261.
+3. Beulens JW, de Bruijne LM, Stolk RP, et al. High dietary glycemic load and glycemic index increase risk of cardiovascular disease among middle-aged women: a population-based follow-up study.  J Am Coll Cardiol . 2007;50:14-21.
+4. Halton TL, Willett WC, Liu S, et al. Low-carbohydrate-diet score and the risk of coronary heart disease in women.  N Engl J Med . 2006;355:1991-2002.
+5. Anderson JW, Randles KM, Kendall CW, Jenkins DJ. Carbohydrate and fiber recommendations for individuals with diabetes: a quantitative assessment and meta-analysis of the evidence.  J Am Coll Nutr . 2004;23:5-17.
+6. Ebbeling CB, Leidig MM, Feldman HA, Lovesky MM, Ludwig DS. Effects of a low-glycemic load vs low-fat diet in obese young adults: a randomized trial.   JAMA . 2007;297:2092-102.
+7. Maki KC, Rains TM, Kaden VN, Raneri KR, Davidson MH. Effects of a reduced-glycemic-load diet on body weight, body composition, and cardiovascular disease risk markers in overweight and obese adults.  Am J Clin Nutr . 2007;85:724-34.
+8. Chiu CJ, Hubbard LD, Armstrong J, et al. Dietary glycemic index and carbohydrate in relation to early age-related macular degeneration.  Am J Clin Nutr . 2006;83:880-6.
+9. Chavarro JE, Rich-Edwards JW, Rosner BA, Willett WC. A prospective study of dietary carbohydrate quantity and quality in relation to risk of ovulatory infertility.  Eur J Clin Nutr . 2009;63:78-86.
+10. Higginbotham S, Zhang ZF, Lee IM, et al. Dietary glycemic load and risk of colorectal cancer in the Women’s Health Study.  J Natl Cancer Inst . 2004;96:229-33.
+11. Liu S, Willett WC. Dietary glycemic load and atherothrombotic risk.  Curr Atheroscler Rep . 2002;4:454-61.
+12. Willett W, Manson J, Liu S. Glycemic index, glycemic load, and risk of type 2 diabetes.  Am J Clin Nutr . 2002;76:274S-80S.
+13. Livesey G, Taylor R, Livesey H, Liu S. Is there a dose-response relation of dietary glycemic load to risk of type 2 diabetes? Meta-analysis of prospective cohort studies.  Am J Clin Nutr . 2013;97:584-96.
+14. Mirrahimi A, de Souza RJ, Chiavaroli L, et al. Associations of glycemic index and load with coronary heart disease events: a systematic review and meta-analysis of prospective cohorts.  J Am Heart Assoc . 2012;1:e000752.
+15. Foster-Powell K, Holt SH, Brand-Miller JC. International table of glycemic index and glycemic load values: 2002.  Am J Clin Nutr . 2002;76:5-56.
+16. Buyken, AE, Goletzke, J, Joslowski, G, Felbick, A, Cheng, G, Herder, C, Brand-Miller, JC. Association between carbohydrate quality and inflammatory markers: systematic review of observational and interventional studies. The American Journal of Clinical Nutrition  Am J Clin Nutr . 99(4): 2014;813-33.
+17. AlEssa H, Bupathiraju S, Malik V, Wedick N, Campos H, Rosner B, Willett W, Hu FB. Carbohydrate quality measured using multiple quality metrics is negatively associated with type 2 diabetes.  Circulation . 2015; 1-31:A:20.
+
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/diabetes-prevention/
+#ref2
+#ref3
+#ref4
+#ref5
+#ref6
+#ref7
+#ref8
+#ref9
+#ref10
+#ref16
+http://www.glycemicindex.com/
+#ref17
+#ref11
+#ref12
+#ref13
+#ref14
+#ref15
+http://www.health.harvard.edu/newsweek/Glycemic_index_and_glycemic_load_for_100_foods.htm
+http://www.ncbi.nlm.nih.gov/pubmed/17760498
+http://www.ncbi.nlm.nih.gov/pubmed/17601539
+http://www.ncbi.nlm.nih.gov/pubmed/17093250
+http://www.ncbi.nlm.nih.gov/pubmed/14963049
+http://www.ncbi.nlm.nih.gov/pubmed/17507345
+http://www.ncbi.nlm.nih.gov/pubmed/17344493
+http://www.ncbi.nlm.nih.gov/pubmed/16600942
+http://www.ncbi.nlm.nih.gov/pubmed/17882137
+http://www.ncbi.nlm.nih.gov/pubmed/14759990
+http://www.ncbi.nlm.nih.gov/pubmed/12361493
+http://www.ncbi.nlm.nih.gov/pubmed/12081851
+http://www.ncbi.nlm.nih.gov/pubmed/23364021
+http://www.ncbi.nlm.nih.gov/pubmed/23316283
+http://www.ncbi.nlm.nih.gov/pubmed/12081815
+http://www.ncbi.nlm.nih.gov/pubmed/24552752
+http://circ.ahajournals.org/content/131/Suppl_1/A20.short

@@ -1,0 +1,40 @@
+Title: Meta-analyses in nutrition research: sources of insight or confusion?
+
+Nutrition is a complex field regularly cursed with provocative media headlines that often preface an oversimplified summary. If you’re a savvy consumer of nutrition news, you may have become wise to  look past the catchy headlines  to assess the quality of the study being reported—sizing-up the latest finding in context of existing evidence on the topic. But what approach do you take when the study itself, by design, supposedly factors-in the existing evidence?
+This ‘study-of-studies’ design is called a  meta-analysis , which combines the findings from several single studies to increase the sample size and statistical power. At best, a meta-analysis can be a useful summary of a large pool of data if high-quality studies with similar groups of people and study methods are used. At worst, it can be a mish-mash of findings from studies that differ significantly, essentially comparing apples with oranges that offer meaningless—or even misleading—conclusions. Still, flawed meta-analyses in nutritional science have increasingly made headlines by producing seemingly definitive summaries on popular topics; stirring-up controversies on  types of dietary fat and heart disease  and the relationship of  excess weight and the risk of premature death , among others. Recognizing the power of science-driven headlines, the food industry has also invested in meta-analyses. A 2007 review of over 100 industry-funded studies found that the funding source was significantly related to study conclusions. [1]
+“Meta-analyses have emerged as among the most influential types of research in the biomedical literature, directly influencing healthcare guidelines and international policies, from National Academy of Medicine and U.S. Department of Agriculture guidelines, to global health economic burden forecasts from the Organization for Economic Cooperation and Development,” said Harvard Chan epidemiologist  Dr. Eric Feigl-Ding.  “However, because of their power to drive public policy, there are often perverse incentives to distort meta-analysis methods to bias their conclusions.”
+Feigl-Ding and colleagues at the Harvard Chan School of Public Health and George Washington University  explored the misuse of meta-analysis in nutrition research  in the September 2017 issue of  JAMA , [2] reviewing an array of challenges when combining multiple studies—and discussing the impacts when the results are the product of faulty methods.
+Meta-analysis misuse and pitfalls
+In general, problems arise with meta-analyses when there is too much variation in the studies included: different types of studies, different study methods, different samples of people. Another problem is selection bias, that is, if certain studies are intentionally omitted (or included) in the analysis, which can easily veer its conclusion in a certain direction. The result of having too many differences in a meta-analysis is a wider variation in the findings, which can skew the conclusion or dilute an otherwise significant finding.
+According to the authors, applying meta-analysis to nutritional sciences adds a unique set of challenges. For example, unlike drug trials where interventions are often comparable, nutrition intervention trials regularly differ in methodology. In observational studies, populations range widely in their dietary habits—and reporting on those habits—making it difficult to quantify consumption of many foods and nutrients. Researchers may also use a variety of methods to assess and report dietary behaviors.
+
+Another key challenge in nutrition research is measuring the effects of specific foods and nutrients in context of the rest of the diet. Because “the effects of any given dietary exposure depend on what that exposure is compared against,” the authors note that meta-analyses should ideally include an adequate number of studies focusing on a single “comparator” (i.e. when looking at heart disease risk, all studies included compare red meat intake to a plant based food, rather than mixing-in studies comparing red meat to other meats).
+It’s also important to recognize that eating less of one type of food often means eating more of another. If a number of participants in a study reduce their intake of saturated fat, are they eating more foods with unsaturated fat, more complex carbohydrates like vegetables and whole grains, or refined carbohydrates and simple sugars? Due to this complexity, the authors say that understanding the effects of specific dietary substitutions can “lead to more robust and informative findings than focusing on the effects of one nutrient or food alone compared with everything else in the diet.”
+A need for improvement
+So, are meta-analyses helpful in advancing nutrition research, or do they do more harm than good? According to Dr. Neal Barnard, Adjunct Associate Professor of Medicine at George Washington University and co-author of the article, it depends on the use and quality of the study method:
+In theory, combining studies gives you a larger population, so meta-analyses should have more power than any single study. However, some meta-analyses lump together studies with wildly different populations and methods, and that variability reduces their power, so that real effects can be missed. Suddenly, eating saturated fat or being overweight no longer look so dangerous. But it’s just an artifact of a faulty method.
+Because meta-analyses receive (and will likely continue to receive) widespread media attention and have the power to influence health policy and change clinical practice, the article provides suggestions on how to ensure that meta-analyses are of good quality before they are published:
+Implement a review process by editors with expertise in the topic as well as in sound meta-analysis design.
+Require authors of the meta-analysis to confirm with authors of the original studies that their data were accurately represented.
+Require authors of the meta-analysis to share their methods and summary data.
+Include original primary data rather than just published summary data.
+Create a registry that actively monitors for conflicts of interests of all published researchers.
+The article co-authors and their colleagues are also working on additional guidelines for conducting meta-analyses, along with digital tools to help solve some of the limitations.  Moreover, special training for journalists may be needed to better translate meta-analysis results and more accurately communicate health messages to the general public.
+Dr. Walter Willett , co-author and Professor of Epidemiology and Nutrition at the Harvard Chan School of Public Health adds that “meta-analyses will continue to play a valuable role in summarizing a growing body of evidence in almost every field, and for this reason, it is essential that we improve the conduct and review of these summaries.”
+Read the full  JAMA Viewpoint.
+Related
+A primer on systematic review and meta-analysis in diabetes research
+References
+Lesser, L. I., Ebbeling, C. B., Goozner, M., Wypij, D., & Ludwig, D. S. (2007).  Relationship between funding source and conclusion among nutrition-related scientific articles .  PLoS Medicine ,  4 (1), e5.
+Barnard N.D., Willett, W.C., Ding, E.L.  The Misuse of Meta-analysis in Nutrition Research . Published online September 18, 2017. doi:10.1001/jama.2017.12083
+
+References:
+https://nutritionsource.hsph.harvard.edu/2016/03/18/diet-in-the-news-what-to-believe/
+https://nutritionsource.hsph.harvard.edu/2014/03/19/dietary-fat-and-heart-disease-study-is-seriously-misleading/
+https://nutritionsource.hsph.harvard.edu/2013/01/09/ask-the-expert-does-being-overweight-really-decrease-mortality-no/
+http://scholar.harvard.edu/ericding
+http://jamanetwork.com/journals/jama/fullarticle/2654401
+https://www.hsph.harvard.edu/walter-willett/
+http://jamanetwork.com/journals/jama/fullarticle/2654401
+http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0040005
+http://jamanetwork.com/journals/jama/fullarticle/2654401

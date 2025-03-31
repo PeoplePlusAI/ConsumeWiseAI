@@ -1,0 +1,91 @@
+Title: What Are the Different Stages of Fasting?
+
+Your body may move through fed and fasting states while you’re practicing intermittent fasting.
+Intermittent fasting refers to eating patterns that cycle between periods of eating and fasting.
+Although several forms of intermittent fasting exist, most involve abstaining from food for periods of 16–24 hours at a time.
+When practicing fasting, your body moves through the fed-fast cycle, which is characterized by changes in  your metabolism  and hormone levels.
+This cycle is not only responsible for the metabolic changes that occur during intermittent fasting but also credited with providing some of its health benefits.
+This article takes an in-depth look at the different stages of fasting.
+
+1. Fed state
+The fed state occurs within the first few hours after eating as your body digests and absorbs nutrients from food.
+During this period, your blood sugar levels increase, and higher amounts of insulin are secreted. Insulin is the hormone responsible for transporting sugar from your bloodstream into your cells ( 1 ).
+The amount of insulin released depends on the composition of your meal, the amount of carbs consumed, and how sensitive your body is to insulin ( 2 ).
+Extra glucose (sugar) is stored in the liver and muscles as glycogen. Glycogen is your body’s primary form of stored carbs. It can be converted back into sugar as a source of energy as needed ( 3 ).
+During this time, levels of other hormones, including leptin and  ghrelin , also shift.
+Ghrelin is a type of hormone that stimulates hunger, and its levels decrease after you eat. Meanwhile, leptin, which has an appetite-suppressing effect, increases after eating ( 4 ,  5 ,  6 ).
+Note that the fed-fast cycle resets back to the fed state as soon as food is consumed during a fast.
+Also, the size and composition of your meal affect how long your body remains in the fed state.
+Depending on how long the fasting period was, your individual metabolism, and other considerations, it’s important to be conscious of the risk of  refeeding syndrome . Eating too much after a prolonged fasting period could be dangerous and even potentially lead to death.
+The fed state occurs within the first few hours after eating. During this state, your blood sugar and insulin levels increase, while levels of other hormones, including leptin and ghrelin, shift.
+
+2. Early fasting state
+Around 3–4 hours after eating, your body transitions into the early fasting state, which lasts until around 18 hours after eating.
+During this phase, your blood sugar and insulin levels start to decline, causing your body to start converting glycogen into glucose (sugar) to use as energy ( 1 ).
+Toward the end of this phase, your body will slowly run out of liver glycogen stores and start searching for another energy source.
+This intensifies lipolysis, a process in which  triglycerides  from fat cells are broken down into smaller molecules that can be used as an alternative source of fuel ( 7 ).
+Your body also converts amino acids, which are the building blocks of proteins, into energy.
+Many common forms of intermittent fasting, such as the  16/8 method , cycle between the fed state and early fasting state.
+A few hours after eating, your body transitions into the early fasting state, which occurs when glycogen, amino acids, and fatty acids are converted into energy.
+
+3. Fasting state
+The fasting state lasts from about 18 hours to 2 days of fasting.
+By this point, your glycogen stores in the liver have been depleted, and your body begins breaking down protein and fat stores for energy instead.
+This results in the production of ketone bodies, a type of compound produced when your body converts fat into fuel ( 8 ).
+This also causes your body to transition into  ketosis , a metabolic state in which your body uses fat as its primary source of energy ( 9 ).
+However, the transition into ketosis may not happen immediately as you enter the fasting state but likely later on ( 10 ).
+As with the fasting state in general, the size and composition of your usual diet and last meal, along with individual differences, affect how quickly you enter ketosis.
+Some of the most common signs of ketosis include decreased appetite, weight loss, fatigue, bad or fruity-smelling breath, and increased levels of ketone bodies in the blood, breath, or urine ( 11 ).
+Ketosis can also be achieved through other methods, including by following the ketogenic diet, which involves significantly decreasing your intake of carbs ( 12 ).
+Keep in mind that ketosis is different from  ketoacidosis , which is a dangerous condition that occurs when your blood becomes too acidic ( 13 ).
+Ketoacidosis generally occurs as a result of illness, infection, or unmanaged diabetes, and unlike ketosis, it requires immediate medical attention ( 13 ).
+Additionally, note that forms of intermittent fasting that have shorter windows of fasting ranging from 12–18 hours per day may not reach this state, as ketosis may not be achieved with fasts lasting less than 24 hours unless you also follow a very low carb diet.
+The fasting state lasts from about 18 hours to 2 days of fasting. At some point during this state, your body enters ketosis, a metabolic state in which fats are broken down and used as an energy source.
+
+4. Long-term fasting state (starvation state)
+During extended periods of fasting, your body enters the long-term fasting state, which typically occurs around 48 hours after food intake. Some people refer to this state as the  starvation state .
+In the long-term fasting state, insulin levels will continue to decrease and levels of beta-hydroxybutyrate (BHB), a type of ketone body, will steadily rise ( 1 ,  14 ).
+Your liver also continues to generate sugar via a process called gluconeogenesis, which serves as the main source of fuel for the brain. Ketone bodies provide energy for the brain as well at this point ( 1 ,  15 ).
+The breakdown of branched-chain amino acids (BCAAs), which are three of the essential amino acids, is also reduced to help conserve muscle tissue in the body ( 1 ).
+Be aware that in starvation mode, muscle breakdown will start to occur. Prolonged starvation means the body’s organs will eventually begin to break down and ultimately stop working.
+Keep in mind that long-term fasts are not recommended for most people and should only be performed under medical supervision.
+The long-term fasting state, or starvation state, occurs around 48 hours into fasting. During this period, insulin levels decrease, ketone levels increase, and protein breakdown is reduced to conserve muscle tissue.
+
+The bottom line
+While practicing  intermittent fasting , your body moves through several phases of the fed-fast cycle, depending on the amount of time that you fast.
+The four phases include the fed state, early fasting state, fasting state, and long-term fasting state (starvation state).
+Each phase varies based on the primary source of energy used for the body, as well as how it affects your metabolism and levels of specific hormones.
+Fasting always has medical impacts and should not be taken lightly. Be sure to talk with your healthcare professional before trying intermittent fasting.
+Additionally, keep in mind that prolonged fasting should only be conducted under medical supervision.
+
+References:
+
+https://www.healthline.com/nutrition/metabolism-and-age
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959807/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31203801/
+https://www.ncbi.nlm.nih.gov/books/NBK22414/
+https://www.healthline.com/nutrition/ghrelin
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5819073/
+https://www.ncbi.nlm.nih.gov/books/NBK537038/
+https://www.healthline.comhttps://journals.physiology.org/doi/full/10.1152/ajpendo.1999.277.5.E855
+https://www.healthline.com/health/refeeding-syndrome
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959807/
+https://www.healthline.com/nutrition/13-ways-to-lower-triglycerides
+https://www.ncbi.nlm.nih.gov/books/NBK560564/
+https://www.healthline.com/nutrition/16-8-intermittent-fasting
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5313038/
+https://www.healthline.com/nutrition/what-is-ketosis
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6472268/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/10837292/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4313585/
+https://www.ncbi.nlm.nih.gov/books/NBK499830/
+https://www.healthline.com/health/ketosis-vs-ketoacidosis
+https://www.ncbi.nlm.nih.gov/books/NBK534848/
+https://www.ncbi.nlm.nih.gov/books/NBK534848/
+https://www.healthline.com/nutrition/starvation-mode
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959807/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6640868/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959807/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900881/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5959807/
+https://www.healthline.com/nutrition/intermittent-fasting-guide

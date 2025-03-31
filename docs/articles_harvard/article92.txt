@@ -1,0 +1,30 @@
+Title: PURE study makes headlines, but the conclusions are misleading
+
+Last week,  The Lancet  published results from the Prospective Urban Rural Epidemiology (“PURE”) study that made headlines: “ Study Challenges Conventional Wisdom on Fats, Fruits, and Vegetables ;” “ PURE Shakes Up Nutritional Field ;” “ Huge New Study Casts Doubt on Conventional Wisdom About Fat and Carbs .”
+Following over 135,000 participants spanning five continents,  the study  is indeed a large one. However, its findings are not as novel or disruptive as these sensational headlines suggest. Let’s take a closer look.
+Study data and findings
+Key methodological problems
+“Total carbohydrates” is over-simplified.  Since  carbohydrate foods  range from fruits, vegetables, legumes and whole grains to refined grains and added sugars, it is important to consider both quality and quantity of carbohydrates—rather than grouping them all together. Different types of carbohydrates have  different effects on health . [2]
+Such high carbohydrate intake may indicate a ‘poverty diet’.  Most study participants located in low-income countries subsisted almost entirely on carbohydrates, “especially from refined sources.” In Bangladesh for example, the authors list white rice as the top contributor of not only carbohydrates, but also protein and total fat. A ‘poverty diet,’ which is common in poor rural areas, is also typically high in sodium and low in animal products and vegetable oils. In this situation, it is extremely challenging if not impossible to separate the effects of diet from poverty and undernutrition.
+Incomplete assessment and analysis of types of fat.  Unlike carbohydrates, the study does break down total fat intake into saturated, monounsaturated, and polyunsaturated fats. As the authors acknowledged, the study did not assess  trans fat  intake (which is particularly high in South Asia [3]), which may have confounded associations for other types of fat. The PURE study found that substituting saturated fat for carbohydrates did not lower mortality risk, but substituting polyunsaturated fat for carbohydrates was associated with lower mortality. Interestingly, the study did not examine the effects of substituting polyunsaturated fat for saturated fat. Randomized clinical trials have found that while replacing saturated fat with carbohydrates had no effect,  swapping saturated fat with polyunsaturated fat  significantly reduced the risk of cardiovascular disease. [4]
+Reliability of dietary intake data.  In Chinese participants (which constituted almost one third of the total study population), average total fat intake is noted as 17.7% of total daily calories, yet other surveys have found an average intake of around 30% of daily calories from fat in China. [5] Such a large discrepancy is puzzling because similar dietary questionnaires were used in the PURE study and other Chinese studies.
+The takeaway
+Large-scale efforts to study the health effects of diet in developing countries are important, but this study is fraught with methodological problems—especially confounding by different degrees of socio-economical development in different countries and questionable dietary intake data. Dr.  Frank Hu , Chair of the  Department of Nutrition  at the Harvard Chan School of Public Health, notes that one should look beyond the sensational headlines and the abstract of the paper:
+The main messages for nutritional advice have not changed: follow  a  healthy dietary pattern  that includes abundant amounts of vegetables, fruits, whole grains, legumes, and nuts; moderate amounts of reduced-fat dairy products and seafood; and lower amounts of processed and red meat, sugar-sweetened foods and beverages, and refined grains. Such a dietary pattern does not need to limit total fat intake but the main types of fat should be unsaturated fats from plant sources rather than animal fat.
+References
+Dehghan M, Mente A, Zhang X, et al, on behalf of the Prospective Urban Rural Epidemiology (PURE) study investigators. Associations of fats and carbohydrate intake with cardiovascular disease and mortality in 18 countries from five continents (PURE): a prospective cohort study.  Lancet  2017; published online Aug 29.
+Zong G, Gao A, Hu FB, Sun Q. Whole grain intake and mortality from all causes, cardiovascular disease, and cancer: a meta-analysis of prospective cohort studies.  Circulation  2016; 133(24): 2370-80.
+Butt MS, Sultan MT. Levels of trans fats in diets consumed in developing economies.  J AOAC Int . 2009;92:1277-1283
+Hooper L, Martin N, Abdelhamid A, Davey Smith G. Reduction in saturated fat intake for cardiovascular disease.  The Cochrane database of systematic reviews . 2015:CD011737
+Shen X, Fang A, He J, Liu Z, Guo M, Gao R, Li K. Trends in dietary fat and fatty acid intakes and related food sources among chinese adults: A longitudinal study from the china health and nutrition survey (1997-2011).  Public Health Nutr . 2017:1-10
+
+References:
+
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32252-3/abstract
+https://nutritionsource.hsph.harvard.edu/carbohydrates/
+https://nutritionsource.hsph.harvard.edu/carbohydrates/carbohydrates-and-blood-sugar/
+https://nutritionsource.hsph.harvard.edu/types-of-fat/
+https://nutritionsource.hsph.harvard.edu/2016/07/05/different-dietary-fat-different-risk-of-mortality/
+https://www.hsph.harvard.edu/frank-hu/
+https://www.hsph.harvard.edu/nutrition/
+https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/

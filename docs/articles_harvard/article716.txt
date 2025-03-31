@@ -1,0 +1,63 @@
+Title: Research Study Types
+
+There are many different types of research studies, and each has distinct strengths and weaknesses. In general, randomized trials and cohort studies provide the best information when looking at the link between a certain factor (like diet) and a health outcome (like heart disease).
+Laboratory and Animal Studies
+These are studies done in laboratories on cells, tissue, or animals.
+Strengths:  Laboratories provide strictly controlled conditions and are often the genesis of scientific ideas that go on to have a broad impact on human health. They can help understand the mechanisms of disease.
+Weaknesses:  Laboratory and animal studies are only a starting point. Animals or cells are not a substitute for humans.
+Cross-Sectional Surveys
+These studies examine the incidence of a certain outcome (disease or other health characteristic) in a specific group of people at one point in time. Surveys are often sent to participants to gather data about the outcome of interest.
+Strengths:  Inexpensive and easy to perform.
+Weaknesses:  Can only establish an association in that one specific time period.
+Case-Control Studies
+These studies look at the characteristics of one group of people who already have a certain health outcome (the cases) and compare them with a similar group of people who do not have the outcome (the controls). An example may be looking at a group of people with heart disease and another group without heart disease who are similar in age, sex, and economic status, and comparing their intakes of fruits and vegetables to see if this exposure could be associated with heart disease risk.
+Strengths:  Case-control studies can be done quickly and relatively cheaply.
+Weaknesses:  Not ideal for studying diet because they gather information from the past, which can be difficult for most people to recall accurately. Furthermore, people with illnesses often recall past behaviors differently from those without illness. This opens such studies to potential inaccuracy and bias in the information they gather.
+Cohort Studies
+These are observational studies that follow large groups of people over a long period of time, years or even decades, to find associations of an exposure(s) with disease outcomes. Researchers regularly gather information from the people in the study on several variables (like meat intake, physical activity level, and weight). Once a specified amount of time has elapsed, the characteristics of people in the group are compared to test specific hypotheses (such as a link between high versus low intake of carotenoid-rich foods and glaucoma, or high versus low meat intake and prostate cancer).
+Strengths:  Participants are not required to change their diets or lifestyle as may be with randomized controlled studies. Study sizes may be larger than other study types. They generally provide more reliable information than case-control studies because they don’t rely on information from the past. Cohort studies gather information from participants at the beginning and throughout the study, long before they may develop the disease being studied. As a group, many of these types of studies have provided valuable information about the link between lifestyle factors and disease.
+Weaknesses:  A longer duration of following participants make these studies time-consuming and expensive. Results cannot suggest cause-and-effect, only associations. Evaluation of dietary intake is self-reported.
+Two of the largest and longest-running cohort studies of diet are the Harvard-based Nurses’ Health Study and the Health Professionals Follow-up Study.
+If you follow nutrition news, chances are you have come across findings from a cohort called the  Nurses’ Health Study . The Nurses’ Health Study (NHS) began in 1976, spearheaded by researchers from the Channing Laboratory at the Brigham and Women’s Hospital, Harvard Medical School, and the Harvard T.H. Chan School of Public Health, with funding from the National Institutes of Health. It gathered registered nurses ages 30-55 years from across the U.S. to respond to a series of questionnaires. Nurses were specifically chosen because of their ability to complete the health-related, often very technical, questionnaires thoroughly and accurately. They showed motivation to participate in the long-term study that required ongoing questionnaires every two years. Furthermore, the group provided blood, urine, and other samples over the course of the study.
+The NHS is a prospective cohort study, meaning a group of people who are followed forward in time to examine lifestyle habits or other characteristics to see if they develop a disease, death, or some other indicated outcome. In comparison, a retrospective cohort study would specify a disease or outcome and look back in time at the group to see if there were common factors leading to the disease or outcome. A benefit of prospective studies over retrospective studies is greater accuracy in reporting details, such as food intake, that is not distorted by the diagnosis of illness.
+To date, there are three NHS cohorts: NHS original cohort, NHS II, and NHS 3. Below are some features unique to each cohort.
+NHS – Original Cohort
+Started in 1976 by Frank Speizer, M.D.
+Participants: 121,700 married women, ages 30 to 55 in 1976.
+Outcomes studied: Impact of contraceptive methods and smoking on breast cancer; later this was expanded to observe other lifestyle factors and behaviors in relation to 30 diseases.
+A food frequency questionnaire was added in 1980 to collect information on dietary intake, and continues to be collected every four years.
+NHS II
+Started in 1989 by Walter Willett, M.D., M.P.H., Dr.P.H., and colleagues.
+Participants: 116,430 single and married women, ages 25 to 42 in 1989.
+Outcomes studied: Impact on women’s health of oral contraceptives initiated during adolescence, diet and physical activity in adolescence, and lifestyle risk factors in a younger population than the NHS Original Cohort. The wide range of diseases examined in the original NHS is now also being studied in NHSII.
+The first food frequency questionnaire was collected in 1991, and is collected every four years.
+NHS 3
+Started in 2010 by Jorge Chavarro, M.D., Sc.M., Sc.D, Walter Willett, M.D., M.P.H., Dr.P.H., Janet Rich-Edwards, Sc.D., M.P.H, and Stacey Missmer, Sc.D.
+Participants: Expanded to include not just registered nurses but licensed practical nurses (LPN) and licensed vocational nurses (LVN), ages 19 to 46. Enrollment is currently open.
+Inclusion of more diverse population of nurses, including male nurses and nurses from Canada.
+Outcomes studied: Dietary patterns, lifestyle, environment, and nursing occupational exposures that may impact men’s and women’s health; the impact of new hormone preparations and fertility/pregnancy on women’s health; relationship of diet in adolescence on breast cancer risk.
+From these three cohorts, extensive research has been published regarding the association of diet, smoking, physical activity levels, overweight and obesity, oral contraceptive use, hormone therapy, endogenous hormones, dietary factors, sleep, genetics, and other behaviors and characteristics with various diseases. In 2016, in celebration of the 40 th  Anniversary of NHS, the  American Journal of Public Health’s  September issue  was dedicated to featuring the many contributions of the Nurses’ Health Studies to public health.
+Growing Up Today Study (GUTS)
+In 1996, recruitment began for a new cross-generational cohort called  GUTS (Growing Up Today Study) —children of nurses from the NHS II. GUTS is composed of 27,802 girls and boys who were between the ages of 9 and 17 at the time of enrollment. As the entire cohort has entered adulthood, they complete annual questionnaires including information on dietary intake, weight changes, exercise level, substance and alcohol use, body image, and environmental factors. Researchers are looking at conditions more common in young adults such as asthma, skin cancer, eating disorders, and sports injuries.
+Randomized Trials
+Like cohort studies, these studies follow a group of people over time. However, with randomized trials, the researchers intervene with a specific behavior change or treatment (such as following a specific diet or taking a supplement) to see how it affects a health outcome. They are called “randomized trials” because people in the study are randomly assigned to either receive or not receive the intervention. This randomization helps researchers determine the true effect the intervention has on the health outcome. Those who do not receive the intervention or labelled the “control group,” which means these participants do not change their behavior, or if the study is examining the effects of a vitamin supplement, the control group participants receive a placebo supplement that contains no active ingredients.
+Strengths:  Considered the “gold standard” and best for determining the effectiveness of an intervention (e.g., dietary pattern, supplement) on an endpoint such as cancer or heart disease. Conducted in a highly controlled setting with limited variables that could affect the outcome. They determine cause-and-effect relationships.
+Weaknesses:  High cost, potentially low long-term compliance with prescribed diets, and possible ethical issues. Due to expense, the study size may be small.
+Meta-Analyses and Systematic Reviews
+A meta-analysis collects data from several previous studies on one topic to analyze and combine the results using statistical methods to provide a summary conclusion. Meta-analyses are usually conducted using randomized controlled trials and cohort studies that have higher quality of evidence than other designs. A systematic review also examines past literature related to a specific topic and design, analyzing the quality of studies and results but may not pool the data. Sometimes a systematic review is followed by conducting a meta-analysis if the quality of the studies is good and the data can be combined.
+Strengths:  Inexpensive and provides a general comprehensive summary of existing research on a topic. This can create an explanation or assumption to be used for further investigation. 
+ Weaknesses:  Prone to selection bias, as the authors can choose or exclude certain studies, which can change the resulting outcome. Combining data that includes lower-quality studies can also skew the results.
+Strengths:  Inexpensive and provides a general comprehensive summary of existing research on a topic. This can create an explanation or assumption to be used for further investigation.
+Weaknesses:  Prone to selection bias, as the authors can choose or exclude certain studies, which can change the resulting outcome. Combining data that includes lower-quality studies can also skew the results.
+
+Related
+A primer on systematic review and meta-analysis in diabetes research
+
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+http://www.nurseshealthstudy.org/
+https://nutritionsource.hsph.harvard.edu/2016/08/16/nurses-health-study-40-year-anniversary-ajph/
+http://www.gutsweb.org/index.php/about-us/guts-then-and-now

@@ -5,7 +5,9 @@ from typing import List, Dict, Any
 import torch
 from openai import OpenAI
 from fastapi import FastAPI
-
+from pydantic import BaseModel
+from dotenv import load_dotenv
+load_dotenv() 
 app = FastAPI()
 
 def create_assistant(client):
@@ -22,7 +24,7 @@ def create_assistant(client):
     vector_store3 = client.beta.vector_stores.create(name="Misleading Claims Vec")
     
     # Ready the files for upload to OpenAI
-    file_paths = ["docs/MisLeading_Claims.docx"]
+    file_paths = ["/docs/MisLeading_Claims.docx"]
     file_streams = [open(path, "rb") for path in file_paths]
     
     # Use the upload and poll SDK helper to upload the files, add them to the vector store,
@@ -115,10 +117,11 @@ The output must be in JSON format as follows:
       claims_analysis_str += f"{key}: {value}\n"
     
     return claims_analysis_str
-
+class ClaimsAnalysisRequest(BaseModel):
+    product_info_from_db: dict
 @app.post("/claims-analysis")
-def get_claims_analysis(product_info_from_db):
-    
+def get_claims_analysis(request: ClaimsAnalysisRequest):
+    product_info_from_db = request.get('product_info_from_db')
     if product_info_from_db:
         brand_name = product_info_from_db.get("brandName", "")
         product_name = product_info_from_db.get("productName", "")

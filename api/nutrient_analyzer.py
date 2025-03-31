@@ -30,7 +30,7 @@ def find_product_nutrients(product_info_from_db):
     #'servingsPerPack': 3.98,
     #'shelfLife': '7 months from packaging'}
 
-    product_type = None
+    product_type = "unknown"
     calories = None
     sugar = None
     total_sugar = None
@@ -126,6 +126,8 @@ async def get_nutrient_analysis(request: NutrientAnalysisRequest):
                     raise
                 
             else:
+                print(product_type, serving_size, calories, sugar, salt)
+                print("Product information in the db is corrupt")
                 error_msg = "Product information in the db is corrupt"
                 raise HTTPException(status_code=400, detail=error_msg)
         else:

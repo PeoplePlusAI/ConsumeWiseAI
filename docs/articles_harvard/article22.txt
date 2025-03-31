@@ -1,0 +1,90 @@
+Title: Vitamin K
+
+Vitamin K is a fat-soluble vitamin that comes in two forms. The main type is called phylloquinone, found in green leafy vegetables like collard greens, kale, and spinach. The other type, menaquinones, are found in some animal foods and fermented foods. Menaquinones can also be produced by bacteria in the human body. [1]
+Vitamin K helps to make various proteins that are needed for blood clotting and the building of bones. Prothrombin is a vitamin K-dependent protein directly involved with blood clotting. Osteocalcin is another protein that requires vitamin K to produce healthy bone tissue.
+Vitamin K is found throughout the body including the liver, brain, heart, pancreas, and bone. It is broken down very quickly and excreted in urine or stool. Because of this, it rarely reaches toxic levels in the body even with high intakes, as may sometimes occur with other fat-soluble vitamins.
+
+Recommended Amounts
+AI:  An “adequate intake” (AI) is used when there is not enough evidence to establish a Recommended Dietary Allowance (RDA). The AI amount is estimated to ensure nutritional adequacy. For adults 19 years and older, the AI for vitamin K is 120 micrograms (mcg) daily for men and 90 mcg for women and for those who are pregnant or lactating.
+
+Vitamin K and Health
+Vitamin K helps to make four of the 13 proteins needed for blood clotting, which stops wounds from continuously bleeding so they can heal. People who are prescribed anticoagulants (also called blood thinners) to prevent blood clots from forming in the heart, lung, or legs are often informed about vitamin K. Because of its blood clotting action, vitamin K has the potential to counteract the effects of blood thinning medications. A common method that estimates blood levels of vitamin K is measuring prothrombin time (PT), or how long it takes for blood to clot. People on anticoagulant medication such as warfarin (Coumadin) may be advised to eat a consistent amount of vitamin K from food and supplements. Although minor changes in vitamin K intake rarely affects PT, large and sudden variations in intake can alter PT levels and interfere with the medication’s effectiveness. Vitamin K is not a required listed nutrient on the Nutrition Facts label, but people taking anticoagulant medication are usually provided information about foods containing vitamin K from their health care provider.
+Vitamin K is involved with the production of proteins in bone, including osteocalcin, which is needed to prevent the weakening of bones. Some studies have shown that higher vitamin K intakes are associated with a lower incidence of hip fractures and low bone density. In addition, low blood levels of vitamin K have been linked with low bone density. [2] A report from the Nurses’ Health Study suggests that women who get at least 110 mcg of vitamin K a day are 30% less likely to break a hip than women who get less than that. [3] Among the nurses, eating a serving of lettuce or other green, leafy vegetable a day cut the risk of hip fracture in half when compared with eating one serving a week. Data from the Framingham Heart Study also showed an association between high vitamin K intake and reduced risk of hip fracture in men and women and increased bone mineral density in women. [4, 5] However, the results of clinical trials and  meta-analyses  have been conflicting whether vitamin K supplements reduce bone fractures. [1] This may be due to a variety of other factors that affect bone health, including a lack of calcium,  vitamin D , and weight-bearing exercise, all of which might mask a benefit of vitamin K supplementation.
+A few studies have researched the role of vitamin K for heart health. Vitamin K is involved with the production of matrix Gla proteins (MGP), which help to prevent calcification or hardening of heart arteries, a contributor to  heart disease . Because research in this area is very limited, additional studies are needed before a specific amount of vitamin K beyond the standard recommendation is proposed for this condition.
+
+Food Sources
+Phylloquinone
+ 
+ Green leafy  vegetables  including collard and turnip greens,  kale , spinach, broccoli,  Brussels sprouts , cabbage, lettuces 
+
+
+
+ Soybean and canola oil 
+
+
+
+ Salad dressings made with soybean or canola oil 
+
+
+
+ Fortified meal replacement shakes
+Green leafy  vegetables  including collard and turnip greens,  kale , spinach, broccoli,  Brussels sprouts , cabbage, lettuces
+Soybean and canola oil
+Salad dressings made with soybean or canola oil
+Fortified meal replacement shakes
+Menaquinones
+ 
+ Natto (fermented  soybeans ) 
+
+
+
+ Smaller amounts in meat,  cheese ,  eggs
+Natto (fermented  soybeans )
+Smaller amounts in meat,  cheese ,  eggs
+
+Signs of Deficiency
+Vitamin K deficiency in adults is rare, but may occur in people taking medications that block vitamin K metabolism such as antibiotics, or in those with conditions that cause malabsorption of food and nutrients. A deficiency is also possible in newborn infants because vitamin K does not cross the placenta, and breast milk contains a low amount. The limited amount of blood clotting proteins at birth increases the risk of bleeding in infants if they are not given vitamin K supplements. The following are the most common signs of a deficiency.
+A longer time for blood to clot or a prolonged prothrombin time (as measured in a physician’s office)
+Bleeding
+Hemorrhaging
+Osteopenia or osteoporosis
+
+Did You Know?
+Antibiotic medicines may destroy vitamin-K-producing  bacteria in the gut , thereby potentially decreasing vitamin K levels, especially if taking the medicine for more than a few weeks. People who have a poor appetite while using long-term antibiotics may be at greater risk for a deficiency, and may benefit from a vitamin K supplement.
+Because vitamin K is fat-soluble, it is best to eat vitamin K foods with some fat to improve absorption. So, drizzle some olive oil or add diced avocado to your favorite leafy green salad!
+
+Related
+Vitamins and Minerals
+National Institutes of Health Office of Dietary Supplements: Vitamin K Fact Sheet for Health Professionals  https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/ . Accessed 6/25/2018.
+Weber P. Vitamin K and bone health.  Nutrition . 2001;17:880–7.
+Feskanich D, Weber P, Willett WC, Rockett H, Booth SL, Colditz GA. Vitamin K intake and hip fractures in women: a prospective study.  Am J Clin Nutr . 1999;69:74–9.
+Booth SL, Tucker KL, Chen H, et al. Dietary vitamin K intakes are associated with hip fracture but not with bone mineral density in elderly men and women.  Am J Clin Nutr . 2000;71:1201–8.
+Booth SL, Broe KE, Gagnon DR, et al. Vitamin K intake and bone mineral density in women and men.  Am J Clin Nutr . 2003;77:512–6.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://hsph.harvard.edu/nutritionsource/2017/09/18/meta-analyses-nutrition-research-sources-of-insight-or-confusion/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-d/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/food-features/kale/
+https://nutritionsource.hsph.harvard.edu/food-features/brussels-sprouts/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/food-features/kale/
+https://nutritionsource.hsph.harvard.edu/food-features/brussels-sprouts/
+https://nutritionsource.hsph.harvard.edu/soy/
+https://nutritionsource.hsph.harvard.edu/cheese/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/soy/
+https://nutritionsource.hsph.harvard.edu/cheese/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/microbiome/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/
+https://www.sciencedirect.com/science/article/pii/S0899900701007092
+https://academic.oup.com/ajcn/article-abstract/69/1/74/4694133
+https://academic.oup.com/ajcn/article-abstract/71/5/1201/4729293
+https://academic.oup.com/ajcn/article-abstract/77/2/512/4689716

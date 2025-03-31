@@ -1,0 +1,80 @@
+Title: Can You Eat Cold Rice?
+
+Rice is a staple food worldwide, especially in Asian, African, and Latin American countries.
+Though some prefer to eat their rice while it’s fresh and hot, you may find that some recipes, such as rice salad or sushi, call for cold rice.
+Nevertheless, you may wonder whether it’s safe to eat cold rice.
+This article reviews the facts.
+
+Potential benefits
+Cold rice has a higher resistant starch content than freshly cooked rice ( 1 ).
+Resistant starch is a type of fiber that your body cannot digest. Still, the bacteria in your gut can ferment it, so it acts as a prebiotic, or food for those bacteria ( 2 ,  3 ).
+This specific type of  resistant starch  is called retrograded starch and is found in cooked and cooled starchy foods. In fact, reheated rice seems to have the highest amounts ( 4 ).
+The fermentation process produces short-chain fatty acids (SCFAs), which influence two hormones — glucagon-like peptide-1 (GLP-1) and peptide YY (PYY) — that regulate your appetite ( 5 ,  6 ).
+They’re also known as antidiabetic and anti-obesity hormones due to their association with improved insulin sensitivity and reduced abdominal fat ( 2 ,  5 ,  7 ).
+One study in 15 healthy adults found that eating cooked white rice that had been cooled for 24 hours at 39°F (4°C) and then reheated significantly  reduced blood sugar levels  after the meal, compared with the control group ( 1 ).
+Additionally, a study in rats who were fed retrograded rice powder determined that it considerably improved blood cholesterol levels and gut health, compared with a control group ( 8 ).
+Nevertheless, though these findings seem promising, further human studies are needed to confirm these effects.
+Eating cold or reheated rice may help increase your resistant starch intake, which may improve your blood sugar and cholesterol levels.
+
+Risks of eating cold rice
+Eating cold or reheated rice increases your risk of food poisoning from  Bacillus cereus , which may cause abdominal cramps,  diarrhea , or vomiting within 15–30 minutes of ingesting it ( 9 ,  10 ,  11 ,  12 ).
+Bacillus cereus  is a bacterium typically found in soil that can contaminate raw rice. It has the ability to form spores, which act as a shield and allow it to survive cooking ( 13 ,  14 ).
+Thus, cold rice may still be contaminated even after being cooked at high temperatures.
+However, the issue with cold or reheated rice is not bacteria, but rather how the rice has been cooled or stored ( 9 ,  15 ).
+Pathogenic or disease-causing bacteria, such as  Bacillus cereus , grow rapidly at temperatures between 40–140°F (4–60°C) — a range that’s known as the danger zone ( 16 ).
+Therefore, if you let your rice cool by leaving it at room temperature, the spores will germinate, quickly multiplying and producing the toxins that make you sick ( 17 ).
+While anyone who consumes contaminated rice may get  food poisoning , those with compromised or weak immune systems, such as children, older adults, or pregnant women, may have a higher risk of infection ( 10 ).
+Eating cold rice increases your risk of food poisoning from  Bacillus cereus , a bacterium that survives cooking and may cause abdominal cramps, diarrhea, or vomiting.
+
+How to safely eat cold rice
+Since cooking doesn’t eliminate  Bacillus cereus  spores, some believe that you should treat cooked rice similarly to how you would treat any perishable food.
+Here are some important pointers to follow regarding how to safely handle and store  rice  ( 17 ,  18 ,  19 ):
+To refrigerate freshly cooked rice, cool it within 1 hour by dividing it into several shallow containers. To speed up the process, place the containers in an ice or cold water bath.
+To refrigerate leftovers, place them in airtight containers. Avoid stacking them to allow enough airflow around them and ensure rapid cooling.
+Leftover rice should not be left at room temperature for more than 2 hours. If so, it’s best to throw it away.
+Make sure to refrigerate the rice under 41ºF (5ºC) to prevent the formation of spores.
+You can keep your rice refrigerated for up to 3–4 days.
+Following these cooling and storing instructions allows you to prevent any spores from germinating.
+To enjoy your serving of cold rice, make sure to eat it while it’s still cold instead of allowing it to reach room temperature.
+If you prefer to  reheat your rice , make sure it is steaming hot or verify that the temperature has reached 165ºF (74ºC) with a food thermometer.
+Properly cooling and storing rice helps reduce your risk of food poisoning.
+
+The bottom line
+Cold rice is safe to eat as long as you handle it properly.
+In fact, it may improve your gut health, as well as your blood sugar and  cholesterol levels , due to its higher resistant starch content.
+To reduce your risk of food poisoning, make sure to cool the rice within 1 hour of cooking and keep it properly refrigerated before eating it.
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pubmed/26693746
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352178/
+https://www.ncbi.nlm.nih.gov/pubmed/25582732
+https://www.healthline.com/nutrition/9-foods-high-in-resistant-starch
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3823506/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2584810/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3286726/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352178/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2584810/
+https://www.ncbi.nlm.nih.gov/pubmed/17030963
+https://www.healthline.com/nutrition/15-ways-to-lower-blood-sugar
+https://www.ncbi.nlm.nih.gov/pubmed/26693746
+https://www.ncbi.nlm.nih.gov/pubmed/22413036
+https://www.healthline.com/health/what-to-eat-when-you-have-diarrhea
+https://www.fda.gov/food/laboratory-methods-food/bam-bacillus-cereus
+https://www.healthline.comhttps://wwwnc.cdc.gov/eid/article/25/5/17-1890_article
+https://www.ncbi.nlm.nih.gov/pubmed/18422617
+https://www.fsis.usda.gov/wps/wcm/connect/fc73c914-baec-47ca-a8be-564559b2f3b3/37d_IM_Common_Pathogens.pdf?MOD=AJPERES
+https://www.ncbi.nlm.nih.gov/pubmed/19903405
+https://www.ncbi.nlm.nih.gov/pubmed/24404779
+https://www.fda.gov/food/laboratory-methods-food/bam-bacillus-cereus
+https://www.ncbi.nlm.nih.gov/pubmed/30296636
+https://www.fsis.usda.gov/wps/portal/fsis/topics/food-safety-education/get-answers/food-safety-fact-sheets/safe-food-handling/refrigeration-and-food-safety/ct_index/!ut/p/a1/jZDbCsIwDIafxQcoydwceikDcdNtiKi1N1Jc2xW0k654enqn3qh4Sq6SfH8SfmBAgRm-14o7X
+https://www.nhs.uk/common-health-questions/food-and-diet/can-reheating-rice-cause-food-poisoning/
+https://www.healthline.com/nutrition/foods-that-cause-food-poisoning
+https://www.healthline.comhttps://wwwnc.cdc.gov/eid/article/25/5/17-1890_article
+https://www.healthline.com/nutrition/brown-vs-white-rice
+https://www.nhs.uk/common-health-questions/food-and-diet/can-reheating-rice-cause-food-poisoning/
+https://www.healthline.comhttps://nifa.usda.gov/sites/default/files/resource/Preventing-Foodborne-Illness-Bacillus-cereus.pdf
+https://www.fsis.usda.gov/wps/portal/fsis/topics/food-safety-education/get-answers/food-safety-fact-sheets/safe-food-handling/leftovers-and-food-safety/!ut/p/a1/jVFdT8IwFP0tPowXU9oxJGCymGXROJQRsqhjL6bbbrcms8W2g-Cvp4MXNUPpTZP23HNy7gfOcIozQbe8ooZLQZvun03eyYpM3FlI5suZ-0Ci-HW1fApDMk1uLGH9ByH2LtSfOQH5Tz-_wGCkFuGiwtmGmhpxwSROKzCICr0DpXHKpCyRpgzMHjFaGKRrAGMTHYaO2ZqKsuGiwmkDzMit1Vl9ib5J8RvOfhZDXBtR7CXjx3nskeX4N6FnWifC-XHYfqtG5sfVrAORe1PbmAIGCtSwVRaujdnoW4c4pNUl1UBVUQ-757CSW4ecgLvWsKnvuPcjx1ZirzegjPGGUwM-01wPPltQe7-QTXmteAF9drXUBqc9Lnjz8ZJ-PQcsiVCW73dXB6JuRwQ!/#2
+https://www.healthline.com/nutrition/how-to-reheat-leftovers
+https://www.healthline.com/nutrition/how-to-lower-cholesterol

@@ -1,0 +1,148 @@
+Title: Sodium Bicarbonate Supplements and Exercise Performance
+
+Sodium bicarbonate, also known as baking soda, is a popular household product.
+It has many uses in cooking, cleaning, and personal hygiene.
+Additionally, many athletes and gym-goers use it to help them perform during intense training.
+This detailed guide explains everything you need to know about sodium bicarbonate and exercise performance.
+
+What is sodium bicarbonate?
+Sodium bicarbonate has the chemical formula NaHCO3. It’s a mildly  alkaline  salt made up of sodium and bicarbonate ions.
+Sodium bicarbonate is also known as baking soda, bread soda, bicarbonate of soda, and cooking soda. It is commonly found in nature, dissolved in mineral springs.
+However, it is best recognized as the white, odorless, non-flammable powder you can find in your local supermarket.
+Sodium bicarbonate is best known as baking soda. It is an alkaline salt, easily found in its white powder form in most supermarkets.
+
+How does sodium bicarbonate work?
+To understand how sodium bicarbonate works, it’s helpful to first understand the concept of pH.
+In chemistry, pH is a scale used to grade how acidic or alkaline (basic) a solution is.
+A pH of 7.0 is considered neutral (pure water has a pH of 7.0). Anything lower than 7.0 is acidic, and anything above 7.0 is alkaline ( 1 ).
+The pH level of the human body varies depending on the part of the body. For example, our blood has a pH of about 7.4, while stomach acid is highly acidic, with a pH of 1–3 ( 1 ).
+Interestingly, the pH of our bodies is tightly regulated, which ensures that they function properly. This regulation is referred to as the acid-base balance and is controlled mainly by our kidneys and lungs ( 1 ).
+However, certain health conditions and external factors can disrupt this balance. One of these factors is high intensity exercise, also known as anaerobic exercise.
+During anaerobic exercise, your body’s demand for oxygen exceeds the available supply. As a result, your muscles cannot rely on oxygen to produce adenosine triphosphate (ATP), your body’s cellular energy source ( 2 ,  3 ).
+Instead, they must switch to a different pathway — the anaerobic pathway — to produce ATP.
+While researchers don’t yet fully understand this process, they have determined that a major byproduct of the anaerobic pathway is hydrogen (H+).
+Too much hydrogen in the working muscles decreases the pH of your muscles, creating an acidic environment. This leads to the unwanted “burning” sensation we’ve all felt during anaerobic exercises such as sprints and resistance training ( 2 ,  3 ).
+Contrary to popular belief, most research no longer points to lactic acid or lactate as the main cause of burning or muscle fatigue. In fact, lactate may help reduce hydrogen molecules in muscle ( 2 ,  3 ).
+Sodium bicarbonate has an alkaline pH of 8.4 and may play a role in buffering excess hydrogen during anaerobic exercise ( 4 ).
+Interestingly, your kidneys produce bicarbonate (HCO3) to help your body maintain proper pH levels. It’s one of the main buffering substrates in your body because it can accept a hydrogen ion, which increases its pH to make it less acidic ( 5 ,  6 ,  7 ,  8 ).
+During exercise, bicarbonate and other buffering agents work to pull hydrogen out of the working muscle and into the bloodstream, allowing the muscle to return to a less acidic state ( 5 ,  6 ,  7 ,  8 ).
+Thus, it’s theorized that supplementing with sodium bicarbonate may aid in this process, allowing the muscle to maintain longer bouts of exercise ( 5 ,  8 ).
+Bicarbonate is a natural buffer that is part of your body’s acid-base balance, which maintains proper pH levels. During exercise, it helps clear acid out of muscle cells to restore optimal pH. It’s thought that bicarbonate supplementation may aid this process.
+
+How does sodium bicarbonate affect sports performance?
+Scientists have examined how sodium bicarbonate affects exercise performance for more than 80 years ( 8 ).
+Supplementing with sodium bicarbonate may enhance performance measurements such as speed, power, work capacity, and time to failure ( 5 ,  8 ,  9 ).
+In particular, sodium bicarbonate appears to be beneficial for muscular endurance. One review of studies found that supplementing with sodium bicarbonate significantly increases muscular endurance and performance in both small and large muscle groups ( 10 ).
+It’s especially beneficial during single and repeated bouts of high intensity exercise that last between 1 and 7 minutes ( 6 ,  8 ,  9 ,  11 ).
+Additionally, many of its benefits appear to occur near the end of an endurance workout, which may help a person with the final “push” of the exercise.
+For example, one study observed a 1.5-second performance improvement in the last 1,000 meters of a 2,000-meter (1.24-mile) rowing event. Because many races are won by just seconds, this can be a significant boost in performance ( 12 ).
+The results are similar for cycling, sprinting, swimming, and team sports ( 13 ,  14,   15 ,  16 ,  17 ).
+However, the benefits can vary from person to person. They may also depend on the type of activity and a person’s sex, personal tolerance, and training level ( 8 ,  9 ,  10 ).
+Sodium bicarbonate may be beneficial in enhancing muscular endurance, especially during high intensity exercise and in the later stages of endurance workouts.
+
+How does it affect interval training?
+Interval training is when you alternate between intense and less-intense exercise during a single session.
+You can perform intervals during many forms of exercise, such as running, cycling, rowing, swimming, Olympic weightlifting, and CrossFit.
+One study in 13 male athletes found a 14% increase in performance during the Yo-Yo intermittent recovery test level 2, which tests an athlete’s ability to repeatedly perform anaerobic exercise, after supplementing with sodium bicarbonate ( 18 ).
+Further, the athletes’ rate of perceived exhaustion was significantly lower than that of the control group ( 18 ).
+A study in CrossFit participants found improvements in performance, such as increased reps, time to ventilatory threshold, and overall workload. Further, fight gone bad performance — a type of CrossFit interval training — was 3.1% higher than the placebo group ( 19 ).
+Additionally, a cycling study showed that sodium bicarbonate led to significantly greater time to exhaustion (4.5 minutes) compared to the placebo group ( 20 ).
+Other studies have also shown that sodium bicarbonate helped increase performance in interval and high intensity training, especially in increasing time to exhaustion and muscular endurance ( 5 ,  21 ,  22 ,  23 ,  24 ).
+According to the International Society of Sports Nutrition, sodium bicarbonate supplementation improves performance in muscular endurance activities and high intensity exercises such as cycling, swimming, running, rowing, boxing, judo, karate, taekwondo, and wrestling ( 5 ).
+Sodium bicarbonate has been shown to improve muscular endurance and time to exhaustion, which can help improve athletic performance in interval training and high intensity exercise.
+
+Effects of sodium bicarbonate on muscle strength
+Sodium bicarbonate may help with muscular strength, but research is mixed.
+In one study, experienced weightlifters who took sodium bicarbonate 60 minutes before a workout were able to do 6 more squats in their first of 3 sets. However, there were no differences in bench press repetitions ( 25 ).
+That said, a recent meta-analysis showed no significant improvements in muscular strength — defined as the amount of weight lifted or force a muscle can produce — after sodium bicarbonate supplementation ( 10 ).
+Researchers believe sodium bicarbonate plays a limited role in muscular strength due to the short duration and maximal effort required. However, they speculate that it still may prevent a reduction in strength due to fatigue ( 5 ).
+To date, it appears that sodium bicarbonate plays a bigger role in muscular endurance — how long the muscle can be actively worked — than in the strength of the muscle ( 5 ).
+Sodium bicarbonate may play a small role in muscular strength, especially in preventing a reduction of strength from fatigue.
+
+Supplements and dosage instructions
+Sodium bicarbonate supplements can be found in capsule or tablet form. You can also purchase it as plain baking soda powder, although most research studies use capsules or tablets.
+The expected benefits are the same regardless of which supplement form you choose.
+According to the International Society of Sports Nutrition, the optimal dose appears to be 0.3 grams per kg taken 60–180 minutes prior to exercise. Doses higher than this do not appear to confer any additional benefits ( 5 ).
+However, taking sodium bicarbonate so close to exercise can cause stomach problems for some people. If this is the case for you, consider taking smaller doses of 0.1–0.2 grams per kg throughout the day, such as at breakfast, lunch, and dinner ( 5 ).
+Sodium bicarbonate can be found in powder, pill, or capsule form. You can take a dose of 0.3 grams per kg up to 3 hours before exercise or take 2–4 smaller doses spread throughout the day.
+
+Safety and side effects
+Sodium bicarbonate is considered safe when taken in the doses recommended above (0.3 grams per kg).
+When sodium bicarbonate mixes with stomach acid, it produces gas. This may cause abdominal pain,  bloating , nausea, diarrhea, and vomiting.
+These side effects appear to be dose-dependent, meaning higher doses may lead to worsened stomach issues ( 5 ).
+Further, not everyone will experience these side effects. The severity of symptoms can vary based on the amount taken and personal sensitivity ( 5 ).
+To decrease side effects, try taking sodium bicarbonate with a carbohydrate-rich meal, spreading your doses throughout the day, taking the supplement 180 minutes before exercise, and/or taking enteric-coated capsules, which are easier on the stomach ( 5 ).
+Consuming sodium bicarbonate can also raise your blood  sodium  levels, which may increase blood pressure in some people.
+In addition, large amounts of sodium can make your body retain  water . While increased hydration could be useful for those exercising in the heat, it may be disadvantageous for those competing in weight-category sports.
+Finally, be sure to speak with a healthcare professional before taking sodium bicarbonate. It may not be suitable for those with certain health conditions, such as high blood pressure and acid reflux.
+Sodium bicarbonate is generally considered safe when taken in the recommended dose. However, it may cause unpleasant side effects such as vomiting, gas, bloating, and stomach pain.
+
+The bottom line
+Taking sodium bicarbonate may help enhance your sports performance, especially in high intensity sports and activities.
+It works by decreasing the acidity in working muscles to help you exercise longer. Most research suggests that the most effective dose is 0.3 grams per kg taken 60–180 minutes before exercise.
+However, some people experience side effects such as vomiting, bloating, and gas. You may be able to reduce these effects by taking sodium bicarbonate with a carbohydrate-rich meal, spreading small doses throughout the day, or taking enteric-coated capsules.
+Though sodium bicarbonate may sound promising, it’s a good idea to speak with a healthcare professional to make sure it’s right for you before trying it.
+
+References:
+
+https://www.healthline.com/nutrition/the-alkaline-diet-myth
+https://www.ncbi.nlm.nih.gov/books/NBK507807/
+https://www.ncbi.nlm.nih.gov/books/NBK507807/
+https://www.ncbi.nlm.nih.gov/books/NBK507807/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29617642/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33112439/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29617642/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33112439/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29617642/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33112439/
+https://www.healthline.comhttps://pubchem.ncbi.nlm.nih.gov/compound/Sodium-bicarbonate
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6544001/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29848993/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27399820/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6544001/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29848993/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27399820/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27399820/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27399820/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27399820/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27747796/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32096113/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6544001/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27399820/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27747796/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26920240/
+https://www.ncbi.nlm.nih.gov/pubmed/23579002
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33015125/
+https://www.ncbi.nlm.nih.gov/pubmed/15705037
+https://www.ncbi.nlm.nih.gov/pubmed/24155093
+https://www.ncbi.nlm.nih.gov/pubmed/21923200
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26815179/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27399820/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27747796/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32096113/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4475610/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4475610/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5957406/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4262454/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8076585/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30987663/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29023327/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30551121/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.ncbi.nlm.nih.gov/pubmed/24126895
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32096113/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.healthline.com/nutrition/11-proven-ways-to-reduce-bloating
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/34503527/
+https://www.healthline.com/nutrition/how-much-sodium-per-day
+https://www.healthline.com/nutrition/how-much-water-should-you-drink-per-day

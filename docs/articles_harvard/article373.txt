@@ -1,0 +1,38 @@
+Title: Excess Weight Is Not Good for You
+
+A Closer Look at Obesity, Health Risks, and Mortality
+
+Writing in the November 7, 2007,  Journal of the American Medical Association , federal researchers concluded that being overweight isn’t associated with the chances of dying from heart disease or cancer. ( 1 ) Even more surprisingly, they found that overweight may be associated with lower risks of dying from emphysema, infections, injuries, Alzheimer’s disease, and a potpourri of other diseases not related to cardiovascular disease or cancer. Obesity was associated with excess deaths from cardiovascular disease, diabetes, and kidney disease, but not cancer. With nearly two-thirds of Americans considered as being overweight, studies like this one seem to offer reassurance that carrying extra pounds isn’t so bad.
+There’s just one small problem with this study: Its conclusions are almost certain to be wrong. Serious flaws with the study led to an underestimation of the impact of obesity; furthermore, its findings are inconsistent with many other larger studies conducted over the past 20 years.
+The researchers, from the Centers for Disease Control and Prevention (CDC), derived estimates for the risk of dying from various diseases using three National Health and Nutrition Examination Surveys (NHANES) of about 37,000 Americans conducted between 1971 and 1975, 1976 and 1980, and 1988 and 1994. They then applied these estimates to deaths recorded in the United States in 2004, the last year for which full data are available, to come up with a determination of the number of deaths associated with being underweight, overweight, or obese, all compared with normal weight. ( 1 ) These categories refer to various ranges of body mass index (BMI), a measure that combines weight and height. Normal weight corresponds to a BMI between 18.5 and 24.9. Underweight is a BMI below 18.5, overweight is between 25.0 and 29.9, obesity is 30 to 34.9, and severe obesity is over 35.
+In these analyses, being underweight wasn’t associated with the chances of dying from cardiovascular disease or cancer, but was associated with an increased risk of dying from other causes. Being overweight was not associated with the risk of dying from cardiovascular disease or cancer, but was associated with an increased risk of dying from diabetes or kidney disease and a reduced risk of dying from other causes. Obesity was associated with an increased risk of dying from cardiovascular disease, but not cancer or other causes.
+The biggest flaw in this report is that the NHANES studies are simply too small to account for biases that often pose problems in studies of deaths and causes of death. One is reverse causation—low body weight often results from chronic disease, rather than being a cause of chronic disease. People with BMIs below 25 are a mix of healthy individuals and those who have lost weight due to a disease that may or may not have been diagnosed. The other is smoking—leaner people are more likely to smoke than their heavier counterparts. When reverse causation and the adverse effects of smoking aren’t fully accounted for, death rates among lean individuals will be inflated and those among overweight and obese individuals will be diminished. A careful critique of using the NHANES data to estimate mortality demonstrated that adequately “correcting for statistical biases and using higher ideal-weight categories increased the estimate of excess deaths attributable to obesity by approximately 400 percent and changed the negative estimate for overweight to a large positive estimate.” ( 2 )
+The CDC study isn’t even news. Findings from larger studies that have better accounted for reverse causation and smoking clearly show that increasing weight increases the risks of dying from cardiovascular disease, cancer, and other causes. More than 20 years ago, a study published by the American Cancer Society that included a million men and women documented the impact of excess weight on dying from cancer after accounting for smoking. ( 3 ) In 1999, researchers following a different million-person cohort for 14 years restricted their analyses to initially healthy nonsmokers. The risk of death from all causes, cardiovascular disease, cancer, or other diseases increased as BMI increased above the healthiest range of 23.5 to 24.9 in men and 22.0 to 23.4 in women. ( 4 ) A similar association between weight and mortality was observed in the Nurses’ Health Study ( 5 ) and a prospective study of more than 500,000 older men and women in a National Institutes of Health/AARP study. ( 6 )
+Interestingly, another report in the same issue of the  Journal of the American Medical Association  demonstrated that obesity is increasing the disabilities among older people, interfering with the ability to do simple, everyday activities such as climb the stairs, bend over, lift a bag of groceries, or walk around the block. ( 7 )
+The CDC study notwithstanding, the overwhelming weight of the evidence suggests that one way to stay healthy and live longer is to do what you can to keep your weight in the healthy range, and especially to minimize any upward creep in your weight or waistline during adulthood.
+References
+1. Flegal KM, Graubard BI, Williamson DF, Gail MH. Cause-specific excess deaths associated with underweight, overweight, and obesity.  JAMA .  2007; 298:2028–37.
+2. Greenberg JA. Correcting biases in estimates of mortality attributable to obesity.  Obesity  (Silver Spring). 2006; 14:2071–79.
+3. Garfinkel L. Overweight and mortality.   Cancer .  1986; 58:1826–29.
+4. Calle EE, Thun MJ, Petrelli JM, Rodriguez C, Heath CW, Jr. Body mass index and mortality in a prospective cohort of U.S. adults.  N Engl J Med .  1999; 341:1097–105.
+5. Manson JE, Willett WC, Stampfer MJ, et al. Body weight and mortality among women.   N Engl J Med.   1995; 333:677–85.
+6. Adams KF, Schatzkin A, Harris TB, et al. Overweight, obesity, and mortality in a large prospective cohort of persons 50 to 71 years old.  N Engl J Med .  2006; 355:763–78.
+7. Alley DE, Chang VW. The changing relationship of obesity and disability, 1988–2004.  JAMA .  2007; 298:2020–27.
+
+References:
+
+#1
+#1
+#2
+#3
+#4
+#5
+#6
+#7
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17986696%20
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17135625
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=3756807
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=10511607
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=10511607
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16926275
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17986695

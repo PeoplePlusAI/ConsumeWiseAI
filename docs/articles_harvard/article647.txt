@@ -1,0 +1,90 @@
+Title: Dietary Fat and Disease
+
+Diabetes
+The types of fats in your diet can affect the development of diabetes.
+Good fats, such as the polyunsaturated fats found in liquid vegetable oils, nuts, and seeds, can help ward off type 2 diabetes ( 16 ), whereas trans fats do the opposite. ( 6 ,  17 )
+If you already have diabetes, eating fish can help protect you against a heart attack or dying from heart disease. ( 25 ) Eating omega-3 fats from fish does not protect against diabetes, even though there is much evidence that these marine omega-3 fats help prevent fatal heart disease. ( 26 )
+Heart Disease
+In a randomized controlled trial ( 27 ) a  Mediterranean diet  supplemented with extra-virgin olive oil or nuts, both rich sources of unsaturated fat, reduced the incidence of major cardiovascular events amongst patients with diabetes or other risk factors over a 4.8-year follow-up.
+This study highlighted that low-fat diets are continuing to lose credibility, and that incorporating healthy fats – such as those included in the Mediterranean diet – can improve heart health.
+There isn’t one exact Mediterranean diet, as this eating style takes can incorporate the different foods, eating patterns, and lifestyles in multiple countries that border the Mediterranean Sea. However, there are similarities that define a Mediterranean eating pattern including:
+– High intake of olive oil, nuts, vegetables, fruits, and mainly whole grain cereals 
+– Moderate intake of fish and poultry 
+– Low intake of dairy products, red meat, processed meats, and sweets 
+– Wine in moderation, consumed with meals
+Cancer
+Researchers once suspected an association between dietary fat and common cancers. However, in adults, the percentage of calories consumed from total fat appears to have no significant association with cancer risk, and there is currently no clear evidence linking any specific type of fat with cancer incidence.
+Breast Cancer
+In the early 1980s, most nutrition experts believed that dietary fat was a major cause of breast cancer. ( 28 ,  29 ) This thinking was largely based on international comparisons showing higher breast cancer rates in countries with higher per capita fat intake. But as more prospective studies and randomized controlled trials were performed over the next couple of decades, the apparent link between total fat intake and breast cancer has faded. ( 30 )
+The Women’s Health Initiative Dietary Modification Trial, which was specifically designed to examine the effect of a low-fat diet on the development of breast cancer, showed similar rates of breast cancer in women eating a low-fat diet and in those eating a “regular” diet. ( 31 )
+One study from the National Institutes of Health–AARP Diet and Health Study found a very weak positive association between fat and postmenopausal breast cancer, ( 32 ) but when combined with the many other studies detailed above, the overall evidence does not support a relationship between total fat intake and breast cancer. In a recent study, saturated fat was weakly associated with one form of breast cancer, but this could have been due to differences in physical activity and needs confirmation. (citation below)
+Although studies of different types of fat have largely failed to find a link with breast cancer, some evidence suggests that animal fat intake in young women may be linked to higher risk of breast cancer. In the Nurses’ Health Study II, premenopausal women who ate diets high in animal fat had a 40 to 50 percent higher risk of breast cancer, compared to women who ate the least animal fat. ( 33 ) Because vegetable fat was not related to risk of breast cancer, these findings suggest that red meat and high-fat dairy products may contain other factors, such as hormones, that increase risk of breast cancer.
+Some European studies have reported suggestive findings of lower breast cancer risk among women with a high intake of monounsaturated fats (mainly in the form of olive oil). ( 34 ,  35 )
+Colon Cancer
+As with breast cancer, international comparisons initially suggested an association between total dietary fat intake and colon cancer risk. But later and better studies contradicted these earlier findings and revealed no significant association.
+Women in the Women’s Health Initiative Dietary Modification Trial who ate a low-fat diet developed colon cancer at the same rate as women who didn’t. ( 36 )
+Although fat intake doesn’t seem to increase colon cancer risk, there is strong evidence that high consumption of red meat (beef, pork, and lamb) and especially processed meat (hot dogs, bacon, and deli meats) does increase colon cancer risk. ( 37 ) Based on this evidence and other studies related to heart disease and diabetes, it’s best to limit red meat consumption to no more than twice a week, and to avoid processed meats.
+Prostate Cancer
+Although the exact connection between dietary fat and prostate cancer is unclear, there is some evidence that diets high in animal fat and saturated fat may increase prostate cancer risk. However, other studies have shown no association, while others have implicated unsaturated fats. More research is needed to elucidate any possible links between dietary fat and prostate cancer.
+Other Cancers
+Preliminary research has also linked the intake of certain kinds of fat with other cancers, though more research is needed to confirm these results. In the Nurses’ Health Study, Harvard researchers found that a high intake of trans fats was associated with risk for non-Hodgkin’s lymphoma. ( 38 )
+Other Chronic Conditions
+There is a small but growing body of work on the effects of dietary fats on conditions such as depression, ( 39 ) osteoporosis, ( 40 ) age-related memory loss, ( 41 ) cognitive decline, ( 42 ) macular degeneration, ( 43 ) multiple sclerosis, ( 44 ) infertility and endometriosis, ( 45 ,  46 ) and other chronic conditions. The preliminary findings do not offer sufficient evidence to suggest modifying dietary fat recommendations.
+References
+6. Hu, F.B., J.E. Manson, and W.C. Willett, Types of dietary fat and risk of coronary heart disease: a critical review. J Am Coll Nutr, 2001. 20(1): p. 5-19.
+16. Riserus, U., W.C. Willett, and F.B. Hu, Dietary fats and prevention of type 2 diabetes. Prog Lipid Res, 2009. 48(1): p. 44-51.
+17. Mozaffarian, D., et al., Trans fatty acids and cardiovascular disease. N Engl J Med, 2006. 354(15): p. 1601-13.
+25. Hu, F.B., et al., Fish and long-chain omega-3 fatty acid intake and risk of coronary heart disease and total mortality in diabetic women. Circulation, 2003. 107(14): p. 1852-7.
+26. Kaushik, M., et al., Long-chain omega-3 fatty acids, fish intake, and the risk of type 2 diabetes mellitus. Am J Clin Nutr, 2009. 90(3): p. 613-20.
+27.  Estruch R, Ros E, Salas-Salvadó J, et al., Primary prevention of cardiovascular disease with a  mediterranean  diet supplemented with extra-virgin olive oil or nuts. New England Journal of Medicine. 2018 Jun 13. [Note: reference updated in June 2018 due to  retraction and republication ]
+28. Willett, W.C. and B. MacMahon, Diet and cancer–an overview. N Engl J Med, 1984. 310(10): p. 633-8.
+29. Willett, W.C. and B. MacMahon, Diet and cancer–an overview (second of two parts). N Engl J Med, 1984. 310(11): p. 697-703.
+30. Smith-Warner, S.A., et al., Types of dietary fat and breast cancer: a pooled analysis of cohort studies. Int J Cancer, 2001. 92(5): p. 767-74.
+31. Howard, B.V., et al., Low-fat dietary pattern and risk of cardiovascular disease: the Women’s Health Initiative Randomized Controlled Dietary Modification Trial. JAMA, 2006. 295(6): p. 655-66.
+32. Thiebaut, A.C., et al., Dietary fat and postmenopausal invasive breast cancer in the National Institutes of Health-AARP Diet and Health Study cohort. J Natl Cancer Inst, 2007. 99(6): p. 451-62.
+33. Cho, E., et al., Premenopausal fat intake and risk of breast cancer. J Natl Cancer Inst, 2003. 95(14): p. 1079-85.
+34. Sieri, S., et al., Dietary patterns and risk of breast cancer in the ORDET cohort. Cancer Epidemiol Biomarkers Prev, 2004. 13(4): p. 567-72.
+35. Kushi, L. and E. Giovannucci, Dietary fat and cancer. Am J Med, 2002. 113 Suppl 9B: p. 63S-70S.
+36. Beresford, S.A., et al., Low-fat dietary pattern and risk of colorectal cancer: the Women’s Health Initiative Randomized Controlled Dietary Modification Trial. JAMA, 2006. 295(6): p. 643-54.
+37. World Cancer Research Fund, A.I.f.C.R., Food, Nutrition, Physical Activity and the Prevention of Cancer: a Global Perspective – Online.
+38. Zhang, S., et al., Dietary fat and protein in relation to risk of non-Hodgkin’s lymphoma among women. J Natl Cancer Inst, 1999. 91(20): p. 1751-8.
+39. Lucas, M., et al., Dietary intake of n-3 and n-6 fatty acids and the risk of clinical depression in women: a 10-y prospective follow-up study. Am J Clin Nutr, 2011. 93(6): p. 1337-43.
+40. Kruger, M.C., et al., Long-chain polyunsaturated fatty acids: selected mechanisms of action on bone. Prog Lipid Res, 2010. 49(4): p. 438-49.
+41. Parrott, M.D. and C.E. Greenwood, Dietary influences on cognitive function with aging: from high-fat diets to healthful eating. Ann N Y Acad Sci, 2007. 1114: p. 389-97.
+42. Devore, E.E., et al., Dietary fat intake and cognitive decline in women with type 2 diabetes. Diabetes Care, 2009. 32(4): p. 635-40.
+43. Hodge, W.G., et al., Efficacy of omega-3 fatty acids in preventing age-related macular degeneration: a systematic review. Ophthalmology, 2006. 113(7): p. 1165-72; quiz 1172-3, 1178.
+44. Schwarz, S. and H. Leweling, Multiple sclerosis and nutrition. Mult Scler, 2005. 11(1): p. 24-32.
+45. Chavarro, J.E., et al., Dietary fatty acid intakes and the risk of ovulatory infertility. Am J Clin Nutr, 2007. 85(1): p. 231-7.
+46. Missmer, S.A., et al., A prospective study of dietary fat consumption and endometriosis risk. Hum Reprod, 2010. 25(6): p. 1528-35.
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+#ref16
+#ref6
+#ref17
+#ref25
+#ref26
+#ref27
+https://nutritionsource.hsph.harvard.edu/healthy-weight/diet-reviews/mediterranean-diet/
+#ref28
+#ref29
+#ref30
+#ref31
+#ref32
+#ref33
+#ref34
+#ref35
+#ref36
+#ref37
+#ref38
+#ref39
+#ref40
+#ref41
+#ref42
+#ref43
+#ref44
+#ref45
+#ref46
+https://nutritionsource.hsph.harvard.edu/2018/06/22/predimed-retraction-republication/

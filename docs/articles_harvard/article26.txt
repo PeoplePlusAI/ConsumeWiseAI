@@ -1,0 +1,102 @@
+Title: Vitamin A
+
+It’s only a semi-myth that eating carrots will help you see in the dark. A carrot’s main nutrient, beta-carotene (responsible for this root vegetable’s characteristic orange color), is a precursor to vitamin A and helps your eyes to adjust in dim conditions. Vitamin A can’t give you superpowers of night vision or cure your dependence on contact lenses, but eating an adequate amount will support eye health.
+Vitamin A also stimulates the production and activity of white blood cells, takes part in remodeling bone, helps maintain healthy endothelial cells (those lining the body’s interior surfaces), and regulates cell growth and division such as needed for reproduction.
+The two main forms of vitamin A in the human diet are preformed vitamin A (retinol, retinyl esters), and provitamin A carotenoids such as alpha-carotene and beta-carotene that are converted to retinol. Preformed vitamin A comes from animal products, fortified foods, and vitamin supplements. Carotenoids are found naturally in plant foods. There are other types of carotenoids found in food that are not converted to vitamin A but have health-promoting properties; these include lycopene, lutein, and zeaxanthin.
+
+Recommended Amounts
+Vitamin A is currently listed on the Nutrition Facts label measured in international units (IU). However, the Institute of Medicine lists the Recommended Dietary Allowances (RDA) of vitamin A in micrograms (mcg) of retinol activity equivalents (RAE) to account for different absorption rates of preformed vitamin A and provitamin A carotenoids. Under the Food and Drug Administration’s (FDA) new food and dietary supplement labeling regulations, as of July 2018 large companies will no longer list vitamin A as IU but as “mcg RAE.” [1]
+RDA:   The Recommended Dietary Allowance for adults 19 years and older is 900 mcg RAE for men (equivalent to 3,000 IU) and 700 mcg RAE for women (equivalent to 2,333 IU).
+UL:    The Tolerable Upper Intake Level is the maximum daily intake unlikely to cause harmful effects on health. The UL for vitamin A from retinol is 3,000 micrograms of preformed vitamin A.
+
+Vitamin A and Health
+The evidence suggests that eating a variety of foods rich in vitamin A, especially  fruits and vegetables , is protective from certain diseases, though the health benefit of vitamin A supplements is less clear.
+Lung Cancer:  Observational studies following nonsmokers and current or former smokers have found that higher intakes of carotenoids from fruits and vegetables are associated with a lower risk of lung cancer. However, three large clinical trials did not find that supplements of beta-carotene and vitamin A helped to prevent or reduce lung cancer risk. In fact, two of those three trials actually found a significant increase in lung cancer risk among study participants taking supplements with beta-carotene or retinyl palmitate (a form of vitamin A). [1] Therefore, it is recommended that current or former smokers and workers exposed to asbestos do not use high-dose beta-carotene and retinyl palmitate supplements. Additionally, based on current evidence the U.S. Preventive Services Task Force advises against the use of beta-carotene supplements for the prevention of any cancer, stating that there is potentially greater harm in using these supplements than any suggested benefit. [2]  Prostate Cancer:  Lycopene is a carotenoid that gives fruits and vegetables a pink or red hue, as in tomatoes and grapefruit. There has been interest in lycopene’s effects on cancer due to its antioxidant properties. Observational studies have noted a decreased risk of prostate cancer in men who eat high amounts of fruits and vegetables. Unfortunately, studies have not provided a clear answer specific to lycopene. Observational studies and clinical trials have shown either a protective effect of lycopene-rich foods (specifically tomatoes) or supplements, or no effect. [3] A Harvard study of more than 51,000 men from the Health Professionals Follow-up Study found a protective effect from advanced stages of prostate cancer in those with higher intakes of tomato sauce. [4] A 2015 meta-analysis of 26 studies found that higher lycopene intakes appeared protective from prostate cancer incidence. [5] However, an FDA review stated that definite conclusions about lycopene could not be made, one reason being that accurate reporting of lycopene intake is difficult due to variations in lycopene content during cooking and storage. [6] Another was that lycopene-rich foods often contain other cancer-protective compounds, so it would be difficult to isolate any health benefits to lycopene
+The randomized controlled Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) trial examines the effects of the MIND diet to prevent cognitive decline. It found that higher blood levels of alpha-carotene (a form of vitamin A that includes lutein and zeaxanthin) were associated with better cognition (e.g., memory, learning, attention) in participants at risk for cognitive decline. [7] Foods contributing to higher alpha-carotene levels included fruits, and green leafy and orange vegetables.
+Age-related macular degeneration  (AMD) is a common painless eye condition but a leading cause of vision loss among people age 50 and older. It distorts the sharp, central vision needed to see fine details such as for reading and driving. The exact cause is unclear but oxidative stress is believed to play a role. Smokers and those with poor diets lacking fruits and vegetables have a higher risk of developing AMD. Lutein and zeaxanthin are two carotenoids with protective antioxidant effects that are found in the retina, the eye tissue that is damaged by AMD. Studies have looked to see if supplements containing lutein and zeaxanthin, as well as beta-carotene, might be useful for preventing or treating this condition. The NIH-funded Age-Related Eye Disease Studies (AREDS, AREDS2) found that daily intakes of high-dose vitamins including vitamins C and E and lutein and zeaxanthin slowed the progression of intermediate and late-stage AMD, particularly in participants who ate the lowest amounts of carotenoids. [8,9] Beta-carotene was not found to be protective.
+
+Food Sources
+Many breakfast cereals, juices, dairy products, and other foods are fortified with retinol (preformed vitamin A). Many  fruits and vegetables  and some supplements contain beta-carotene, lycopene, lutein, or zeaxanthin.
+Leafy green vegetables ( kale , spinach, broccoli), orange and yellow vegetables (carrots,  sweet potatoes , pumpkin and other  winter squash , summer squash)
+Tomatoes
+Red bell pepper
+Cantaloupe, mango
+Beef liver
+Fish oils
+Milk
+Eggs
+Fortified foods
+
+Signs of Deficiency and Toxicity
+Deficiency Vitamin A deficiency is rare in Western countries but may occur. Conditions that interfere with normal digestion can lead to vitamin A malabsorption such as celiac disease, Crohn’s disease, cirrhosis, alcoholism, and cystic fibrosis. Also at risk are adults and children who eat a very limited diet due to poverty or self-restriction.  Mild vitamin A deficiency may cause fatigue, susceptibility to infections, and infertility. The following are signs of a more serious deficiency.
+Xerophthalmia, a severe dryness of the eye that if untreated can lead to blindness
+Nyctalopia or night blindness
+Irregular patches on the white of the eyes
+Dry skin or hair
+Toxicity Vitamin A toxicity may be more common in the U.S. than a deficiency, due to high doses of preformed vitamin A (retinol) found in some supplements. Vitamin A is also fat-soluble, meaning that any amount not immediately needed by the body is absorbed and stored in fat tissue or the liver. If too much is stored, it can become toxic. The tolerable upper intake of 3,000 mcg of preformed vitamin A, more than three times the current recommended daily level, is thought to be safe. However, there is some evidence that this much preformed vitamin A might increase the risk of bone loss, hip fracture [10-12], or some birth defects. [13] Another reason to avoid too much preformed vitamin A is that it may interfere with the beneficial actions of  vitamin D . Signs of toxicity include the following.
+Vision changes such as blurry sight
+Bone pain
+Nausea and vomiting
+Dry skin
+Sensitivity to bright light like sunlight
+In contrast to preformed vitamin A, beta-carotene is not toxic even at high levels of intake. The body can form vitamin A from beta-carotene as needed, and there is no need to monitor intake levels as with preformed vitamin A. Therefore, it is preferable to choose a multivitamin supplement that has all or the vast majority of its vitamin A in the form of beta-carotene; many multivitamin manufacturers have already reduced the amount of preformed vitamin A in their products. However, there is no strong reason for most people to take individual high-dose beta-carotene supplements. Smokers in particular should avoid these, since some randomized trials in smokers have linked high-dose supplements with increased lung cancer risk. [14-16]
+
+Did You Know?
+Sometimes people take cod liver oil for vitamin D but may not be aware it is also very high in vitamin A, beyond the RDA at 192%, in the same synthetic form as in supplements (retinyl palmitate). So if you use cod liver oil, make sure your other supplements do not contain extra vitamin A. Other forms of fish oil supplements typically do not contain significant amounts of vitamin A, but always check the label.
+There have been claims that vitamin A (in the form of retinol or retinyl palmitate) added to some sunscreens, moisturizers, and lip balms can cause vitamin A toxicity or cancer if used excessively. However, there has not been evidence to date to support this. Vitamin A in topical creams is not absorbed into the bloodstream and therefore would not contribute to toxic levels. The concern with cancer stemmed from studies in mice conducted by the FDA. [17] The results showed increased oxidative stress (a potential precursor to cancer) in cancer cells exposed to retinyl palmitate and ultraviolet light. After review of these and other studies, a statement from the American Academy of Dermatology asserted, “Based on the current available data from in vitro, animal and human studies, there is no convincing evidence to support the notion that retinyl palmitate in sunscreens causes cancer.” [18] They cited the high susceptibility of mice to skin cancer after ultraviolet exposure, even in the absence of retinyl palmitate, and therefore the results of these animal studies should not be applied to humans.
+ 
+ Retinoids in skin creams can cause skin to become highly sensitive to bright light, so it is advised to apply vitamin A creams at night and to avoid strong sun after their use.
+Retinoids in skin creams can cause skin to become highly sensitive to bright light, so it is advised to apply vitamin A creams at night and to avoid strong sun after their use.
+
+Related
+Vitamins and Minerals
+National Institutes of Health Office of Dietary Supplements: Vitamin A Fact Sheet for Health Professionals  https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/#en24 . Accessed 6/18/2018.
+U.S Preventive Services Task Force, Mangione CM, Barry MJ, Nicholson WK, Cabana M, Chelmow D, Coker TR, Davis EM, Donahue KE, Doubeni CA, Jaén CR, Kubik M, Li L, Ogedegbe G, Pbert L, Ruiz JM, Stevermer J, Wong JB. Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer: US Preventive Services Task Force Recommendation Statement.  JAMA . 2022 Jun 21;327(23):2326-2333.
+National Cancer Institute. Prostate Cancer, Nutrition, and Dietary Supplements (PDQ®)–Health Professional Version: Lycopene.  https://cancer.gov/about-cancer/treatment/cam/hp/prostate-supplements-pdq#section/_16 . Accessed 6/18/2018.
+Giovannucci, E., et al. Risk factors for prostate cancer incidence and progression in the health professionals follow-up study.  Int J Cancer , 2007. 121(7): p. 1571-8.
+Chen P, Zhang W, Wang X, Zhao K, Negi DS, Zhuo L, Qi M, Wang X, Zhang X. Lycopene and Risk of Prostate Cancer: A Systematic Review and Meta-Analysis.  Medicine . 2015 Aug;94(33):e1260.
+Kavanaugh CJ1, Trumbo PR, Ellwood KC. The U.S. Food and Drug Administration’s evidence-based review for qualified health claims: tomatoes, lycopene, and cancer.  J Natl Cancer Inst . 2007 Jul 18;99(14):1074-85. Epub 2007 Jul 10.
+Liu X, Dhana K, Furtado JD, Agarwal P, Aggarwal NT, Tangney C, Laranjo N, Carey V, Barnes LL, Sacks FM. Higher circulating α-carotene was associated with better cognitive function: an evaluation among the MIND trial participants.  Journal of Nutritional Science . 2021;10:e64.
+Age-Related Eye Disease Study Research Group. A randomized, placebo-controlled, clinical trial of high-dose supplementation with vitamins C and E, beta carotene, and zinc for age-related macular degeneration and vision loss: AREDS report no. 8.   Arch Ophthalmol . 2001;119(10):1417-1436.
+Age-Related Eye Disease Study 2 Research Group. Lutein + zeaxanthin and omega-3 fatty acids for age-related macular degeneration: the Age-Related Eye Disease Study 2 (AREDS2) randomized clinical trial.  JAMA . 2013 May 15;309(19):2005-15.
+Feskanich D, Singh V, Willett WC, Colditz GA. Vitamin A intake and hip fractures among postmenopausal women.  JAMA . 2002; 287:47-54.
+Michaelsson K, Lithell H, Vessby B, Melhus H. Serum retinol levels and the risk of fracture. N Engl J Med. 2003; 348:287-94.
+Penniston KL, Tanumihardjo SA. The acute and chronic toxic effects of vitamin A.  Am J Clin Nutr . 2006; 83:191-201.
+Azais-Braesco V, Pascal G. Vitamin A in pregnancy: requirements and safety limits.  Am J Clin Nutr . 2000; 71:1325S-33S.
+Omenn GS, Goodman GE, Thornquist MD, et al. Effects of a combination of beta carotene and vitamin A on lung cancer and cardiovascular disease.  N Engl J Med . 1996; 334:1150-5.
+Albanes D, Heinonen OP, Taylor PR, et al. Alpha-tocopherol and beta-carotene supplements and lung cancer incidence in the alpha-tocopherol, beta-carotene cancer prevention study: effects of base-line characteristics and study compliance.  J Natl Cancer Inst . 1996; 88:1560-70.
+Virtamo J, Pietinen P, Huttunen JK, et al. Incidence of cancer and mortality following alpha-tocopherol and beta-carotene supplementation: a postintervention follow-up.  JAMA . 2003; 290:476-85.
+Xia Q1, Yin JJ, Wamer WG, Cherng SH, Boudreau MD, Howard PC, Yu H, Fu PP. Photoirradiation of retinyl palmitate in ethanol with ultraviolet light–formation of photodecomposition products, reactive oxygen species, and lipid peroxides.  Int J Environ Res Public Health . 2006 Jun;3(2):185-90.
+American Academy of Dermatology press release. Analysis finds sunscreens containing retinyl palmitate do not cause skin cancer. August 10, 2010.  https://aad.org/media/news-releases/analysis-finds-sunscreens-containing-retinyl-palmitate-do-not-cause-skin-cancer . Accessed 6/25/2018.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/#ref17
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/food-features/kale/
+https://nutritionsource.hsph.harvard.edu/food-features/sweet-potatoes/
+https://nutritionsource.hsph.harvard.edu/food-features/winter-squash/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/milk/
+https://hsph.harvard.edu/nutritionsource/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vitamins/vitamin-d/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/#en24
+https://cancer.gov/about-cancer/treatment/cam/hp/prostate-supplements-pdq#section/_16
+https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.22788
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4616444/
+https://academic.oup.com/jnci/article-abstract/99/14/1074/937795
+https://www.cambridge.org/core/journals/journal-of-nutritional-science/article/higher-circulating-carotene-was-associated-with-better-cognitive-function-an-evaluation-among-the-mind-trial-participants/223C89BE66D71283A7132076182472B9
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1462955/
+http://utah.pure.elsevier.com/en/publications/lutein-zeaxanthin-and-omega-3-fatty-acids-for-age-related-macular
+https://jamanetwork.com/journals/jama/fullarticle/194525
+https://academic.oup.com/ajcn/article-abstract/83/2/191/4649798
+https://academic.oup.com/ajcn/article-abstract/71/5/1325S/4729494
+https://www.nejm.org/doi/full/10.1056/nejm199605023341802
+https://academic.oup.com/jnci/article-abstract/88/21/1560/928511
+https://europepmc.org/abstract/med/12876090/reload=0
+https://www.mdpi.com/1660-4601/3/2/185htm
+https://aad.org/media/news-releases/analysis-finds-sunscreens-containing-retinyl-palmitate-do-not-cause-skin-cancer

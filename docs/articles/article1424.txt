@@ -1,0 +1,212 @@
+Title: Are Pesticides in Foods Harming Your Health?
+
+The WHO, USDA, and FDA limit pesticide levels based on past studies of long-term human health and exposure. There are possible negative health effects, but this shouldn’t stop you from enjoying the health benefits of treated foods.
+Many people worry about pesticides in foods.
+Pesticides are used to reduce damage to crops from weeds, rodents, insects, and germs, which increases the yield of fruits, vegetables, and other crops.
+This article focuses on pesticide residues, or the pesticides found on the surface of fruits and vegetables when they are purchased as groceries.
+It explores the most common types of pesticides used in modern farming and whether their residues affect human health.
+
+What are pesticides?
+In the broadest sense, pesticides are chemicals used to control any organism that might invade or damage crops, food stores, or homes.
+Because there are many kinds of potential pests, there are several kinds of pesticides. The following are some examples:
+Insecticides.  These pesticides reduce destruction and contamination of growing and harvested crops by insects and their eggs.
+Herbicides.  Also known as weed killers, herbicides improve crop yields.
+Rodenticides.  These are important for controlling destruction and contamination of crops by vermin and rodent-borne diseases.
+Fungicides.  This type of pesticide is especially important for protecting harvested crops and seeds from fungal rot.
+For many years, the use of pesticides was largely unregulated. However, the impact pesticides have on the environment and human health has been under greater scrutiny since the publication of “Silent Spring” by Rachel Carson in 1962.
+The ideal pesticide would destroy its target pest without causing any negative effects to humans, non-target plants, animals, and the environment. However, pesticides are not perfect, and their use can have health and environmental effects.
+Pesticides aim to destroy pests without negatively affecting humans and the environment. Pesticides have gotten better over time, but none are perfect at providing pest control without side effects.
+
+Types of pesticides
+Pesticides may be synthetic, meaning they’re created in industrial labs, or organic.
+Organic pesticides, or biopesticides, are naturally occurring chemicals, but they may be reproduced in labs for use in organic farming.
+Synthetic pesticides are designed to:
+be stable
+have a good shelf life
+be easy to distribute
+They are also designed to be effective at targeting pests and to have low toxicity to non-target animals and the environment.
+Classes of synthetic pesticides include the following ( 1 ):
+Organophosphates.  These are insecticides that target the nervous system. Several of them have been banned or restricted due to toxic accidental exposures.
+Carbamates.  This type of insecticide affects the nervous system similarly to organophosphates but is less toxic, as the effects wear off more quickly.
+Pyrethroids.  These affect the nervous system and are a laboratory-produced version of a natural pesticide that’s found in chrysanthemums.
+Organochlorines.  These insecticides, which include dichlorodiphenyltrichloroethane (DDT), have been largely banned or restricted due to negative effects on the environment.
+Neonicotinoids.  This type of insecticide is used on leaves and trees and is currently under scrutiny by the Environmental Protection Agency (EPA) for reports of unintended harm to bees.
+Glyphosate.  Also known as a product called Roundup, this herbicide has become important in farming genetically modified crops.
+Organic farming  makes use of biopesticides, or naturally occurring pesticide chemicals that have evolved in plants.
+There are too many types to outline here, but the EPA has published a list of  registered biopesticides .
+Also, the U.S. Department of Agriculture maintains a  national list  of approved synthetic and restricted organic pesticides.
+Here are a few examples of important organic pesticides:
+Rotenone.  This is an insecticide used in combination with other organic pesticides. It’s naturally produced as a beetle deterrent by several tropical plants and is notoriously toxic to fish.
+Copper sulfate.  This pesticide destroys fungi and some weeds. Although it’s classified as a biopesticide, it’s industrially produced and can be toxic to humans and the environment at high levels.
+Horticultural oils.  This refers to oil extracts from various plants with anti-insect effects. These differ in their ingredients and potential side effects. Some can harm beneficial insects like bees ( 2 ).
+Bt toxin.  Produced by bacteria and effective against several kinds of insects, Bt toxin has been introduced into some types of genetically modified organism (GMO) crops.
+This list is not comprehensive, but it illustrates two important concepts.
+First, “organic” does not mean “pesticide-free.” Rather, it refers to specialized kinds of pesticides that occur in nature and are used instead of synthetic pesticides.
+Second, “natural” does not mean “non-toxic.” Like synthetic pesticides, organic pesticides can also be harmful to your health and the environment.
+Synthetic pesticides are created in labs. Organic or biopesticides are created in nature but may be reproduced in labs. Although natural, these are not always safe for humans or the environment.
+
+How are pesticide levels in foods regulated?
+Multiple kinds of studies are used to understand what levels of pesticides are harmful.
+Some examples include measuring levels in people who were accidentally exposed to too much pesticide, animal testing, and studying the long-term health of people who use pesticides in their jobs.
+This information is combined to create limits for safe exposures.
+For example, the lowest dose of a pesticide causing even the most subtle symptom is called the “lowest observed adverse effect level,” or LOAEL. The term “no observed adverse effect level,” or NOAEL, is also sometimes used ( 3 ).
+Organizations like the World Health Organization, European Food Safety Authority, U.S. Department of Agriculture, and Food and Drug Administration use this information to create a threshold for exposure that is considered safe.
+To do this, they add an extra cushion of safety by setting thresholds 100–1,000 times lower than the LOAEL or NOAEL ( 3 ).
+Several regulatory organizations establish safety limits for pesticides in the food supply. These limits are very conservative, restricting pesticides to many times lower than the lowest dose known to cause harm.
+
+How reliable are the safety limits?
+There are several issues with the tools and procedures used to determine safety limits for pesticide use.
+For starters, some researchers have pointed out that regulatory agencies often rely on incomplete or inconsistent data to establish pesticide safety limits ( 4 ).
+According to one report, the EPA originally set the NOAEL for chlorpyrifos, a controversial insecticide, at 0.03 mg/kg. However, after another analysis was performed using additional data that was omitted from the initial report, researchers determined that the correct NOAEL was actually much lower, at 0.014 mg/kg ( 5 ).
+Many regulatory authorities also depend on data supplied from industry-funded studies to determine toxicity levels, which are often misleading and may have a higher likelihood of bias ( 6 ).
+Another issue with pesticide safety limits is that some pesticides — synthetic and organic — contain heavy metals like copper, which build up in the body over time.
+In fact, one study in 162 people found that vineyard farmers had 2–4 times higher levels of heavy metals like lead, zinc, and copper in their blood due to pesticide use compared with a control group ( 7 ).
+On the other hand, a study of soil in India found that pesticide use did not result in higher levels of heavy metals than those found in pesticide-free soil ( 8 ).
+Another criticism is that some of the more subtle, chronic health effects of pesticides may not be detectable by the types of studies used to establish safe limits.
+For this reason, ongoing monitoring of health outcomes in groups with unusually high exposures is important to help refine regulations.
+Violations of these safety thresholds are relatively uncommon. A Canadian study evaluated the amount of glyphosate in 3,188 samples of fruits, vegetables, grains, and baby foods and found that only 1.3% were above the maximum residue level ( 9 ).
+Furthermore, a 2015 report from the European Union found that 97.2% of food samples were free of quantifiable pesticide residues or were within the legally permitted amounts ( 10 ).
+Pesticide safety limits are often established using incomplete data or industry-funded studies. Although more research is needed, pesticide use may also contribute to the buildup of heavy metals in the body, and other long-term health effects of pesticides can be difficult to detect.
+
+What are the health effects of high pesticide exposure?
+Both synthetic and organic biopesticides have harmful health effects at doses higher than those typically found in fruits and vegetables.
+For instance, one review found that pesticide exposure may be associated with a higher risk of Parkinson’s disease and could alter specific genes involved in its development ( 11 ).
+Similarly, an analysis of seven studies also found that pesticide exposure could be linked to an increased risk of Alzheimer’s disease ( 12 ).
+What’s more, some research also shows that pesticide use may be associated with certain types of cancer.
+According to one study in over 30,000 female spouses of pesticide applicators, increased exposure to organophosphates was linked to a significantly higher risk for hormone-related cancers, such as breast, thyroid, and ovarian cancer ( 13 ).
+Another review of human, animal, and test-tube studies had similar findings, reporting that exposure to organophosphate pesticides like malathion, terbufos, and chlorpyrifos may be associated with a higher risk of developing breast cancer over time ( 14 ).
+Some studies have also found that pesticide use may be tied to an increased risk of several other types of cancer, including prostate, lung, and liver cancer ( 15 ,  16 ,  17 ).
+Increased exposure to pesticides may be linked to a higher risk of Parkinson’s disease, Alzheimer’s disease, and several types of cancer.
+
+What are the effects of pesticide exposure in children?
+Studies suggest that pesticide use may have several negative effects on children in particular.
+In fact, accidental exposures to high levels of pesticides in children are associated with cancer, attention deficit hyperactivity disorder (ADHD), and autism ( 18 ,  19 ).
+Plus, according to one review, even low levels of pesticide exposure could negatively affect neurological and behavioral development in children ( 20 ).
+One older study involving 1,139 children found a 50–90% increased chance of ADHD in children with the highest urine levels of pesticides compared with those with the lowest urine levels ( 21 ).
+In this study, it was unclear whether the pesticides detected in urine were from produce or other environmental exposures, such as living near a farm.
+Another study showed that prenatal exposure to certain types of pesticides was associated with a higher chance for autism spectrum disorder, especially if exposure occurred within the first year of life ( 22 ).
+On the other hand, a 2013 study showed no negative health effects in 350 infants born to women with higher urine pesticide levels during pregnancy, compared with mothers with lower pesticide levels ( 23 ).
+Some studies show that pesticide exposure could be linked to a higher chance of being diagnosed with cancer, ADHD, and autism spectrum disorder, although more research is needed.
+
+How much pesticide is on food?
+The World Health Organization developed a comprehensive review of pesticides. ( 24 ).
+One study showed 3% of Polish apples contained pesticide levels above the legal safety limit for pesticides on food. However, the levels were not high enough to cause harm, even in children. ( 25 ).
+In a review published by the European Union, approximately 2.8% of food samples tested contained pesticide residues above the legally permitted amounts ( 10 ).
+Similarly, a Canadian report found that 1.3% of the food samples they tested were above the maximum residue level for glyphosate ( 9 ).
+Still, because there are several issues with the safety limits regulatory organizations have established, it’s unclear how the amount of pesticide found on food could impact long-term health.
+The levels of pesticides can be reduced by cooking or processing foods. Peeling or trimming fruits and vegetables can also remove pesticide residues from the outer skin, although it may also decrease the nutritional value ( 26 ,  27 ).
+One 2010 review study found that pesticide levels were reduced by 10–80% by a variety of cooking and food processing methods ( 28 ).
+Another analysis found that washing with tap water (even without special soaps or detergents) reduces pesticide levels by 60–70% ( 29 ).
+Still, washing produce with water may not be the most effective method for removing pesticide residue, as pesticides often penetrate deep into fruits and vegetables and may require the use of commercial cleaning solutions ( 27 ,  30 ).
+Pesticide levels in conventional produce are almost always below their safety limits. They can be reduced further by cooking, processing, or peeling foods.
+
+Are there fewer pesticides in organic foods?
+Not surprisingly, organic produce has lower levels of synthetic pesticides, which translates into lower synthetic pesticide levels in the body ( 31 ).
+One study in over 4,400 adults showed those reporting at least moderate use of organic produce had lower synthetic pesticide levels in their urine ( 32 ).
+However, organic produce contains higher levels of biopesticides.
+One older study of olives and olive oils using organic pesticides found increased levels of the biopesticides rotenone, azadirachtin, pyrethrin, and copper fungicides ( 33 ).
+These organic pesticides also have negative environmental effects, which, in some cases, are worse than synthetic alternatives ( 34 ).
+Some people argue that synthetic pesticides may be more harmful over time because they are designed to have a greater shelf life and may last longer in the body and environment.
+This is sometimes true. Nevertheless, there are multiple examples of organic pesticides that persist as long or longer than the average synthetic pesticide ( 35 ).
+An opposing viewpoint is that organic biopesticides are usually less effective than synthetic pesticides, causing farmers to use them more often and at higher doses.
+In fact, in one older study, while synthetic pesticides exceeded safety thresholds in 4% or less of produce, rotenone and copper levels were consistently above their safety limits ( 33 ,  36 ).
+Overall, the potential harm from synthetic and organic biopesticides depends on the specific pesticide and the dose.
+Organic produce contains fewer synthetic pesticides but more organic biopesticides. Biopesticides are not necessarily safer and may have negative effects on the environment.
+
+Are there fewer pesticides in GMOs?
+GMOs  are crops that have had genes added to them to enhance their growth, versatility, or natural pest resistance ( 37 ).
+Historically, wild plants were bred to have better characteristics for farming by selectively planting only the most ideal plants available.
+This form of genetic selection has been used in every plant and animal in our world’s food supply.
+With breeding, changes are made gradually over many generations, and exactly why a plant becomes more resilient is a mystery. While a plant is selected for a certain trait, the genetic change that caused this trait is not visible to the breeders.
+GMOs accelerate this process by using scientific techniques to give the target plant a specific genetic trait. The expected result is known in advance, as in the modification of corn to produce the insecticide Bt toxin ( 38 ).
+Because GMO crops naturally have increased resistance, they require fewer pesticides for successful farming ( 39 ).
+This probably doesn’t benefit people eating produce, since the risk of pesticides on food is low. Yet, GMOs may reduce the harmful environmental and occupational health effects of both synthetic and organic biopesticides.
+Multiple comprehensive reviews of both human and animal studies conclude there is limited evidence to suggest that GMOs are harmful to health ( 39 ,  40 ,  41 ,  42 ).
+Some concern has been raised that GMOs that are resistant to  glyphosate (Roundup)  encourage the use of this herbicide in higher levels.
+While one study suggested that high levels of glyphosate can promote cancer in lab animals, these levels were far higher than those consumed in GMO produce and even those of occupational or environmental exposures ( 43 ).
+Still, while research is mixed on the effects of glyphosate on cancer, the International Agency for Research on Cancer has classified it as a probable human carcinogen ( 43 ,  44 ).
+GMOs require fewer pesticides. This reduces the risk of pesticide damage to farmers, harvesters, and people living near farms. Many studies consistently demonstrate that GMOs are safe.
+
+Should you avoid foods using pesticides?
+Many people may choose to avoid pesticides for environmental reasons or due to concerns about the potential long-term health risks of pesticide exposure.
+Limiting pesticide exposure may be especially important for children, as pesticides can have damaging effects on growth and development ( 20 ).
+Cooking and peeling produce can be a simple way to decrease pesticide levels. You can also try growing your own fruits and vegetables at home or shopping at local farmers markets and inquiring about their pest control methods.
+Each year, the Environmental Working Group (EWG) also publishes “The Dirty Dozen,” which is a ranking of pesticide levels of popular fruits and vegetables to help consumers make more informed choices.
+However, keep in mind that there is overwhelming scientific evidence that eating lots of  fruits  and vegetables has many health benefits, regardless of whether produce is organic or conventional ( 45 ).
+Therefore, you shouldn’t avoid eating fresh fruits and vegetables altogether due to concerns about pesticide exposure.
+Instead, making smart choices and practicing proper food preparation can help you enjoy the many benefits of fruits and vegetables while also minimizing the risks associated with pesticides.
+Some may choose to avoid pesticides due to environmental or health concerns. There are several strategies you can use to help reduce your exposure to pesticides while also eating plenty of fruits and vegetables.
+
+The bottom line
+Pesticides are commonly used in modern food production to improve crop yields by controlling weeds, insects, and other threats to produce.
+However, both synthetic and organic biopesticides can have negative effects on health and the environment.
+Furthermore, there are issues with many of the methods used to establish safety limits for pesticides in the food supply and the long-term effects of pesticide exposure are unclear.
+Still, fruits and vegetables are highly nutritious and offer many health benefits when enjoyed as part of a balanced diet, regardless of whether they are organic or conventionally grown.
+Making smarter shopping choices, cooking and peeling produce, and opting for fruits and vegetables that contain lower amounts of pesticide residue are a few strategies you can use to help reduce your exposure to pesticides.
+
+References:
+
+https://www.epa.gov/ingredients-used-pesticide-products/chemically-related-groups-active-ingredients
+https://www.healthline.com/nutrition/what-is-organic-food
+https://www.epa.gov/ingredients-used-pesticide-products/biopesticide-active-ingredients
+https://www.ams.usda.gov/rules-regulations/organic/national-list
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31144182/
+https://www.ncbi.nlm.nih.gov/pubmed/18585444
+https://www.ncbi.nlm.nih.gov/pubmed/18585444
+https://www.ncbi.nlm.nih.gov/pubmed/18585444
+https://www.researchgate.net/publication/340680382_Achieving_a_High_Level_of_Protection_from_Pesticides_in_Europe_Problems_with_the_Current_Risk_Assessment_Procedure_and_Solutions
+https://www.researchgate.net/publication/340680382_Achieving_a_High_Level_of_Protection_from_Pesticides_in_Europe_Problems_with_the_Current_Risk_Assessment_Procedure_and_Solutions
+https://www.sciencedirect.com/science/article/pii/S0160412020318602
+https://www.healthline.comhttps://ehjournal.biomedcentral.com/articles/10.1186/s12940-018-0421-y
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/25549625/
+http://www.iosrjournals.org/iosr-jestft/papers/vol8-issue7/Version-2/I08724654.pdf
+https://www.healthline.comhttps://inspection.canada.ca/food-safety-for-industry/food-chemistry-and-microbiology/food-safety-testing-bulletin-and-reports/executive-summary/glyphosate-testing/eng/1491846907641/1491846907985
+https://www.efsa.europa.eu/en/efsajournal/pub/4791
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28412655/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007474/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26150671/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32668751/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27244877/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/27384818/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28194594/
+https://www.healthline.comhttp://pediatrics.aappublications.org/content/pediatrics/130/6/e1757.full.pdf
+https://www.ncbi.nlm.nih.gov/pubmed/25199954
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4247335/
+https://www.ncbi.nlm.nih.gov/pubmed/20478945/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30894343/
+https://www.ncbi.nlm.nih.gov/pubmed/24034442
+https://www.who.int/foodsafety/areas_work/chemical-risks/JMPR_2019_Sep_Report.pdf
+https://www.ncbi.nlm.nih.gov/pubmed/25260164
+https://www.efsa.europa.eu/en/efsajournal/pub/4791
+https://www.healthline.comhttps://inspection.canada.ca/food-safety-for-industry/food-chemistry-and-microbiology/food-safety-testing-bulletin-and-reports/executive-summary/glyphosate-testing/eng/1491846907641/1491846907985
+https://www.ncbi.nlm.nih.gov/pubmed/24493878
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29067814/
+https://www.ncbi.nlm.nih.gov/pubmed/19879312
+https://www.ncbi.nlm.nih.gov/pubmed/19879312
+https://www.ncbi.nlm.nih.gov/pubmed/25005864
+https://www.ncbi.nlm.nih.gov/pubmed/25005864
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29067814/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6388112/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/29190113/
+https://www.ncbi.nlm.nih.gov/pubmed/25650532
+http://www.tandfonline.com/doi/abs/10.1080/02652030802562938
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390794/
+http://www.sciencedirect.com/science/article/pii/S0261219404000274
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.1750-3841.2006.00196.x/full
+http://www.tandfonline.com/doi/abs/10.1080/02652030802562938
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/j.1750-3841.2006.00196.x/full
+https://www.healthline.com/nutrition/gmos-good-or-bad
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6173531/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/33084486/
+http://www.who.int/foodsafety/areas_work/food-technology/faq-genetically-modified-food/en/
+http://www.who.int/foodsafety/areas_work/food-technology/faq-genetically-modified-food/en/
+https://www.aaas.org/sites/default/files/AAAS_GM_statement.pdf
+https://www.nap.edu/catalog/10977/safety-of-genetically-engineered-foods-approaches-to-assessing-unintended-health
+http://www.sciencedirect.com/science/article/pii/S0278691511006399
+https://www.healthline.com/nutrition/roundup-glyphosate-and-health
+https://www.ncbi.nlm.nih.gov/pubmed/28374158
+https://www.ncbi.nlm.nih.gov/pubmed/28374158
+https://www.bmj.com/content/365/bmj.l1613
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4247335/
+https://www.healthline.com/nutrition/is-fruit-good-or-bad-for-your-health
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/31267783/

@@ -1,0 +1,121 @@
+Title: Calcium
+
+Calcium is a mineral most often associated with healthy bones and teeth, although it also plays an important role in blood clotting, helping muscles to contract, and regulating normal heart rhythms and nerve functions. About 99% of the body’s calcium is stored in bones, and the remaining 1% is found in blood, muscle, and other tissues.
+In order to perform these vital daily functions, the body works to keep a steady amount of calcium in the blood and tissues. If calcium levels drop too low in the blood, parathyroid hormone (PTH) will signal the bones to release calcium into the bloodstream. This hormone may also activate vitamin D to improve the absorption of calcium in the intestines. At the same time, PTH signals the kidneys to release less calcium in the urine. When the body has enough calcium, a different hormone called calcitonin works to do the opposite: it lowers calcium levels in the blood by stopping the release of calcium from bones and signaling the kidneys to rid more of it in the urine.
+The body gets the calcium it needs in two ways. One is by eating foods or supplements that contain calcium, and the other is by drawing from calcium in the body. If one does not eat enough calcium-containing foods, the body will remove calcium from bones. Ideally, the calcium that is “borrowed” from the bones will be replaced at a later point. But this doesn’t always happen, and can’t always be accomplished just by eating more calcium.
+
+Recommended Amounts
+The Recommended Dietary Allowance (RDA) for calcium for women 19-50 years of age is 1,000 mg daily; for women 51+, 1,200 mg. For pregnant and lactating women, the RDA is 1,000 mg. For men 19-70 years of age, the RDA is 1,000 mg; for men 71+ years, 1,200 mg. [1]
+
+Calcium and Health
+The reviews below specifically looked at the effect of calcium on various health conditions. Scroll down for links to more information on the health effect of specific foods rich in calcium.
+Several literature reviews on the topic of total calcium intake, from food and supplements, and blood pressure have suggested a possible link to lowering high blood pressure. However, problems with study designs in these analyses (small numbers of participants, differences among the people studied, and various biases in the types of studies included) prevent a new recommendation for the treatment of high blood pressure that would increase calcium intake above the Recommended Dietary Allowance. [2] Larger trials with longer duration are needed to clarify whether increased calcium intakes or the use of calcium supplements can lower high blood pressure.
+Some research has raised concerns about calcium supplements and  heart health . These studies found that taking calcium supplements increased the risk of cardiovascular events in men and women. It has been suggested that high-dose supplements can cause hypercalcemia (toxic level of calcium in the blood) that can cause blood to clot or the arteries to harden, leading to cardiovascular disease. The connection is not yet clear, but a clinical guideline published after review of the available research from the National Osteoporosis Foundation and the American Society for Preventive Cardiology stated that calcium from food or supplements has no relationship (beneficial or harmful) to cardiovascular disease in generally healthy adults. The guideline advises people not to exceed the Upper Limit for calcium, that is, 2,000-2,500 mg daily from food and supplements. [3]
+Calcium is one of the most important nutrients required for bone health. Bone is living tissue that is always in flux. Throughout the lifespan, bones are constantly being broken down and built up in a process known as remodeling. Bone cells called osteoblasts build bone, while other bone cells called osteoclasts break down bone if calcium is needed. In healthy individuals who get enough calcium and physical activity, bone production exceeds bone destruction up to about age 30. After that, destruction typically exceeds production. This is sometimes called  “negative calcium balance,” which can lead to bone loss. Women tend to experience greater bone loss than men later in life due to menopause, a condition that lowers the amount of hormones that help to build and preserve bone.
+Getting enough dietary calcium at all ages may help to slow the degree of bone loss, but calcium intakes at any level are not known to completely prevent bone loss. [4] Calcium is less easily absorbed at later ages, and therefore eating a very high amount of calcium will not always resolve the problem.
+Studies on calcium intake and bone density in postmenopausal women have mixed results. Possible reasons:
+The study only looked at calcium intakes from a supplement provided to the participants, and did not account for calcium from the diet or estimate the total amount of calcium from both food and supplements. [4]
+The study did not adjust for or track if women were also taking hormone replacement therapy or other vitamin supplements that can lessen bone less, such as vitamin D.
+Because the results of some large trials found that higher calcium intakes (usually achieved with a supplement) was associated with improved bone density and slightly lower risk of hip fractures, the RDA for calcium for postmenopausal women is higher than at younger ages. [5] Some studies suggest that frail elderly (80 years and older living in institutions) may benefit from supplementation more than “younger” elderly who live independently in the community. [6]
+A 2018 review of randomized controlled trials by the U.S. Preventive Services Task Force did not find that supplements with calcium and vitamin D taken for up to 7 years reduced the incidence of fractures in postmenopausal women. These women did not have osteoporosis or a vitamin D deficiency at the start of the study and lived independently in the community. The amount of calcium of the supplements ranged from 600-1,600 mg daily. [7]
+Epidemiological studies following people over time suggest a protective role of high calcium intakes (whether from food and/or supplements) from colorectal cancer. [8]
+However, randomized controlled trials using calcium supplements, with our without vitamin D, have shown mixed results. One reason may be a fairly short duration. Due to higher cost and difficulty with continued compliance from participants, clinical trials tend to be shorter in duration than epidemiological studies. But colorectal cancer can take 7-10 years or longer to develop, during which these trials might not reflect any changes in the colon.
+A Cochrane review of two well-designed double-blind placebo-controlled trials found that taking 1,200 mg of elemental calcium daily for about 4 years caused a 26% reduced incidence of new colorectal adenomas in participants, some of whom had had adenomas before. [9] An adenoma is a non-cancerous tumor but which can become cancerous.
+A randomized double-blind placebo-controlled trial from the Women’s Health Initiative gave 36,282 postmenopausal women two doses daily of 500 mg elemental calcium and 200 IU vitamin D, or placebo, for about 7 years. The trial did not find a difference in incidence of colorectal cancer between the two groups. [8] A follow-up to this study five years later (total of 11 years follow-up) also did not find a lower incidence of colorectal cancer with the same calcium and vitamin D supplement regimen. [10] It was noted in these studies that the women already had a high calcium intake at the start of the study, so additional supplements may not have made a difference.
+After a review of both cohort and clinical studies by the World Cancer Research Fund and the American Institute for Cancer Research, they reported strong evidence that calcium supplements of more than 200 mg daily and intake of high-calcium dairy foods will likely decrease the risk of colorectal cancer. [11] They noted possible causes including the ability of calcium to bind to certain toxic substances in the colon and prevent the growth of tumor cells. Certain bacteria in dairy foods may also be protective against the development of cancerous cells in the colon. [12]
+At one time, experts recommended that people with kidney stones limit their calcium intake because the mineral makes up one of the most common types of stones, called calcium-oxalate stones. What we know now is the reverse—that not eating enough calcium-rich foods can increase the risk of stone formation. Research from large trials including the Women’s Health Initiative and the Nurses’ Health Study found that a high intake of calcium foods decreased the risk for kidney stones in women. However the same effect is not true with supplements, as calcium in pill form was found to increase risk. [13,14]
+A benefit of calcium-rich foods (mainly from dairy) on the prevention of kidney stones was found in a cohort of 45,619 men. Intakes of skim or low-fat milk and cottage cheese or ricotta cheese showed the greatest protective effect. Men who drank two or more 8-ounce glasses of skim milk a day had 42% less risk of developing kidney stones as compared with men who drank less than one glass a month. Eating two or more half-cup servings of cottage cheese or ricotta cheese a week was associated with 30% less risk of kidney stones as compared with men who ate less than one serving a month. It is believed that calcium-rich foods reduce the formation of stones by lowering the absorption of oxalates, which make up calcium-oxalate stones. However, other undetermined components of dairy foods may also be responsible for the decreased risk. [15]
+
+Food Sources
+Calcium is widely available* in many foods, not just milk and other  dairy foods . Fruits, leafy greens, beans, nuts, and some starchy vegetables are good sources.
+Dairy (cow, goat, sheep) and fortified plant-based milks (almond, soy, rice)
+Cheese
+Yogurt
+Calcium-fortified orange juice
+Winter squash
+Edamame (young green  soybeans ); Tofu, made with calcium sulfate
+Canned sardines, salmon (with bones)
+Almonds
+Leafy greens (collard, mustard, turnip,  kale , bok choy, spinach)
+*Bioavailability of calcium
+For example, dairy foods have a bioavailablity of about 30% absorption so if a food label on milk lists 300 mg of calcium per cup, about 100 mg will be absorbed and used by the body. Plant foods like leafy greens contain less calcium overall but have a higher bioavailability than dairy. For example, bok choy contains about 160 mg of calcium per 1 cup cooked but has a higher bioavailability of 50%, so about 80 mg is absorbed. Therefore, eating 1 cup of cooked bok choy has almost as much bioavailable calcium as 1 cup of milk. Calcium-fortified orange juice and calcium-set tofu have a similar total amount of calcium and bioavailability as milk, while almonds have slightly lower total calcium and bioavailability of about 20%. This may be useful information for those who cannot eat dairy foods or who follow a vegan diet.
+A downside to some plant foods is that they contain naturally occurring plant substances, sometimes referred to as “ anti-nutrients .” Examples of anti-nutrients are oxalates and phytates that bind to calcium and decrease its bioavailablity. Spinach contains the most calcium of all the leafy greens at 260 mg of calcium per 1 cup cooked, but it is also high in oxalates, lowering the bioavailability so that only 5% or about 13 mg of calcium can be used by the body. The takeaway message is not to avoid spinach, which contains other valuable nutrients, but not to rely on spinach as a significant source of calcium since most of it will not be absorbed by the body. You can also schedule your meals so that you do not eat “calcium-binding” foods like spinach at the same meal as calcium-rich foods or with calcium supplements.
+If you are scanning food labels to reach a specific amount of daily calcium, continue to aim for the RDAs set for your age group and gender. The RDAs are established with an understanding of calcium bioavailability in food. Also keep in mind that the exact amount of calcium absorbed in the body will vary among individuals based on their metabolism and what other foods are eaten at the same meal. In general, eating a variety of calcium-rich foods can help to offset any small losses.
+
+Signs of Deficiency and Toxicity
+Deficiency
+Blood levels of calcium are tightly regulated. Bones will release calcium into the blood if the diet does not provide enough, and no symptoms usually occur. A more serious deficiency of calcium, called hypocalcemia, results from diseases such as kidney failure, surgeries of the digestive tract like gastric bypass, or medications like diuretics that interfere with absorption.
+Symptoms of hypocalcemia:
+Muscle cramps or weakness
+Numbness or tingling in fingers
+Abnormal heart rate
+Poor appetite
+A gradual, progressive calcium deficiency can occur in people who do not get enough dietary calcium in the long-term or who lose the ability to absorb calcium. The first early stage of bone loss is called osteopenia and, if untreated, osteoporosis follows. Examples of people at risk include:
+Postmenopausal women —Menopause lowers the amount of estrogen in the body, a hormone that helps to increase calcium absorption and retain the mineral in bones. Sometimes physicians may prescribe hormone replacement therapy (HRT) with estrogen and progesterone to prevent osteoporosis.
+Amenorrhea —A condition where menstrual periods stop early or are disrupted, and is often seen in younger women with anorexia nervosa or athletes who physically train at a very high level.
+Milk allergy or lactose intolerance— Occurs when the body cannot digest the sugar in milk, lactose, or the proteins in milk, casein or whey. Lactose intolerance can be genetic or acquired (not consuming lactose in the long-term may decrease the efficiency of lactase enzyme)
+After a diagnosis of osteoporosis, your physician may prescribe over-the-counter calcium supplements. However, there are several points to consider when using calcium supplements.
+First, clarify with your physician how much total calcium you should take daily. This amount includes calcium from food and supplements. The RDA for adults is between 1,000-1,200 mg daily, depending on age. Taking more than 2,000 mg daily is not recommended for adults even with osteoporosis, as this can potentially lead to other health problems. It is not recommended to take more than 1,200 mg daily, even with a diagnosis of osteoporosis.
+Taking too high an amount of calcium at one time, particularly from a supplement, can actually  lower  the absorption of the mineral. It is best to take no more than 500 mg at one time. If you are prescribed more than that, take each dose at least 4 hours apart. So if you are prescribed 1000 mg of calcium daily, you might take a 500 mg supplement with breakfast and then again at night with dinner.
+The two most common types of calcium supplements are in the form of calcium carbonate and calcium citrate. The carbonate form needs to be broken down by stomach acid before it can be absorbed, so it is usually taken with food; the citrate form does not require stomach acid and can be taken without food.
+If you are unsure about how much calcium you are getting from the diet, consult with a registered dietitian. You would subtract the estimated amount of calcium from food from the RDA or prescribed amount by your doctor; the remaining can be taken as a supplement. If you are eating a very high calcium diet f (e.g., several servings of dairy milk or fortified milk, cheese, tofu, etc. daily), inform your doctor so they can estimate that amount into your calcium prescription.
+Toxicity
+Too much calcium in the blood is called hypercalcemia. The Upper Limit (UL) for calcium is 2,500 mg daily from food and supplements. People over the age of 50 should not take more than 2,000 mg daily, especially from supplements, as this can increase risk of some conditions like kidney stones, prostate cancer, and constipation. Some research has shown that in certain people, calcium can accumulate in blood vessels with long-term high doses and cause heart problems. Calcium is also a large mineral that can block the absorption of other minerals like iron and zinc.
+Symptoms of hypercalcemia:
+Weakness, fatigue
+Nausea, vomiting
+Shortness of breath
+Chest pain
+Heart palpitations, irregular heart rate
+
+Did You Know?
+Certain nutrients and medications may increase your need for calcium because they either lower the absorption of calcium in the gut or cause more calcium to be excreted in the urine. These include: corticosteroids (example: prednisone), excess sodium in the diet, phosphoric acid such as found in dark cola sodas, excess alcohol, and oxalates (see  Are anti-nutrients harmful? ).
+
+Related
+Vitamins and Minerals
+Institute of Medicine (US) Committee to Review Dietary Reference Intakes for Vitamin D and Calcium; Ross AC, Taylor CL, Yaktine AL, et al., editors. Dietary Reference Intakes for Calcium and Vitamin D. Washington (DC): National Academies Press (US); 2011. 5, Dietary Reference Intakes for Adequacy: Calcium and Vitamin D. Available from:  https://www.ncbi.nlm.nih.gov/books/NBK56056/  Accessed 12/16/2019.
+Dickinson HO, Nicolson DJ, Cook JV, Campbell F, Beyer FR, Ford GA, Mason J. Calcium supplementation for the management of primary hypertension in adults.  Cochrane Database Syst Rev . 2006 Apr 19;(2):CD004639.
+Kopecky SL, Bauer DC, Gulati M, Nieves JW, Singer AJ, Toth PP, Underberg JA, Wallace TC, Weaver CM. Lack of evidence linking calcium with or without vitamin D supplementation to cardiovascular disease in generally healthy adults: a clinical guideline from the National Osteoporosis Foundation and the American Society for Preventive Cardiology.  Annals of internal medicine . 2016 Dec 20;165(12):867-8.
+Tang BM, Eslick GD, Nowson C, Smith C, Bensoussan A. Use of calcium or calcium in combination with vitamin D supplementation to prevent fractures and bone loss in people aged 50 years and older: a meta-analysis.  The Lancet . 2007 Aug 25;370(9588):657-66.
+Yao P, Bennett D, Mafham M, Lin X, Chen Z, Armitage J, Clarke R. Vitamin D and calcium for the prevention of fracture: a systematic review and meta-analysis.  JAMA network open . 2019 Dec 2;2(12):e1917789-.
+Kahwati LC, Weber RP, Pan H, Gourlay M, LeBlanc E, Coker-Schwimmer M, Viswanathan M. Vitamin D, calcium, or combined supplementation for the primary prevention of fractures in community-dwelling adults: evidence report and systematic review for the US Preventive Services Task Force.  JAMA . 2018 Apr 17;319(15):1600-12.
+Wactawski-Wende J, Kotchen JM, Anderson GL, Assaf AR, Brunner RL, O’sullivan MJ, Margolis KL, Ockene JK, Phillips L, Pottern L, Prentice RL. Calcium plus vitamin D supplementation and the risk of colorectal cancer.  New England Journal of Medicine . 2006 Feb 16;354(7):684-96.
+Weingarten MA, Zalmanovici A, Yaphe J. Dietary calcium supplementation for preventing colorectal cancer and adenomatous polyps.  Cochrane Database Syst Rev . 2008 Jan 23;(1):CD003548.
+Cauley JA, Chlebowski RT, Wactawski-Wende J, Robbins JA, Rodabough RJ, Chen Z, Johnson KC, O’Sullivan MJ, Jackson RD, Manson JE. Calcium plus vitamin D supplementation and health outcomes five years after active intervention ended: the Women’s Health Initiative.  Journal of women’s health . 2013 Nov 1;22(11):915-29.
+World Cancer Research Fund/American Institute for Cancer Research. Continuous Update Project Expert Report 2018. Diet, nutrition, physical activity and colorectal cancer.  https://www.wcrf.org/sites/default/files/Colorectal-cancer-report.pdf . Accessed 12/21/2019.
+Song M, Garrett WS, Chan AT. Nutrients, foods, and colorectal cancer prevention.  Gastroenterology . 2015 May 1;148(6):1244-60.
+Curhan GC, Willett WC, Speizer FE, Spiegelman D, Stampfer MJ. Comparison of dietary calcium with supplemental calcium and other nutrients as factors affecting the risk for kidney stones in women.  Annals of internal medicine . 1997 Apr 1;126(7):497-504.
+Sorensen MD, Kahn AJ, Reiner AP, Tseng TY, Shikany JM, Wallace RB, Chi T, Wactawski-Wende J, Jackson RD, O’Sullivan MJ, Sadetsky N. Impact of nutritional factors on incident kidney stone formation: a report from the WHI OS.  The Journal of urology . 2012 May;187(5):1645-50.
+Curhan GC, Willett WC, Rimm EB, Stampfer MJ. A prospective study of dietary calcium and other nutrients and the risk of symptomatic kidney stones.  New England Journal of Medicine . 1993 Mar 25;328(12):833-8.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/dairy/
+https://nutritionsource.hsph.harvard.edu/milk/
+https://nutritionsource.hsph.harvard.edu/cheese/
+https://nutritionsource.hsph.harvard.edu/food-features/yogurt/
+https://nutritionsource.hsph.harvard.edu/food-features/winter-squash/
+https://nutritionsource.hsph.harvard.edu/soy/
+https://nutritionsource.hsph.harvard.edu/food-features/almonds/
+https://nutritionsource.hsph.harvard.edu/food-features/kale/
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/
+https://nutritionsource.hsph.harvard.edu/anti-nutrients/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://www.ncbi.nlm.nih.gov/books/NBK56056/
+https://pubmed.ncbi.nlm.nih.gov/16625609/
+https://www.acpjournals.org/doi/abs/10.7326/m16-1743
+https://www.sciencedirect.com/science/article/pii/S0140673607613427
+https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2757873
+https://jamanetwork.com/journals/jama/article-abstract/2678621
+https://www.nejm.org/doi/full/10.1056/NEJMoa055222
+https://pubmed.ncbi.nlm.nih.gov/18254022/
+https://www.liebertpub.com/doi/abs/10.1089/jwh.2013.4270
+https://www.wcrf.org/sites/default/files/Colorectal-cancer-report.pdf
+https://www.sciencedirect.com/science/article/pii/S0016508515000116
+https://www.acpjournals.org/doi/abs/10.7326/0003-4819-126-7-199704010-00001
+https://www.auajournals.org/doi/abs/10.1016/j.juro.2011.12.077
+https://www.nejm.org/doi/full/10.1056/NEJM199303253281203

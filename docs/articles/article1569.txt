@@ -1,0 +1,129 @@
+Title: How Much Vitamin D Is Too Much? The Surprising Truth
+
+Vitamin D toxicity can happen if you take too many vitamin D supplements. Even high levels that do not cause toxicity can be harmful.
+Vitamin D toxicity is rare, but it does occur with extremely high doses.
+It usually develops over time, since extra vitamin D can build up in your body.
+Nearly all vitamin D overdoses result from taking high doses of vitamin D supplements.
+It’s almost impossible to get too much vitamin D from sunlight or food.
+This is a detailed article about vitamin D toxicity and how much vitamin D is considered too much.
+
+Vitamin D toxicity: How does it happen?
+Vitamin D toxicity occurs when vitamin D levels in your body are so high that they cause harm.
+Healthcare professionals may also call it hypervitaminosis D.
+Vitamin D is a fat-soluble vitamin. In contrast to water-soluble vitamins, your body has no easy way to get rid of fat-soluble vitamins.
+For this reason, excessive amounts may build up in your body.
+The exact mechanism behind vitamin D toxicity is complicated and isn’t fully understood at this point.
+However, we know that the active form of vitamin D functions similarly to a steroid hormone.
+It travels inside cells, telling them to turn genes on or off.
+Usually, most of your body’s vitamin D is in storage, bound to either vitamin D receptors or carrier proteins. Very little “free” vitamin D is available ( 1 ,  2 ).
+However, when vitamin D intake is extremely high, your levels can become so high that there isn’t any room left on the receptors or carrier proteins.
+This may lead to elevated levels of “free” vitamin D in your body, which may travel inside cells and overwhelm the signaling processes affected by vitamin D.
+One of the main signaling processes has to do with increasing the absorption of calcium from your digestive system and bones ( 3 ).
+As a result, the main sign of vitamin D toxicity is hypercalcemia, or elevated calcium levels in your blood ( 4 ,  5 ).
+High calcium levels can cause various symptoms. The calcium can bind to other tissues, including your kidneys, and damage them.
+Vitamin D toxicity is also called hypervitaminosis D. It happens when vitamin D levels in your body are so high that they cause harm, leading to high calcium levels and other effects.
+
+Supplements 101: Vitamin D
+
+Blood levels of vitamin D: Optimal vs. excessive
+Vitamin D is an essential vitamin, and almost every cell in your body has a receptor for it ( 6 ).
+It’s produced in your skin when you are exposed to sun.
+You also absorb vitamin D from foods you eat. Natural sources of vitamin D include fish liver oils and fatty fish ( 7 ).
+Because few foods naturally contain vitamin D, foods fortified with vitamin D are an important source of this nutrient.
+You can read the nutrition labels on foods such as milk and milk alternatives, breakfast cereals, and yogurt to find out whether they are fortified with vitamin D ( 8 ).
+Vitamin D is very important for bone health and has been linked with immune function and protection against certain cancers ( 9 ,  10 ).
+Guidelines for blood levels of vitamin D from the National Institutes of Health (NIH) are as follows ( 7 ):
+Sufficient:  20–50 nanograms per milliliter (ng/mL), or 50–125 nanomoles per liter (nmol/L)
+Safe upper limit:  50 ng/mL, or 125 nmol/L
+Toxic:  above 50–60 ng/mL, or above 125–150 nmol/L
+There is some disagreement on how much vitamin D is optimal for health. Other experts, such as the Endocrine Society, say that the desired range is 40–60 ng/mL ( 11 ).
+However, the Food and Nutrition Board found that blood levels of 30–48 ng/mL (75–120 nmol/L) are linked to higher death rates, higher risk of heart disease and certain cancers, and higher risk of falls and fractures in older adults ( 7 ).
+A daily vitamin D intake  of 600 international units (IU), or 15 micrograms (mcg), should be enough to ensure optimal blood levels for most people. People over age 70 should consume 800 IU (20 mcg) daily. The Adequate Intake for children ages 0–12 months is 400 IU (10 mcg) ( 7 ).
+Some people with vitamin D insufficiency or deficiency may need higher doses to maintain healthy blood levels of this vitamin. In such cases, your doctor and healthcare team will help you determine what’s right for you ( 7 ).
+Blood levels of 20–50 ng/mL are usually considered sufficient. The safe upper limit is about 50 ng/mL. Higher levels have been associated with certain health conditions and vitamin D toxicity.
+
+How much vitamin D is too much?
+Upper limits for vitamin D include the amount you get from your total intake, including dietary sources and vitamin D supplements.
+The NIH reports the upper limit for vitamin D by age group, as follows ( 8 ):
+0–6 months:  25 mcg (1,000 IU)
+7–12 months:  38 mcg (1,500 IU)
+1–3 years:  63 mcg (2,500 IU)
+4–8 years:  75 mcg (3,000 IU)
+9 years and older:  100 mcg (4,000 IU)
+Vitamin D toxicity is generally caused by excessive doses of vitamin D supplements, not by diet or sun exposure ( 5 ).
+Although vitamin D toxicity is rare, recent increases in supplement use are thought to have led to an increase in reported cases ( 5 ).
+The Food and Nutrition Board notes that symptoms of vitamin D toxicity are most likely to appear when a person’s daily intake is at least 10,000 IU (250 mcg) ( 7 ).
+However, experts have cautioned that much smaller amounts could be associated with health risks. The Food and Nutrition Board indicates that even amounts less than the Tolerable Upper Intake Level (UL) of 4,000 IU (100 mcg) could have negative health effects over time ( 7 ).
+Individuals with vitamin D toxicity usually have blood levels above 150 ng/mL (375 nmol/L) ( 7 ).
+Some cases have also been caused by errors in manufacturing or labeling, when vitamin D products contained up to 4,000 times more vitamin D than stated on the package ( 12 ).
+Some medications, such as  thiazide diuretics , can interact with vitamin D supplements and cause harmful effects ( 8 ).
+Vitamin D toxicity is treatable, but severe cases may eventually cause kidney failure, irregular heartbeat, and calcification of soft tissues such as arteries ( 5 ).
+Debates about safe upper levels of vitamin D are ongoing. For example, a recent 3-year study in older adults found no increase in arterial calcification with a 10,000-IU daily intake ( 13 ).
+The UL for vitamin D is 4,000 IU per day. While vitamin D toxicity usually happens with very high intakes of 10,000+ IU per day, experts suggest that even amounts less than the UL could have negative health effects.
+
+Symptoms and treatment of vitamin D toxicity
+The main consequence of vitamin D toxicity is a high calcium level in your blood (hypercalcemia) ( 4 ,  5 ).
+Early symptoms of hypercalcemia include loss of appetite, nausea, vomiting, diarrhea, and constipation ( 14 ).
+Over days or weeks, you may also develop symptoms such as excessive thirst, fatigue, pain, headaches, confusion, irregular heartbeat, frequent urination, and kidney stones ( 5 ,  14 ).
+Treating vitamin D intoxication includes eliminating all vitamin D and calcium supplements ( 5 ).
+A doctor may also correct your calcium levels with increased salt and fluids, often using intravenous saline. Depending on the severity of your symptoms, other medications or treatments may be necessary ( 5 ).
+The main negative effect of vitamin D toxicity is hypercalcemia, with symptoms including nausea, vomiting, weakness, and kidney failure. Treatment involves stopping vitamin D and calcium supplements and treating high calcium levels.
+
+Large doses can be harmful, even without symptoms of toxicity
+Large doses of vitamin D can be harmful, even though there may not be immediate symptoms of toxicity.
+This is one reason vitamin D toxicity is so difficult to detect.
+Symptoms of vitamin D toxicity — such as fatigue, weakness, dehydration, and changes in mental state — can be difficult to pinpoint ( 5 ).
+To be safe, remember that the recommended daily intake for most people is 600 IU (15 mcg) ( 7 ).
+Do not exceed the UL of 4,000 IU (100 mcg) without consulting a doctor or dietitian. Over time, even amounts less than the UL could potentially have negative health effects ( 7 ).
+Vitamin D toxicity can develop over time, and the harmful effects are very complex. Large doses may cause damage even if you have no symptoms.
+
+Take-home message
+There is some debate regarding safe levels of supplemental vitamin D.
+Vitamin D toxicity can have devastating health effects, which may not show up until months or even years after you start taking high doses.
+The NIH’s recommended daily intake for most people is 600 IU (15 mcg).
+Generally, it’s not recommended to exceed the Tolerable Upper Intake Level (UL), which is 4,000 IU (100 mcg) per day. Some experts, such as the Food and Nutrition Board, suggest that even amounts less than the UL can be harmful over time.
+Large doses have not been linked with any additional health benefits and may therefore be unnecessary.
+High doses of vitamin D are sometimes used to treat a deficiency, but you should always consult a doctor or dietitian before starting any supplements or increasing the amount you take.
+As with many other aspects of nutrition, more does not always equal better.
+You can find more info about vitamin D on this page:  Vitamin D 101 — A Detailed Beginner’s Guide .
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6546814/
+https://www.ncbi.nlm.nih.gov/pubmed/24095930
+https://www.tandfonline.com/doi/full/10.1080/10408363.2022.2070595
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30294301/
+https://www.ncbi.nlm.nih.gov/books/NBK557876/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5031366/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-Consumer/
+https://www.healthline.comhttps://jamanetwork.com/journals/jamanetworkopen/fullarticle/2757873
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/28431765/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+https://www.ncbi.nlm.nih.gov/books/NBK441912/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+https://www.healthline.com/nutrition/how-much-vitamin-d-to-take
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-Consumer/
+https://www.ncbi.nlm.nih.gov/books/NBK557876/
+https://www.ncbi.nlm.nih.gov/books/NBK557876/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5980613/
+https://www.healthline.com/health/heart-disease/diuretics-hypertension#pharmaceutical-diuretics
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-Consumer/
+https://www.ncbi.nlm.nih.gov/books/NBK557876/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/32556518/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30294301/
+https://www.ncbi.nlm.nih.gov/books/NBK557876/
+https://www.ncbi.nlm.nih.gov/pubmed/24067388/
+https://www.ncbi.nlm.nih.gov/books/NBK557876/
+https://www.ncbi.nlm.nih.gov/pubmed/24067388/
+https://www.ncbi.nlm.nih.gov/books/NBK557876/
+https://www.ncbi.nlm.nih.gov/books/NBK557876/
+https://www.ncbi.nlm.nih.gov/books/NBK557876/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+https://www.healthline.comhttps://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+https://www.healthline.com/nutrition/vitamin-d-101

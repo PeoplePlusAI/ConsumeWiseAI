@@ -2,6 +2,7 @@ import traceback
 import sys, pickle
 from functools import wraps
 import os
+import time
 import json
 from typing import List, Dict, Any
 from sentence_transformers import SentenceTransformer, util
@@ -13,6 +14,9 @@ import asyncio
 from fastapi import FastAPI
 
 app = FastAPI()
+
+from dotenv import load_dotenv
+load_dotenv() 
 
 # Load the pre-trained model
 model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
@@ -392,12 +396,16 @@ async def async_process_ingredients(ingredients_list, client, embeddings_titles_
             refs.extend(refs_ingredient)
     
     return refs, all_ingredient_analysis
-
+class IngredientAnalysisRequest(BaseModel):
+    product_info_from_db: dict
+    assistant_p_id: str
 @app.post('/processing_level-ingredient-analysis')
-async def get_ingredient_analysis(payload):
-    print(f"DEBUG - payload obtained {payload}")
-    product_info_from_db = payload.get('product_info_from_db')
-    assistant_p_id = payload.get('assistant_p_id')
+async def get_ingredient_analysis(request: IngredientAnalysisRequest):
+    print(f"DEBUG - payload obtained {request}")
+    # product_info_from_db = payload.get('product_info_from_db')
+    product_info_from_db = request.get('product_info_from_db')
+    # assistant_p_id = payload.get('assistant_p_id')
+    assistant_p_id = request.get('assistant_p_id')
     print("DEBUG - product_info_from_db and assistant_p_id are obtained from payload")
     
     if product_info_from_db:

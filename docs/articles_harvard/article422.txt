@@ -1,0 +1,68 @@
+Title: Biotin – Vitamin B7
+
+You may recognize vitamin B7 by its popular name of biotin. It is a water-soluble  B vitamin  found naturally in some foods and also in supplements. Biotin plays a vital role in assisting enzymes to break down fats, carbohydrates, and proteins in food. It also helps to regulate signals sent by cells and the activity of genes. [1]
+
+Recommended Amounts
+An RDA (Recommended Dietary Allowance) does not exist for biotin because there is not enough evidence to suggest a daily amount needed by most healthy people. Instead, there is an AI (Adequate Intake) level, which is assumed to ensure nutritional adequacy.
+AI:  The AI for biotin for men and women 19 years and older and for pregnant women is 30 micrograms daily. Lactating women need 35 micrograms daily.
+UL:  A Tolerable Upper Intake Level (UL) is the maximum daily dose unlikely to cause adverse side effects in the general population. There is no UL for biotin due to a lack of reports showing negative effects from very high intakes.
+
+Vitamin B7 and Health
+Biotin supplements are often glamorized as a treatment for hair loss and to promote healthy hair, skin, and nails. Although a deficiency of biotin can certainly lead to hair loss and skin or nail problems, evidence showing a benefit of supplementation is inconclusive. A handful of case reports and small trials have shown a benefit, but the study designs had weaknesses:
+The diagnoses of the type of hair conditions varied or were not cited at all. Researchers have also noted that certain hair loss conditions like alopecia can resolve spontaneously without treatment, so it is not clear that biotin supplements specifically caused the regrowth. [2]
+The studies did not measure the participants’ baseline blood levels of biotin to see if they were normal or deficient. Some research suggests that biotin supplements may be of most benefit in people who have a deficiency of the nutrient; however, again, there is a lack of studies that have measured biotin levels before and during supplementation to confirm this conclusion. [3,4]
+To date, there is a lack of published studies to suggest that biotin supplements are beneficial for the growth of normal, healthy hair and nails. [2,5]
+Despite the inconclusive evidence, biotin supplements remain popular. Between 1999 and 2016, the proportion of supplement users increased by nearly thirtyfold. [6] In November 2017, the U.S. Food and Drug Administration (FDA) issued a warning based on reports of biotin supplements interfering with laboratory blood tests, causing incorrect results. High doses have produced either falsely elevated or decreased blood levels, depending on the test. This has affected lab results of certain hormones, such as thyroid-stimulating hormone and  vitamin D , as well as a biomarker for heart attacks called troponin. [7] Case reports of this occurrence showed people taking biotin amounts much higher than the AI level (30 micrograms daily or 0.03 mg) but in doses commonly found in supplements (10-300 mg). Biotin is often added to multivitamins and hair/nail/skin supplements. The FDA recommends that people inform their doctors at each visit of all supplements and doses they are taking.
+
+Food Sources
+Beef liver
+Eggs (cooked)
+Salmon
+Avocados
+Pork
+Sweet potato
+Nuts , seeds
+
+Signs of Deficiency and Toxicity
+Deficiency
+A biotin deficiency in the U.S. is rare, as most people eat enough biotin in a varied diet. Alcoholism can increase the risk of biotin deficiency and many other nutrients as alcohol can block their absorption, and also because alcohol abuse is generally associated with a poor dietary intake. About a third of pregnant women show a mild biotin deficiency despite eating adequate intakes, though the exact reason is not clear. [1]
+Symptoms appearing with a biotin deficiency:
+Thinning hair
+Scaly skin rashes around eyes, nose, mouth
+Brittle nails
+Toxicity
+No evidence in humans has shown a toxicity of biotin even with high intakes. Because it is water-soluble, any excess amount will leave through the urine. There is no established upper limit or toxic level for biotin.
+
+Did You Know?
+Those who frequently enjoy raw eggs in recipes for mayonnaise, Caesar dressing, or eggnog may want to reconsider. A protein in raw eggs called avidin can bind to biotin, preventing its absorption. Cooked eggs are not an issue because avidin is broken down when heated.
+
+Related
+B Vitamins Vitamins and Minerals
+National Institutes of Health; Office of Dietary Supplements. Biotin: Fact Sheet for Health Professionals.  https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/ . Accessed 6/10/19.
+Walth CB, Wessman LL, Wipf A, Carina A, Hordinsky MK, Farah RS. Response to: “Rethinking biotin therapy for hair, nail, and skin disorders”.  Journal of the American Academy of Dermatology . 2018 Dec 1;79(6):e121-4.
+Lipner SR. Rethinking biotin therapy for hair, nail, and skin disorders.  Journal of the American Academy of Dermatology . 2018 Jun 1;78(6):1236-8.
+Lipner S. Reply to:“Response to ‘Rethinking biotin therapy for hair, nail, and skin disorders’”.  Journal of the American Academy of Dermatology . 2018 Dec 1;79(6).
+Patel DP, Swink SM, Castelo-Soccio L. A review of the use of biotin for hair loss.  Skin appendage disorders . 2017;3(3):166-9.
+Li D, Rooney MR, Burmeister LA, Basta NE, Lutsey PL. Trends in Daily Use of Biotin Supplements Among US Adults, 1999-2016.  JAMA . 2020 Aug 11;324(6):605-7.
+S. Food and Drug Administration. The FDA Warns that Biotin May Interfere with Lab Tests: FDA Safety Communication.  https://www.fda.gov/medical-devices/safety-communications/fda-warns-biotin-may-interfere-lab-tests-fda-safety-communication  Accessed June 10, 2019.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/vitamin-d/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/avocados/
+https://nutritionsource.hsph.harvard.edu/food-features/sweet-potatoes/
+https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/
+https://www.jaad.org/article/S0190-9622(18)32362-4/abstract
+https://www.jaad.org/article/S0190-9622(18)30204-4/abstract
+https://insights.ovid.com/american-academy-dermatology/jaade/2018/12/000/reply-response-rethinking-biotin-therapy-hair-nail/50/00004725
+https://www.karger.com/Article/Abstract/462981
+https://jamanetwork.com/journals/jama/article-abstract/2769254
+https://www.fda.gov/medical-devices/safety-communications/fda-warns-biotin-may-interfere-lab-tests-fda-safety-communication

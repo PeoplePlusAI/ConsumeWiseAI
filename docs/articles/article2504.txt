@@ -1,0 +1,167 @@
+Title: How Probiotics Can Help Fight IBS
+
+
+
+Probiotics are a hot topic at the moment, particularly for people with irritable bowel syndrome (IBS).
+IBS is a chronic disease that causes abdominal pain and changes in bowel habits.
+Many people take probiotics in hopes that balancing out their gut bacteria will improve their symptoms.
+This article looks at the latest research on probiotics for IBS, including specific strains and symptoms.
+
+What Is IBS?
+Irritable bowel syndrome  is a chronic disease characterized by abdominal pain or discomfort, as well as bloating, gas, constipation and diarrhea ( 1 ).
+It affects 7–21% of people worldwide and is three times more prevalent in women than men in the West, though the difference is not as great in Asia ( 1 ,  2 ,  3 ).
+The exact causes of IBS are unknown. However, some suggested causes include changes in digestive motility, infections, brain-gut interactions, bacterial overgrowth, food sensitivities, carbohydrate malabsorption and intestinal inflammation ( 3 ,  4 ).
+Eating certain foods can trigger symptoms, and stress can worsen them ( 3 ,  5 ).
+IBS is diagnosed when you have abdominal pain at least one day per week for three months, plus at least two of the following symptoms: pain related to a bowel movement, a change in stool frequency or a change in stool appearance ( 6 ).
+In addition, there are four subtypes of IBS, which relate to the type of bowel movement most often experienced ( 6 ):
+IBS-D:  Diarrhea-predominant
+IBS-C:  Constipation-predominant
+IBS-M:  Alternating between diarrhea and constipation
+IBS-U:  Unspecified, for people who do not fit into one of the above categories
+Another subtype, known as “post-infectious” IBS has also been suggested for people who develop the disease following an infection. This subtype may apply to as many as 25% of people with IBS ( 3 ).
+Treatment for all subtypes includes medication, diet and lifestyle improvements, the elimination of FODMAPs and lactose and the use of probiotics ( 3 ).
+FODMAPs  are poorly digested types of carbohydrate molecules found naturally in many foods. They can cause gastrointestinal symptoms like gas and bloating, which can exacerbate IBS.
+
+What Are Probiotics?
+Your digestive system is teeming with beneficial bacteria known as gut flora, and they play a  critical role in your health  ( 7 ,  8 ).
+However, for various reasons the gut flora can sometimes get thrown out of balance, allowing harmful bacteria to proliferate ( 7 ).
+Probiotics  are live bacteria or yeast found in foods and supplements. They’re safe, similar to natural gut flora and provide health benefits ( 8 ).
+People use them to promote a healthy, balanced gut flora. They may provide a number of  health benefits , such as supporting weight loss, improving heart health, improving digestion and boosting the immune system ( 8 ,  9 ).
+Some common probiotic foods include yogurt, sauerkraut, tempeh, kimchi and other fermented foods.
+Additionally, common probiotic strains found in supplements include  Lactobacillus  and  Bifidobacterium  ( 8 ) .
+
+How Do Probiotics Work with IBS?
+A significant amount of recent research has investigated how probiotics might be used to treat and manage IBS.
+IBS symptoms have been linked to certain changes in the gut flora. For example, people with IBS have lower amounts of  Lactobacillus  and  Bifidobacterium  in their guts, and higher levels of harmful  Streptococcus, E. coli  and  Clostridium  ( 7 ,  9 ).
+Additionally, up to 84% of IBS patients experience bacterial overgrowth in their small intestines, which can lead to many of their symptoms ( 7 ).
+However, whether this change is a cause or result of IBS is uncertain. Also, certain medications used to treat symptoms of IBS can damage the healthy bacteria living in the gut ( 7 ,  10 ).
+Changes in the gut flora may influence IBS symptoms by increasing inflammation, increasing sensitivity to gas in the intestine, reducing immune function and changing digestive motility ( 7 ,  11 ).
+Probiotics have been proposed to improve symptoms by ( 10 ):
+Inhibiting the growth of disease-causing bacteria
+Enhancing the immune system’s barrier functions
+Helping fight inflammation
+Slowing down bowel movements
+Reducing gas production by balancing the gut flora
+Reducing the gut’s sensitivity to gas buildup
+However, not all probiotics are alike. In fact, the term “probiotic” covers many different strains and types of bacteria and yeasts. Their health effects vary depending on the type.
+
+Can Probiotics Improve IBS Symptoms?
+A comprehensive 2016 review concluded that it’s unclear how effective probiotics are for treating IBS. It cited small study sizes and lack of consistent data ( 11 ).
+However, a number of studies have shown that specific probiotics may have the potential to target specific symptoms. Probiotics from the  Bifidobacterium, Lactobacillus  and  Saccharomyces  families have shown particular promise ( 10 ,  11 ).
+In a review by the British Dietetic Association (BDA), 29 studies assessed overall symptom improvements, and 14 of these showed a positive result for 10 different probiotics ( 11 ).
+For example, a study treated 214 IBS patients with the probiotic  L. plantarum 299v . After four weeks, 78% of the patients scored the probiotic as good or excellent for improving symptoms, particularly for pain and bloating ( 12 ).
+These findings were supported by another study in Poland. However, two other smaller studies on the same probiotic strain did not find a positive effect ( 13 ,  14 ,  15 ).
+A German study of a two-strain probiotic liquid known as Pro-Symbioflor also had promising results. In this study, 297 patients were treated for eight weeks and experienced a 50% decrease in general symptoms, including abdominal pain ( 16 ).
+Meanwhile, Symprove is a four-strain probiotic that was tested in 186 patients in the UK. It was found to reduce overall symptom severity after 12 weeks of treatment ( 17 ).
+Bifidobacterium infantis 35624  capsules have also been shown to marginally reduce pain, bloating and problems with bowel habits in all subtypes of IBS ( 3 ).
+While some of these results are promising, there is some inconsistency between studies. In addition, most strains only have one study demonstrating their effectiveness. Therefore, more research is needed to confirm the results.
+Abdominal pain is one of the key symptoms of IBS. It is often found in the lower or whole abdomen and subsides after a bowel movement ( 18 ).
+Seven types of probiotics have been associated with improvements in abdominal pain symptoms ( 11 ).
+The strain  L. plantarum  was found to decrease both the frequency and severity of abdominal pain, compared to a placebo ( 12 ).
+One study investigated the yeast  S. cerevisiae , also known as Lesaffre. After eight weeks of treatment, 63% of people in the test group and 47% of people in the placebo group reported significant reductions in pain ( 19 ).
+In another study, participants drank a probiotic solution consisting of  B. bifidum, B. lactis, L. acidophilus  and  L. casei  for eight weeks. Their pain was reduced by 64% in the probiotics group and 38% in the placebo group ( 20 ).
+While this research is positive, the majority of studies on probiotics have not found a beneficial effect on pain. More studies are needed to confirm the findings for these strains.
+It is also interesting to note how much impact the placebo effect seemed to have in these studies. The placebo effect is when people experience a positive effect during a study even when they are just taking a placebo. This is commonly observed in IBS research ( 21 ).
+Excess gas production and increased sensitivity can cause uncomfortable bloating and gas in IBS ( 22 ).
+In the 2016 BDA review, only two studies found that probiotics specifically reduced bloating, and only one found they reduced gas ( 11 ).
+The strain  L. plantarum  was found to decrease the frequency and severity of bloating symptoms, compared to a placebo ( 12 ).
+Another study treated patients with a rose-hip drink mixed with an oatmeal soup fermented with  L. plantarum . The test group experienced significant reductions in gas, and both the test and placebo groups experienced reductions in abdominal pain ( 14 ).
+An additional study found that participants with IBS experienced reduced abdominal bloating after four weeks of treatment with a four-strain supplement containing  B. lactis, L. acidophilus, L. bulgaricus  and  S. thermophilus  ( 23 ).
+If excess gas and bloating is your primary problem with IBS, then one of these probiotics may improve your symptoms. However, further studies are needed.
+Approximately 15% of people with IBS experience the diarrhea-predominant form ( 24 ).
+While there has been a lot of research on probiotics for infection-related diarrhea, less is known about the effects of probiotics on non-infectious types, as in IBS.
+One probiotic known as  Bacillus coagulans  has been found to improve multiple symptoms, including diarrhea and stool frequency. However, studies to date have only been small, so more research is needed ( 25 ,  26 ).
+The probiotic yeast  Saccharomyces boulardii  has also been investigated for the treatment of diarrhea-predominant IBS. However, while one study found it improved bowel habits and decreased inflammation, another found no improvements ( 27 ,  28 ).
+A multi-strain probiotic known as VSL#3 was tested in people with IBS and found to slow down the bowels and reduce gas. However, in a study specifically on people with diarrhea-predominant IBS, it was not found to improve bowel movements ( 29 ,  30 ).
+Another multi-strain probiotic called Duolac 7 was tested in 50 patients over eight weeks. It was found to improve stool consistency significantly, compared to the placebo group, and there was a general improvement in symptoms ( 31 ).
+Overall, it appears that use of probiotics to treat diarrhea in IBS is not very effective, as only a few small-scale studies have shown improvements.
+The most common form of IBS is the constipation-predominant type, affecting nearly half of all people with the disease ( 24 ).
+Studies on constipation-predominant IBS have sought to determine if probiotics can increase the frequency of bowel movements and alleviate associated symptoms.
+One study gave participants one of two multi-strain probiotics, one containing  L. acidophilus  and  L. reuteri  and the other containing  L. plantarum, L. rhamnosus  and  L. lactis.
+Treatment with these probiotics resulted in more frequent bowel movements and an improvement in consistency ( 32 ).
+In a study on children with IBS, treatment with the probiotic  B. lactis  and prebiotic inulin reduced constipation, bloating and feelings of fullness. However, it should be noted that in some patients with IBS, inulin may worsen symptoms ( 11 ,  33 ).
+Additionally,  S. cerevisiae  has been found to reduce pain and bloating symptoms for constipation-predominant IBS. However, further studies are needed to confirm this ( 34 ).
+As with most of the other symptoms discussed, while some of these results are promising, studies to date have been small. There has not been enough research to confirm whether probiotics truly benefit people with constipation in IBS.
+
+Should You Take Probiotics If You Have IBS?
+Despite some promising research, it is too early to make general recommendations about the use of probiotics for IBS.
+While some strains have been shown to have benefits for one or two symptoms, the majority of probiotics are unlikely to cause improvements.
+However, probiotics are safe, and a relatively cheap potential treatment option for IBS. Also, they have worked for some people, particularly for those with specific symptoms.
+If you are interested in trying a probiotic, there is an  excellent selection on Amazon .
+Choose an evidence-based probiotic:  Select a probiotic that has research supporting it
+Select a probiotic according to your symptoms:  Choose strains that work for your issues
+Take the right dose:  Use the dosage recommended by the manufacturer
+Stick with one type:  Try one variety for at least four weeks and monitor your symptoms
+
+References:
+
+https://www.healthline.com/nutrition/9-signs-and-symptoms-of-ibs
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/jhn.12385/abstract
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/jhn.12385/abstract
+http://www.amjmed.com/article/S0002-9343(15)00168-0/fulltext
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051916/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051916/
+https://www.ncbi.nlm.nih.gov/pubmed/24665829
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051916/
+https://www.ncbi.nlm.nih.gov/pubmed/16391571
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383110/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383110/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051916/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051916/
+https://www.healthline.com/nutrition/fodmaps-101
+https://www.healthline.com/nutrition/gut-microbiome-and-health
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3949257/
+https://www.ncbi.nlm.nih.gov/pubmed/24290962
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3949257/
+https://www.healthline.com/nutrition/probiotics-101
+https://www.ncbi.nlm.nih.gov/pubmed/24290962
+https://www.healthline.com/nutrition/8-health-benefits-of-probiotics
+https://www.ncbi.nlm.nih.gov/pubmed/24290962
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329544/
+https://www.ncbi.nlm.nih.gov/pubmed/24290962
+https://www.healthline.com/nutrition/lactobacillus-acidophilus
+https://www.healthline.com/nutrition/why-bifidobacteria-are-good
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3949257/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329544/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3949257/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3949257/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3785618/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3949257/
+https://www.ncbi.nlm.nih.gov/pubmed/27265510
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3785618/
+https://www.ncbi.nlm.nih.gov/pubmed/27265510
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3785618/
+https://www.ncbi.nlm.nih.gov/pubmed/27265510
+https://www.ncbi.nlm.nih.gov/pubmed/27265510
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419998/
+https://www.ncbi.nlm.nih.gov/pubmed/11711768
+https://www.ncbi.nlm.nih.gov/pubmed/10811333/
+https://www.ncbi.nlm.nih.gov/pubmed/25194614
+https://www.ncbi.nlm.nih.gov/pubmed/18565142
+https://www.healthline.comhttp://onlinelibrary.wiley.com/doi/10.1111/apt.12787/pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051916/
+https://www.ncbi.nlm.nih.gov/pubmed/11007133
+https://www.ncbi.nlm.nih.gov/pubmed/27265510
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419998/
+https://www.ncbi.nlm.nih.gov/pubmed/25488056
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2852694/
+https://www.ncbi.nlm.nih.gov/pubmed/15916620
+https://www.ncbi.nlm.nih.gov/pubmed/17643909
+https://www.ncbi.nlm.nih.gov/pubmed/27265510
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419998/
+https://www.ncbi.nlm.nih.gov/pubmed/10811333/
+https://www.ncbi.nlm.nih.gov/pubmed/24979556
+https://www.ncbi.nlm.nih.gov/pubmed/12560761
+https://www.ncbi.nlm.nih.gov/pubmed/26922379
+https://www.ncbi.nlm.nih.gov/pubmed/20140275
+https://www.healthline.comhttp://journals.lww.com/eurojgh/Abstract/2014/06000/Cytokine_and_clinical_response_to_Saccharomyces.8.aspx
+https://www.ncbi.nlm.nih.gov/pubmed/21804501
+https://www.ncbi.nlm.nih.gov/pubmed/12656692/
+https://www.ncbi.nlm.nih.gov/pubmed/16185307/
+https://www.ncbi.nlm.nih.gov/pubmed/22157240
+https://www.ncbi.nlm.nih.gov/pubmed/12560761
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993960/
+https://www.ncbi.nlm.nih.gov/pubmed/27265510
+https://www.ncbi.nlm.nih.gov/pubmed/27782892
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4924426/
+https://www.healthline.comhttp://amzn.to/2BBGW1H?ascsubtag=null&correlationId=null

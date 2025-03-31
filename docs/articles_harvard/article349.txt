@@ -1,0 +1,79 @@
+Title: Cancer
+
+Jump to: 
+ – What is cancer? 
+– Types and risk factors 
+– Reducing cancer risk: 
+— Screening 
+— Vaccines 
+— Lifestyle
+Definition and Overview
+Cancer is a disease in which abnormal cells divide and grow out of control, destroying healthy surrounding tissue. Normal healthy cells in the body follow certain rules, growing and dividing in an orderly fashion. Eventually they die and are replaced with new cells. But sometimes old or damaged cells do not die and form an abnormal mass of tissue called a tumor. Tumors may be benign, meaning that they do not invade nearby healthy tissue. But sometimes they are malignant, in which genes in the cells deviate, causing them to grow and divide erratically and spread into nearby tissues. As cancer cells continue to grow, they may break off from the original growth and travel through the blood or lymph fluid to other parts of the body. Genetic changes can be inherited, or the result of DNA damage caused by external exposures like excessive ultraviolet light or carcinogens like tobacco smoke.
+The global burden of cancer is rising alongside the world’s aging population: 1 in 5 men and 1 in 6 women worldwide develop some type of cancer during their lifetime, and 1 in 8 men and 1 in 11 women die from the disease. [1] Cancer also takes a huge economic toll. A report from the World Economic Forum and the Harvard T.H. Chan School of Public Health projected that the global cost of cancer, including medical costs, non-medical costs, and income losses, will total an estimated U.S. $458 billion in 2030. [2]
+A cancer diagnosis can also place a heavy toll on the patient and their family. Fortunately, with screening and early detection, as well as ongoing development of cancer treatments, people diagnosed with cancer are living longer than before. Even better is that many cases of cancer are preventable through a  range of lifestyle changes , which may also prevent other common chronic conditions like  cardiovascular disease  and  type 2 diabetes .
+Types and Risk Factors
+Cancer is not just one disease. There are more than 100 types, which can start anywhere in the body. They are named by the organ or tissue in which they start growing. They can form in organs, bones, muscles, tendons, fat, blood vessels, and lymph fluid. Examples of more common types include:
+Carcinoma—This is the most common type, which forms a solid mass of tissue (tumor). Breast, lung, and colorectal cancer are types of carcinomas.
+Leukemia—This cancer starts in the blood, occurring when large numbers of abnormal white blood cells build up in the blood and bone, crowding out healthy blood cells. A lack of healthy blood cells can lower one’s immune function, increasing the risk of frequent infections, fatigue, and recurrent bruising or bleeding.
+Lymphoma—This cancer arises in lymphocytes, a type of white blood cell. Lymphocytes normally fight infection, but here they grow out of control. This can cause swollen lymph nodes, shortness of breath, and fatigue.
+The figures below  (click to enlarge)  show the estimated number of new cancer cases and deaths worldwide in 2020, classified by the cancer site. [3]
+Lung cancer contributes to the greatest number of new cancer cases in women and men combined. However in women, breast cancer contributes to more new cases, and slightly edges out lung cancer as the leading cause of cancer deaths. In men, lung cancer contributes the greatest number of new cases (followed by prostate cancer) and is the leading cause of cancer deaths. Other common cancers include those of the colon and rectum, stomach, liver, pancreas, esophagus, and cervix, which, together with lung, breast, and prostate cancer account for over half of all cancer cases and deaths worldwide. The other 46% of cases and 39.5% of deaths are from a variety of other types of cancer, such as skin cancer. Learn more about cancer prevalence in this  interactive tool from the International Agency for Research on Cancer .
+Beyond the classification of cancer by site, tumors originating from the same tissue can have different features—a distinction which can help decide the most effective treatment. For example:
+Tumors in breast tissue have several different subtypes defined by hormone receptors, such as estrogen receptors (ER). ER-positive breast tumor cells grow in response to estrogen, and thus are more likely to be treated successfully using anti-estrogen hormone therapy than ER-negative tumor cells.
+Primary lung cancer is divided into two main groups: small cell lung cancer and non-small cell lung cancer. Both types behave and respond to treatment in a similar way. But small cell lung cancer is rarer and requires more immediate treatment because it tends to grow faster and spread early. The more common non-small cell lung cancer tends to develop slowly and causes fewer symptoms before it reaches later stages.
+However, cancer cells also have in common a range of abnormal features. [4] They ignore signals to stop dividing, quickly replicate, escape detection by the body’s immune cells, and invade normal tissues. Cancer cells cause nearby normal cells to form blood vessels that supply the tumor with oxygen and nutrients, which is needed to grow.
+All cells are exposed to genetic changes that can cause cancer, but they have mechanisms to repair damage to genes and protect themselves against these hallmarks of cancer. [5] However, due to factors like aging, the environment (e.g., UV radiation), and lifestyle (e.g., poor diet, smoking), the protective mechanisms sometimes fail, leading to an increased risk of cancer development.
+Prevention
+Because each person is exposed to unique environmental and lifestyle factors, the risk of developing cancer can vary. Although some of the risk factors cannot be controlled (such as inherited genetic mutations), there is a range of environmental and lifestyle risk factors that can be modified.  Taking preventive measures  can reduce the overall risk of cancer by 30-50%, which varies depending on the cancer’s site of origin. [6]
+Screening
+Cancer screening tests look for evidence of cancer cells or abnormal cells that may become cancer in people who do not show any symptoms. This helps to catch and remove a pre-cancer lesion and avert the cancer, or treat a potential cancer early, before it grows or spreads and causes symptoms, and which may be easier to treat. Examples of screening tests that lower the risk of dying early from cancer include:
+Colonoscopy, sigmoidoscopy, or stool tests for colorectal cancer
+Mammography for breast cancer
+Human papillomavirus (HPV) or pap tests for cervical cancer
+PSA tests for prostate cancer
+Skin exams for skin cancer (particularly in those at higher risk for skin cancer, such as having a prior skin cancer)
+Low-dose helical computed tomography for lung cancer (especially in people who smoke and are older than 55 years)
+However, there are sometimes downsides to screening. Individuals should discuss the pros and cons of screening tests with their doctor.
+Screening tests can have false-positive results (a finding that suggests cancer even though it is not), which may mean undergoing additional tests and procedures and causing increased anxiety in the patient.
+Screening tests can have false-negative results (a finding that does not find cancer even though it is present) that can delay an accurate diagnosis and earlier treatment.
+A result from a screening test may lead to “overtreatment” of the cancer. In other words, even though a cancer may be accurately found, the type may be very slow-growing so that immediate aggressive cancer treatments are not needed though they may be prescribed.
+Vaccines
+Vaccinations can prevent a few types of cancer caused by prolonged infection from specific pathogens. The human papillomavirus (HPV) vaccine is recommended for females ages 9 to 26 years old and males 9 to 21 years old. It protects against the HPV types that most often cause cervical, vaginal, vulvar, and anal cancers. [7] The hepatitis B vaccine is available for all age groups to prevent the hepatitis B virus (HBV) infection, which causes hepatitis B, a serious chronic illness that can lead to liver cancer. [8] Vaccines targeting other cancer-causing viruses (e.g., Epstein-Barr Virus) are under development, but it is emphasized that vaccination should not be a substitute for routine screening according to recommended guidelines. [9,10]
+Lifestyle recommendations
+According to the World Health Organization, a 30-40% cancer burden can be attributed to lifestyle risk factors such as tobacco smoking, alcohol consumption, a diet low in fruit and vegetables, overweight and obesity, and physical inactivity. [6] That’s why a lifestyle consisting of a healthy dietary pattern, weight management, and physical activity may help reduce the risk of cancer.
+See the recommendations for cancer prevention
+Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries.  CA: a cancer journal for clinicians . 2018 Nov;68(6):394-424.
+Bloom DE, Cafiero ET, Jané-Llopis E, Abrahams-Gessel S, Bloom LR, Fathima S, Feigl AB, Gaziano T, Mowafi M, Pandya A, Prettner K, Rosenberg L, Seligman B, Stein AZ, & Weinstein C.  The Global Economic Burden of Noncommunicable Diseases . Geneva: World Economic Forum. 2011.
+The Global Cancer Observatory (GLOBOCAN), International Agency for Research on Cancer, 2018.
+Hanahan D, Weinberg RA. Hallmarks of cancer: the next generation.  cell . 2011 Mar 4;144(5):646-74.
+Li C, Wang LE, Wei Q. DNA repair phenotype and cancer susceptibility—a mini review.  International journal of cancer . 2009 Mar 1;124(5):999-1007.
+Ullrich A.  Cancer Control: Knowledge Into Action: WHO Guide for Effective Programmes . World Health Organization, 2007.
+Centers for Disease Control and Prevention.  Human Papillomavirus.  https://www.cdc.gov/hpv/parents/vaccine.html .
+Centers for Disease Control and Prevention.  Cancer – Vaccines (Shots) .  https://www.cdc.gov/cancer/dcpc/prevention/vaccination.htm
+Cohen JI, Fauci AS, Varmus H, Nabel GJ. Epstein-Barr virus: an important vaccine target for cancer prevention.  Science translational medicine . 2011 Nov 2;3(107):107fs7-.
+Centers for Disease Control and Prevention.  Cervical Cancer.   https://www.cdc.gov/cancer/cervical/basic_info/screening.htm
+Last reviewed March 2021
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+#what-is-cancer
+#types
+#prevention
+#screening
+#vaccines
+#lifestyle
+https://nutritionsource.hsph.harvard.edu/cancer/preventing-cancer/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/diabetes-prevention/
+https://gco.iarc.fr/today/online-analysis-pie?v=2020&mode=cancer&mode_population=continents&population=900&populations=900&key=total&sex=0&cancer=39&type=0&statistic=5&prevalence=0&population_group=0&ages_group%5B%5D=0&ages_group%5B%5D=17&nb_items=7&group_cancer=1&include_nmsc=1&include_nmsc_other=1&half_pie=0&donut=0
+https://nutritionsource.hsph.harvard.edu/cancer/preventing-cancer/
+https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.3322/caac.21492@10.3322/%28ISSN%291542-4863.statistics
+http://www3.weforum.org/docs/WEF_Harvard_HE_GlobalEconomicBurdenNonCommunicableDiseases_2011.pdf
+https://www.sciencedirect.com/science/article/pii/S0092867411001279
+https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.24126
+https://books.google.com/books?hl=en&lr=&id=3hVf8Ewh8xUC&oi=fnd&pg=PA2&dq=Ullrich+A.+Cancer+Control:+Knowledge+Into+Action:+WHO+Guide+for+Effective+Programmes%5BM%5D.+World+Health+Organization,+2007.&ots=a9vyYofUYg&sig=6lN6WfPyyWumEPY4kjuf691yvIQ
+https://www.cdc.gov/hpv/parents/vaccine.html
+https://www.cdc.gov/cancer/dcpc/prevention/vaccination.htm
+https://stm.sciencemag.org/content/3/107/107fs7.short?casa_token=4AN6aH8kC-4AAAAA:B7i7qng34kXcO58pH7s9WA7tWPoc8ISdtJqZE1_7j4VqMcT2ANRWoMNdpnFX--L6QnBFPqXffq6uvw
+https://www.cdc.gov/cancer/cervical/basic_info/screening.htm

@@ -1,0 +1,102 @@
+Title: Vitamin B6
+
+Vitamin B6, or pyridoxine, is a water-soluble vitamin found naturally in many foods, as well as added to foods and supplements. Pyridoxal 5’ phosphate (PLP) is the active coenzyme form and most common measure of B6 blood levels in the body. PLP is a coenzyme that assists more than 100 enzymes to perform various functions, including the breakdown of proteins, carbohydrates, and fats; maintaining normal levels of homocysteine (since high levels can cause heart problems); and supporting immune function and brain health.
+
+Recommended Amounts
+RDA:  The Recommended Dietary Allowance (RDA) for men ages 14-50 years is 1.3 mg daily; 51+ years, 1.7 mg. The RDA for women ages 14-18 years is 1.2 mg; 19-50 years, 1.3 mg; and 51+ years, 1.5 mg. For pregnancy and lactation, the amount increases to 1.9 mg mcg and 2.0 mg, respectively. [1]
+UL:  A Tolerable Upper Intake Level (UL) is the maximum daily dose unlikely to cause adverse side effects in the general population. The UL for adults 19 years and older is 100 mg daily, with slightly lesser amounts in children and teenagers. This amount can only be achieved by taking supplements. Even higher amounts of vitamin B6 supplements are sometimes prescribed for medical reasons, but under the supervision of a physician as excess vitamin B6 can cause toxicity. [1,2]
+
+Vitamin B6 and Health
+Vitamin B6 has been widely studied for its role in disease prevention. The vitamin in supplement form shows the most promise for the treatment of pregnancy-induced nausea, but such use should only occur under the supervision of a physician. Adequate blood levels of B6 may be associated with lower risk of cancers, compared to low blood levels. However, the use of separate B6 supplements (apart from the RDA amounts in typical multivitamin preparations) is inconclusive and not recommended.
+High homocysteine levels are associated with an increased risk of  heart disease  and stroke as it may promote the formation of blood clots and excess free radical cells, and may impair normal blood vessel function. A lack of adequate vitamin B6, along with  vitamin B12  and  folic acid , can increase homocysteine levels. Although epidemiological studies have found that vitamin B supplementation can decrease homocysteine levels, they have not consistently shown a decreased risk of cardiovascular events in taking the vitamins. Therefore the American Heart Association does not advocate for the use of B vitamin supplements for reducing cardiovascular disease risk. [3]
+In a study from Norway, results from two randomized double-blinded controlled trials were combined, consisting of 6,261 participants followed for more than three years. The participants were given either a B-vitamin complex with folic acid, B12, and B6; folic acid and B12; 40 mg B6 alone; or a placebo. There were no differences in cardiac events or cardiac deaths in the vitamin B6 groups compared with the placebo group. [4]
+A Cochrane review was conducted with randomized controlled trials looking at the effects of homocysteine-lowering interventions (B6, B12, folic acid supplements alone or in combination) for the prevention of cardiovascular events (stroke, heart attack). The follow-up period was one year or longer. The review did not find a difference in heart attacks or deaths between the B supplements or placebo; it did find a small association with reduced strokes with the supplements given alone or in combination, compared with placebo. [5]
+Vitamin B6 may indirectly help with brain function by lowering levels of homocysteine, as high levels of this protein in the body have been linked with a higher incidence of dementia, Alzheimer’s disease, and cognitive decline. However, there is a lack of controlled trials showing that supplementation can slow cognitive decline.
+A Cochrane review looked at 14 randomized controlled trials that evaluated the cognitive effects on people who used B vitamin supplements for at least three months. [6] It did not find an effect of the supplements (B6 alone or in combination with  B12  and  folic acid ) on cognition in older adults (60+ years) without dementia at baseline, compared with a placebo.
+A systematic review of both epidemiological and clinical studies looked at the relationship of dietary intake or blood levels of vitamin B6 and all cancers. [7] The epidemiological studies found that a high intake of vitamin B6 foods and higher B6 blood levels were significantly associated with a lower risk of all cancers, most notably gastrointestinal cancers. However when total B6 intake from food and supplements was assessed, the protective effect weakened. The clinical studies did not find a protective effect of B6 supplements but the quality of these studies was rated low because B6 was not given alone and because cancer was not the main outcome studied. The authors concluded an unclear role of vitamin B6 in cancer prevention because of the discrepancy between results from epidemiological and intervention studies. They suggested that higher levels of B6 in the body may reflect the status of other nutrients that are protective against cancer.
+Vitamin B6 is believed to play a role in colorectal cancer through its enzyme activity that may reduce oxidative stress and the spread of tumor cells. Vitamin B6 deficiency is associated with chronic inflammation, a risk factor for colorectal cancer.
+A meta-analysis of epidemiological studies did not find that B6 supplements reduced colorectal cancer risk. [8] However, when measuring pyridoxal 5’ phosphate (PLP) blood levels, participants who had higher PLP showed a 30-50% reduced risk of the cancer. The authors noted potential confounding factors in these studies such as healthy lifestyle behaviors (higher level of exercise, no smoking, higher intakes of other vitamins) that could have protected against colorectal cancer.
+Two prospective studies of men and women from the Physicians’ Health Study and Nurses’ Health Study cohorts found a protective effect of higher PLP blood levels and B6 intakes (from food and supplements) on colorectal cancer risk. This result remained after adjusting for intakes of folate, multivitamins, and methionine (nutrients that may be protective against colorectal cancer). [9,10]
+Vitamin B6 has long been documented as a remedy to help relieve pregnancy-related nausea and its most severe form, hyperemesis gravidarum, which sometimes necessitates hospitalization due to severe dehydration.
+A blinded randomized controlled trial of 77 pregnant women found that 40 mg of vitamin B6 taken twice daily reduced the severity of mild to moderate nausea compared with a placebo. [11]
+A review of randomized controlled trials showed that vitamin B6 supplements (up to 10 mg daily) was associated with improved symptoms of mild pregnancy-related nausea compared with a placebo. [12] For moderate to severe nausea, a combination of vitamin B6 and doxylamine (an antihistamine) taken preventively before symptoms started was more effective than taking it after the nausea started.
+Over-the-counter vitamin B6 and B6 with doxylamine are recommended as safe and effective first-line treatments for pregnancy-related nausea by the American College of Obstetricians and Gynecologists. [13]
+
+Food Sources
+Vitamin B6 is found in a variety of animal and plant foods.
+Beef liver
+Tuna
+Salmon
+Fortified cereals
+Chickpeas
+Poultry
+Some  vegetables and fruits , especially  dark leafy greens ,  bananas , papayas, oranges, and cantaloupe
+
+Signs of Deficiency and Toxicity
+Deficiency
+A vitamin B6 deficiency most often occurs when other B vitamins in the body are low, particularly  vitamin B12  and  folic acid . A mild deficiency may have no symptoms, but a more severe or prolonged deficiency can exhibit the following:
+Microcytic anemia
+Skin conditions
+Depression
+Confusion
+Lowered immunity
+Certain conditions can increase the risk of developing a deficiency by interfering with the absorption of vitamin B6:
+Kidney disease
+Autoimmune intestinal disorders like celiac disease, ulcerative colitis, and Crohn’s disease
+Autoimmune inflammatory disorders such as rheumatoid arthritis
+Alcoholism
+Toxicity
+It is quite unlikely to reach a toxic level of vitamin B6 from food sources alone. Vitamin B6 is a water-soluble vitamin so that unused amounts will exit the body through the urine. [2] However, a toxic level can occur from long-term very high dose supplementation of greater than 1,000 mg daily. [1] Symptoms usually subside after stopping the high dosage. Symptoms include:
+Neuropathy in feet and hands
+Ataxia (loss of control of body movements)
+Nausea
+
+Related
+B Vitamins Vitamins and Minerals
+Institute of Medicine. Dietary reference intakes for thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12, pantothenic acid, biotin, and choline. Washington, DC:  National Academy Press ,  1999.
+U.S. Department of Health and Human Services.  Vitamin B6 Fact Sheet for Health Professionals . Accessed 5/6/19.
+Lichtenstein AH, Appel LJ, Brands M, Carnethon M, Daniels S, Franch HA, Franklin B, Kris-Etherton P, Harris WS, Howard B, Karanja N. Diet and lifestyle recommendations revision 2006: a scientific statement from the American Heart Association Nutrition Committee.  Circulation . 2006 Jul 4;114(1):82-96.
+Ebbing M, Bønaa KH, Arnesen E, Ueland PM, Nordrehaug JE, Rasmussen K, Njølstad I, Nilsen DW, Refsum H, Tverdal A, Vollset SE. Combined analyses and extended follow‐up of two randomized controlled homocysteine‐lowering B‐vitamin trials.  Journal of internal medicine . 2010 Oct 1;268(4):367-82.
+Martí‐Carvajal AJ, Sola I, Lathyris D, Dayer M. Homocysteine‐lowering interventions for preventing cardiovascular events.  Cochrane Database of Systematic Reviews . 2017(8).
+Rutjes  AWS, Denton  DA, Di Nisio  M, Chong  LY, Abraham  RP, Al‐Assaf  AS, Anderson  JL, Malik  MA, Vernooij  RWM, Martínez  G, Tabet  N, McCleery  J. Vitamin and mineral supplementation for maintaining cognitive function in cognitively healthy people in mid and late life.  Cochrane Database of Systematic Reviews . 2018(12).
+Mocellin S, Briarava M, Pilati P. Vitamin B6 and cancer risk: a field synopsis and meta-analysis.  JNCI: Journal of the National Cancer Institute . 2017 Mar 1;109(3).
+Zhang XH, Ma J, Smith-Warner SA, Lee JE, Giovannucci E. Vitamin B6 and colorectal cancer: current evidence and future directions.  World journal of gastroenterology: WJG . 2013 Feb 21;19(7):1005.
+Wei EK, Giovannucci E, Selhub J, Fuchs CS, Hankinson SE, Ma J. Plasma vitamin B6 and the risk of colorectal cancer and adenoma in women.  J Natl Cancer Inst .  2005; 97:684–692.
+Lee JE, Li H, Giovannucci E, et al. Prospective study of plasma vitamin B6 and risk of colorectal cancer in men.  Cancer Epidemiol Biomarkers Prev . 2009; 18:1197–1202.
+Sharifzadeh F, Kashanian M, Koohpayehzadeh J, Rezaian F, Sheikhansari N, Eshraghi N. A comparison between the effects of ginger, pyridoxine (vitamin B6) and placebo for the treatment of the first trimester nausea and vomiting of pregnancy (NVP).  The Journal of Maternal-Fetal & Neonatal Medicine . 2018 Oct 2;31(19):2509-14.
+McParlin C, O’Donnell A, Robson SC, Beyer F, Moloney E, Bryant A, Bradley J, Muirhead CR, Nelson-Piercy C, Newbury-Birch D, Norman J. Treatments for hyperemesis gravidarum and nausea and vomiting in pregnancy: a systematic review.  JAMA . 2016 Oct 4;316(13):1392-401.
+Erick M, Cox JT, Mogensen KM. ACOG Practice Bulletin 189: Nausea and Vomiting of Pregnancy.  Obstetrics & Gynecology . 2018 May 1;131(5):935.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/vitamin-b12/
+https://nutritionsource.hsph.harvard.edu/folic-acid/
+https://nutritionsource.hsph.harvard.edu/vitamin-b12/
+https://nutritionsource.hsph.harvard.edu/folic-acid/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/food-features/chickpeas-garbanzo-beans/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/food-features/kale/
+https://nutritionsource.hsph.harvard.edu/food-features/bananas/
+https://nutritionsource.hsph.harvard.edu/vitamin-b12/
+https://nutritionsource.hsph.harvard.edu/folic-acid/
+https://nutritionsource.hsph.harvard.edu/vitamins/vitamin-b/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+http://www.nap.edu/books/0309065542/html
+https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/
+https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.106.176158
+https://aasldpubs.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2796.2010.02259.x
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006612.pub5/abstract
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011906.pub2/full
+https://academic.oup.com/jnci/article-abstract/109/3/djw230/2572054
+https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3581987/
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15870439
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19336555
+https://www.tandfonline.com/doi/abs/10.1080/14767058.2017.1344965
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2565294
+https://www.researchgate.net/profile/Kris_Mogensen/publication/324867255_ACOG_Practice_Bulletin_189_Nausea_and_Vomiting_of_Pregnancy/links/5af9842f0f7e9b026bf73c7e/ACOG-Practice-Bulletin-189-Nausea-and-Vomiting-of-Pregnancy.pdf

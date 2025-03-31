@@ -1,0 +1,81 @@
+Title: Vitamin B12
+
+Vitamin B12, or cobalamin, is naturally found in animal foods. It can also be added to foods or supplements. Vitamin B12 is needed to form red blood cells and DNA. It is also a key player in the function and development of brain and nerve cells.
+Vitamin B12 binds to the protein in the foods we eat. In the stomach, hydrochloric acid and enzymes unbind vitamin B12 into its free form. From there, vitamin B12 combines with a protein called intrinsic factor so that it can be absorbed further down in the small intestine.
+Supplements and fortified foods contain B12 in its free form, so they may be more easily absorbed. There is a variety of vitamin B12 supplements available. Although there are claims that certain forms—like sublingual tablets or liquids placed under the tongue to be absorbed through the tissues of the mouth—have better absorption than traditional tablets, studies have not shown an important difference. Vitamin B12 tablets are available in high dosages far above the recommended dietary allowance, but these high amounts are not necessarily the amount that will be absorbed because an adequate amount of intrinsic factor is also needed. In cases of severe vitamin B12 deficiency due to inadequate intrinsic factor (pernicious anemia), doctors may prescribe B12 injections in the muscle.
+
+Recommended Amounts
+RDA :  The Recommended Dietary Allowance for men and women ages 14 years and older is 2.4 micrograms (mcg) daily. For pregnancy and lactation, the amount increases to 2.6 mcg and 2.8 mcg daily, respectively. [1]
+UL :  A Tolerable Upper Intake Level (UL) is the maximum daily dose unlikely to cause adverse side effects in the general population. No upper limit has been set for vitamin B12, as there is no established toxic level.  However, some evidence suggests that supplements of 25 mcg per day or higher may increase the risk of bone fractures. [2]
+
+Vitamin B12 and Health
+Vitamin B12 is involved in the breakdown of a protein called homocysteine. High homocysteine levels are associated with an increased risk of  heart disease  and stroke as it may promote the formation of blood clots and excess free radical cells, and may impair normal blood vessel function. A lack of adequate vitamin B12 can increase homocysteine levels.
+Although epidemiological studies have found that vitamin B12 supplementation can decrease homocysteine levels, they have not consistently shown a decreased risk of cardiovascular events in taking the vitamin. Therefore the American Heart Association does not advocate for the routine use of B vitamin supplements in reducing cardiovascular disease risk. [1]  However,  vitamin B12 supplements can be important for some individuals with genetic variants that lead to high homocysteine levels.
+High homocysteine levels are linked with a higher incidence of Alzheimer’s disease, dementia, and cognitive decline. Similar to cardiovascular disease, although the research has shown that vitamin B12 supplementation reduces homocysteine blood levels, this has not translated into reduced rates of cognitive decline. A Cochrane review on  folic acid  supplements and cognition, with or without vitamin B12, did not find a significant effect of the supplements vs. placebo on cognitive function in healthy elderly people or people with dementia. [3] Another review of 14 randomized controlled trials also did not consistent evidence of benefit with the use of vitamin B12 supplements, alone or with other B vitamin supplements, on cognitive function in people with either normal or impaired cognition. [4] These findings do not preclude a possible benefit among some individuals with low vitamin B12 levels, and more research is needed.
+Food Sources
+Fish, shellfish
+Liver
+Red meat
+Eggs
+Poultry
+Dairy products  such as  milk ,  cheese , and  yogurt
+Fortified nutritional yeast
+Fortified breakfast cereals
+Enriched  soy  or rice milk
+
+Signs of Deficiency and Toxicity
+Deficiency
+Measuring vitamin B12 in the blood is actually not the best way to determine whether someone is deficient, as some people with a deficiency can show normal B12 blood levels. Blood levels of methylmalonic acid, a protein breakdown product, and homocysteine are better markers that capture actual vitamin B12 activity. These values increase with a vitamin B12 deficiency. It is estimated that up to 15% of the general population has a vitamin B12 deficiency. [1]
+Factors that may cause vitamin B12 deficiency:
+Avoiding animal products.  People who do not eat meat, fish, poultry, or dairy are at risk of becoming deficient in vitamin B12, since it is only found naturally in animal products. Studies have shown that vegetarians have low vitamin B blood levels. [5] For this reason, those who follow a vegetarian or vegan diet should include B12-fortified foods or a B12 supplement in their diets. This is particularly important for pregnant women, as the fetus requires adequate vitamin B12 for neurologic development and deficiency can lead to permanent neurological damage.
+Lack of intrinsic factor.  Pernicious anemia is an autoimmune disease that attacks and potentially destroys gut cells so that intrinsic factor is not present, which is crucial for vitamin B12 to be absorbed. If vitamin B12 deficiency ensues, other types of anemia and neurological damage may result. Even the use of a high-dose B12 supplement will not solve the problem, as intrinsic factor is not available to absorb it.
+Inadequate stomach acid or medications that cause decreased stomach acid.  A much more common cause of B12 deficiency, especially in older people, is a lack of stomach acid, because stomach acid is needed to liberate vitamin B12 from food. An estimated 10-30% of adults over the age of 50 have difficulty absorbing vitamin B12 from food. [1] People who regularly take medications that suppress stomach acid for conditions like gastroesophageal reflux disease (GERD) or peptic ulcer disease—such as proton-pump inhibitors, H2 blockers, or other antacids—may have difficulty absorbing vitamin B12 from food. These drugs can slow the release or decrease production of stomach acid. In theory this can prevent the vitamin from being released into its free usable form in the stomach; however, research has not shown an increased prevalence of a deficiency in people using these medications. Anyone using these medications for an extended time and who are at risk for a vitamin B12 deficiency for other reasons should be monitored closely by their physician. They may also choose to use fortified foods or supplements with vitamin B12, as these forms are typically absorbed well, and do not require stomach acid.
+Intestinal surgeries or digestive disorders that cause malabsorption.  Surgeries that affect the stomach where intrinsic factor is made, or the ileum (the last portion of the small intestine) where vitamin B12 is absorbed, can increase the risk of a deficiency. Certain diseases including Crohn’s and celiac disease that negatively impact the digestive tract also increase the risk of deficiency.
+Medications that interfere with absorption.  Long-term use of metformin, a drug commonly prescribed for type 2 diabetes, is strongly associated with vitamin B12 deficiency and lower folic acid levels as it can block absorption, which may lead to increased homocysteine levels and risk for cardiovascular disease. [6] Proton pump inhibitors and histamine blockers prescribed to reduce stomach acid are also associated with lower vitamin B12 levels.
+Signs of deficiency may include:
+Megaloblastic anemia—a condition of larger than normal sized red blood cells and a smaller than normal amount; this occurs because there is not enough vitamin B12 in the diet or poor absorption
+Pernicious anemia—a type of megaloblastic anemia caused by a lack of intrinsic factor so that vitamin B12 is not absorbed
+Fatigue, weakness
+Nerve damage with numbness, tingling in the hands and legs
+Memory loss, confusion
+Dementia
+Depression
+Seizures
+Toxicity
+Vitamin B12 is a water-soluble vitamin, so any unused amount will exit the body through the urine. Generally, up to 1000 mcg a day of an oral tablet to treat a deficiency is considered safe. The Institute of Medicine states “no adverse effects have been associated with excess vitamin B12 intake from food and supplements in healthy individuals.” [1] However, it is important not to start a high-dosage supplement of any kind without first checking with your doctor.
+
+Did You Know?
+A B vitamin complex supplement is often touted to boost energy levels and mood. People who have a B vitamin deficiency may feel a rise in energy levels after using the supplement because the vitamin is directly involved in making healthy blood cells and can correct anemia if present. However, there is no evidence of benefit if people without a deficiency take extra B vitamins.
+People who eat a vegan diet are often told to include Brewer’s or nutritional yeast for its B12 content. However, yeast does not naturally contain this vitamin and will only be present if fortified with it. Be aware that certain brands, but not all, contain B12.
+Nori (purple laver), the dried edible seaweed used to make sushi rolls, is sometimes promoted as a plant source of vitamin B12. It does contain small amounts of active vitamin B12, but the amount varies among types of seaweed, with some containing none. Therefore is not considered a reliable food source.
+
+Related
+Vitamins and Minerals
+U.S. Department of Health and Human Services. Vitamin B12 Fact Sheet for Health Professionals.  https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/  Accessed 1/21/19.
+Meyer HE, Willett WC, Fung TT, Holvik K, Feskanich D. Association of High Intakes of Vitamins B6 and B12 From Food and Supplements With Risk of Hip Fracture Among Postmenopausal Women in the Nurses’ Health Study.  JAMA network open . 2019 May 3;2(5):e193591-.
+Malouf R, Evans JG. Folic acid with or without vitamin B12 for the prevention and treatment of healthy elderly and demented people.  Cochrane Database of Systematic Reviews . 2008(4).
+Balk EM, Raman G, Tatsioni A, Chung M, Lau J, Rosenberg IH. Vitamin B6, B12, and folic acid supplementation and cognitive function: a systematic review of randomized trials.  Archives of internal medicine . 2007 Jan 8;167(1):21-30.
+Rizzo G, Laganà A, Rapisarda A, La Ferrera G, Buscema M, Rossetti P, Nigro A, Muscia V, Valenti G, Sapia F, Sarpietro G. Vitamin B12 among vegetarians: status, assessment and supplementation.  Nutrients . 2016 Dec;8(12):767.
+Al-Fawaeir S, Al-Odat I. Influence of metformin intake on serum vitamin B12 levels in patients with type 2 diabetes mellitus.  Plos one . 2022 Dec 30;17(12):e0279740.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/folic-acid/
+https://nutritionsource.hsph.harvard.edu/aquatic-foods/
+https://nutritionsource.hsph.harvard.edu/food-features/eggs/
+https://nutritionsource.hsph.harvard.edu/dairy/
+https://nutritionsource.hsph.harvard.edu/milk/
+https://nutritionsource.hsph.harvard.edu/cheese/
+https://nutritionsource.hsph.harvard.edu/food-features/yogurt/
+https://nutritionsource.hsph.harvard.edu/soy/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2733176
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004514.pub2/abstract
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/411489
+https://www.mdpi.com/2072-6643/8/12/767
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279740

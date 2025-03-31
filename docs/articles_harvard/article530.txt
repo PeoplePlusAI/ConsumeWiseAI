@@ -1,0 +1,80 @@
+Title: Diet Review: Intermittent Fasting for Weight Loss
+
+Finding yourself confused by the seemingly endless promotion of weight-loss strategies and diet plans?  In this series , we take a look at some popular diets—and review the research behind them.
+
+What Is It?
+Intermittent fasting is a diet regimen that cycles between brief periods of fasting, with either no food or significant calorie reduction, and periods of unrestricted eating. It is promoted to change body composition through loss of fat mass and weight, and to improve markers of health that are associated with disease such as blood pressure and cholesterol levels. Its roots derive from traditional fasting, a universal ritual used for health or spiritual benefit as described in early texts by Socrates, Plato, and religious groups. [1] Fasting typically entails a steady abstinence of food and beverages, ranging from 12 hours to one month. It may require complete abstinence, or allow a reduced amount of food and beverages.
+Prolonged very low calorie diets can cause physiological changes that may cause the body to adapt to the calorie restriction and therefore prevent further weight loss. [2] Intermittent fasting attempts to address this problem by cycling between a low calorie level for a brief time followed by normal eating, which may prevent these adaptations. However, research does not consistently show that intermittent fasting is superior to continuous low calorie diets for weight loss efficiency.
+
+How It Works
+The most common methods are fasting on alternate days, for whole days with a specific frequency per week, or during a set time frame. [3]
+Alternate-day fasting —Alternating between days of no food restriction with days that consist of one meal that provides about 25% of daily calorie needs. Example: Mon-Wed-Fri consists of fasting, while alternate days have no food restrictions.
+Whole-day fasting —1-2 days per week of complete fasting or up to 25% of daily calorie needs, with no food restriction on the other days. Example: The 5:2 diet approach advocates no food restriction five days of the week, cycled with a 400-500 calorie diet the other two days of the week.
+Time-restricted feeding —Following a meal plan each day with a designated time frame for fasting. Example: Meals are eaten from 8am-3pm, with fasting during the remaining hours of the day.
+
+The Research So Far
+Physiologically, calorie restriction has been shown in animals to  increase lifespan and improve tolerance to various metabolic stresses  in the body. [4] Although the evidence for caloric restriction in animal studies is strong, there is less convincing evidence in human studies. Proponents of the diet believe that the stress of intermittent fasting causes an immune response that repairs cells and produces positive metabolic changes (reduction in triglycerides, LDL cholesterol, blood pressure, weight, fat mass, blood glucose). [3,5] An understandable concern of this diet is that followers will overeat on non-fasting days to compensate for calories lost during fasting. However, studies have not shown this to be true when compared with other weight loss methods. [5]
+A systematic review of 40 studies found that intermittent fasting was effective for weight loss, with a typical loss of 7-11 pounds over 10 weeks. [2] There was much variability in the studies, ranging in size from 4 to 334 subjects, and followed from 2 to 104 weeks. It is important to note that different study designs and methods of intermittent fasting were used, and participant characteristics differed (lean vs. obese).  Half of the studies were controlled trials comparing the fasting group to a comparison group and/or a control group (either continuous calorie restriction or usual lifestyle), with the other half examining an intermittent fasting group alone. A brief summary of their findings:
+Dropout rates ranged from 0-65%. When comparing dropout rates between the fasting groups and continuous calorie restriction groups, no significant differences were found. Overall, the review did not find that intermittent fasting had a low dropout rate, and therefore was not necessarily easier to follow than other weight loss approaches.
+When examining the 12 clinical trials that compared the fasting group with the continuous calorie restriction group, there was no significant difference in weight loss amounts or body composition changes.
+Ten trials that investigated changes in appetite did not show an overall increase in appetite in the intermittent fasting groups despite significant weight loss and decreases in leptin hormone levels (a hormone that suppresses appetite).
+A randomized controlled trial that followed 100 obese individuals for one year did not find intermittent fasting to be more effective than daily calorie restriction. [6] For the 6-month weight loss phase, subjects were either placed on an alternating day fast (alternating days of one meal of 25% of baseline calories versus 125% of baseline calories divided over three meals) or daily calorie restriction (75% of baseline calories divided over three meals) following the American Heart Association guidelines. After 6 months, calorie levels were increased by 25% in both groups with a goal of weight maintenance. Participant characteristics of the groups were similar; mostly women and generally healthy. The trial examined weight changes, compliance rates, and cardiovascular risk factors. Their findings when comparing the two groups:
+No significant differences in weight loss, weight regain, or body composition (e.g., fat mass, lean mass).
+No significant differences in blood pressure, heart rate, fasting glucose, and fasting insulin. At 12 months, although there were no differences in total cholesterol and triglycerides, the alternate-day fasting group showed significantly increased LDL cholesterol levels. The authors did not comment on a possible cause.
+The dropout rate was higher in the alternate-day fasting group (38%) than in the daily calorie restriction group (29%). Interestingly, those in the fasting group actually ate less food than prescribed on non-fasting days though they ate more food than prescribed on fasting days.
+A one-year randomized trial also did not find intermittent fasting (16:8 method) more beneficial than calorie reduction without a restricted eating time. [7] Patients with obesity were placed on the same moderate calorie restriction but randomized to one of two groups: time-restricted eating (allowed to eat from 8am-4pm), or allowed to eat any time. Weight, waist circumference, body mass index, body fat, and blood work were measured. At one year, the time-restricted group lost an average of 18 pounds and the time-unrestricted group lost 14 pounds; blood pressure, cholesterol, and blood glucose levels also decreased. However, the changes in weight and other parameters were not significantly different among the groups.
+
+Potential Pitfalls
+This type of dietary pattern would be difficult for someone who eats every few hours (e.g., snacks between meals, grazes). It would also not be appropriate for those with conditions that require food at regular intervals due to metabolic changes caused by their medications, such as with diabetes. Prolonged periods of food deprivation or semi-starvation places one at risk for overeating when food is reintroduced, and may foster unhealthy behaviors such as an increased fixation on food. [8,9]
+Individuals with the following conditions should abstain from intermittent fasting:
+Diabetes
+Eating disorders that involve unhealthy self-restriction (anorexia or bulimia nervosa)
+Use of medications that require food intake
+Active growth stage, such as in adolescents
+Pregnancy, breastfeeding
+Unanswered Questions
+How often and for how long should one fast to see a therapeutic benefit?
+Is this diet safe and beneficial for everyone (e.g., generally healthy population, higher risk individuals with chronic diseases, elderly)?
+What are the long-term effects of intermittent fasting?
+Is there a risk of negatively influencing the dietary behaviors of other family members, especially in children who see their parents abstaining from food and skipping meals?
+
+Bottom Line
+Although certain benefits of caloric restriction have been demonstrated in animal studies, similar benefits of intermittent fasting in humans have not been observed. It is unclear that intermittent fasting is superior to other weight loss methods in regards to amount of weight loss, biological changes, compliance rates, and decreased appetite. Certain people who typically eat one or two meals a day or do not eat for long stretches of time may show better compliance with this type of regimen. Additionally, people who tend to eat or snack excessively at night may benefit from a cut-off eating time, especially if the late eating leads to unpleasant side effects such as reflux or disrupted  sleep .
+More high-quality studies including randomized controlled trials with follow-up of greater than one year are needed to show a direct effect and the possible benefits of intermittent fasting. Strong recommendations on intermittent fasting for weight loss cannot be made at this time.
+
+Related
+Healthy Weight
+The Best Diet: Quality Counts
+Healthy Dietary Styles
+Other Diet Reviews
+Persynaki A, Karras S, Pichard C. Unraveling the metabolic health benefits of fasting related to religious beliefs: A narrative review.  Nutrition . 2017 Mar 1;35:14-20.
+Seimon RV, Roekenes JA, Zibellini J, Zhu B, Gibson AA, Hills AP, Wood RE, King NA, Byrne NM, Sainsbury A. Do intermittent diets provide physiological benefits over continuous diets for weight loss? A systematic review of clinical trials.  Mol Cell Endocrinol . 2015 Dec 15;418:153-72
+Tinsley GM, La Bounty PM. Effects of intermittent fasting on body composition and clinical health markers in humans.  Nutrition reviews . 2015 Oct 1;73(10):661-74.
+Robertson LT, Mitchell JR. Benefits of short-term dietary restriction in mammals.  Experimental gerontology . 2013 Oct 31;48(10):1043-8.
+Horne BD, Muhlestein JB, Anderson JL. Health effects of intermittent fasting: hormesis or harm? A systematic review.  Am J Clin Nutr . 2015 Aug 1;102(2):464-70.
+Trepanowski JF, Kroeger CM, Barnosky A, Klempel MC, Bhutani S, Hoddy KK, Gabel K, Freels S, Rigdon J, Rood J, Ravussin E. Effect of Alternate-Day Fasting on Weight Loss, Weight Maintenance, and Cardioprotection Among Metabolically Healthy Obese Adults: A Randomized Clinical Trial.   JAMA Internal Medicine . 2017 May 1.
+Liu D, Huang Y, Huang C, Yang S, Wei X, Zhang P, Guo D, Lin J, Xu B, Li C, He H. Calorie Restriction with or without Time-Restricted Eating in Weight Loss.  New England Journal of Medicine . 2022 Apr 21;386(16):1495-504.
+Johnstone AM. Fasting–the ultimate diet?.  Obesity Reviews .  2007 May 1;8(3):211-22.
+Harvie M, Howell A. Potential Benefits and Harms of Intermittent Energy Restriction and Intermittent Fasting Amongst Obese, Overweight and Normal Weight Subjects—A Narrative Review of Human and Animal Evidence.  Behavioral Sciences . 2017 Jan 19;7(1):4.
+
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+https://nutritionsource.hsph.harvard.edu/diet-reviews/
+https://www.hsph.harvard.edu/news/press-releases/molecular-mechanism-behind-health-benefits-of-dietary-restriction-identified/
+https://nutritionsource.hsph.harvard.edu/diabetes-full-story/
+https://nutritionsource.hsph.harvard.edu/sleep/
+https://nutritionsource.hsph.harvard.edu/healthy-weight/
+https://nutritionsource.hsph.harvard.edu/best-diet-quality-counts/
+https://nutritionsource.hsph.harvard.edu/healthy-dietary-styles/
+https://nutritionsource.hsph.harvard.edu/healthy-weight/diet-reviews/
+http://www.nutritionjrnl.com/article/S0899-9007(16)30226-X/abstract
+http://www.sciencedirect.com/science/article/pii/S0303720715300800
+https://academic.oup.com/nutritionreviews/article-abstract/73/10/661/1849182
+http://www.sciencedirect.com/science/article/pii/S0531556513000247
+http://ajcn.nutrition.org/content/102/2/464.short
+http://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2623528?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jamainternmed.2017.0936
+https://www.nejm.org/doi/full/10.1056/NEJMoa2114833
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-789X.2006.00266.x/full
+http://www.mdpi.com/2076-328X/7/1/4/htm

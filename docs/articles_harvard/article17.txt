@@ -1,0 +1,172 @@
+Title: Antioxidants
+
+Often used as a marketing buzzword, learn about the role of antioxidants beyond the hype, and some of the research on health and disease prevention.
+Jump to: – What are antioxidants? – Health benefits of antioxidants: what’s the buzz? – Studies of antioxidant supplements and disease prevention – Antioxidants in food – Bottom line on antioxidants and disease prevention
+
+What are antioxidants?
+The body’s trillion or so cells face formidable threats, from lack of food to infection with a virus. Another constant threat comes from chemicals called free radicals. In very high levels, they are capable of damaging cells and genetic material. The body generates free radicals as the inevitable byproducts of turning food into energy. Free radicals are also formed after exercising or exposure to cigarette smoke, air pollution, and sunlight. [1]
+Free radicals come in many shapes, sizes, and chemical configurations. What they all share is a voracious appetite for electrons, stealing them from any nearby substances that will yield them. This electron theft can radically alter the “loser’s” structure or function. Free radical damage can change the instructions coded in a strand of DNA. It can make a circulating low-density lipoprotein (LDL, sometimes called bad cholesterol) molecule more likely to get trapped in an artery wall. Or it can alter a cell’s membrane, changing the flow of what enters the cell and what leaves it. An excessive chronic amount of free radicals in the body causes a condition called oxidative stress, which may damage cells and lead to chronic diseases. [2]
+We aren’t defenseless against free radicals. The body, long used to this relentless attack, makes many molecules that quench free radicals as surely as water douses fire. We also extract free-radical fighters from food. These defenders are labeled “antioxidants.” They work by generously giving electrons to free radicals without turning into electron-scavenging substances themselves. They are also involved in mechanisms that repair DNA and maintain the health of cells.
+There are hundreds, probably thousands, of different substances that can act as antioxidants. The most familiar ones are  vitamin C ,  vitamin E ,  beta-carotene , and other related carotenoids, along with the minerals selenium and manganese. They’re joined by glutathione, coenzyme Q10, lipoic acid, flavonoids, phenols, polyphenols, phytoestrogens, and many more.  Most are naturally occurring, and their presence in food is likely to prevent oxidation or to serve as a natural defense against the local environment.
+But using the term “antioxidant” to refer to substances is misleading. It is really a chemical property, namely, the ability to act as an electron donor. Some substances that act as antioxidants in one situation may be pro-oxidants—electron grabbers—in a different situation. Another big misconception is that antioxidants are interchangeable. They aren’t. Each one has unique chemical behaviors and biological properties. They almost certainly evolved as parts of elaborate networks, with each different substance (or family of substances) playing slightly different roles. This means that no single substance can do the work of the whole crowd.
+
+Health benefits of antioxidants: what’s the buzz?
+Antioxidants came to public attention in the 1990s, when scientists began to understand that free radical damage was involved in the early stages of artery-clogging atherosclerosis. It was also linked to  cancer , vision loss, and a host of other chronic conditions. Some studies showed that people with low intakes of antioxidant-rich fruits and vegetables were at greater risk for developing these chronic conditions than were people who ate plenty of those foods. Clinical trials began testing the impact of single substances in supplement form, especially beta-carotene and vitamin E, as weapons against chronic diseases.
+Even before the results of these trials were in, the media and the supplement and food industries began to hype the benefits of “antioxidants.” Frozen berries, green tea, and other foods labeled as being rich in antioxidants began popping up in stores. Supplement makers touted the disease-fighting properties of all sorts of antioxidants.
+The research results were mixed, but most did not find the hoped-for benefits. Most research teams reported that vitamin E and other antioxidant supplements didn’t protect against heart disease or cancer. [3] One study even showed that taking beta-carotene supplements actually increased the chances of developing lung cancer in smokers. On the other hand, some trials reported benefits; for example, after 18 years of follow-up, the Physicians’ Health Study found that taking beta-carotene supplements was associated with a modest reduction in the rate of cognitive decline. [4]
+These mostly disappointing results haven’t stopped food companies and supplement sellers from banking on antioxidants. Antioxidants are still added to breakfast cereals, sports bars, energy drinks, and other  processed foods , and they are promoted as additives that can prevent heart disease, cancer, cataracts, memory loss, and other conditions.
+Often the claims have stretched and distorted the data: While it’s true that the package of antioxidants,  minerals ,  fiber , and other substances found naturally in  fruits ,  vegetables , and  whole grains  helps  prevent a variety of chronic diseases , it is unlikely that high doses of antioxidant supplements can accomplish the same feat.
+Antioxidant foods hyped to super-status
+
+Antioxidant supplements and disease prevention: little supportive evidence
+Randomized placebo-controlled trials, which can provide the strongest evidence, offer little support that taking vitamin C, vitamin E, beta-carotene, or other single antioxidants provides substantial protection against heart disease, cancer, or other chronic conditions. The results of the largest trials have been mostly negative.
+Vitamin E, beta-carotene, and other antioxidants in supplement form aren’t the silver bullet against heart disease and stroke that researchers were hoping for.  A modest effect of vitamin E has been found in some studies but more research is needed.
+In the Women’s Health Study, 39,876 initially healthy women took 600 IU of natural source vitamin E or a placebo every other day for 10 years. At the study’s end, the rates of major cardiovascular events and cancer were no lower among those taking vitamin E than those taking the placebo. However, the trial did observe a significant 24% reduction in total cardiovascular mortality. Although this was not a primary endpoint for the trial, it nevertheless represents an important outcome. [6]
+Earlier large vitamin E trials, conducted among individuals with previously diagnosed coronary disease or at high risk for it, generally showed no benefit. In the Heart Outcomes Prevention Evaluation (HOPE) trial, the rates of major cardiovascular events were essentially the same in the vitamin E (21.5%) and placebo (20.6%) groups, although participants taking vitamin E had higher risks of heart failure and hospitalization for heart failure. [7] In the Gruppo Italiano per lo Studio della Sopravvivenza nell’Infarto Miocardico (GISSI) trial, the results were mixed but mostly showed no preventive effects after more than three years of treatment with vitamin E among 11,000 heart attack survivors. [8] However, some studies suggest potential benefits among certain subgroups. A recent trial of vitamin E in Israel, for example, showed a marked reduction in coronary heart disease among people with type 2 diabetes who have a common genetic predisposition for greater oxidative stress. [9]
+Beta-carotene, meanwhile, did not provide any protection against heart disease or stroke, as demonstrated by the Physicians’ Health Study. [10]
+What about combinations? In the Supplementation en Vitamines et Mineraux Antioxydants (SU.VI.MAX) study, 13,017 French men and women took a single daily capsule that contained 120 mg vitamin C, 30 mg vitamin E, 6 mg beta-carotene, 100 mcg selenium, and 20 mg zinc, or a placebo, for seven and a half years. The vitamins had no effect on overall rates of cardiovascular disease. [11]
+In the Women’s Antioxidant Cardiovascular Study, vitamin E, vitamin C, and beta-carotene had similar effects as a placebo on myocardial infarction, stroke, coronary revascularization, and cardiovascular death, although there was a modest and significant benefit for vitamin E among women with existing cardiovascular disease. [12]
+A 2014 study from the Journal of Respiratory Research found that different isoforms of vitamin E (called tocopherols) had opposing effects on lung function. [13] The study analyzed data from the Coronary Artery Risk Development in Young Adults (CARDIA) cohort and measured serum levels of alpha- and gamma-tocopherol in 4,526 adults. Lung function was tested using spirometric parameters: higher parameters are indicative of increased lung function, while lower parameters are indicative of decreased lung function. The study found that higher serum levels of alpha-tocopherol were associated with higher spirometric parameters and that high serum levels of gamma-tocopherol were associated with lower spirometric parameters. Though the study was observational in nature, it confirmed the mechanistic pathway of alpha- and gamma-tocopherol in mice studies. [14]
+When it comes to cancer prevention, the picture remains inconclusive for antioxidant supplements. Few trials have gone on long enough to provide an adequate test for cancer.
+In the long-term Physicians’ Health Study, cancer rates were similar among men taking beta-carotene and among those taking a placebo. [10] Other trials have also largely shown no effect, including HOPE. [7]
+The SU.VI.MAX randomized placebo-controlled trial showed a reduction in cancer risk and all-cause mortality among men taking an antioxidant cocktail (low doses of vitamins C and E, beta-carotene, selenium, and zinc) but no apparent effect in women, possibly because men tended to have low blood levels of beta-carotene and other vitamins at the beginning of the study. [11]
+A randomized trial of selenium in people with skin cancer demonstrated significant reductions in cancer and cancer mortality at various sites, including colon, lung, and prostate. [15]  The effects were strongest among those with low selenium levels at baseline.
+A six-year trial, the Age-Related Eye Disease Study (AREDS), found that a combination of vitamin C, vitamin E, beta-carotene, and zinc offered some protection against the development of advanced age-related macular degeneration, but not cataracts, in people who were at high risk of the disease. [16,17]
+Lutein, a naturally occurring carotenoid found in green, leafy vegetables such as spinach and kale, may protect vision. However, relatively short trials of lutein supplementation for age-related macular degeneration have yielded conflicting findings. [18,19] A follow-up trial to the AREDS, the AREDS2, examined lutein/zeaxanthin supplementation on late age-related macular degeneration (AMD) in men and women for up to five years. [20] It found a favorable but not significant effect of the supplements on AMD.
+A Cochrane review of 19 randomized controlled trials compared antioxidant vitamin/mineral supplements (multivitamin, vitamin E, lutein, zeaxanthin, zinc) with placebo or no intervention in people with AMD. [21] The participants were generally well-nourished. The study found that people taking the vitamins were less likely to progress to late-stage AMD and vision loss. However, the study authors noted that taking lutein and zeaxanthin alone or vitamin E alone did not have a beneficial effect on these eye conditions.
+The Selenium and Vitamin E Cancer Prevention Trial (SELECT) Eye Endpoints Study, which followed 11,267 men for a mean of five years, did not find that vitamin E and selenium supplements, in combination or alone, protected from age-related cataracts. [22]
+The Physicians’ Health Study II, a randomized trial giving 50 mg beta-carotene supplements or a placebo to 5,956 men older than 65 years, found that longer-term supplementation for at least 15 years provided cognitive benefits. [4]
+The Prevention of Alzheimer’s Disease by Vitamin E and Selenium (PREADViSE) trial followed more than 3,700 men ages 60 and older for six years. It did not find that antioxidant supplements of vitamin E or selenium, alone or in combination, protected against dementia compared with a placebo. [23]
+A meta-analysis of 68 antioxidant supplement trials found that taking beta-carotene and vitamin A and E supplements increased the risk of dying. [24] Although healthy participants were included in 21 of the trials, most of the studies included people who already had some type of serious illness. It was also difficult to compare interventions because the types of supplements, the dosages taken, and the length of time they were taken varied widely.
+The same authors conducted another systematic review of 78 randomized clinical trials on antioxidant supplements including beta-carotene, vitamin A, vitamin C, vitamin E, and selenium (alone or in combination). [25]   Again, the majority of trials included people with various established diseases. The study found that both people who were healthy and those with diseases taking beta-carotene and vitamin E supplements had a higher rate of death. The duration of the studies varied widely from one month to 12 years, with varying dosages.
+If antioxidants were harmless, it wouldn’t much matter if you took them “just in case.” A few studies, though, have raised the possibility that taking antioxidant supplements, either single agents or combinations, could interfere with health.
+The first inkling came in a large trial of beta-carotene conducted among men in Finland who were heavy smokers, and therefore at high risk for developing lung cancer. The trial was stopped early when researchers saw a significant increase in lung cancer among those taking the supplement compared to those taking the placebo. [26]
+In another trial among heavy smokers and people exposed to asbestos, beta-carotene was combined with vitamin A. Again, an increase in lung cancer was seen in the supplement group. [27] Not all trials of beta-carotene show this harmful effect, however. In the Physicians’ Health Study, which included few active smokers, no increase in lung cancer or any other adverse affect was seen even after 18 years of follow-up. [10]
+In the SU.VI.MAX trial, rates of skin cancer were higher in women who were assigned to take vitamin C, vitamin E, beta-carotene, selenium, and zinc. [28]
+Vitamin E supplements were found to significantly increase the risk of prostate cancer by 17% in healthy men compared with those who took a placebo. These results came from the Selenium and Vitamin E Cancer Prevention Trial (SELECT) that followed 35,533 men for up to 12 years. [29]
+High-dose antioxidant supplements can also interfere with medicines. Vitamin E supplements can have a blood-thinning effect and increase the risk of bleeding in people who are already taking blood-thinning medicines. Some studies have suggested that taking antioxidant supplements during cancer treatment might interfere with the effectiveness of the treatment. Inform your doctor if starting supplements of any kind. [1]
+
+Antioxidants in food
+One possible reason why many studies on antioxidant supplements do not show a health benefit is because antioxidants tend to work best in combination with other nutrients, plant chemicals, and even other antioxidants.
+For example, a cup of fresh strawberries contains about 80 mg of vitamin C, a nutrient classified as having high antioxidant activity. But a supplement containing 500 mg of vitamin C (667% of the RDA) does not contain the plant chemicals (polyphenols) naturally found in strawberries like proanthocyanins and flavonoids, which also possess antioxidant activity and may team up with vitamin C to fight disease.  Polyphenols also have many other chemical properties besides their ability to serve as antioxidants.  There is a question if a nutrient with antioxidant activity can cause the  opposite  effect with pro-oxidant activity if too much is taken. This is why using an antioxidant supplement with a single isolated substance may not be an effective strategy for everyone.
+Differences in the amount and type of antioxidants in foods versus those in supplements might also influence their effects. For example, there are eight chemical forms of vitamin E present in foods. However, vitamin E supplements typically only include one form, alpha-tocopherol. [1]
+Epidemiological prospective studies show that higher intakes of antioxidant-rich fruits, vegetables, and  legumes  are associated with a lower risk of chronic oxidative stress-related diseases like  cardiovascular diseases , cancer, and deaths from all causes. [30-33] A plant-based diet is believed to protect against chronic oxidative stress-related diseases.  [2] It is not clear if this protective effect is due to the antioxidants, other substances in the foods, or a combination of both. The following are nutrients with antioxidant activity and the foods in which they are found:
+Vitamin C :  Broccoli,  Brussels sprouts , cantaloupe, cauliflower, grapefruit, leafy greens (turnip, mustard, beet, collards), honeydew,  kale , kiwi, lemon, orange, papaya, snow peas, strawberries,  sweet potato , tomatoes, and bell peppers (all colors)
+Vitamin E :  Almonds , avocado, Swiss chard, leafy greens (beet, mustard, turnip), peanuts, red peppers, spinach (boiled), and sunflower seeds
+Carotenoids including  beta-carotene  and lycopene:  Apricots, asparagus, beets, broccoli, cantaloupe, carrots, bell peppers,  kale , mangos, turnip and collard greens, oranges, peaches, pink grapefruit, pumpkin,  winter squash , spinach,  sweet potato , tangerines, tomatoes, and watermelon
+Selenium:  Brazil nuts, fish, shellfish, beef, poultry, barley,  brown rice
+Zinc :  Beef, poultry, oysters, shrimp, sesame seeds, pumpkin seeds,  chickpeas ,  lentils , cashews, fortified cereals
+Phenolic compounds:  Quercetin ( apples , red wine, onions), catechins ( tea ,  cocoa , berries), resveratrol ( red and white wine , grapes, peanuts, berries), coumaric acid (spices, berries), anthocyanins (blueberries, strawberries)
+
+Bottom line on antioxidants and disease prevention
+Excessive free radicals contribute to chronic diseases including cancer, heart disease, cognitive decline, and vision loss. This doesn’t automatically mean that substances with antioxidant properties will fix the problem, especially if they are taken out of their natural context. The studies so far are inconclusive but generally don’t provide strong evidence that antioxidant supplements have a substantial impact on disease. Keep in mind that most of the trials conducted have had fundamental limitations due to their relatively short duration and inclusion of people with existing disease. At the same time, abundant evidence suggests that eating whole in  fruits ,  vegetables , and  whole grains —all rich in networks of naturally occurring antioxidants and their helper molecules—provides protection against many scourges of aging.
+National Center for Complementary and Integrative Health (NCCIH). Antioxidants: In Depth.  https://nccih.nih.gov/health/antioxidants/introduction.htm  Accessed 7/1/19.
+Carlsen MH, Halvorsen BL, Holte K, Bøhn SK, Dragland S, Sampson L, Willey C, Senoo H, Umezono Y, Sanada C, Barikmo I. The total antioxidant content of more than 3100 foods, beverages, spices, herbs and supplements used worldwide.  Nutrition journal . 2010 Dec;9(1):3.
+Semba RD, Ferrucci L, Bartali B, Urpí-Sarda M, Zamora-Ros R, Sun K, Cherubini A, Bandinelli S, Andres-Lacueva C. Resveratrol levels and all-cause mortality in older community-dwelling adults.  JAMA internal medicine . 2014 Jul 1;174(7):1077-84.
+Grodstein F, Kang JH, Glynn RJ, Cook NR, Gaziano JM. A randomized trial of beta carotene supplementation and cognitive function in men: the Physicians’ Health Study II.  Archives of internal medicine . 2007 Nov 12;167(20):2184-90.
+USDA Oxygen Radical Absorbance Capacity (ORAC) of Selected Foods, Release 2 (2010).   http://www.orac-info-portal.de/download/ORAC_R2.pdf  Accessed 7/1/2019.
+Lee IM, Cook NR, Gaziano JM, Gordon D, Ridker PM, Manson JE, Hennekens CH, Buring JE. Vitamin E in the primary prevention of cardiovascular disease and cancer: the Women’s Health Study: a randomized controlled trial.  JAMA . 2005 Jul 6;294(1):56-65.
+Lonn E, Bosch J, Yusuf S, Sheridan P, Pogue J, Arnold JM, Ross C, Arnold A, Sleight P, Probstfield J, Dagenais GR. Effects of long-term vitamin E supplementation on cardiovascular events and cancer: a randomized controlled trial.  JAMA . 2005 Mar;293(11):1338-47.
+GISSI-Prevenzione Investigators. Dietary supplementation with n-3 polyunsaturated fatty acids and vitamin E after myocardial infarction: results of the GISSI-Prevenzione trial.  The Lancet . 1999 Aug 7;354(9177):447-55.
+Milman U, Blum S, Shapira C, Aronson D, Miller-Lotan R, Anbinder Y, Alshiek J, Bennett L, Kostenko M, Landau M, Keidar S. Vitamin E supplementation reduces cardiovascular events in a subgroup of middle-aged individuals with both type 2 diabetes mellitus and the haptoglobin 2-2 genotype: a prospective double-blinded clinical trial.  Arteriosclerosis, thrombosis, and vascular biology . 2008 Feb 1;28(2):341-7.
+Hennekens CH, Buring JE, Manson JE, Stampfer M, Rosner B, Cook NR, Belanger C, LaMotte F, Gaziano JM, Ridker PM, Willett W. Lack of effect of long-term supplementation with beta carotene on the incidence of malignant neoplasms and cardiovascular disease.  New England Journal of Medicine . 1996 May 2;334(18):1145-9.
+Hercberg S, Galan P, Preziosi P, Bertrais S, Mennen L, Malvy D, Roussel AM, Favier A, Briançon S. The SU. VI. MAX Study: a randomized, placebo-controlled trial of the health effects of antioxidant vitamins and minerals.  Archives of internal medicine . 2004 Nov 22;164(21):2335-42.
+Cook NR, Albert CM, Gaziano JM, Zaharris E, MacFadyen J, Danielson E, Buring JE, Manson JE. A randomized factorial trial of vitamins C and E and beta carotene in the secondary prevention of cardiovascular events in women: results from the Women’s Antioxidant Cardiovascular Study.  Archives of internal medicine . 2007 Aug 13;167(15):1610-8.
+Marchese ME, Kumar R, Colangelo LA, Avila PC, Jacobs DR, Gross M, Sood A, Liu K, Cook-Mills JM. The vitamin E isoforms α-tocopherol and γ-tocopherol have opposite associations with spirometric parameters: the CARDIA study.  Respiratory research . 2014 Dec;15(1):31.
+Berdnikovs S, Abdala-Valencia H, McCary C, Somand M, Cole R, Garcia A, Bryce P, Cook-Mills JM. Isoforms of vitamin E have opposing immunoregulatory functions during inflammation by regulating leukocyte recruitment.  The Journal of Immunology . 2009 Apr 1;182(7):4395-405.
+Duffield-Lillico AJ, Reid ME, Turnbull BW, Combs GF, Slate EH, Fischbach LA, Marshall JR, Clark LC. Baseline characteristics and the effect of selenium supplementation on cancer incidence in a randomized clinical trial: a summary report of the Nutritional Prevention of Cancer Trial.  Cancer Epidemiology and Prevention Biomarkers . 2002 Jul 1;11(7):630-9.
+Age-Related Eye Disease Study Research Group. A randomized, placebo-controlled, clinical trial of high-dose supplementation with vitamins C and E, beta carotene, and zinc for age-related macular degeneration and vision loss: AREDS report no. 8.  Archives of ophthalmology . 2001 Oct;119(10):1417.
+Age-Related Eye Disease Study Research Group. A randomized, placebo-controlled, clinical trial of high-dose supplementation with vitamins C and E and beta carotene for age-related cataract and vision loss: AREDS report no. 9.  Archives of Ophthalmology . 2001 Oct;119(10):1439.
+Richer S, Stiles W, Statkute L, Pulido J, Frankowski J, Rudy D, Pei K, Tsipursky M, Nyland J. Double-masked, placebo-controlled, randomized trial of lutein and antioxidant supplementation in the intervention of atrophic age-related macular degeneration: the Veterans LAST study (Lutein Antioxidant Supplementation Trial).  Optometry-Journal of the American Optometric Association . 2004 Apr 1;75(4):216-29.
+Bartlett HE, Eperjesi F. Effect of lutein and antioxidant dietary supplementation on contrast sensitivity in age-related macular disease: a randomized controlled trial.  European journal of clinical nutrition . 2007 Sep;61(9):1121.
+Chew EY, Clemons TE, SanGiovanni JP, Danis RP, Ferris FL, Elman MJ, Antoszyk AN, Ruby AJ, Orth D, Bressler SB, Fish GE. Secondary analyses of the effects of lutein/zeaxanthin on age-related macular degeneration progression: AREDS2 report No. 3.  JAMA ophthalmology . 2014 Feb 1;132(2):142-9.
+Evans JR, Lawrenson JG. Antioxidant vitamin and mineral supplements for slowing the progression of age‐related macular degeneration.  Cochrane Database of Systematic Reviews . 2017(7).
+Christen WG, Glynn RJ, Gaziano JM, Darke AK, Crowley JJ, Goodman PJ, Lippman SM, Lad TE, Bearden JD, Goodman GE, Minasian LM. Age-related cataract in men in the selenium and vitamin e cancer prevention trial eye endpoints study: a randomized clinical trial.  JAMA ophthalmology . 2015 Jan 1;133(1):17-24.
+Kryscio RJ, Abner EL, Caban-Holt A, Lovell M, Goodman P, Darke AK, Yee M, Crowley J, Schmitt FA. Association of antioxidant supplement use and dementia in the prevention of Alzheimer’s disease by vitamin E and selenium trial (PREADViSE).  JAMA neurology . 2017 May 1;74(5):567-73.
+Bjelakovic G, Nikolova D, Gluud LL, Simonetti RG, Gluud C. Mortality in randomized trials of antioxidant supplements for primary and secondary prevention: systematic review and meta-analysis.  JAMA . 2007 Feb 28;297(8):842-57.
+Bjelakovic G, Nikolova D, Gluud LL, Simonetti RG, Gluud C. Antioxidant supplements for prevention of mortality in healthy participants and patients with various diseases.  Cochrane database of systematic reviews . 2012(3).
+Albanes D, Heinonen OP, Taylor PR, Virtamo J, Edwards BK, Rautalahti M, Hartman AM, Palmgren J, Freedman LS, Haapakoski J, Barrett MJ. α-Tocopherol and β-carotene supplements and lung cancer incidence in the Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study: effects of base-line characteristics and study compliance.  JNCI: Journal of the National Cancer Institute . 1996 Nov 6;88(21):1560-70.
+Omenn GS, Goodman GE, Thornquist MD, Balmes J, Cullen MR, Glass A, Keogh JP, Meyskens Jr FL, Valanis B, Williams Jr JH, Barnhart S. Effects of a combination of beta carotene and vitamin A on lung cancer and cardiovascular disease.  New England journal of medicine . 1996 May 2;334(18):1150-5.
+Hercberg S, Ezzedine K, Guinot C, Preziosi P, Galan P, Bertrais S, Estaquio C, Briançon S, Favier A, Latreille J, Malvy D. Antioxidant supplementation increases the risk of skin cancers in women but not in men.  The Journal of nutrition . 2007 Sep 1;137(9):2098-105.
+Klein EA, Thompson IM, Tangen CM, Crowley JJ, Lucia MS, Goodman PJ, Minasian LM, Ford LG, Parnes HL, Gaziano JM, Karp DD. Vitamin E and the risk of prostate cancer: the Selenium and Vitamin E Cancer Prevention Trial (SELECT).  JAMA . 2011 Oct 12;306(14):1549-56.
+Joshipura KJ, Hu FB, Manson JE, Stampfer MJ, Rimm EB, Speizer FE, Colditz G, Ascherio A, Rosner B, Spiegelman D, Willett WC. The effect of fruit and vegetable intake on risk for coronary heart disease.  Annals of internal medicine . 2001 Jun 19;134(12):1106-14.
+Bhupathiraju SN, Wedick NM, Pan A, Manson JE, Rexrode KM, Willett WC, Rimm EB, Hu FB. Quantity and variety in fruit and vegetable intake and risk of coronary heart disease.  The American journal of clinical nutrition . 2013 Oct 2;98(6):1514-23.
+Aune D, Giovannucci E, Boffetta P, Fadnes LT, Keum N, Norat T, Greenwood DC, Riboli E, Vatten LJ, Tonstad S. Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality—a systematic review and dose-response meta-analysis of prospective studies.  International journal of epidemiology . 2017 Jun 1;46(3):1029-56.
+Miller V, Mente A, Dehghan M, Rangarajan S, Zhang X, Swaminathan S, Dagenais G, Gupta R, Mohan V, Lear S, Bangdiwala SI. Fruit, vegetable, and legume intake, and cardiovascular disease and deaths in 18 countries (PURE): a prospective cohort study.  The Lancet . 2017 Nov 4;390(10107):2037-49.
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+#introduction
+#antioxidants benefits
+#antioxidants and disease prevention studies
+#antioxidants in food
+#the bottom line on antioxidants
+https://nutritionsource.hsph.harvard.edu/vitamin-c/
+https://nutritionsource.hsph.harvard.edu/vitamin-e/
+https://nutritionsource.hsph.harvard.edu/vitamin-a/
+https://nutritionsource.hsph.harvard.edu/cancer/
+https://nutritionsource.hsph.harvard.edu/processed-foods/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://nutritionsource.hsph.harvard.edu/carbohydrates/fiber/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/
+https://nutritionsource.hsph.harvard.edu/legumes-pulses/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/vitamin-c/
+https://nutritionsource.hsph.harvard.edu/food-features/brussels-sprouts/
+https://nutritionsource.hsph.harvard.edu/food-features/kale/
+https://nutritionsource.hsph.harvard.edu/food-features/sweet-potatoes/
+https://nutritionsource.hsph.harvard.edu/vitamin-e/
+https://nutritionsource.hsph.harvard.edu/food-features/almonds/
+https://nutritionsource.hsph.harvard.edu/vitamin-a/
+https://nutritionsource.hsph.harvard.edu/food-features/kale/
+https://nutritionsource.hsph.harvard.edu/food-features/winter-squash/
+https://nutritionsource.hsph.harvard.edu/food-features/sweet-potatoes/
+https://nutritionsource.hsph.harvard.edu/food-features/rice/
+https://nutritionsource.hsph.harvard.edu/zinc/
+https://nutritionsource.hsph.harvard.edu/food-features/chickpeas-garbanzo-beans/
+https://nutritionsource.hsph.harvard.edu/food-features/lentils/
+https://nutritionsource.hsph.harvard.edu/food-features/apples/
+https://nutritionsource.hsph.harvard.edu/food-features/tea/
+https://nutritionsource.hsph.harvard.edu/food-features/dark-chocolate/
+https://nutritionsource.hsph.harvard.edu/is-wine-fine-or-beer-better/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/whole-grains/
+https://nccih.nih.gov/health/antioxidants/introduction.htm
+https://nutritionj.biomedcentral.com/articles/10.1186/1475-2891-9-3
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1868537
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/413413
+http://www.orac-info-portal.de/download/ORAC_R2.pdf
+https://jamanetwork.com/journals/jama/article-abstract/201172
+https://europepmc.org/abstract/med/15769967
+https://www.sciencedirect.com/science/article/pii/S0140673699070725
+https://www.ahajournals.org/doi/abs/10.1161/ATVBAHA.107.153965
+https://www.nejm.org/doi/full/10.1056/nejm199605023341801
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/217683
+https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/769855
+https://respiratory-research.biomedcentral.com/articles/10.1186/1465-9921-15-31
+https://www.jimmunol.org/content/182/7/4395.short
+http://cebp.aacrjournals.org/content/11/7/630.short
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1462955/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472812/
+https://www.sciencedirect.com/science/article/pii/S1529183904700494
+https://www.nature.com/articles/1602626
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1788227
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000254.pub4/abstract
+https://jamanetwork.com/journals/jamaophthalmology/article-abstract/1905282
+https://jamanetwork.com/journals/jamaneurology/article-abstract/2612477
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/205797
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007176.pub2/abstract
+https://academic.oup.com/jnci/article-abstract/88/21/1560/928511
+https://www.nejm.org/doi/full/10.1056/nejm199605023341802
+https://academic.oup.com/jn/article-abstract/137/9/2098/4664864
+https://jamanetwork.com/journals/jama/article-abstract/1104493
+http://annals.org/aim/fullarticle/714567
+https://academic.oup.com/ajcn/article-abstract/98/6/1514/4577366
+https://academic.oup.com/ije/article-abstract/46/3/1029/3039477
+https://www.sciencedirect.com/science/article/pii/S0140673617322535

@@ -1,0 +1,55 @@
+Title: Tanzania Food Composition Tables
+
+This comprehensive document provides detailed information on 47 nutrients in over 400 commonly consumed Tanzanian foods and local dishes. Created by a collaborative effort of the Muhimbili University of Health and Allied Sciences, the Tanzania Food and Nutrition Centre, and the Harvard School of Public Health, these food composition tables will be useful to scientists seeking to better understand and analyze Tanzanians’ dietary intake, as well as to nutrition practitioners and food manufacturers seeking to develop healthier recipes and foods. The names of all the foods and dishes have been translated into Kiswahili, French, and Portuguese, to facilitate their wider distribution in sub-Saharan countries.
+September 2023 update from authors
+The Tanzania Food Composition Tables were first launched in 2008. Updated versions of Excel sheets were last uploaded in 2012. However, although there has been no further updated version online, the revision has continued and we hope to have the new version (2nd edition) with more food items, revised and new recipes for local dishes, and revised food portion data base at the beginning of 2024.
+Download the  Tanzania Food Composition Tables   (PDF)
+Download Spreadsheets for Individual Food Groups  (Excel files)
+Cereals:  amino acids ,  macronutrients ,  minerals ,  vitamins
+Fruits and vegetables:  amino acids ,  macronutrients ,  minerals ,  vitamins
+Legumes:  amino acids ,  macronutrients ,  minerals ,  vitamins
+Local broths:  amino acids ,  macronutrients ,  minerals ,  vitamins
+Meat, poultry, fish, and milk:  amino acids ,  macronutrients ,  minerals ,  vitamins
+Miscellaneous foods:  amino acids ,  macronutrients ,  minerals ,  vitamins
+Oils and fats:  amino acids ,  macronutrients ,  minerals ,  vitamins
+Roots, tubers, and banana:  amino acids ,  macronutrients ,  minerals ,  vitamins
+Download  Adult and Children Food Portion Sizes Spreadsheet   (Excel file)
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2023/09/Tanzania-Food-Composition-Tables_Sept-2023-Update.pdf
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/amincereals_090405.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/macrocereals_091101.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/mineralscereals_091101.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/vitamincereals_091101.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/fruitvegamino_090406.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/fruitvegmacro_091101.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/fruitvegmin_090405.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/fruitvegvitamin_0901101.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/legumes_amino_090405.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/legumes-macro_090405.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/legumes_minerals_091101.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/legumes-vitamin_090405.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/brothsamin_090406.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/brothsmacro_090406.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/brothsmine_090406.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/brothsvit_090406.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/milkmeatamino_090406.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/milkmeatmacro_090405.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/milkmeatmineral_090406.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/milkmeatvitam_090405.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/miscellaneousamin_091103.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/miscellaneousmacro_0911063.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/miscellaneousmin_091103.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/miscellaneousvit_091103.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/oilsfatsamino_090406.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/oilsfatsmacro_090406.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/oilsfatsmin_090405.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/oilsfatsvitam_090406.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/rootstuberamino_090405.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/rootstubermacro_090405.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/rootstuberminer_091101.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/rootstubervit_091101.xls
+https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2012/10/adultchildren__portion_data_base09.xls

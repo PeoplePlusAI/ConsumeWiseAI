@@ -1,0 +1,144 @@
+Title: Dairy Allergy vs. Lactose Intolerance: What's the Difference?
+
+Milk is a highly nutritious food that has nourished humans since the domestication of ruminants over 10,000 years ago ( 1 ).
+However, not everyone can enjoy the vast diversity of products offered by the dairy industry, whether due to lactose intolerance or dairy allergy.
+Despite being different conditions, they are frequently confused, which could result in unnecessary dietary restrictions.
+This article explores the main differences between lactose intolerance and dairy allergy.
+
+What is lactose intolerance?
+Lactose intolerance  is a syndrome that occurs because the body cannot digest lactose when consuming lactose-containing foods like dairy ( 2 ,  3 ).
+Lactose is the primary carbohydrate in cow’s milk and, thus, the main carb in an infant’s diet. However, as children grow up and consume less  milk and dairy  — as does the enzyme needed for digesting lactose ( 1 ,  4 ).
+Your body needs the enzyme lactase to digest and absorb lactose in the small intestine to break it into glucose and galactose.
+A reduced lactase activity in the brush border of the small intestine — also known as lactase deficiency —leads to lactose intolerance, one of the most common food intolerances ( 2 ).
+There are four different types of lactase deficiency that lead to lactose intolerance ( 1 ,  2 ):
+Primary lactase deficiency:  The most common type present in 70–75% of the world’s adult population. It is also called lactase non-persistence, and it’s genetically determined. In this case, lactase production declines sharply at around two years, and people may experience symptoms until late adolescence or adulthood.
+Secondary lactase deficiency:  A transitory condition that comes from an injury to the small intestine due to infections, food allergies, or diseases such as Chrons or celiac disease. Treating the cause usually improves lactose tolerance.
+Developmental lactase deficiency:  Common in premature infants because lactase-expressing cells in the small intestine develop later in the third trimester. It lasts for a short time after they are born.
+Congenital lactase deficiency:  An extremely rare hereditary condition in which the small intestine produces little or no lactase enzyme from birth.
+As you can see, most of the global adult population is lactose intolerant after infancy, and only some have developed lactase persistence, in which lactase production continues into adulthood ( 1 ).
+Research suggests that most people with lactose intolerance can tolerate some amount of lactose with minimal to no symptoms.
+Evidence shows they may ingest up to 12 grams of lactose in a single dose — the amount found in 1 cup (240 mL) of milk. Yet, said amount varies considerably ( 1 ,  2 ).
+Therefore, treatment for lactose intolerance focuses mainly on reducing lactose in the diet rather than eliminating it.
+Lactose intolerance is a syndrome that comes from the inability to digest and absorb lactose — the primary carb in milk — due to a reduction in the enzyme lactase.
+
+What is a dairy allergy?
+Dairy allergy or cow’s milk allergy  is one of the most common food allergies. It is also among the most common causes of allergy-induced anaphylaxis, alongside peanut and tree nut allergies ( 2 ,  5 ,  6 ).
+It is an immune-mediated reaction to proteins in cow’s milk. That means the body’s immune system reacts to a specific protein in milk and triggers an immune response that tries to neutralize the triggering protein, which the body perceives as dangerous.
+The next time the body comes in contact with the same protein, the immune system recognizes it and responds again by releasing chemicals known as immune mediators, leading to the appearance of symptoms of cow’s milk allergy ( 5 ,  6 ).
+It is mostly a disease of early childhood that develops during the first year of life, and it has often regressed by age six ( 5 ,  7 )
+Most children with cow’s milk allergies react to both  casein  and whey, two of the main proteins found in milk.
+The treatment consists of a diet free from cow’s milk. As cow’s milk protein can pass through breastmilk, you may also need to avoid dairy products if you are nursing ( 7 ,  8 ,  9 ).
+Dairy allergy or cow’s milk allergy is an immune-mediated reaction to proteins in cow’s milk that may appear during the first year of life and regress by age six.
+
+Symptoms
+Both lactose intolerance and cow’s milk allergy can lead to several digestive and nondigestive symptoms ( 2 ,  9 ).
+While they share some symptoms, others are characteristic of only one or the other.
+Symptoms of lactose intolerance  happen due to bacterial fermentation of undigested lactose in the colon, which primarily leads to digestive symptoms 30 mins to 2 hours after consumption ( 1 ,  2 ).
+In contrast, cow’s milk allergy’s symptoms vary depending on whether they are IgE or non-IgE mediated ( 5 ,  7 ,  10 ):
+IgE-mediated symptoms : Also called rapid-onset symptoms, occur within minutes after ingestion and usually show skin and respiratory reactions and when severe, anaphylaxis.
+Non-IgE-mediated symptoms:  Slow-onset symptoms are predominantly delayed reactions and often involve the skin and digestive tract.
+Both conditions share various digestive symptoms, which is most likely why people confuse the two. They include ( 2 ):
+nausea
+abdominal pain
+diarrhea
+Aside from the ones mentioned above, other digestive symptoms caused by lactose intolerance include flatulence,  constipation , borborygmus or stomach rumbling, and bloating ( 1 ,  2 ,  3 ).
+Yet, lactose intolerance may also lead to nondigestive symptoms in up to 20% of people, including headache, vertigo or dizziness, memory loss, loss of concentration, muscle and joint pain, mouth ulcers, tiredness, and sluggishness ( 2 ,  3 ).
+Symptoms exclusive to cow’s milk allergy primarily affect the respiratory system and skin.
+Some of the most common ones include hives, wheezing, itching around the mouth, swelling of the lips, tongue, or throat, shortness of breath, and vomiting ( 5 ,  9 ).
+Additionally, severe cases may lead to anaphylaxis, a medical emergency that might be fatal if untreated as it may cause your airways to close or blood pressure to drop.
+Lactose intolerance and cow’s milk allergy share some digestive symptoms, such as nausea, abdominal pain, and diarrhea. However, both conditions have their own set of symptoms that affect other bodily systems.
+
+Risk factors
+Some risk factors may increase the chances of developing lactose intolerance or cow’s milk allergy.
+Most humans usually stop producing lactase with age, and only a few can continue to digest lactose throughout their lives ( 1 ,  11 ).
+However, the global distribution and age at which lactase starts declining may vary with ethnicity.
+Evidence on the proportion and onset of lactose intolerance around the world suggests that it may be present in ( 2 ,  3 ):
+more than 50% of people in South America, Africa, and Asia
+up to 100% of people in Asian countries
+children of African, Asian, or Hispanic descent, whose symptoms may begin between 2–3 years of age
+children of European and American descent, whose symptoms may appear between 5–6 years of age or during adolescence
+On the contrary, the frequency of the lactase-persistence trait is higher in northern European populations ( 11 ).
+Unlike lactose intolerance, cow’s milk allergy often disappears at around age 6. Therefore, it is largely limited to children, affecting roughly 1–2% of infants ( 5 ,  12 ).
+Yet, studies have shown that male children with other allergies, such as multiple  food allergies , asthma, atopic dermatitis, and allergic rhinitis, are twice as likely to have cow’s milk allergies ( 6 ).
+Ethnicity may also play a role, with evidence suggesting that non-Hispanic Black and non-Hispanic white children are more likely to develop cow’s milk allergy ( 6 ).
+The main risk factor for lactose intolerance seems to depend on ethnicity. In contrast, risk factors for cow’s milk allergy involve male children with multiple allergies.
+
+Diagnosis
+Being two separate conditions, lactose intolerance and cow’s milk allergy have different diagnostic tests.
+The most common tests used to diagnose lactose intolerance include ( 2 ,  11 ,  12 ):
+Lactose breath test (LBT):  This is the most common form of diagnosis. It is a fast, noninvasive test that measures hydrogen content in the expired air after a lactose load at doses ranging from 20–50 grams administered after 8–12 hours of fasting. Hydrogen levels above 20 parts per million (ppm) are considered positive.
+Lactose tolerance test:  This blood test is the second most common one. It measures the increase of blood sugar after consuming lactose. A failure to raise blood sugar levels above 1.1–1.4 mmol/L suggests that the body could not digest and absorb lactose.
+Genetic test:  A genetic test identifies genetic variations associated with lactase persistence and non-persistence. Yet it is not often performed due to its high cost.
+Intestinal biopsy:  An intestinal biopsy measures the lactase enzyme activity in the intestine. It is also not widely used due to its cost and invasive nature.
+The primary diagnostic tests for cow’s milk allergy include ( 5 ,  6 ,  7 ).
+Double-blind, placebo-controlled oral food challenge:  It’s the gold standard test for food allergies. A professional performs it by providing small doses of the food and gradually increasing the amount until signs of a reaction appear.
+Skin prick test:  This test pricks the skin with a lancet containing a drop of the allergen. A wheal at least 3 mm larger than the negative control is considered positive. False positives may occur though and are best evaluated by an allergist/immunologist.
+Specific serum IgE:  This test measures the amount of IgE in your blood, which would cause a reaction when coming in contact with milk proteins. However, it only predicts the likelihood of reaction, but it is not sufficient for a diagnosis on its own because it frequently leads to false positives.
+Lactose intolerance and cow’s milk allergy have various diagnostic methods that range from minimally to highly invasive.
+
+The bottom line
+Lactose intolerance and cow’s milk allergy are two different conditions caused by dairy intake.
+Lactose intolerance is a carbohydrate intolerance caused by the body’s inability to digest lactose, whereas cow’s milk allergy is an immune reaction to the proteins found in milk.
+Though they may share symptoms like  nausea , diarrhea, and abdominal pain, lactose intolerance, and cow’s milk allergy have different effects on the body and different treatment protocols.
+Try this today:  Whether you limit your milk intake due to lactose intolerance or milk allergy, be sure to include other food sources of calcium in your diet, such as dark green leafy vegetables, legumes, and bony fish.
+
+References:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586535/
+https://www.healthline.com/health/lactose-intolerance
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6265758
+https://www.healthline.com/nutrition/is-dairy-bad-or-good
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586535/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/26715083/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586535/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586535/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586535/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.healthline.com/health/allergies/milk
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.ncbi.nlm.nih.gov/books/NBK542243/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566637/
+https://www.ncbi.nlm.nih.gov/books/NBK542243/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566637/
+https://www.ncbi.nlm.nih.gov/books/NBK542243/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4298661/
+https://www.healthline.com/nutrition/what-is-casein
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4298661/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5109783/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4979917/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4979917/
+https://www.healthline.com/nutrition/lactose-intolerance-symptoms
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586535/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.ncbi.nlm.nih.gov/books/NBK542243/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4298661/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6627562/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.healthline.com/health/constipation
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586535/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6265758/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6265758/
+https://www.ncbi.nlm.nih.gov/books/NBK542243/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4979917/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586535/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586575/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6265758/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586575/
+https://www.ncbi.nlm.nih.gov/books/NBK542243/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6316316/
+https://www.healthline.com/nutrition/common-food-allergies
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566637/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566637/
+https://www.healthline.comhttps://pubmed.ncbi.nlm.nih.gov/30783042/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586575/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6316316/
+https://www.ncbi.nlm.nih.gov/books/NBK542243/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566637/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4298661/
+https://www.healthline.com/health/nausea

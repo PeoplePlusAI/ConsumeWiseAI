@@ -1,0 +1,33 @@
+Title: Saturated fat, regardless of type, linked with increased heart disease risk
+
+A study published in the November issue of the  British Medical Journal  revealed findings that, at first glance, are not that surprising: Saturated fat in the diet is associated with an increased risk of  heart disease . (1) However, the study offers a unique twist by teasing out the effects of different types of  saturated fatty  acids  (SFAs) . Recent articles have attempted to exonerate saturated fat from its long time connection with heart disease, questioning if certain types of SFAs may have a weaker effect on raising blood cholesterol.
+Butter, cheese, red meat, and full-fat dairy are high in  saturated fat . Some plant-based fats like coconut and palm oil are also rich in saturated fat. However, all of these foods differ slightly in their relative proportions of individual SFAs. Commonly eaten SFAs include lauric, myristic, palmitic, and stearic.  Coconut oil  is richest in lauric acid, whereas butter is highest in palmitic acid; both contain smaller amounts of the other fatty acids.
+The BMJ study examined the associations of individual and combined SFA intake (lauric acid, myristic acid, palmitic acid, and stearic acid) with heart disease risk in more than 73,000 women from the  Nurses’ Health Study  and 42,000 men from the  Health Professionals Follow-Up Study . Additionally, the researchers estimated the effects of replacing 1% of daily calories from these fatty acids with the same amount of calories from polyunsaturated fat, monounsaturated fat, whole grain carbohydrates, and plant proteins. There was an 18% greater risk of heart disease in the group consuming the highest amounts of SFAs compared with the group consuming the least, with palmitic acid and stearic acid showing the highest risk. When replacing intake of individual SFAs, the greatest risk reduction was seen when replacing palmitic acid (found in palm oil, fatty cuts of red meat, and dairy fat) with plant proteins or polyunsaturated fat, with an 11% and 12% risk reduction, respectively.
+We talked with senior author  Qi Sun , an assistant professor in the Department of Nutrition at the Harvard T.H. Chan School of Public Health, about the study.
+What prompted the unique design of this study that distinguishes the effects of individual SFAs on heart disease risk? In other words, do different SFAs have different effects on the heart?
+In 2003, Mensink et al. published an important meta-analysis at American Journal of Clinical Nutrition, in which the authors summarized data from clinical trials that examined the effects of  individual SFAs on blood lipids. The results clearly demonstrated that, in comparison with  carbohydrates , lauric acid, myristic acid, and palmitic acid raised low-density lipoprotein (LDL) cholesterol, whereas the effects of stearic acid were largely neutral. (2) This study inspired us to conduct this analysis in the well-established Nurses’ Health Study and Health Professionals Follow-up Study, to evaluate whether these individual SFAs were differentially associated with heart disease risk. Of note, this work is an extension of an earlier analysis in the Nurses’ Health Study led by Dr. Frank Hu that tested the same associations. (3) In the current analysis, we included both women and men, and we also evaluated substitution effects of healthy macronutrients for SFAs.
+This study found that replacing palmitic acid with other nutrients was associated with the lowest risk of heart disease. The general public may be familiar with the term saturated fat but not with palmitic acid or the other fatty acids mentioned in the study. With this awareness and based on your findings, what message would you like to convey to readers who wish to lower their risk of heart disease through diet?
+In the US diet, these SFAs are from some common food sources, such as full-fat dairy, red meats, animal fats, and tropical oils. Therefore, people can lower their intake of these individual SFAs by reducing consumption of those foods high in saturated fats. Our data showed the benefits of switching from saturated fats to  healthy polyunsaturated fats ,  whole grain carbohydrates , and  plant-based proteins .
+Your data suggest that heart disease risk was not as significantly influenced by lauric acid, which is the abundant fatty acid found in coconut oil. Is it possible that certain foods like these may be included as part of an overall heart-healthy diet even though they are technically high in saturated fat?
+In diets such as that of our participants, intake of lauric acid is much lower than palmitic acid and stearic acid. This could be the primary reason that we didn’t observe clear associations for this SFA. In clinical trials, the effects of lauric acid on raising LDL are the strongest. (2) Therefore, although small amounts of coconut oil are unlikely to be a problem, it is not desirable to include tropical oils such as coconut oil as a primary source of dietary fat.
+Related
+Saturated or not: Does type of fat matter?
+Consuming high amounts of saturated fats linked to increased heart disease risk  –  HSPH News
+References
+Zong, G., Li, Y., Wanders, A.J., Alssema, M., Zock, P.L., Willett, W.C., Hu, F.B., Sun, Q. Intake of individual saturated fatty acids and risk of coronary heart disease in US men and women: two prospective longitudinal cohort studies  BMJ.  2016;355:i5796.
+Mensink, R.P., Zock P.L., Kester, A.D., Katan, M.B. Effects of dietary fatty acids and carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 controlled trials.  Am J Clin Nutr.  2003;77:1146-55.
+Hu, F.B., J.E. Manson, Willett, W.C. Types of dietary fat and risk of coronary heart disease: a critical review . J Am Coll Nutr , 2001;20(1): p. 5-19.
+
+References:
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/cvd-risk-factors/
+https://nutritionsource.hsph.harvard.edu/types-of-fat/
+https://nutritionsource.hsph.harvard.edu/food-features/coconut-oil/
+https://nutritionsource.hsph.harvard.edu/nurses-health-study/
+https://nutritionsource.hsph.harvard.edu/nurses-health-study/
+https://www.hsph.harvard.edu/qi-sun/
+https://nutritionsource.hsph.harvard.edu/carbohydrates/
+https://nutritionsource.hsph.harvard.edu/types-of-fat/
+https://nutritionsource.hsph.harvard.edu/whole-grains/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/
+https://nutritionsource.hsph.harvard.edu/2014/05/15/saturated-or-not-does-type-of-fat-matter/
+https://www.hsph.harvard.edu/news/press-releases/saturated-fats-increased-heart-disease-risk/

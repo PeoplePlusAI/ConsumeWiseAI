@@ -1,0 +1,85 @@
+Title: Vitamin C
+
+Is a glass of OJ or vitamin C tablets your go-to when the sniffles come? Loading up on this vitamin was a practice spurred by Linus Pauling in the 1970s, a double Nobel laureate and self-proclaimed champion of vitamin C who promoted daily megadoses (the amount in 12 to 24 oranges) as a way to prevent colds and some chronic diseases.
+Vitamin C, or ascorbic acid, is a water-soluble vitamin. This means that it dissolves in water and is delivered to the body’s tissues but is not well stored, so it must be taken daily through food or supplements. Even before its discovery in 1932, nutrition experts recognized that something in citrus fruits could prevent scurvy, a disease that killed as many as two million sailors between 1500 and 1800. [1]
+Vitamin C plays a role in controlling infections and healing wounds, and is a powerful antioxidant that can neutralize harmful free radicals. It is needed to make  collagen , a fibrous protein in connective tissue that is weaved throughout various systems in the body: nervous, immune, bone, cartilage, blood, and others. The vitamin helps make several hormones and chemical messengers used in the brain and nerves. [2]
+While megadosing on this vitamin is not uncommon, how much is an optimum amount needed to keep you healthy, and could taking too much be counterproductive?
+
+Recommended Amounts
+RDA:   The Recommended Dietary Allowance for adults 19 years and older is 90 mg daily for men and 75 mg for women. For pregnancy and lactation, the amount increases to 85 mg and 120 mg daily, respectively. Smoking can deplete vitamin C levels in the body, so an additional 35 mg beyond the RDA is suggested for smokers.
+UL:    The Tolerable Upper Intake Level is the maximum daily intake unlikely to cause harmful effects on health. The UL for vitamin C is 2000 mg daily; taking beyond this amount may promote gastrointestinal distress and diarrhea. Only in specific scenarios, such as under medical supervision or in controlled clinical trials, amounts higher than the UL are sometimes used. [2]
+Vitamin C absorption and megadosing
+
+Vitamin C and Health
+There is interest in the antioxidant role of vitamin C, as research has found the vitamin to neutralize free radical molecules, which in excess can damage cells. Vitamin C is also involved in the body’s immune system by stimulating the activity of white blood cells. Does this translate to protection from certain diseases?
+Although some epidemiological studies that follow large groups of people over time have found a protective effect of higher intakes of vitamin C (from food or supplements) from  cardiovascular disease  and certain cancers, other studies have not. Randomized controlled trials have not found a benefit of vitamin C supplements on the prevalence of cardiovascular disease or cancer. The inconsistency of the data overall prevents the establishment of a specific vitamin C recommendation above the RDA for these conditions. [2]
+Vitamin C has also been theorized to protect from eye diseases like cataracts and macular degeneration. Human studies using vitamin C supplements have not shown a consistent benefit, though there appears to be a strong association between a high daily intake of fruit and vegetables and decreased risk of cataracts. [4]
+Despite being a popular fix, vitamin C’s cold-fighting potential hasn’t panned out. Reviews of several studies show that megadoses (greater than 500 mg daily) of supplemental vitamin C have no significant effect on the common cold, but may provide a moderate benefit in decreasing the duration and severity of colds in some groups of people. [2] Small trials suggest that the amount of vitamin C in a typical multivitamin taken at the start of a cold might ease symptoms, but for the average person, there is no evidence that megadoses make a difference, or that they prevent colds. [5]
+The Physicians’ Health Study II, a randomized, double-blind, placebo-controlled trial of more than 14,000 male physicians, found a modestly reduced risk of new gout cases in men who took vitamin C supplements of 500 mg daily for up to 10 years. [6] Other short-term trials have found that vitamin C may lower blood levels of uric acid, a substance that can lead to gout if there is too much in the body.
+
+Food Sources
+Fruits and vegetables  are the best sources of this vitamin.
+Citrus (oranges, lemon, grapefruit)
+Bell peppers
+Strawberries, Kiwi
+Tomatoes
+Cruciferous vegetables (broccoli,  Brussels sprouts , cabbage, cauliflower)
+White potatoes
+
+Signs of Deficiency
+Vitamin C deficiency is rare in developed countries but may occur with a limited diet that provides less than 10 mg daily for one month or longer. In developed countries, situations at greatest risk for deficiency include eating a diet restricted in fruits and vegetables, smoking or long-term exposure to secondhand smoke, and drug and alcohol abuse. The following are the most common signs of a deficiency.
+Scurvy, the hallmark disease of severe vitamin C deficiency, displays symptoms resulting from loss of collagen that weakens connective tissues:
+ 
+ Skin spots caused by bleeding and bruising from broken blood vessels 
+
+
+
+ Swelling or bleeding of gums, and eventual loss of teeth 
+
+
+
+ Hair loss 
+
+
+
+ Delayed healing of skin wounds
+Skin spots caused by bleeding and bruising from broken blood vessels
+Swelling or bleeding of gums, and eventual loss of teeth
+Hair loss
+Delayed healing of skin wounds
+Fatigue, malaise
+Iron-deficiency anemia  due to decreased absorption of non-heme iron
+
+Did You Know?
+Vitamin C improves the absorption of  non-heme iron , the type of iron found in plant foods such as leafy greens. Drinking a small glass of 100%  fruit juice  or including a vitamin-C-rich food with meals can help boost iron absorption.
+Vitamin C can be destroyed by heat and light. High-heat cooking temperatures or prolonged cook times can break down the vitamin. Because it is water-soluble, the vitamin can also seep into cooking liquid and be lost if the liquids are not eaten. Quick heating methods or using as little water as possible when cooking, such as stir-frying or blanching, can preserve the vitamin. Foods at peak ripeness eaten raw contain the most vitamin C.
+Vitamin C serums and skin creams are popular because normal skin typically contains high concentrations of vitamin C, which stimulates collagen production and protects against damage from UV sunlight. However, research suggests that topical vitamin C may have limited benefits, as very little can penetrate the skin’s surface and will not produce additional benefit if a person obtains adequate vitamin C through food or supplements. [7]
+
+Related
+Vitamins and Minerals
+Carpenter KJ. The history of scurvy and vitamin C. Cambridge: Cambridge University Press, 1986.
+Institute of Medicine (US) Panel on Dietary Antioxidants and Related Compounds.  Dietary Reference Intakes for Vitamin C, Vitamin E, Selenium, and Carotenoids . Washington (DC): National Academies Press (US); 2000.
+Poljšak B, Ionescu JG. Pro-oxidant vs. antioxidant effects of vitamin C.  Handbook of Vitamin C Research: Daily Requirements, Dietary Sources and Adverse Effects  (pp.153-183). January 2009. Nova Science Publishers, Inc.
+Huang G, Wu L, Qiu L, Lai J, Huang Z, Liao L. Association between vegetables consumption and the risk of age-related cataract: a meta-analysis.  Int J Clin Exp Med . 2015 Oct 15;8(10):18455-61.
+Douglas RM, Hemila H, Chalker E, Treacy B. Vitamin C for preventing and treating the common cold.  Cochrane Database Syst Rev . 2007:CD000980.
+Juraschek SP, Gaziano JM, Glynn RJ, Gomelskaya N, Bubes VY, Buring JE, Shmerling RH, Sesso HD. Effects of vitamin C supplementation on gout risk: results from the Physicians’ Health Study II trial.  The American Journal of Clinical Nutrition . 2022 Sep;116(3):812-9.
+Pullar JM, Carr AC, Vissers MC. The roles of vitamin C in skin health.  Nutrients . 2017 Aug 12;9(8):866.
+Last reviewed March 2023
+Terms of Use
+The contents of this website are for educational purposes and are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. The Nutrition Source does not recommend or endorse any products.
+
+References:
+
+https://nutritionsource.hsph.harvard.edu/collagen/
+https://nutritionsource.hsph.harvard.edu/disease-prevention/cardiovascular-disease/
+https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+https://nutritionsource.hsph.harvard.edu/food-features/brussels-sprouts/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/iron/
+https://nutritionsource.hsph.harvard.edu/healthy-drinks/drinks-to-consume-in-moderation/
+https://nutritionsource.hsph.harvard.edu/vitamins/
+https://www.ncbi.nlm.nih.gov/books/NBK225480/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4694352/
+https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000980.pub2/abstract
+https://academic.oup.com/ajcn/article-abstract/116/3/812/6586333
+https://www.mdpi.com/215986
